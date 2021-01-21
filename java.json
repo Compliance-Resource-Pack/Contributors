@@ -205,7 +205,11 @@
     "path": "minecraft/textures/block/acacia_log_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/acacia_planks.png"
   },
@@ -517,7 +521,11 @@
     "path": "minecraft/textures/block/birch_log_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/birch_planks.png"
   },
@@ -1242,7 +1250,11 @@
     "path": "minecraft/textures/block/crimson_nylium_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/crimson_planks.png"
   },
@@ -1394,7 +1406,11 @@
     "path": "minecraft/textures/block/dark_oak_log_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/dark_oak_planks.png"
   },
@@ -2324,7 +2340,11 @@
     "path": "minecraft/textures/block/jungle_log_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/jungle_planks.png"
   },
@@ -2850,7 +2870,11 @@
     "path": "minecraft/textures/block/oak_log_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/oak_planks.png"
   },
@@ -3856,7 +3880,11 @@
     "path": "minecraft/textures/block/spruce_log_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/spruce_planks.png"
   },
@@ -3871,7 +3899,11 @@
     "path": "minecraft/textures/block/spruce_trapdoor.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/stone.png"
   },
@@ -4236,7 +4268,11 @@
     "path": "minecraft/textures/block/warped_nylium_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/warped_planks.png"
   },
@@ -4668,17 +4704,29 @@
     "path": "minecraft/textures/entity/armorstand/wood.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/axolotl/axolotl_blue.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/axolotl/axolotl_cyan.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/axolotl/axolotl_gold.png"
   },
@@ -4692,7 +4740,11 @@
     "path": "minecraft/textures/entity/axolotl/axolotl_lucy.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/axolotl/axolotl_wild.png"
   },
@@ -8047,8 +8099,7 @@
         "Alexsor#0901",
         "verisimal#3136",
         "BellPepperBrian#0001"
-      ],
-      "date": "12/04/2020"
+      ]
     },
     "c64": {},
     "path": "minecraft/textures/gui/icons.png"
@@ -10149,7 +10200,11 @@
     "path": "minecraft/textures/item/diamond_shovel.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "FabriXd#8017"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/diamond_sword.png"
   },
@@ -10621,7 +10676,11 @@
     "path": "minecraft/textures/item/iron_shovel.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "FabriXd#8017"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/iron_sword.png"
   },
@@ -11433,7 +11492,11 @@
     "path": "minecraft/textures/item/stone_shovel.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "FabriXd#8017"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/stone_sword.png"
   },
@@ -11631,7 +11694,11 @@
     "path": "minecraft/textures/item/wooden_shovel.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "FabriXd#8017"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/wooden_sword.png"
   },
