@@ -969,7 +969,12 @@
       ],
       "date": "01/09/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "Po3stell3d#1426"
+      ],
+      "date": "01/22/2021"
+    },
     "path": "minecraft/textures/block/chain_command_block_back.png"
   },
   {
@@ -1770,7 +1775,11 @@
     "path": "minecraft/textures/block/dried_kelp_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/dripstone_block.png"
   },
@@ -2334,7 +2343,12 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "Harag0nMC#1897"
+      ],
+      "date": "01/22/2021"
+    },
     "path": "minecraft/textures/block/jungle_log.png"
   },
   {
@@ -3088,32 +3102,56 @@
     "path": "minecraft/textures/block/podzol_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pointed_dripstone_down_base.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pointed_dripstone_down_frustum.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pointed_dripstone_down_middle.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pointed_dripstone_down_tip.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pointed_dripstone_down_tip_merge.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pointed_dripstone_up_base.png"
   },
@@ -3936,7 +3974,12 @@
     "path": "minecraft/textures/block/stonecutter_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "ESV#1972"
+      ],
+      "date": "01/22/2021"
+    },
     "c64": {},
     "path": "minecraft/textures/block/stone_bricks.png"
   },
@@ -10401,7 +10444,12 @@
     "path": "minecraft/textures/item/flower_banner_pattern.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "verisimal#3136"
+      ],
+      "date": "01/22/2021"
+    },
     "c64": {},
     "path": "minecraft/textures/item/flower_pot.png"
   },
@@ -11074,7 +11122,12 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "Harag0nMC#1897"
+      ],
+      "date": "01/22/2021"
+    },
     "path": "minecraft/textures/item/netherite_sword.png"
   },
   {
