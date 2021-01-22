@@ -3156,22 +3156,38 @@
     "path": "minecraft/textures/block/pointed_dripstone_up_base.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pointed_dripstone_up_frustum.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pointed_dripstone_up_middle.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pointed_dripstone_up_tip.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pointed_dripstone_up_tip_merge.png"
   },
@@ -11216,7 +11232,11 @@
     "path": "minecraft/textures/item/pink_dye.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/pointed_dripstone.png"
   },
