@@ -170,23 +170,36 @@
     "path": "realms/textures/gui/title/realms.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/acacia_door_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/acacia_door_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/acacia_leaves.png"
   },
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Alexsor#0901"
       ],
       "date": "12/18/2020"
@@ -197,6 +210,7 @@
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "Alexsor#0901"
       ],
       "date": "12/18/2020"
@@ -214,7 +228,11 @@
     "path": "minecraft/textures/block/acacia_planks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/acacia_sapling.png"
   },
@@ -224,17 +242,29 @@
     "path": "minecraft/textures/block/acacia_trapdoor.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/activator_rail.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/activator_rail_on.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/allium.png"
   },
@@ -257,23 +287,36 @@
     "path": "minecraft/textures/block/amethyst_cluster.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/ancient_debris_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/ancient_debris_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/andesite.png"
   },
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Pythagoras_314#5176"
       ],
       "date": "01/01/2021"
@@ -284,6 +327,7 @@
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Pythagoras_314#5176"
       ],
       "date": "01/01/2021"
@@ -297,12 +341,20 @@
     "path": "minecraft/textures/block/attached_melon_stem.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/attached_pumpkin_stem.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/azure_bluet.png"
   },
@@ -334,6 +386,7 @@
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "Nyodex#9593"
       ],
       "date": "12/11/2020"
@@ -374,23 +427,36 @@
     "path": "minecraft/textures/block/barrel_top_open.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/basalt_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/basalt_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        ""
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/beacon.png"
   },
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Pomik108#1378"
       ],
       "date": "01/01/2021"
@@ -419,22 +485,38 @@
     "path": "minecraft/textures/block/beehive_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/beetroots_stage0.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/beetroots_stage1.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/beetroots_stage2.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/beetroots_stage3.png"
   },
@@ -494,23 +576,37 @@
     "path": "minecraft/textures/block/bell_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/birch_door_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/birch_door_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/birch_leaves.png"
   },
   {
     "c32": {
       "author": [
+        "Hozz#0889",
+        "Harag0nMC#1897",
         "Alexsor#0901"
       ],
       "date": "12/18/2020"
@@ -521,6 +617,7 @@
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "Cyberization#3598"
       ],
       "date": "12/18/2020"
@@ -538,7 +635,11 @@
     "path": "minecraft/textures/block/birch_planks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Fractalis#9059"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/birch_sapling.png"
   },
@@ -548,17 +649,29 @@
     "path": "minecraft/textures/block/birch_trapdoor.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/blackstone.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/blackstone_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/black_candle.png"
   },
@@ -603,27 +716,47 @@
     "path": "minecraft/textures/block/black_wool.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/blast_furnace_front.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/blast_furnace_front_on.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/blast_furnace_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/blast_furnace_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/blue_candle.png"
   },
@@ -648,7 +781,11 @@
     "path": "minecraft/textures/block/blue_ice.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/blue_orchid.png"
   },
@@ -678,12 +815,20 @@
     "path": "minecraft/textures/block/blue_wool.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/bone_block_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/bone_block_top.png"
   },
@@ -728,12 +873,20 @@
     "path": "minecraft/textures/block/brewing_stand_base.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/bricks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/brown_candle.png"
   },
@@ -813,42 +966,74 @@
     "path": "minecraft/textures/block/bubble_coral_fan.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Saarlodrie_#7144"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/budding_amethyst.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cactus_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cactus_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cactus_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cake_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cake_inner.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cake_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cake_top.png"
   },
@@ -888,7 +1073,12 @@
     "path": "minecraft/textures/block/campfire_log_lit.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378",
+        "Redcoke26#4978"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/candle.png"
   },
@@ -938,22 +1128,38 @@
     "path": "minecraft/textures/block/carved_pumpkin.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cauldron_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cauldron_inner.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cauldron_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cauldron_top.png"
   },
@@ -971,6 +1177,7 @@
     },
     "c64": {
       "author": [
+        "jogurciQ#7641",
         "Po3stell3d#1426"
       ],
       "date": "01/22/2021"
@@ -980,6 +1187,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Po3stell3d#1426"
       ],
       "date": "01/09/2021"
@@ -990,6 +1198,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Po3stell3d#1426"
       ],
       "date": "01/09/2021"
@@ -1000,6 +1209,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Po3stell3d#1426"
       ],
       "date": "01/09/2021"
@@ -1013,7 +1223,11 @@
     "path": "minecraft/textures/block/chipped_anvil_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "PeJohn#4519"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/chiseled_nether_bricks.png"
   },
@@ -1023,27 +1237,47 @@
     "path": "minecraft/textures/block/chiseled_polished_blackstone.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "PeJohn#4519"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/chiseled_quartz_block.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "PeJohn#4519"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/chiseled_quartz_block_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/chiseled_red_sandstone.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/chiseled_sandstone.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "PeJohn#4519"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/chiseled_stone_bricks.png"
   },
@@ -1073,7 +1307,11 @@
     "path": "minecraft/textures/block/coal_block.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/coal_ore.png"
   },
@@ -1083,33 +1321,54 @@
     "path": "minecraft/textures/block/coarse_dirt.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cobblestone.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cobweb.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cocoa_stage0.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cocoa_stage1.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cocoa_stage2.png"
   },
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Po3stell3d#1426"
       ],
       "date": "01/09/2021"
@@ -1120,6 +1379,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Po3stell3d#1426"
       ],
       "date": "01/09/2021"
@@ -1130,6 +1390,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Po3stell3d#1426"
       ],
       "date": "01/09/2021"
@@ -1140,6 +1401,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Po3stell3d#1426"
       ],
       "date": "01/09/2021"
@@ -1198,7 +1460,11 @@
     "path": "minecraft/textures/block/copper_ore.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cornflower.png"
   },
@@ -1208,7 +1474,11 @@
     "path": "minecraft/textures/block/cracked_nether_bricks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cracked_polished_blackstone_bricks.png"
   },
@@ -1218,17 +1488,29 @@
     "path": "minecraft/textures/block/cracked_stone_bricks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/crafting_table_front.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/crafting_table_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/crafting_table_top.png"
   },
@@ -1298,7 +1580,11 @@
     "path": "minecraft/textures/block/crimson_stem_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "PeJohn#4519"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/crimson_trapdoor.png"
   },
@@ -1319,17 +1605,29 @@
     "path": "minecraft/textures/block/cut_copper.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cut_red_sandstone.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cut_sandstone.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/cyan_candle.png"
   },
@@ -1379,28 +1677,45 @@
     "path": "minecraft/textures/block/damaged_anvil_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/dandelion.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/dark_oak_door_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/dark_oak_door_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/dark_oak_leaves.png"
   },
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Alexsor#0901"
       ],
       "date": "12/18/2020"
@@ -1411,6 +1726,7 @@
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "Alexsor#0901"
       ],
       "date": "12/18/2020"
@@ -1428,7 +1744,11 @@
     "path": "minecraft/textures/block/dark_oak_planks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Saarlodrie_#7144"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/dark_oak_sapling.png"
   },
@@ -1448,17 +1768,29 @@
     "path": "minecraft/textures/block/dark_prismarine.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/daylight_detector_inverted_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/daylight_detector_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/daylight_detector_top.png"
   },
@@ -1673,23 +2005,36 @@
     "path": "minecraft/textures/block/destroy_stage_9.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/detector_rail.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/detector_rail_on.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/diamond_block.png"
   },
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Cyberization#3598"
       ],
       "date": "12/18/2020"
@@ -1698,13 +2043,18 @@
     "path": "minecraft/textures/block/diamond_ore.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/diorite.png"
   },
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "Pomik108#1378",
         "Po3stell3d#1426"
       ],
@@ -1725,7 +2075,11 @@
     "path": "minecraft/textures/block/dirt_path_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/dirt_path_top.png"
   },
@@ -1799,7 +2153,11 @@
     "path": "minecraft/textures/block/emerald_block.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "fyr02#8507"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/emerald_ore.png"
   },
@@ -1819,17 +2177,29 @@
     "path": "minecraft/textures/block/enchanting_table_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/end_portal_frame_eye.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/end_portal_frame_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/end_portal_frame_top.png"
   },
@@ -1844,7 +2214,11 @@
     "path": "minecraft/textures/block/end_stone.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/end_stone_bricks.png"
   },
@@ -1871,7 +2245,11 @@
     "path": "minecraft/textures/block/farmland_moist.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "AxiosTV#5153"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/fern.png"
   },
@@ -1891,7 +2269,11 @@
     "path": "minecraft/textures/block/fire_coral.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/fire_coral_block.png"
   },
@@ -1951,27 +2333,47 @@
     "path": "minecraft/textures/block/frosted_ice_3.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/furnace_front.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/furnace_front_on.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/furnace_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/furnace_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "PeJohn#4519"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/gilded_blackstone.png"
   },
@@ -1986,7 +2388,11 @@
     "path": "minecraft/textures/block/glass_pane_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/glowstone.png"
   },
@@ -2001,22 +2407,38 @@
     "path": "minecraft/textures/block/glow_lichen.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/gold_block.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/gold_ore.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/granite.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/grass.png"
   },
@@ -2032,18 +2454,27 @@
     "path": "minecraft/textures/block/grass_block_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/grass_block_side_overlay.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/grass_block_snow.png"
   },
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Hozz#0889"
       ],
       "date": "12/11/2020"
@@ -2052,12 +2483,20 @@
     "path": "minecraft/textures/block/grass_block_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/gravel.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/gray_candle.png"
   },
@@ -2102,7 +2541,11 @@
     "path": "minecraft/textures/block/gray_wool.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/green_candle.png"
   },
@@ -2147,17 +2590,29 @@
     "path": "minecraft/textures/block/green_wool.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/grindstone_pivot.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/grindstone_round.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/grindstone_side.png"
   },
@@ -2192,17 +2647,29 @@
     "path": "minecraft/textures/block/honey_block_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/hopper_inside.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/hopper_outside.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/hopper_top.png"
   },
@@ -2249,6 +2716,7 @@
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "Harag0nMC#1897"
       ],
       "date": "01/01/2021"
@@ -2259,6 +2727,7 @@
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "Harag0nMC#1897"
       ],
       "date": "01/01/2021"
@@ -2269,6 +2738,7 @@
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Cyberization#3598"
       ],
       "date": "12/18/2020"
@@ -2284,6 +2754,7 @@
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Nyodex#9593"
       ],
       "date": "12/11/2020"
@@ -2292,7 +2763,11 @@
     "path": "minecraft/textures/block/item_frame.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/jack_o_lantern.png"
   },
@@ -2312,17 +2787,29 @@
     "path": "minecraft/textures/block/jigsaw_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/jigsaw_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/jukebox_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/jukebox_top.png"
   },
@@ -2337,7 +2824,11 @@
     "path": "minecraft/textures/block/jungle_door_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/jungle_leaves.png"
   },
@@ -2345,6 +2836,7 @@
     "c32": {},
     "c64": {
       "author": [
+        "Hozz#0889",
         "Harag0nMC#1897"
       ],
       "date": "01/22/2021"
@@ -2354,6 +2846,7 @@
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "Alexsor#0901"
       ],
       "date": "12/18/2020"
@@ -2371,7 +2864,11 @@
     "path": "minecraft/textures/block/jungle_planks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/jungle_sapling.png"
   },
@@ -2386,22 +2883,38 @@
     "path": "minecraft/textures/block/kelp.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/kelp_plant.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/ladder.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "BellPepperBrian#0001"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/lantern.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/lapis_block.png"
   },
@@ -2416,12 +2929,20 @@
     "path": "minecraft/textures/block/large_amethyst_bud.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "KulenFlulen#3722"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/large_fern_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "KulenFlulen#3722"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/large_fern_top.png"
   },
@@ -2486,7 +3007,11 @@
     "path": "minecraft/textures/block/lightning_rod.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/light_blue_candle.png"
   },
@@ -2531,7 +3056,11 @@
     "path": "minecraft/textures/block/light_blue_wool.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/light_gray_candle.png"
   },
@@ -2576,12 +3105,20 @@
     "path": "minecraft/textures/block/light_gray_wool.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/lilac_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/lilac_top.png"
   },
@@ -2591,12 +3128,20 @@
     "path": "minecraft/textures/block/lily_of_the_valley.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/lily_pad.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/lime_candle.png"
   },
@@ -2641,12 +3186,20 @@
     "path": "minecraft/textures/block/lime_wool.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/lodestone_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/lodestone_top.png"
   },
@@ -2671,7 +3224,11 @@
     "path": "minecraft/textures/block/loom_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/magenta_candle.png"
   },
@@ -2726,7 +3283,11 @@
     "path": "minecraft/textures/block/medium_amethyst_bud.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/melon_side.png"
   },
@@ -2736,12 +3297,20 @@
     "path": "minecraft/textures/block/melon_stem.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/melon_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/mossy_cobblestone.png"
   },
@@ -2751,7 +3320,11 @@
     "path": "minecraft/textures/block/mossy_stone_bricks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/mushroom_block_inside.png"
   },
@@ -2763,6 +3336,7 @@
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "Pomik108#1378",
         "Po3stell3d#1426"
       ],
@@ -2777,7 +3351,11 @@
     "path": "minecraft/textures/block/mycelium_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "PeJohn#4519"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/netherite_block.png"
   },
@@ -2792,7 +3370,11 @@
     "path": "minecraft/textures/block/netherrack.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/nether_bricks.png"
   },
@@ -2814,6 +3396,7 @@
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "CLtheman1#9145"
       ],
       "date": "01/19/2021"
@@ -2822,7 +3405,11 @@
     "path": "minecraft/textures/block/nether_quartz_ore.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Adrien_Sama#4001"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/nether_sprouts.png"
   },
@@ -2837,43 +3424,72 @@
     "path": "minecraft/textures/block/nether_wart_block.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/nether_wart_stage0.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/nether_wart_stage1.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/nether_wart_stage2.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/note_block.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/oak_door_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/oak_door_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/oak_leaves.png"
   },
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Alexsor#0901"
       ],
       "date": "12/18/2020"
@@ -2884,6 +3500,7 @@
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "Alexsor#0901"
       ],
       "date": "12/18/2020"
@@ -2901,12 +3518,20 @@
     "path": "minecraft/textures/block/oak_planks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Saarlodrie_#7144"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/oak_sapling.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/oak_trapdoor.png"
   },
@@ -2941,7 +3566,11 @@
     "path": "minecraft/textures/block/obsidian.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/orange_candle.png"
   },
@@ -2981,7 +3610,11 @@
     "path": "minecraft/textures/block/orange_terracotta.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/orange_tulip.png"
   },
@@ -2991,7 +3624,11 @@
     "path": "minecraft/textures/block/orange_wool.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/oxeye_daisy.png"
   },
@@ -3001,17 +3638,29 @@
     "path": "minecraft/textures/block/packed_ice.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/peony_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/peony_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pink_candle.png"
   },
@@ -3051,7 +3700,11 @@
     "path": "minecraft/textures/block/pink_terracotta.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pink_tulip.png"
   },
@@ -3061,27 +3714,47 @@
     "path": "minecraft/textures/block/pink_wool.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/piston_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/piston_inner.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/piston_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/piston_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/piston_top_sticky.png"
   },
@@ -3097,7 +3770,11 @@
     "path": "minecraft/textures/block/podzol_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/podzol_top.png"
   },
@@ -3192,7 +3869,11 @@
     "path": "minecraft/textures/block/pointed_dripstone_up_tip_merge.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/polished_andesite.png"
   },
@@ -3207,52 +3888,92 @@
     "path": "minecraft/textures/block/polished_basalt_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/polished_basalt_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/polished_blackstone.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/polished_blackstone_bricks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/polished_diorite.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/polished_granite.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/poppy.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/potatoes_stage0.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/potatoes_stage1.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/potatoes_stage2.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/potatoes_stage3.png"
   },
@@ -3267,12 +3988,20 @@
     "path": "minecraft/textures/block/powder_snow.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/powered_rail.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/powered_rail_on.png"
   },
@@ -3287,22 +4016,38 @@
     "path": "minecraft/textures/block/prismarine_bricks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pumpkin_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pumpkin_stem.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/pumpkin_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/purple_candle.png"
   },
@@ -3392,17 +4137,29 @@
     "path": "minecraft/textures/block/quartz_pillar_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/rail.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/rail_corner.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/redstone_block.png"
   },
@@ -3427,32 +4184,56 @@
     "path": "minecraft/textures/block/redstone_dust_overlay.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/redstone_lamp.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/redstone_lamp_on.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/redstone_ore.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/redstone_torch.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/redstone_torch_off.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/red_candle.png"
   },
@@ -3474,6 +4255,7 @@
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Alexsor#0901"
       ],
       "date": "12/18/2020"
@@ -3482,17 +4264,29 @@
     "path": "minecraft/textures/block/red_mushroom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/red_mushroom_block.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/red_nether_bricks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/red_sand.png"
   },
@@ -3507,7 +4301,11 @@
     "path": "minecraft/textures/block/red_sandstone_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "fyr02#8507"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/red_sandstone_top.png"
   },
@@ -3532,7 +4330,11 @@
     "path": "minecraft/textures/block/red_terracotta.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/red_tulip.png"
   },
@@ -3554,6 +4356,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Po3stell3d#1426"
       ],
       "date": "01/09/2021"
@@ -3564,6 +4367,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Po3stell3d#1426"
       ],
       "date": "01/09/2021"
@@ -3574,6 +4378,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Po3stell3d#1426"
       ],
       "date": "01/09/2021"
@@ -3584,6 +4389,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Po3stell3d#1426"
       ],
       "date": "01/09/2021"
@@ -3632,17 +4438,29 @@
     "path": "minecraft/textures/block/respawn_anchor_top_off.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/rose_bush_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/rose_bush_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/sand.png"
   },
@@ -3657,7 +4475,11 @@
     "path": "minecraft/textures/block/sandstone_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "fyr02#8507"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/sandstone_top.png"
   },
@@ -3767,7 +4589,11 @@
     "path": "minecraft/textures/block/semi_weathered_cut_copper.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/shroomlight.png"
   },
@@ -3787,22 +4613,38 @@
     "path": "minecraft/textures/block/small_amethyst_bud.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/smithing_table_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/smithing_table_front.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/smithing_table_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/smithing_table_top.png"
   },
@@ -3817,7 +4659,11 @@
     "path": "minecraft/textures/block/smoker_front.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/smoker_front_on.png"
   },
@@ -3867,12 +4713,20 @@
     "path": "minecraft/textures/block/soul_fire_1.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "BellPepperBrian#0001"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/soul_lantern.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/soul_sand.png"
   },
@@ -3882,7 +4736,11 @@
     "path": "minecraft/textures/block/soul_soil.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/soul_torch.png"
   },
@@ -3907,23 +4765,36 @@
     "path": "minecraft/textures/block/sponge.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/spruce_door_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/spruce_door_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/spruce_leaves.png"
   },
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Alexsor#0901"
       ],
       "date": "12/18/2020"
@@ -3934,6 +4805,7 @@
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "Alexsor#0901"
       ],
       "date": "12/18/2020"
@@ -3951,7 +4823,11 @@
     "path": "minecraft/textures/block/spruce_planks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "AxiosTV#5153"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/spruce_sapling.png"
   },
@@ -3970,7 +4846,11 @@
     "path": "minecraft/textures/block/stone.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "PeJohn#4519"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/stonecutter_bottom.png"
   },
@@ -4110,22 +4990,38 @@
     "path": "minecraft/textures/block/sugar_cane.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "KulenFlulen#3722"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/sunflower_back.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "KulenFlulen#3722"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/sunflower_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "KulenFlulen#3722"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/sunflower_front.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "KulenFlulen#3722"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/sunflower_top.png"
   },
@@ -4170,12 +5066,20 @@
     "path": "minecraft/textures/block/sweet_berry_bush_stage3.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/tall_grass_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/tall_grass_top.png"
   },
@@ -4190,12 +5094,20 @@
     "path": "minecraft/textures/block/tall_seagrass_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/target_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/target_top.png"
   },
@@ -4225,7 +5137,11 @@
     "path": "minecraft/textures/block/tnt_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/torch.png"
   },
@@ -4270,7 +5186,11 @@
     "path": "minecraft/textures/block/tube_coral_fan.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/tuff.png"
   },
@@ -4290,32 +5210,56 @@
     "path": "minecraft/textures/block/turtle_egg_very_cracked.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/twisting_vines.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/twisting_vines_plant.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "AxiosTV#5153"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/vine.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/warped_door_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/warped_door_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/warped_fungus.png"
   },
@@ -4370,7 +5314,11 @@
     "path": "minecraft/textures/block/warped_stem_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/warped_trapdoor.png"
   },
@@ -4410,12 +5358,20 @@
     "path": "minecraft/textures/block/weathered_cut_copper.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/weeping_vines.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/weeping_vines_plant.png"
   },
@@ -4430,47 +5386,83 @@
     "path": "minecraft/textures/block/wet_sponge.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/wheat_stage0.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/wheat_stage1.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/wheat_stage2.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/wheat_stage3.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/wheat_stage4.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/wheat_stage5.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/wheat_stage6.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/wheat_stage7.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/white_candle.png"
   },
@@ -4510,7 +5502,11 @@
     "path": "minecraft/textures/block/white_terracotta.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/white_tulip.png"
   },
@@ -4520,12 +5516,20 @@
     "path": "minecraft/textures/block/white_wool.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/wither_rose.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pomik108#1378"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/yellow_candle.png"
   },
@@ -4616,7 +5620,11 @@
     "path": "minecraft/textures/entity/beacon_beam.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/blaze.png"
   },
@@ -4631,12 +5639,20 @@
     "path": "minecraft/textures/entity/dolphin.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/elytra.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/enchanting_table_book.png"
   },
@@ -4666,7 +5682,11 @@
     "path": "minecraft/textures/entity/fishing_hook.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/guardian.png"
   },
@@ -4676,7 +5696,11 @@
     "path": "minecraft/textures/entity/guardian_beam.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/guardian_elder.png"
   },
@@ -4686,7 +5710,11 @@
     "path": "minecraft/textures/entity/lead_knot.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Juknum#6148"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/minecart.png"
   },
@@ -4741,7 +5769,11 @@
     "path": "minecraft/textures/entity/steve.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Fractalis#9059"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/trident.png"
   },
@@ -5021,7 +6053,11 @@
     "path": "minecraft/textures/entity/banner/triangle_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Juknum#6148"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/bear/polarbear.png"
   },
@@ -5261,22 +6297,38 @@
     "path": "minecraft/textures/entity/chest/christmas_right.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/chest/ender.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/chest/normal.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/chest/normal_left.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/chest/normal_right.png"
   },
@@ -5331,17 +6383,32 @@
     "path": "minecraft/textures/entity/conduit/wind_vertical.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Saarlodrie_#7144",
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/cow/brown_mooshroom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Saarlodrie_#7144",
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/cow/cow.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Saarlodrie_#7144",
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/cow/red_mooshroom.png"
   },
@@ -5586,7 +6653,11 @@
     "path": "minecraft/textures/entity/horse/horse_markings_whitefield.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/horse/horse_skeleton.png"
   },
@@ -5596,7 +6667,11 @@
     "path": "minecraft/textures/entity/horse/horse_white.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/horse/horse_zombie.png"
   },
@@ -5606,22 +6681,38 @@
     "path": "minecraft/textures/entity/horse/mule.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/horse/armor/horse_armor_diamond.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/horse/armor/horse_armor_gold.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/horse/armor/horse_armor_iron.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/horse/armor/horse_armor_leather.png"
   },
@@ -5633,6 +6724,7 @@
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Saarlodrie_#7144"
       ],
       "date": "01/01/2021"
@@ -5871,27 +6963,47 @@
     "path": "minecraft/textures/entity/parrot/parrot_yellow_blue.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "BellPepperBrian#0001"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/pig/pig.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/pig/pig_saddle.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/piglin/piglin.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "PeJohn#4519"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/piglin/piglin_brute.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/piglin/zombified_piglin.png"
   },
@@ -5956,7 +7068,11 @@
     "path": "minecraft/textures/entity/rabbit/white_splotched.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/sheep/sheep.png"
   },
@@ -6406,7 +7522,11 @@
     "path": "minecraft/textures/entity/skeleton/stray_overlay.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/skeleton/wither_skeleton.png"
   },
@@ -8674,6 +9794,7 @@
   {
     "c32": {
       "author": [
+        "PeJohn#4519",
         "Deborn#6854"
       ],
       "date": "12/04/2020"
@@ -8682,17 +9803,29 @@
     "path": "minecraft/textures/item/amethyst_shard.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/apple.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Po3stell3d#1426"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/armor_stand.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Po3stell3d#1426"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/arrow.png"
   },
@@ -8707,7 +9840,12 @@
     "path": "minecraft/textures/item/axolotl_bucket.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889",
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/baked_potato.png"
   },
@@ -8717,7 +9855,11 @@
     "path": "minecraft/textures/item/bamboo.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Po3stell3d#1426"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/barrier.png"
   },
@@ -8742,7 +9884,11 @@
     "path": "minecraft/textures/item/beetroot.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/beetroot_seeds.png"
   },
@@ -8752,7 +9898,11 @@
     "path": "minecraft/textures/item/beetroot_soup.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/bell.png"
   },
@@ -8792,7 +9942,11 @@
     "path": "minecraft/textures/item/blaze_powder.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/blaze_rod.png"
   },
@@ -8822,27 +9976,47 @@
     "path": "minecraft/textures/item/book.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Po3stell3d#1426"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/bow.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/bowl.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Po3stell3d#1426"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/bow_pulling_0.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Po3stell3d#1426"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/bow_pulling_1.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Po3stell3d#1426"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/bow_pulling_2.png"
   },
@@ -8874,6 +10048,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "Derp#5571"
       ],
       "date": "12/04/2020"
@@ -8887,13 +10062,18 @@
     "path": "minecraft/textures/item/brown_candle.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "PeJohn#4519"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/brown_dye.png"
   },
   {
     "c32": {
       "author": [
+        "PeJohn#4519",
         "verisimal#3136"
       ],
       "date": "01/09/2021"
@@ -8922,13 +10102,18 @@
     "path": "minecraft/textures/item/bundle_filled.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/cake.png"
   },
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Nyodex#9593"
       ],
       "date": "12/04/2020"
@@ -8942,12 +10127,20 @@
     "path": "minecraft/textures/item/candle.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/carrot.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Po3stell3d#1426"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/carrot_on_a_stick.png"
   },
@@ -8957,7 +10150,11 @@
     "path": "minecraft/textures/item/cauldron.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Fractalis#9059"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/chain.png"
   },
@@ -8992,7 +10189,11 @@
     "path": "minecraft/textures/item/charcoal.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/chest_minecart.png"
   },
@@ -9002,13 +10203,18 @@
     "path": "minecraft/textures/item/chicken.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/chorus_fruit.png"
   },
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "Alexsor#0901"
       ],
       "date": "12/04/2020"
@@ -9019,6 +10225,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9030,6 +10237,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9041,6 +10249,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9052,6 +10261,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9063,6 +10273,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9074,6 +10285,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9085,6 +10297,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9096,6 +10309,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9107,6 +10321,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9118,6 +10333,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9129,6 +10345,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9140,6 +10357,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9151,6 +10369,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9162,6 +10381,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9173,6 +10393,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9184,6 +10405,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9195,6 +10417,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9206,6 +10429,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9217,6 +10441,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9228,6 +10453,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9239,6 +10465,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9250,6 +10477,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9261,6 +10489,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9272,6 +10501,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9283,6 +10513,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9294,6 +10525,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9305,6 +10537,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9316,6 +10549,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9327,6 +10561,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9338,6 +10573,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9349,6 +10585,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9360,6 +10597,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9371,6 +10609,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9382,6 +10621,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9393,6 +10633,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9404,6 +10645,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9415,6 +10657,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9426,6 +10669,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9437,6 +10681,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9448,6 +10693,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9459,6 +10705,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9470,6 +10717,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9481,6 +10729,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9492,6 +10741,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9503,6 +10753,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9514,6 +10765,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9525,6 +10777,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9536,6 +10789,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9547,6 +10801,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9558,6 +10813,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9569,6 +10825,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9580,6 +10837,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9591,6 +10849,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9602,6 +10861,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9613,6 +10873,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9624,6 +10885,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9635,6 +10897,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9646,6 +10909,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9657,6 +10921,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9668,6 +10933,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9679,6 +10945,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9690,6 +10957,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9701,6 +10969,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9712,6 +10981,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "verisimal#3136",
         "Po3stell3d#1426"
       ],
@@ -9741,7 +11011,11 @@
     "path": "minecraft/textures/item/cod_bucket.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/command_block_minecart.png"
   },
@@ -10081,7 +11355,11 @@
     "path": "minecraft/textures/item/cooked_chicken.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Mr. Kirby 48#0933"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/cooked_cod.png"
   },
@@ -10106,7 +11384,11 @@
     "path": "minecraft/textures/item/cooked_rabbit.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/cooked_salmon.png"
   },
@@ -10201,7 +11483,11 @@
     "path": "minecraft/textures/item/dark_oak_sign.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "dāvid̔̏̊#4605"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/diamond.png"
   },
@@ -10211,13 +11497,18 @@
     "path": "minecraft/textures/item/diamond_axe.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Fractalis#9059"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/diamond_boots.png"
   },
   {
     "c32": {
       "author": [
+        "Fractalis#9059",
         "FabriXd#8017"
       ],
       "date": "12/11/2020"
@@ -10226,13 +11517,18 @@
     "path": "minecraft/textures/item/diamond_chestplate.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/diamond_helmet.png"
   },
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Mr. Kirby 48#0933"
       ],
       "date": "12/11/2020"
@@ -10246,7 +11542,11 @@
     "path": "minecraft/textures/item/diamond_horse_armor.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/diamond_leggings.png"
   },
@@ -10281,13 +11581,18 @@
     "path": "minecraft/textures/item/dragon_breath.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/dried_kelp.png"
   },
   {
     "c32": {
       "author": [
+        "Juknum#6148",
         "verisimal#3136"
       ]
     },
@@ -10307,6 +11612,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Derp#5571"
       ],
       "date": "12/04/2020"
@@ -10390,7 +11696,11 @@
     "path": "minecraft/textures/item/feather.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Fractalis#9059"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/fermented_spider_eye.png"
   },
@@ -10405,7 +11715,11 @@
     "path": "minecraft/textures/item/filled_map_markings.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "BellPepperBrian#0001"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/firework_rocket.png"
   },
@@ -10430,23 +11744,36 @@
     "path": "minecraft/textures/item/fire_charge.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Po3stell3d#1426"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/fishing_rod.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Po3stell3d#1426"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/fishing_rod_cast.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/flint.png"
   },
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "Derp#5571"
       ],
       "date": "12/04/2020"
@@ -10470,12 +11797,20 @@
     "path": "minecraft/textures/item/flower_pot.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/furnace_minecart.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/ghast_tear.png"
   },
@@ -10525,18 +11860,27 @@
     "path": "minecraft/textures/item/golden_axe.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Fractalis#9059"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/golden_boots.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/golden_carrot.png"
   },
   {
     "c32": {
       "author": [
+        "Fractalis#9059",
         "FabriXd#8017"
       ],
       "date": "12/11/2020"
@@ -10545,13 +11889,18 @@
     "path": "minecraft/textures/item/golden_chestplate.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/golden_helmet.png"
   },
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Mr. Kirby 48#0933"
       ],
       "date": "12/11/2020"
@@ -10565,7 +11914,11 @@
     "path": "minecraft/textures/item/golden_horse_armor.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/golden_leggings.png"
   },
@@ -10630,7 +11983,12 @@
     "path": "minecraft/textures/item/green_dye.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897",
+        "Derp#5571"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/gunpowder.png"
   },
@@ -10640,7 +11998,11 @@
     "path": "minecraft/textures/item/heart_of_the_sea.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/honeycomb.png"
   },
@@ -10655,7 +12017,11 @@
     "path": "minecraft/textures/item/hopper.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/hopper_minecart.png"
   },
@@ -10670,13 +12036,18 @@
     "path": "minecraft/textures/item/iron_axe.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Fractalis#9059"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/iron_boots.png"
   },
   {
     "c32": {
       "author": [
+        "Fractalis#9059",
         "FabriXd#8017"
       ],
       "date": "12/11/2020"
@@ -10690,13 +12061,18 @@
     "path": "minecraft/textures/item/iron_door.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/iron_helmet.png"
   },
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Mr. Kirby 48#0933"
       ],
       "date": "12/11/2020"
@@ -10720,7 +12096,11 @@
     "path": "minecraft/textures/item/iron_ingot.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/iron_leggings.png"
   },
@@ -10761,7 +12141,11 @@
     "path": "minecraft/textures/item/iron_sword.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/item_frame.png"
   },
@@ -10806,7 +12190,11 @@
     "path": "minecraft/textures/item/lantern.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "PeJohn#4519"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/lapis_lazuli.png"
   },
@@ -10931,7 +12319,11 @@
     "path": "minecraft/textures/item/magenta_dye.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/magma_cream.png"
   },
@@ -10946,7 +12338,11 @@
     "path": "minecraft/textures/item/melon_seeds.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Billy Apicella#1045"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/melon_slice.png"
   },
@@ -10961,7 +12357,11 @@
     "path": "minecraft/textures/item/milk_bucket.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/minecart.png"
   },
@@ -10976,67 +12376,120 @@
     "path": "minecraft/textures/item/mushroom_stew.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854",
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_11.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_13.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_blocks.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_cat.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_chirp.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_far.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_mall.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_mellohi.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_pigstep.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_stal.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_strad.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_wait.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/music_disc_ward.png"
   },
@@ -11078,6 +12531,7 @@
   {
     "c32": {
       "author": [
+        "Hozz#0889",
         "FabriXd#8017"
       ],
       "date": "12/11/2020"
@@ -11093,6 +12547,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Mr. Kirby 48#0933"
       ],
       "date": "12/11/2020"
@@ -11121,7 +12576,11 @@
     "path": "minecraft/textures/item/netherite_pickaxe.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "CLtheman1#9145"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/netherite_scrap.png"
   },
@@ -11137,7 +12596,11 @@
     "path": "minecraft/textures/item/netherite_shovel.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "FabriXd#8017"
+      ]
+    },
     "c64": {
       "author": [
         "Harag0nMC#1897"
@@ -11167,7 +12630,11 @@
     "path": "minecraft/textures/item/nether_star.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/nether_wart.png"
   },
@@ -11207,7 +12674,12 @@
     "path": "minecraft/textures/item/painting.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854",
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/paper.png"
   },
@@ -11241,12 +12713,21 @@
     "path": "minecraft/textures/item/pointed_dripstone.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889",
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/poisonous_potato.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/popped_chorus_fruit.png"
   },
@@ -11256,7 +12737,12 @@
     "path": "minecraft/textures/item/porkchop.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889",
+        "Cryptogenic#0750"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/potato.png"
   },
@@ -11296,7 +12782,11 @@
     "path": "minecraft/textures/item/pufferfish_bucket.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/pumpkin_pie.png"
   },
@@ -11316,7 +12806,11 @@
     "path": "minecraft/textures/item/purple_dye.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/quartz.png"
   },
@@ -11326,12 +12820,20 @@
     "path": "minecraft/textures/item/rabbit.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/rabbit_foot.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/rabbit_hide.png"
   },
@@ -11391,7 +12893,11 @@
     "path": "minecraft/textures/item/saddle.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/salmon.png"
   },
@@ -11406,7 +12912,11 @@
     "path": "minecraft/textures/item/salmon_bucket.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "THEMAISON#2774"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/scute.png"
   },
@@ -11428,6 +12938,7 @@
   {
     "c32": {
       "author": [
+        "Deborn#6854",
         "Derp#5571"
       ],
       "date": "12/11/2020"
@@ -11451,7 +12962,11 @@
     "path": "minecraft/textures/item/skull_banner_pattern.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/slime_ball.png"
   },
@@ -11461,7 +12976,11 @@
     "path": "minecraft/textures/item/snowball.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/soul_campfire.png"
   },
@@ -11533,6 +13052,7 @@
   {
     "c32": {
       "author": [
+        "Fractalis#9059",
         "Cryptogenic#0750"
       ],
       "date": "12/04/2020"
@@ -11541,7 +13061,11 @@
     "path": "minecraft/textures/item/spyglass.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "jogurciQ#7641"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/stick.png"
   },
@@ -11553,6 +13077,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Mr. Kirby 48#0933"
       ],
       "date": "12/11/2020"
@@ -11603,6 +13128,7 @@
   {
     "c32": {
       "author": [
+        "Harag0nMC#1897",
         "Derp#5571"
       ],
       "date": "12/11/2020"
@@ -11611,7 +13137,11 @@
     "path": "minecraft/textures/item/sugar.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/sugar_cane.png"
   },
@@ -11651,17 +13181,29 @@
     "path": "minecraft/textures/item/tipped_arrow_head.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Hozz#0889"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/tnt_minecart.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/totem_of_undying.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Po3stell3d#1426"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/trident.png"
   },
@@ -11681,7 +13223,11 @@
     "path": "minecraft/textures/item/turtle_egg.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "BellPepperBrian#0001"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/turtle_helmet.png"
   },
@@ -11691,7 +13237,11 @@
     "path": "minecraft/textures/item/warped_door.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Po3stell3d#1426"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/warped_fungus_on_a_stick.png"
   },
@@ -11740,6 +13290,7 @@
   {
     "c32": {
       "author": [
+        "Juknum#6148",
         "Deborn#6854"
       ],
       "date": "12/04/2020"
@@ -11755,6 +13306,7 @@
   {
     "c32": {
       "author": [
+        "jogurciQ#7641",
         "Mr. Kirby 48#0933"
       ],
       "date": "12/11/2020"
@@ -11908,17 +13460,29 @@
     "path": "minecraft/textures/misc/vignette.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/mob_effect/absorption.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Mr. Kirby 48#0933"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/mob_effect/bad_omen.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/mob_effect/blindness.png"
   },
@@ -11933,7 +13497,11 @@
     "path": "minecraft/textures/mob_effect/dolphins_grace.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "KulenFlulen#3722"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/mob_effect/fire_resistance.png"
   },
@@ -11971,7 +13539,11 @@
     "path": "minecraft/textures/mob_effect/hero_of_the_village.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "KulenFlulen#3722"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/mob_effect/hunger.png"
   },
@@ -12099,7 +13671,11 @@
     "path": "minecraft/textures/mob_effect/slow_falling.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/mob_effect/speed.png"
   },
@@ -12134,7 +13710,11 @@
     "path": "minecraft/textures/mob_effect/weakness.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Juknum#6148"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/mob_effect/wither.png"
   },
@@ -12367,6 +13947,7 @@
   {
     "c32": {
       "author": [
+        "PeJohn#4519",
         "Derp#5571"
       ],
       "date": "12/04/2020"
