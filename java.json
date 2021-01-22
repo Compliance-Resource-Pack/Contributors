@@ -239,12 +239,20 @@
     "path": "minecraft/textures/block/allium.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Pythagoras_314#5176"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/amethyst_block.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "verisimal#3136"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/amethyst_cluster.png"
   },
@@ -10219,7 +10227,11 @@
     "path": "minecraft/textures/item/dried_kelp.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "verisimal#3136"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/egg.png"
   },
@@ -11734,7 +11746,9 @@
   },
   {
     "c32": {
-      "author": [],
+      "author": [
+        "verisimal#3136"
+      ],
       "date": "01/09/2021"
     },
     "c64": {},
@@ -11856,12 +11870,20 @@
     "path": "minecraft/textures/mob_effect/glowing.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "verisimal#3136"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/mob_effect/haste.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/mob_effect/health_boost.png"
   },
@@ -11881,12 +11903,20 @@
     "path": "minecraft/textures/mob_effect/hunger.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/mob_effect/instant_damage.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/mob_effect/instant_health.png"
   },
@@ -11962,7 +11992,11 @@
     "path": "minecraft/textures/mob_effect/poison.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/mob_effect/regeneration.png"
   },
@@ -13058,42 +13092,74 @@
     "path": "minecraft/textures/particle/splash_3.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "verisimal#3136"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/sweep_0.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "verisimal#3136"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/sweep_1.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "verisimal#3136"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/sweep_2.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "verisimal#3136"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/sweep_3.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "verisimal#3136"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/sweep_4.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "verisimal#3136"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/sweep_5.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "verisimal#3136"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/sweep_6.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "verisimal#3136"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/sweep_7.png"
   },
