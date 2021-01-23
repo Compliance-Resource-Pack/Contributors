@@ -175,7 +175,7 @@
         "Hozz#0889"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/acacia_door_bottom.png"
   },
   {
@@ -184,7 +184,7 @@
         "Hozz#0889"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/acacia_door_top.png"
   },
   {
@@ -1104,22 +1104,22 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/cartography_table_side1.png"
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/cartography_table_side2.png"
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/cartography_table_side3.png"
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/cartography_table_top.png"
   },
   {
@@ -1233,7 +1233,7 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["ESV#1972"] },
     "path": "minecraft/textures/block/chiseled_polished_blackstone.png"
   },
   {
@@ -1451,12 +1451,12 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/copper_block.png"
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/copper_ore.png"
   },
   {
@@ -1601,7 +1601,7 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/block/cut_copper.png"
   },
   {
@@ -1691,7 +1691,7 @@
         "Hozz#0889"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/dark_oak_door_bottom.png"
   },
   {
@@ -1700,7 +1700,7 @@
         "Hozz#0889"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/dark_oak_door_top.png"
   },
   {
@@ -2250,7 +2250,7 @@
         "AxiosTV#5153"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["dāvid̔̏̊#4605"] },
     "path": "minecraft/textures/block/fern.png"
   },
   {
@@ -3003,7 +3003,7 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/lightning_rod.png"
   },
   {
@@ -3465,7 +3465,7 @@
         "Hozz#0889"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/oak_door_bottom.png"
   },
   {
@@ -3474,7 +3474,7 @@
         "Hozz#0889"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/oak_door_top.png"
   },
   {
@@ -3884,7 +3884,7 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {},
+    "c64": { "author": ["ESV#1972"] },
     "path": "minecraft/textures/block/polished_basalt_side.png"
   },
   {
@@ -3902,7 +3902,7 @@
         "Harag0nMC#1897"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["ESV#1972"] },
     "path": "minecraft/textures/block/polished_blackstone.png"
   },
   {
@@ -4216,7 +4216,7 @@
         "Harag0nMC#1897"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/block/redstone_torch.png"
   },
   {
@@ -4225,7 +4225,7 @@
         "Harag0nMC#1897"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/block/redstone_torch_off.png"
   },
   {
@@ -4618,7 +4618,7 @@
         "Hozz#0889"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/smithing_table_bottom.png"
   },
   {
@@ -4627,7 +4627,7 @@
         "Hozz#0889"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/smithing_table_front.png"
   },
   {
@@ -4636,7 +4636,7 @@
         "Hozz#0889"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/smithing_table_side.png"
   },
   {
@@ -5118,7 +5118,7 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/block/tinted_glass.png"
   },
   {
@@ -5363,7 +5363,7 @@
         "jogurciQ#7641"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/weeping_vines.png"
   },
   {
@@ -5372,7 +5372,7 @@
         "jogurciQ#7641"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/block/weeping_vines_plant.png"
   },
   {
@@ -5545,7 +5545,7 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/block/yellow_glazed_terracotta.png"
   },
   {
@@ -9323,7 +9323,7 @@
       ],
       "date": "01/09/2021"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/gui/social_interactions.png"
   },
   {
@@ -9353,7 +9353,7 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/gui/advancements/tabs.png"
   },
   {
@@ -9363,7 +9363,7 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/gui/advancements/window.png"
   },
   {
@@ -9499,7 +9499,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/gui/container/gamemode_switcher.png"
   },
   {
@@ -9519,7 +9519,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/gui/container/grindstone.png"
   },
   {
@@ -9836,7 +9836,7 @@
       ],
       "date": "01/09/2021"
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/item/axolotl_bucket.png"
   },
   {
@@ -10118,7 +10118,7 @@
       ],
       "date": "12/04/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/item/campfire.png"
   },
   {
@@ -11031,7 +11031,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_00.png"
   },
   {
@@ -11041,7 +11041,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_01.png"
   },
   {
@@ -11051,7 +11051,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_02.png"
   },
   {
@@ -11061,7 +11061,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_03.png"
   },
   {
@@ -11071,7 +11071,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_04.png"
   },
   {
@@ -11081,7 +11081,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_05.png"
   },
   {
@@ -11091,7 +11091,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_06.png"
   },
   {
@@ -11101,7 +11101,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_07.png"
   },
   {
@@ -11111,7 +11111,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_08.png"
   },
   {
@@ -11121,7 +11121,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_09.png"
   },
   {
@@ -11131,7 +11131,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_10.png"
   },
   {
@@ -11141,7 +11141,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_11.png"
   },
   {
@@ -11151,7 +11151,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_12.png"
   },
   {
@@ -11161,7 +11161,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_13.png"
   },
   {
@@ -11171,7 +11171,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_14.png"
   },
   {
@@ -11181,7 +11181,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_15.png"
   },
   {
@@ -11191,7 +11191,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_16.png"
   },
   {
@@ -11201,7 +11201,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_17.png"
   },
   {
@@ -11211,7 +11211,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_18.png"
   },
   {
@@ -11221,7 +11221,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_19.png"
   },
   {
@@ -11231,7 +11231,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_20.png"
   },
   {
@@ -11241,7 +11241,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_21.png"
   },
   {
@@ -11251,7 +11251,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_22.png"
   },
   {
@@ -11261,7 +11261,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_23.png"
   },
   {
@@ -11271,7 +11271,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_24.png"
   },
   {
@@ -11281,7 +11281,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_25.png"
   },
   {
@@ -11291,7 +11291,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_26.png"
   },
   {
@@ -11301,7 +11301,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_27.png"
   },
   {
@@ -11311,7 +11311,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_28.png"
   },
   {
@@ -11321,7 +11321,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_29.png"
   },
   {
@@ -11331,7 +11331,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_30.png"
   },
   {
@@ -11341,7 +11341,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/compass_31.png"
   },
   {
@@ -11577,7 +11577,7 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/dragon_breath.png"
   },
   {
@@ -11994,7 +11994,7 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/heart_of_the_sea.png"
   },
   {
@@ -12176,7 +12176,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/item/kelp.png"
   },
   {
@@ -12748,12 +12748,12 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/potion.png"
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/potion_overlay.png"
   },
   {
@@ -12981,7 +12981,7 @@
         "Harag0nMC#1897"
       ]
     },
-    "c64": {},
+    "c64": { "author": ["Harag0nMC#1897"] },
     "path": "minecraft/textures/item/soul_campfire.png"
   },
   {
@@ -13026,7 +13026,7 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/item/splash_potion.png"
   },
   {
@@ -13391,7 +13391,7 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/misc/forcefield.png"
   },
   {
@@ -13426,7 +13426,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/misc/spyglass_scope.png"
   },
   {
@@ -14017,7 +14017,7 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": { "author": ["FabriXd#8017"] },
     "path": "minecraft/textures/particle/bubble.png"
   },
   {
@@ -14127,7 +14127,7 @@
       ],
       "date": "12/04/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/particle/explosion_0.png"
   },
   {
@@ -14137,7 +14137,7 @@
       ],
       "date": "12/04/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/particle/explosion_1.png"
   },
   {
@@ -14147,7 +14147,7 @@
       ],
       "date": "12/04/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/particle/explosion_10.png"
   },
   {
@@ -14157,7 +14157,7 @@
       ],
       "date": "12/04/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/particle/explosion_11.png"
   },
   {
@@ -14167,7 +14167,7 @@
       ],
       "date": "12/04/2020"
     },
-    "c64": {},
+    "c64": { "author": ["Po3stell3d#1426"] },
     "path": "minecraft/textures/particle/explosion_12.png"
   },
   {
