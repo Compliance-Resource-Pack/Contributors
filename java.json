@@ -1919,7 +1919,11 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "path": "minecraft/textures/block/dead_tube_coral.png"
   },
   {
@@ -5258,7 +5262,11 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "Harag0nMC#1897"
+      ]
+    },
     "path": "minecraft/textures/block/tube_coral.png"
   },
   {
