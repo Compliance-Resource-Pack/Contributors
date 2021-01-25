@@ -1,0 +1,22 @@
+[
+  {
+    "user": "000000000000000000",
+    "warn": [
+      "reason 1",
+      "reason 2",
+      "reason 3"
+    ],
+    "muted": true,
+    "timeout": -100
+  },
+  {
+    "user": "334337761198866433",
+    "warn": [
+      "bad words",
+      "warn goes brr",
+      "double notification; double pain"
+    ],
+    "muted": true,
+    "timeout": -100
+  }
+]
