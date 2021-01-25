@@ -16,7 +16,7 @@
       "warn goes brr",
       "double notification; double pain"
     ],
-    "muted": true,
-    "timeout": -100
+    "muted": false,
+    "timeout": 0
   }
 ]

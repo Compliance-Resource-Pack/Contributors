@@ -1908,7 +1908,11 @@
     "path": "minecraft/textures/block/dead_horn_coral_block.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "EachMenderKhai#0260"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/dead_horn_coral_fan.png"
   },
