@@ -10,13 +10,31 @@
     "timeout": -100
   },
   {
-    "user": "334337761198866433",
-    "warn": [
-      "bad words",
-      "warn goes brr",
-      "double notification; double pain"
-    ],
+    "user": "785114694872465428",
+    "timeout": -100,
+    "muted": true
+  },
+  {
+    "user": "285902386701271050",
+    "timeout": 0,
     "muted": false,
-    "timeout": 0
+    "warn": [
+      "politcs"
+    ]
+  },
+  {
+    "user": "780754313379053569",
+    "timeout": 0,
+    "muted": false
+  },
+  {
+    "user": "334337761198866433",
+    "timeout": 0,
+    "muted": false
+  },
+  {
+    "user": "473860522710794250",
+    "timeout": 0,
+    "muted": false
   }
 ]
