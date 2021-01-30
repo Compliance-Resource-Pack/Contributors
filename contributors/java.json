@@ -382,7 +382,11 @@
     "path": "minecraft/textures/block/bamboo_small_leaves.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/bamboo_stage0.png"
   },
@@ -976,7 +980,8 @@
   {
     "c32": {
       "author": [
-        "Saarlodrie_#7144"
+        "Saarlodrie_#7144",
+        "Hozz#0889"
       ]
     },
     "c64": {},
@@ -5803,7 +5808,11 @@
     "path": "minecraft/textures/entity/guardian.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/guardian_beam.png"
   },
@@ -10104,7 +10113,11 @@
     "path": "minecraft/textures/item/blue_candle.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/blue_dye.png"
   },
