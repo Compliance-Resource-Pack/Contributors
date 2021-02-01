@@ -382,11 +382,7 @@
     "path": "minecraft/textures/block/bamboo_small_leaves.png"
   },
   {
-    "c32": {
-      "author": [
-        "Tekayo#5081"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/block/bamboo_stage0.png"
   },
@@ -980,8 +976,7 @@
   {
     "c32": {
       "author": [
-        "Saarlodrie_#7144",
-        "Hozz#0889"
+        "Saarlodrie_#7144"
       ]
     },
     "c64": {},
@@ -5808,11 +5803,7 @@
     "path": "minecraft/textures/entity/guardian.png"
   },
   {
-    "c32": {
-      "author": [
-        "Tekayo#5081"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/entity/guardian_beam.png"
   },
@@ -10113,11 +10104,7 @@
     "path": "minecraft/textures/item/blue_candle.png"
   },
   {
-    "c32": {
-      "author": [
-        "Tekayo#5081"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/item/blue_dye.png"
   },
@@ -10234,8 +10221,8 @@
   {
     "c32": {
       "author": [
-        "verisimal#3136",
-        "fyr02#8507"
+        "PeJohn#4519",
+        "verisimal#3136"
       ],
       "date": "01/09/2021"
     },
@@ -10310,11 +10297,7 @@
     "path": "minecraft/textures/item/carrot_on_a_stick.png"
   },
   {
-    "c32": {
-      "author": [
-        "𝓈𝓅𝒽𝑒𝓇𝑒𝓎#9685"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/item/cauldron.png"
   },
@@ -11869,11 +11852,7 @@
         "FabriXd#8017"
       ]
     },
-    "c64": {
-      "author": [
-        "FabriXd#8017"
-      ]
-    },
+    "c64": {},
     "path": "minecraft/textures/item/diamond_sword.png"
   },
   {
@@ -11933,8 +11912,7 @@
   {
     "c32": {
       "author": [
-        "FabriXd#8017",
-        "𝓈𝓅𝒽𝑒𝓇𝑒𝓎#9685"
+        "FabriXd#8017"
       ],
       "date": "12/04/2020"
     },
@@ -12250,11 +12228,7 @@
         "FabriXd#8017"
       ]
     },
-    "c64": {
-      "author": [
-        "FabriXd#8017"
-      ]
-    },
+    "c64": {},
     "path": "minecraft/textures/item/golden_sword.png"
   },
   {
@@ -12451,11 +12425,7 @@
         "FabriXd#8017"
       ]
     },
-    "c64": {
-      "author": [
-        "FabriXd#8017"
-      ]
-    },
+    "c64": {},
     "path": "minecraft/textures/item/iron_sword.png"
   },
   {
@@ -13242,7 +13212,8 @@
   {
     "c32": {
       "author": [
-        "verisimal#3136"
+        "verisimal#3136",
+        "Tekayo#5081"
       ],
       "date": "01/09/2021"
     },

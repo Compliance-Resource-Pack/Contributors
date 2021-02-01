@@ -36,13 +36,5 @@
     "user": "473860522710794250",
     "timeout": 0,
     "muted": false
-  },
-  {
-    "user": "558347182886092801",
-    "warn": [
-      "do not advertise any server if it’s not asked"
-    ],
-    "muted": false,
-    "timeout": 0
   }
 ]
