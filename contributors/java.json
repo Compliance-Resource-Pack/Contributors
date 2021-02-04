@@ -5784,11 +5784,7 @@
     "path": "minecraft/textures/entity/end_portal.png"
   },
   {
-    "c32": {
-      "author": [
-        "Cituation#3136"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/entity/experience_orb.png"
   },
@@ -13916,11 +13912,7 @@
     "path": "minecraft/textures/mob_effect/jump_boost.png"
   },
   {
-    "c32": {
-      "author": [
-        "EachMenderKhai#0260"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/mob_effect/levitation.png"
   },
