@@ -358,6 +358,31 @@
     "path": "minecraft/textures/block/attached_pumpkin_stem.png"
   },
   {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/azalea_leaves.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/azalea_leaves_flowers.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/azalea_plant.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/azalea_side.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/azalea_top.png"
+  },
+  {
     "c32": {
       "author": [
         "Hozz#0889"
@@ -582,6 +607,26 @@
     },
     "c64": {},
     "path": "minecraft/textures/block/bell_top.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/big_dripleaf_side.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/big_dripleaf_stem.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/big_dripleaf_tip.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/big_dripleaf_top.png"
   },
   {
     "c32": {
@@ -1186,6 +1231,26 @@
     },
     "c64": {},
     "path": "minecraft/textures/block/cauldron_top.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/cave_vines_body.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/cave_vines_body_lit.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/cave_vines_head.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/cave_vines_head_lit.png"
   },
   {
     "c32": {},
@@ -2371,6 +2436,16 @@
   {
     "c32": {},
     "c64": {},
+    "path": "minecraft/textures/block/flowering_azalea_side.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/flowering_azalea_top.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
     "path": "minecraft/textures/block/frosted_ice_0.png"
   },
   {
@@ -2671,6 +2746,11 @@
     },
     "c64": {},
     "path": "minecraft/textures/block/grindstone_side.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/hanging_roots.png"
   },
   {
     "c32": {},
@@ -3364,6 +3444,11 @@
     },
     "c64": {},
     "path": "minecraft/textures/block/melon_top.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/moss_block.png"
   },
   {
     "c32": {
@@ -4522,6 +4607,16 @@
     "path": "minecraft/textures/block/respawn_anchor_top_off.png"
   },
   {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/root_vines_head.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/rooted_dirt.png"
+  },
+  {
     "c32": {
       "author": [
         "Hozz#0889"
@@ -4697,6 +4792,16 @@
     "path": "minecraft/textures/block/small_amethyst_bud.png"
   },
   {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/small_dripleaf_side.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/small_dripleaf_top.png"
+  },
+  {
     "c32": {
       "author": [
         "Hozz#0889"
@@ -4859,6 +4964,16 @@
     },
     "c64": {},
     "path": "minecraft/textures/block/sponge.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/spore_blossom.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "path": "minecraft/textures/block/spore_blossom_base.png"
   },
   {
     "c32": {
@@ -9465,7 +9580,11 @@
     "path": "minecraft/textures/gui/stream_indicator.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cituation#3136"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/gui/toasts.png"
   },
@@ -9631,7 +9750,8 @@
   {
     "c32": {
       "author": [
-        "THEMAISON#2774"
+        "THEMAISON#2774",
+        "Cituation#3136"
       ],
       "date": "12/11/2020"
     },
@@ -9918,7 +10038,8 @@
   {
     "c32": {
       "author": [
-        "Corb#9277"
+        "Corb#9277",
+        "ProstoProstoChelovek#9034"
       ],
       "date": "01/09/2021"
     },
@@ -10057,7 +10178,8 @@
   {
     "c32": {
       "author": [
-        "Corb#9277"
+        "Corb#9277",
+        "ProstoProstoChelovek#9034"
       ],
       "date": "01/09/2021"
     },
@@ -11745,7 +11867,8 @@
   {
     "c32": {
       "author": [
-        "Corb#9277"
+        "Corb#9277",
+        "ProstoProstoChelovek#9034"
       ],
       "date": "01/09/2021"
     },
@@ -12126,6 +12249,11 @@
   {
     "c32": {},
     "c64": {},
+    "path": "minecraft/textures/item/glow_berries.png"
+  },
+  {
+    "c32": {},
+    "c64": {},
     "path": "minecraft/textures/item/glow_ink_sac.png"
   },
   {
@@ -12440,7 +12568,8 @@
   {
     "c32": {
       "author": [
-        "Corb#9277"
+        "Corb#9277",
+        "ProstoProstoChelovek#9034"
       ],
       "date": "01/09/2021"
     },
@@ -12933,7 +13062,8 @@
   {
     "c32": {
       "author": [
-        "Corb#9277"
+        "Corb#9277",
+        "ProstoProstoChelovek#9034"
       ],
       "date": "01/09/2021"
     },
@@ -13349,7 +13479,8 @@
   {
     "c32": {
       "author": [
-        "Corb#9277"
+        "Corb#9277",
+        "ProstoProstoChelovek#9034"
       ],
       "date": "01/09/2021"
     },
@@ -14341,7 +14472,11 @@
     "path": "minecraft/textures/particle/big_smoke_9.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "ProstoProstoChelovek#9034"
+      ]
+    },
     "c64": {
       "author": [
         "FabriXd#8017"
@@ -14350,27 +14485,47 @@
     "path": "minecraft/textures/particle/bubble.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "ProstoProstoChelovek#9034"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/bubble_pop_0.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "ProstoProstoChelovek#9034"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/bubble_pop_1.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "ProstoProstoChelovek#9034"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/bubble_pop_2.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "ProstoProstoChelovek#9034"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/bubble_pop_3.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "ProstoProstoChelovek#9034"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/bubble_pop_4.png"
   },
@@ -14390,17 +14545,29 @@
     "path": "minecraft/textures/particle/damage.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "ProstoProstoChelovek#9034"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/drip_fall.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "ProstoProstoChelovek#9034"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/drip_hang.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "ProstoProstoChelovek#9034"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/drip_land.png"
   },
