@@ -5981,12 +5981,20 @@
     "path": "minecraft/textures/entity/spider_eyes.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/squid/glow_squid.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Sei#0721"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/entity/squid/squid.png"
   },
@@ -9580,11 +9588,7 @@
     "path": "minecraft/textures/gui/stream_indicator.png"
   },
   {
-    "c32": {
-      "author": [
-        "Cituation#3136"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/gui/toasts.png"
   },
@@ -10038,8 +10042,7 @@
   {
     "c32": {
       "author": [
-        "Corb#9277",
-        "ProstoProstoChelovek#9034"
+        "Corb#9277"
       ],
       "date": "01/09/2021"
     },
@@ -10178,8 +10181,7 @@
   {
     "c32": {
       "author": [
-        "Corb#9277",
-        "ProstoProstoChelovek#9034"
+        "Corb#9277"
       ],
       "date": "01/09/2021"
     },
@@ -11867,8 +11869,7 @@
   {
     "c32": {
       "author": [
-        "Corb#9277",
-        "ProstoProstoChelovek#9034"
+        "Corb#9277"
       ],
       "date": "01/09/2021"
     },
@@ -12568,8 +12569,7 @@
   {
     "c32": {
       "author": [
-        "Corb#9277",
-        "ProstoProstoChelovek#9034"
+        "Corb#9277"
       ],
       "date": "01/09/2021"
     },
@@ -13062,8 +13062,7 @@
   {
     "c32": {
       "author": [
-        "Corb#9277",
-        "ProstoProstoChelovek#9034"
+        "Corb#9277"
       ],
       "date": "01/09/2021"
     },
@@ -13210,7 +13209,11 @@
     "path": "minecraft/textures/item/prismarine_shard.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/pufferfish.png"
   },
@@ -13479,8 +13482,7 @@
   {
     "c32": {
       "author": [
-        "Corb#9277",
-        "ProstoProstoChelovek#9034"
+        "Corb#9277"
       ],
       "date": "01/09/2021"
     },
@@ -13666,7 +13668,11 @@
     "path": "minecraft/textures/item/tropical_fish_bucket.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "EachMenderKhai#0260"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/item/turtle_egg.png"
   },
@@ -14472,11 +14478,7 @@
     "path": "minecraft/textures/particle/big_smoke_9.png"
   },
   {
-    "c32": {
-      "author": [
-        "ProstoProstoChelovek#9034"
-      ]
-    },
+    "c32": {},
     "c64": {
       "author": [
         "FabriXd#8017"
@@ -14485,47 +14487,27 @@
     "path": "minecraft/textures/particle/bubble.png"
   },
   {
-    "c32": {
-      "author": [
-        "ProstoProstoChelovek#9034"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/particle/bubble_pop_0.png"
   },
   {
-    "c32": {
-      "author": [
-        "ProstoProstoChelovek#9034"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/particle/bubble_pop_1.png"
   },
   {
-    "c32": {
-      "author": [
-        "ProstoProstoChelovek#9034"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/particle/bubble_pop_2.png"
   },
   {
-    "c32": {
-      "author": [
-        "ProstoProstoChelovek#9034"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/particle/bubble_pop_3.png"
   },
   {
-    "c32": {
-      "author": [
-        "ProstoProstoChelovek#9034"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/particle/bubble_pop_4.png"
   },
@@ -14545,29 +14527,17 @@
     "path": "minecraft/textures/particle/damage.png"
   },
   {
-    "c32": {
-      "author": [
-        "ProstoProstoChelovek#9034"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/particle/drip_fall.png"
   },
   {
-    "c32": {
-      "author": [
-        "ProstoProstoChelovek#9034"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/particle/drip_hang.png"
   },
   {
-    "c32": {
-      "author": [
-        "ProstoProstoChelovek#9034"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/particle/drip_land.png"
   },
@@ -14927,7 +14897,11 @@
     "path": "minecraft/textures/particle/nautilus.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "BellPepperBrian#0001"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/note.png"
   },
