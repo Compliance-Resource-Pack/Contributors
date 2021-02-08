@@ -397,7 +397,11 @@
     "path": "minecraft/textures/block/bamboo_large_leaves.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "𝓈𝓅𝒽𝑒𝓇𝑒𝓎#9685"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/bamboo_singleleaf.png"
   },
@@ -1954,7 +1958,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "eseries#1972"
+      ]
+    },
     "path": "minecraft/textures/block/dead_fire_coral_block.png"
   },
   {
@@ -2211,7 +2219,11 @@
     "path": "minecraft/textures/block/dispenser_front_vertical.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/dragon_egg.png"
   },
@@ -2395,7 +2407,11 @@
         "Harag0nMC#1897"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "eseries#1972"
+      ]
+    },
     "path": "minecraft/textures/block/fire_coral_block.png"
   },
   {
@@ -3344,22 +3360,38 @@
     "path": "minecraft/textures/block/lodestone_top.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/loom_bottom.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/loom_front.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/loom_side.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/block/loom_top.png"
   },
@@ -4788,7 +4820,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "EachMenderKhai#0260"
+      ]
+    },
     "path": "minecraft/textures/block/small_amethyst_bud.png"
   },
   {
@@ -10100,7 +10136,8 @@
   {
     "c32": {
       "author": [
-        "Cituation#3136"
+        "Cituation#3136",
+        "EachMenderKhai#0260"
       ],
       "date": "01/09/2021"
     },
@@ -13209,11 +13246,7 @@
     "path": "minecraft/textures/item/prismarine_shard.png"
   },
   {
-    "c32": {
-      "author": [
-        "Nyodex#9593"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/item/pufferfish.png"
   },
@@ -13513,7 +13546,8 @@
   {
     "c32": {
       "author": [
-        "jogurciQ#7641"
+        "jogurciQ#7641",
+        "Sei#0721"
       ]
     },
     "c64": {},
@@ -13668,11 +13702,7 @@
     "path": "minecraft/textures/item/tropical_fish_bucket.png"
   },
   {
-    "c32": {
-      "author": [
-        "EachMenderKhai#0260"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/item/turtle_egg.png"
   },
@@ -14527,17 +14557,29 @@
     "path": "minecraft/textures/particle/damage.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/drip_fall.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/drip_hang.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Nyodex#9593"
+      ]
+    },
     "c64": {},
     "path": "minecraft/textures/particle/drip_land.png"
   },
@@ -14788,7 +14830,11 @@
       ],
       "date": "12/04/2020"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "EachMenderKhai#0260"
+      ]
+    },
     "path": "minecraft/textures/particle/footprint.png"
   },
   {
@@ -14878,7 +14924,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "EachMenderKhai#0260"
+      ]
+    },
     "path": "minecraft/textures/particle/glow.png"
   },
   {
@@ -14897,11 +14947,7 @@
     "path": "minecraft/textures/particle/nautilus.png"
   },
   {
-    "c32": {
-      "author": [
-        "BellPepperBrian#0001"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "minecraft/textures/particle/note.png"
   },
