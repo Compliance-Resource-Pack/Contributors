@@ -40,9 +40,11 @@
   {
     "user": "674976089264619535",
     "warn": [
-      "posting textures from another pack and pretending it‘s his"
+      "posting textures from another pack and pretending it‘s his",
+      "posting textures from another pack and pretending it‘s his",
+      "pretending that posted work is made by him, even though that's not true, for the third time"
     ],
-    "muted": false,
-    "timeout": 0
+    "muted": true,
+    "timeout": 835140
   }
 ]
