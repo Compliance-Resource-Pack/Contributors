@@ -510,9 +510,9 @@
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/amethyst_block.png",
-      "1.16.5": "minecraft/textures/block/amethyst_block.png",
-      "1.15.2": "minecraft/textures/block/amethyst_block.png",
-      "1.14.4": "minecraft/textures/block/amethyst_block.png"
+      "1.16.5": null,
+      "1.15.2": null,
+      "1.14.4": null
     }
   },
   {
@@ -524,9 +524,9 @@
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/amethyst_cluster.png",
-      "1.16.5": "minecraft/textures/block/amethyst_cluster.png",
-      "1.15.2": "minecraft/textures/block/amethyst_cluster.png",
-      "1.14.4": "minecraft/textures/block/amethyst_cluster.png"
+      "1.16.5": null,
+      "1.15.2": null,
+      "1.14.4": null
     }
   },
   {
@@ -579,12 +579,7 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {
-      "author": [
-        "Juknum#6148"
-      ],
-      "date": "02/08/2021"
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/anvil.png",
       "1.16.5": "minecraft/textures/block/anvil.png",
@@ -1794,9 +1789,9 @@
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/budding_amethyst.png",
-      "1.16.5": "minecraft/textures/block/budding_amethyst.png",
-      "1.15.2": "minecraft/textures/block/budding_amethyst.png",
-      "1.14.4": "minecraft/textures/block/budding_amethyst.png"
+      "1.16.5": null,
+      "1.15.2": null,
+      "1.14.4": null
     }
   },
   {
@@ -5203,9 +5198,9 @@
     },
     "version": {
       "1.17": "minecraft/textures/block/large_amethyst_bud.png",
-      "1.16.5": "minecraft/textures/block/large_amethyst_bud.png",
-      "1.15.2": "minecraft/textures/block/large_amethyst_bud.png",
-      "1.14.4": "minecraft/textures/block/large_amethyst_bud.png"
+      "1.16.5": null,
+      "1.15.2": null,
+      "1.14.4": null
     }
   },
   {
@@ -5865,9 +5860,9 @@
     },
     "version": {
       "1.17": "minecraft/textures/block/medium_amethyst_bud.png",
-      "1.16.5": "minecraft/textures/block/medium_amethyst_bud.png",
-      "1.15.2": "minecraft/textures/block/medium_amethyst_bud.png",
-      "1.14.4": "minecraft/textures/block/medium_amethyst_bud.png"
+      "1.16.5": null,
+      "1.15.2": null,
+      "1.14.4": null
     }
   },
   {
@@ -8149,9 +8144,9 @@
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/small_amethyst_bud.png",
-      "1.16.5": "minecraft/textures/block/small_amethyst_bud.png",
-      "1.15.2": "minecraft/textures/block/small_amethyst_bud.png",
-      "1.14.4": "minecraft/textures/block/small_amethyst_bud.png"
+      "1.16.5": null,
+      "1.15.2": null,
+      "1.14.4": null
     }
   },
   {
@@ -17694,9 +17689,9 @@
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/amethyst_shard.png",
-      "1.16.5": "minecraft/textures/item/amethyst_shard.png",
-      "1.15.2": "minecraft/textures/item/amethyst_shard.png",
-      "1.14.4": "minecraft/textures/item/amethyst_shard.png"
+      "1.16.5": null,
+      "1.15.2": null,
+      "1.14.4": null
     }
   },
   {
@@ -21010,9 +21005,9 @@
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/glow_berries.png",
-      "1.16.5": "minecraft/textures/item/glow_berries.png",
-      "1.15.2": "minecraft/textures/item/glow_berries.png",
-      "1.14.4": "minecraft/textures/item/glow_berries.png"
+      "1.16.5": null,
+      "1.15.2": null,
+      "1.14.4": null
     }
   },
   {
