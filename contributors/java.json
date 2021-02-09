@@ -18,7 +18,8 @@
       "1.16.5": "realms/textures/gui/realms/adventure.png",
       "1.15.2": "realms/textures/gui/realms/adventure.png",
       "1.14.4": "realms/textures/gui/realms/adventure.png",
-      "1.13.2": null    }
+      "1.13.2": null
+    }
   },
   {
     "c32": {},
@@ -61,7 +62,8 @@
       "1.16.5": "realms/textures/gui/realms/darken.png",
       "1.15.2": "realms/textures/gui/realms/darken.png",
       "1.14.4": "realms/textures/gui/realms/darken.png",
-      "1.13.2": null }
+      "1.13.2": null
+    }
   },
   {
     "c32": {},
@@ -170,7 +172,8 @@
       "1.16.5": "realms/textures/gui/realms/news_icon.png",
       "1.15.2": "realms/textures/gui/realms/news_icon.png",
       "1.14.4": "realms/textures/gui/realms/news_icon.png",
-      "1.13.2": null    }
+      "1.13.2": null
+    }
   },
   {
     "c32": {},
@@ -191,7 +194,8 @@
       "1.16.5": "realms/textures/gui/realms/new_world.png",
       "1.15.2": "realms/textures/gui/realms/new_world.png",
       "1.14.4": "realms/textures/gui/realms/new_world.png",
-      "1.13.2": null    }
+      "1.13.2": null
+    }
   },
   {
     "c32": {},
@@ -201,7 +205,8 @@
       "1.16.5": "realms/textures/gui/realms/off_icon.png",
       "1.15.2": "realms/textures/gui/realms/off_icon.png",
       "1.14.4": "realms/textures/gui/realms/off_icon.png",
-      "1.13.2": null   }
+      "1.13.2": null
+    }
   },
   {
     "c32": {},
@@ -211,7 +216,8 @@
       "1.16.5": "realms/textures/gui/realms/on_icon.png",
       "1.15.2": "realms/textures/gui/realms/on_icon.png",
       "1.14.4": "realms/textures/gui/realms/on_icon.png",
-      "1.13.2": null  }
+      "1.13.2": null
+    }
   },
   {
     "c32": {},
@@ -221,7 +227,8 @@
       "1.16.5": "realms/textures/gui/realms/op_icon.png",
       "1.15.2": "realms/textures/gui/realms/op_icon.png",
       "1.14.4": "realms/textures/gui/realms/op_icon.png",
-      "1.13.2": null  }
+      "1.13.2": null
+    }
   },
   {
     "c32": {},
@@ -231,7 +238,8 @@
       "1.16.5": "realms/textures/gui/realms/plus_icon.png",
       "1.15.2": "realms/textures/gui/realms/plus_icon.png",
       "1.14.4": "realms/textures/gui/realms/plus_icon.png",
-      "1.13.2": null    }
+      "1.13.2": null
+    }
   },
   {
     "c32": {},
@@ -241,7 +249,8 @@
       "1.16.5": "realms/textures/gui/realms/popup.png",
       "1.15.2": "realms/textures/gui/realms/popup.png",
       "1.14.4": "realms/textures/gui/realms/popup.png",
-      "1.13.2": null}
+      "1.13.2": null
+    }
   },
   {
     "c32": {},
@@ -328,7 +337,8 @@
       "1.16.5": "realms/textures/gui/realms/upload.png",
       "1.15.2": "realms/textures/gui/realms/upload.png",
       "1.14.4": "realms/textures/gui/realms/upload.png",
-      "1.13.2": null }
+      "1.13.2": null
+    }
   },
   {
     "c32": {},
@@ -338,7 +348,8 @@
       "1.16.5": "realms/textures/gui/realms/user_icon.png",
       "1.15.2": "realms/textures/gui/realms/user_icon.png",
       "1.14.4": "realms/textures/gui/realms/user_icon.png",
-      "1.13.2": null    }
+      "1.13.2": null
+    }
   },
   {
     "c32": {},
@@ -774,7 +785,12 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cituation#3136",
+        "Tekayo#5081"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/bamboo_stage0.png",
@@ -4318,7 +4334,7 @@
     },
     "c64": {
       "author": [
-        "d\u0101vid\u0314\u030f\u030a#4605"
+        "dāvid̔̏̊#4605"
       ]
     },
     "version": {
@@ -10876,7 +10892,11 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cituation#3136"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/experience_orb.png",
@@ -12317,7 +12337,11 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cituation#3136"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/conduit/closed_eye.png",
@@ -12328,7 +12352,11 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cituation#3136"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/conduit/open_eye.png",
@@ -18230,7 +18258,11 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cituation#3136"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/accessibility.png",
@@ -18263,7 +18295,11 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cituation#3136"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/checkbox.png",
@@ -18359,7 +18395,8 @@
   {
     "c32": {
       "author": [
-        "Po3stell3d#1426"
+        "Po3stell3d#1426",
+        "Cituation#3136"
       ],
       "date": "01/09/2021"
     },
@@ -18399,7 +18436,11 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cituation#3136"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/toasts.png",
@@ -18410,7 +18451,11 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cituation#3136"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/widgets.png",
@@ -19236,7 +19281,8 @@
   {
     "c32": {
       "author": [
-        "Cituation#3136"
+        "Cituation#3136",
+        "EachMenderKhai#0260"
       ],
       "date": "01/09/2021"
     },
@@ -19673,8 +19719,8 @@
   {
     "c32": {
       "author": [
-        "PeJohn#4519",
-        "Cituation#3136"
+        "Cituation#3136",
+        "fyr02#8507"
       ],
       "date": "01/09/2021"
     },
@@ -22081,7 +22127,7 @@
   {
     "c32": {
       "author": [
-        "d\u0101vid\u0314\u030f\u030a#4605"
+        "dāvid̔̏̊#4605"
       ]
     },
     "c64": {},
@@ -23388,7 +23434,8 @@
   {
     "c32": {
       "author": [
-        "Cituation#3136"
+        "Cituation#3136",
+        "Pomik#1378"
       ],
       "date": "01/09/2021"
     },
@@ -25757,7 +25804,12 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "Cituation#3136",
+        "Deborn#6854"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/mob_effect/conduit_power.png",
@@ -27211,7 +27263,7 @@
       "1.16.5": "minecraft/textures/particle/explosion_3.png",
       "1.15.2": "minecraft/textures/particle/explosion_3.png",
       "1.14.4": "minecraft/textures/particle/explosion_3.png",
-      "1.13.2":null
+      "1.13.2": null
     }
   },
   {
@@ -27900,7 +27952,7 @@
       "1.15.2": "minecraft/textures/particle/sga_y.png",
       "1.14.4": "minecraft/textures/particle/sga_y.png",
       "1.13.2": null
-  	}
+    }
   },
   {
     "c32": {},
