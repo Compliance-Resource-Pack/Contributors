@@ -5361,8 +5361,8 @@
     "version": {
       "1.17": "minecraft/textures/block/jigsaw_lock.png",
       "1.16.5": "minecraft/textures/block/jigsaw_lock.png",
-      "1.15.2": "minecraft/textures/block/jigsaw_lock.png",
-      "1.14.4": "minecraft/textures/block/jigsaw_lock.png",
+      "1.15.2": null,
+      "1.14.4": null,
       "1.13.2": null
     }
   },
@@ -18883,8 +18883,8 @@
     "version": {
       "1.17": "minecraft/textures/gui/container/smithing.png",
       "1.16.5": "minecraft/textures/gui/container/smithing.png",
-      "1.15.2": "minecraft/textures/gui/container/smithing.png",
-      "1.14.4": "minecraft/textures/gui/container/smithing.png",
+      "1.15.2": null,
+      "1.14.4": null,
       "1.13.2": null
     }
   },
@@ -19054,7 +19054,7 @@
     "version": {
       "1.17": "minecraft/textures/gui/title/mojangstudios.png",
       "1.16.5": "minecraft/textures/gui/title/mojangstudios.png",
-      "1.15.2": "minecraft/textures/gui/title/mojangstudios.png",
+      "1.15.2": "minecraft/textures/gui/title/mojang",
       "1.14.4": "minecraft/textures/gui/title/mojang",
       "1.13.2": "minecraft/textures/gui/title/mojang"
     }
