@@ -1,0 +1,28 @@
+//https://render.namemc.com/skin/3d/body.png?skin=a07518ee40059d4b&model=classic&theta=32&phi=16&width=600&height=600
+
+[
+	{
+		"username": "Juknum",
+		"discord_id": "207471947662098432",
+		"namemc": {
+			"skin": "a07518ee40059d4b",
+			"model": "classic"
+		}
+	},
+	{
+		"username": "RobertR11",
+		"discord_id": "473860522710794250",
+		"namemc": {
+			"skin": "9af03eb2c52113b8",
+			"model": "classic"	
+		}
+	},
+	{
+		"username": "Pomik108",
+		"discord_id": "",
+		"namemc": {
+			"skin": "b9a0151c46474e97",
+			"model": "classic"
+		}
+	}
+]
