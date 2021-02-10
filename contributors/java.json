@@ -10082,6 +10082,24 @@
     "bedrock": {}
   },
   {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/small_dripleaf_stem_bottom.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/small_dripleaf_stem_top.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
     "c32": {
       "author": [
         "674962022915506245"
