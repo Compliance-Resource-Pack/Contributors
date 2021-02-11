@@ -25542,7 +25542,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/pufferfish_bucket.png",
@@ -27464,7 +27468,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/models/armor/chainmail_layer_1.png",
       "1.16.5": "minecraft/textures/models/armor/chainmail_layer_1.png",
@@ -27478,7 +27486,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/models/armor/chainmail_layer_2.png",
       "1.16.5": "minecraft/textures/models/armor/chainmail_layer_2.png",
@@ -27492,7 +27504,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/models/armor/diamond_layer_1.png",
       "1.16.5": "minecraft/textures/models/armor/diamond_layer_1.png",
@@ -27506,7 +27522,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/models/armor/diamond_layer_2.png",
       "1.16.5": "minecraft/textures/models/armor/diamond_layer_2.png",
@@ -27520,7 +27540,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/models/armor/gold_layer_1.png",
       "1.16.5": "minecraft/textures/models/armor/gold_layer_1.png",
@@ -27534,7 +27558,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/models/armor/gold_layer_2.png",
       "1.16.5": "minecraft/textures/models/armor/gold_layer_2.png",
@@ -27548,7 +27576,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/models/armor/iron_layer_1.png",
       "1.16.5": "minecraft/textures/models/armor/iron_layer_1.png",
@@ -27562,7 +27594,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/models/armor/iron_layer_2.png",
       "1.16.5": "minecraft/textures/models/armor/iron_layer_2.png",
