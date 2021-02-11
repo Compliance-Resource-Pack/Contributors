@@ -1,0 +1,110 @@
+[
+  {
+    "username": "Juknum",
+    "type": "moderator",
+    "id": "207471947662098432",
+    "uuid": "5bff3e18-cd6f-4a22-b8b3-31f740879f14"
+  },
+  {
+    "username": "RobertR11",
+    "type": "moderator",
+    "id": "473860522710794250",
+    "uuid": "ea571288-e784-4a48-8d0f-2835db884899"
+  },
+  {
+    "username": "Pomik108",
+    "type": "moderator",
+    "id": "331073143613423616",
+    "uuid": "e609d426-cef1-4db0-be80-2b9c065ed706"
+  },
+  {
+    "username": "Seirin_Blu",
+    "type": "moderator",
+    "id": "401627057915691009",
+    "uuid": "0e8be195-752e-4367-ae04-9458b7ea959c"
+  },
+  {
+    "username": "Banakin",
+    "type": "developer",
+    "id": "808879286521036830",
+    "uuid": "d028fc7b-ff0b-4892-aaab-4d3554c00099"
+  },
+  {
+    "username": "TheRandomGamrTRG",
+    "type": "developer",
+    "id": "808884718765604885",
+    "uuid": "7bf1663d-700f-42e7-8892-a97a342efac3"
+  },
+  {
+    "username": "Domi",
+    "type": "developer",
+    "id": "312518028267094018",
+    "uuid": "fe99d58c-6bec-43a0-925d-35203a5d3ca5"
+  },
+  {
+    "username": "Kirov_power",
+    "type": "developer",
+    "id": "808952511545081886",
+    "uuid": "484eb117-65b5-4ab5-b530-f208687c9b2c"
+  },
+  {
+    "username": "The_Rolf",
+    "type": "developer",
+    "id": "173336582265241601",
+    "uuid": "23a17086-a073-4eea-88cc-1dd6054b7883"
+  },
+  {
+    "username": "Ewan",
+    "uuid": null,
+    "id": "519179484340027392",
+    "type": "member"
+  },
+  {
+    "username": "Tekayo",
+    "uuid": "c1086114-4b61-4136-a4d2-e4fda2f624e4",
+    "id": "407235780411523072",
+    "type": "member"
+  },
+  {
+    "username": "Redcoke26",
+    "uuid": "5703bf08-38d4-4966-81f0-f555acb25323",
+    "id": "402504493255884800",
+    "type": "member"
+  },
+  {
+    "username": "BellPepperBrian",
+    "uuid": "67b38532-98c8-4b6a-9c0a-fd03e40ae45e",
+    "id": "409514371388145664",
+    "type": "member"
+  },
+  {
+    "username": "Cituation",
+    "uuid": "bb3b9522-dcf5-44d9-a4bb-29df808fdb9e",
+    "id": "285902386701271050",
+    "type": "member"
+  },
+  {
+    "username": "Adrien_Sama",
+    "uuid": null,
+    "id": "233206738784878592",
+    "type": "member"
+  },
+  {
+    "username": "Mr Kirby",
+    "uuid": null,
+    "id": "426164900855939075",
+    "type": "member"
+  },
+  {
+    "username": "ConnerMiner",
+    "uuid": null,
+    "id": "578035506491817984",
+    "type": "member"
+  },
+  {
+    "username": "Harag0nMC",
+    "uuid": null,
+    "id": "340497757410295808",
+    "type": "member"
+  }
+]
