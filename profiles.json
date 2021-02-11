@@ -18,7 +18,7 @@
     "uuid": "e609d426-cef1-4db0-be80-2b9c065ed706"
   },
   {
-    "username": "Seirin_Blu",
+    "username": "seirin_blu",
     "type": "moderator",
     "id": "401627057915691009",
     "uuid": "0e8be195-752e-4367-ae04-9458b7ea959c"
@@ -90,21 +90,57 @@
     "type": "member"
   },
   {
-    "username": "Mr Kirby",
+    "username": "Mr.Kirby48",
     "uuid": null,
     "id": "426164900855939075",
     "type": "member"
   },
   {
     "username": "ConnerMiner",
-    "uuid": null,
+    "uuid": "ebfbbe1b-4ae1-4321-b01c-09e1fb89ffd5",
     "id": "578035506491817984",
     "type": "member"
   },
   {
-    "username": "Harag0nMC",
+    "username": "Harag0n",
     "uuid": null,
     "id": "340497757410295808",
+    "type": "moderator"
+  },
+  {
+    "username": "Spherey",
+    "uuid": null,
+    "id": "464598667425349633",
+    "type": "member"
+  },
+  {
+    "username": "Fractali5",
+    "uuid": null,
+    "id": "279642471334412289",
+    "type": "member"
+  },
+  {
+    "username": "FHLX",
+    "uuid": null,
+    "id": "672989591283695618",
+    "type": "member"
+  },
+  {
+    "username": "That1Dragon",
+    "uuid": "6d2a1622-c9cd-4fac-a4b2-6e9b9a61e4ac",
+    "id": "465565663574884352",
+    "type": "member"
+  },
+  {
+    "username": "Nyodex",
+    "uuid": "6d875c4f-5453-421d-914c-27b793151497",
+    "id": "280854181747884043",
+    "type": "member"
+  },
+  {
+    "username": "Cryptogenic",
+    "uuid": "c565a3db-ba8d-4c72-9359-0271bf3d9bbd",
+    "id": "220239731273760768",
     "type": "member"
   }
 ]
