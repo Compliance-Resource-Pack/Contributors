@@ -1260,7 +1260,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "401627057915691009"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/big_dripleaf_stem.png"
@@ -6625,7 +6629,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_blue_glazed_terracotta.png",
@@ -7142,7 +7150,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/magenta_glazed_terracotta.png",
@@ -21642,7 +21654,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/cod.png",
@@ -21656,7 +21672,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/cod_bucket.png",
@@ -22689,7 +22709,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/cyan_dye.png",
@@ -26444,7 +26468,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/tropical_fish.png",
@@ -26458,7 +26486,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/tropical_fish_bucket.png",
