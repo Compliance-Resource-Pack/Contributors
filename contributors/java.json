@@ -759,7 +759,8 @@
   {
     "c32": {
       "author": [
-        "401627057915691009"
+        "401627057915691009",
+        "361251723106320384"
       ]
     },
     "c64": {},
@@ -772,7 +773,8 @@
   {
     "c32": {
       "author": [
-        "401627057915691009"
+        "401627057915691009",
+        "361251723106320384"
       ]
     },
     "c64": {},
@@ -12363,7 +12365,11 @@
         "407235780411523072"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/elytra.png",
       "1.16.5": "minecraft/textures/entity/elytra.png",
@@ -16867,7 +16873,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/signs/acacia.png",
       "1.16.5": "minecraft/textures/entity/signs/acacia.png",
@@ -16879,7 +16889,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/signs/birch.png",
       "1.16.5": "minecraft/textures/entity/signs/birch.png",
@@ -16891,7 +16905,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/signs/crimson.png",
       "1.16.5": "minecraft/textures/entity/signs/crimson.png"
@@ -16901,7 +16919,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/signs/dark_oak.png",
       "1.16.5": "minecraft/textures/entity/signs/dark_oak.png",
@@ -16913,7 +16935,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/signs/jungle.png",
       "1.16.5": "minecraft/textures/entity/signs/jungle.png",
@@ -16925,7 +16951,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/signs/oak.png",
       "1.16.5": "minecraft/textures/entity/signs/oak.png",
@@ -16939,7 +16969,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/signs/spruce.png",
       "1.16.5": "minecraft/textures/entity/signs/spruce.png",
@@ -16951,7 +16985,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/signs/warped.png",
       "1.16.5": "minecraft/textures/entity/signs/warped.png"

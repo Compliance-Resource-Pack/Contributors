@@ -30,12 +30,6 @@
     "uuid": "d028fc7b-ff0b-4892-aaab-4d3554c00099"
   },
   {
-    "username": "TheRandomGamrTRG",
-    "type": "developer",
-    "id": "808884718765604885",
-    "uuid": "7bf1663d-700f-42e7-8892-a97a342efac3"
-  },
-  {
     "username": "Domi",
     "type": "developer",
     "id": "312518028267094018",
@@ -44,7 +38,7 @@
   {
     "username": "Kirov_power",
     "type": "developer",
-    "id": "808952511545081886",
+    "id": "336133489969856513",
     "uuid": "484eb117-65b5-4ab5-b530-f208687c9b2c"
   },
   {
@@ -147,6 +141,30 @@
     "username": "Pythagoras_314",
     "uuid": null,
     "id": "692740123627880459",
+    "type": "member"
+  },
+  {
+    "username": "Alexsor",
+    "uuid": null,
+    "id": "369259215996583936",
+    "type": "member"
+  },
+  {
+    "username": null,
+    "uuid": null,
+    "id": "544973678438383623",
+    "type": "member"
+  },
+  {
+    "username": "IbrahimKhalid-TRG",
+    "uuid": "7bf1663d-700f-42e7-8892-a97a342efac3",
+    "id": "780754313379053569",
+    "type": "developer"
+  },
+  {
+    "username": null,
+    "uuid": null,
+    "id": "779134418581061642",
     "type": "member"
   }
 ]
