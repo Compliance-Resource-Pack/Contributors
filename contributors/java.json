@@ -1254,7 +1254,11 @@
         "674962022915506245"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "674962022915506245"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/big_dripleaf_side.png"
     },
@@ -1277,7 +1281,8 @@
   {
     "c32": {
       "author": [
-        "674962022915506245"
+        "674962022915506245",
+        "401627057915691009"
       ]
     },
     "c64": {},
@@ -4520,7 +4525,8 @@
     "c32": {
       "author": [
         "331073143613423616",
-        "389357651852787712"
+        "389357651852787712",
+        "280854181747884043"
       ],
       "date": "01/01/2021"
     },
@@ -5358,7 +5364,8 @@
     "c32": {
       "author": [
         "331073143613423616",
-        "389357651852787712"
+        "389357651852787712",
+        "280854181747884043"
       ],
       "date": "01/01/2021"
     },
@@ -5377,8 +5384,10 @@
   {
     "c32": {
       "author": [
-        "361251723106320384"
-      ]
+        "361251723106320384",
+        "280854181747884043"
+      ],
+      "date": "02/13/2021"
     },
     "c64": {},
     "version": {
@@ -8627,7 +8636,11 @@
         "256074743940120587"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/potatoes_stage0.png",
       "1.16.5": "minecraft/textures/block/potatoes_stage0.png",
@@ -8645,7 +8658,12 @@
         "256074743940120587"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ],
+      "date": "02/13/2021"
+    },
     "version": {
       "1.17": "minecraft/textures/block/potatoes_stage1.png",
       "1.16.5": "minecraft/textures/block/potatoes_stage1.png",
@@ -8663,7 +8681,11 @@
         "256074743940120587"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/potatoes_stage2.png",
       "1.16.5": "minecraft/textures/block/potatoes_stage2.png",
@@ -8681,7 +8703,11 @@
         "256074743940120587"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/potatoes_stage3.png",
       "1.16.5": "minecraft/textures/block/potatoes_stage3.png",
@@ -10088,7 +10114,11 @@
         "674962022915506245"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "674962022915506245"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/small_dripleaf_side.png"
     },
@@ -10969,7 +10999,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "407235780411523072"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/sugar_cane.png",
@@ -11061,7 +11095,11 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/sweet_berry_bush_stage0.png",
       "1.16.5": "minecraft/textures/block/sweet_berry_bush_stage0.png",
@@ -11078,7 +11116,11 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/sweet_berry_bush_stage1.png",
       "1.16.5": "minecraft/textures/block/sweet_berry_bush_stage1.png",
@@ -11095,7 +11137,11 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/sweet_berry_bush_stage2.png",
       "1.16.5": "minecraft/textures/block/sweet_berry_bush_stage2.png",
@@ -11112,7 +11158,11 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/sweet_berry_bush_stage3.png",
       "1.16.5": "minecraft/textures/block/sweet_berry_bush_stage3.png",
@@ -14137,7 +14187,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "401627057915691009"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/conduit/base.png",
@@ -14150,7 +14204,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "401627057915691009"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/conduit/break_particle.png",
@@ -14163,7 +14221,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "401627057915691009"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/conduit/cage.png",
@@ -14210,7 +14272,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "401627057915691009"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/conduit/wind.png",
@@ -14223,7 +14289,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "401627057915691009"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/conduit/wind_vertical.png",
@@ -21664,7 +21734,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "692740123627880459"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/coal.png",
@@ -23589,7 +23663,11 @@
         "729617269243773008"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/glow_berries.png"
     },
@@ -25054,7 +25132,11 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/nautilus_shell.png",
       "1.16.5": "minecraft/textures/item/nautilus_shell.png",
@@ -27142,7 +27224,12 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ],
+      "date": "02/13/2021"
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/mob_effect/glowing.png",
