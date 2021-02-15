@@ -11461,7 +11461,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "692740123627880459"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/turtle_egg.png",
@@ -11474,7 +11478,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "692740123627880459"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/turtle_egg_slightly_cracked.png",
@@ -11487,7 +11495,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "692740123627880459"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/turtle_egg_very_cracked.png",
