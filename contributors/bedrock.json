@@ -6895,7 +6895,12 @@
     "path": "textures/items/dried_kelp.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ],
+      "date": "02/16/2021"
+    },
     "c64": {},
     "path": "textures/items/dye_powder_black.png"
   },

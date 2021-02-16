@@ -431,7 +431,7 @@
     "render": {
       "type": "door",
       "texture": {
-        "all": "block/acacia_door_bottom.png"
+        "all": "minecraft/textures/block/acacia_door_bottom.png"
       }
     }
   },
@@ -459,7 +459,7 @@
     "render": {
       "type": "door",
       "texture": {
-        "all": "block/acacia_door_top.png"
+        "all": "minecraft/textures/block/acacia_door_top.png"
       }
     }
   },
@@ -483,7 +483,7 @@
     "render": {
       "type": "full-block",
       "texture": {
-        "all": "block/acacia_leaves.png"
+        "all": "minecraft/textures/block/acacia_leaves.png"
       }
     }
   },
@@ -509,8 +509,8 @@
     "render": {
       "type": "column-block",
       "texture": {
-        "side": "block/acacia_log.png",
-        "end": "block/acacia_log_top.png"
+        "side": "minecraft/textures/block/acacia_log.png",
+        "end": "minecraft/textures/block/acacia_log_top.png"
       }
     }
   },
@@ -536,8 +536,8 @@
     "render": {
       "type": "column-block",
       "texture": {
-        "side": "block/acacia_log.png",
-        "end": "block/acacia_log_top.png"
+        "side": "minecraft/textures/block/acacia_log.png",
+        "end": "minecraft/textures/block/acacia_log_top.png"
       }
     }
   },
@@ -561,7 +561,7 @@
     "render": {
       "type": "full-block",
       "texture": {
-        "all": "block/acacia_planks.png"
+        "all": "minecraft/textures/block/acacia_planks.png"
       }
     }
   },
@@ -585,7 +585,7 @@
     "render": {
       "type": "cross",
       "texture": {
-        "all": "block/acacia_sapling.png"
+        "all": "minecraft/textures/block/acacia_sapling.png"
       }
     }
   },
@@ -604,7 +604,7 @@
     "render": {
       "type": "trapdoor",
       "texture": {
-        "all": "block/acacia_trapdoor.png"
+        "all": "minecraft/textures/block/acacia_trapdoor.png"
       }
     }
   },
@@ -628,7 +628,7 @@
     "render": {
       "type": "flat",
       "texture": {
-        "all": "block/activator_rail.png"
+        "all": "minecraft/textures/block/activator_rail.png"
       }
     }
   },
@@ -652,7 +652,7 @@
     "render": {
       "type": "flat",
       "texture": {
-        "all": "block/activator_rail_on.png"
+        "all": "minecraft/textures/block/activator_rail_on.png"
       }
     }
   },
@@ -676,7 +676,7 @@
     "render": {
       "type": "cross",
       "texture": {
-        "all": "block/allium.png"
+        "all": "minecraft/textures/block/allium.png"
       }
     }
   },
@@ -695,7 +695,7 @@
     "render": {
       "type": "full-block",
       "texture": {
-        "all": "block/amethyst_block.png"
+        "all": "minecraft/textures/block/amethyst_block.png"
       }
     }
   },
@@ -714,7 +714,7 @@
     "render": {
       "type": "full-block",
       "texture": {
-        "all": "block/amethyst_cluster.png"
+        "all": "minecraft/textures/block/amethyst_cluster.png"
       }
     }
   },
@@ -734,8 +734,8 @@
     "render": {
       "type": "column-block",
       "texture": {
-        "side": "block/ancient_debris_side.png",
-        "end": "block/ancient_debris_top.png"
+        "side": "minecraft/textures/block/ancient_debris_side.png",
+        "end": "minecraft/textures/block/ancient_debris_top.png"
       }
     }
   },
@@ -755,8 +755,8 @@
     "render": {
       "type": "column-block",
       "texture": {
-        "side": "block/ancient_debris_side.png",
-        "end": "block/ancient_debris_top.png"
+        "side": "minecraft/textures/block/ancient_debris_side.png",
+        "end": "minecraft/textures/block/ancient_debris_top.png"
       }
     }
   },
@@ -780,7 +780,7 @@
     "render": {
       "type": "full-block",
       "texture": {
-        "all": "block/andesite.png"
+        "all": "minecraft/textures/block/andesite.png"
       }
     }
   },
@@ -885,11 +885,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "400395559871184896"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/azalea_plant.png"
@@ -3402,7 +3398,8 @@
     "c32": {
       "author": [
         "331073143613423616"
-      ]
+      ],
+      "date": "02/16/2021"
     },
     "c64": {},
     "version": {
@@ -8651,8 +8648,10 @@
   {
     "c32": {
       "author": [
-        "340497757410295808"
-      ]
+        "340497757410295808",
+        "331073143613423616"
+      ],
+      "date": "02/16/2021"
     },
     "c64": {
       "author": [
@@ -8670,7 +8669,8 @@
     "c32": {
       "author": [
         "331073143613423616"
-      ]
+      ],
+      "date": "02/16/2021"
     },
     "c64": {},
     "version": {
@@ -18633,11 +18633,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/resource_packs.png",
@@ -18651,11 +18647,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/server_selection.png",
@@ -18688,11 +18680,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/spectator_widgets.png",
@@ -18757,11 +18745,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/world_selection.png",
@@ -18898,8 +18882,7 @@
     "c32": {
       "author": [
         "484371204153540611",
-        "426164900855939075",
-        "285902386701271050"
+        "426164900855939075"
       ],
       "date": "12/11/2020"
     },
@@ -19269,8 +19252,7 @@
   {
     "c32": {
       "author": [
-        "484371204153540611",
-        "285902386701271050"
+        "484371204153540611"
       ],
       "date": "12/11/2020"
     },
@@ -24198,7 +24180,12 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ],
+      "date": "02/16/2021"
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/ink_sac.png",
