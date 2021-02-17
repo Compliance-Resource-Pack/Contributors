@@ -429,10 +429,13 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
+			"name": "acacia_door_bottom",
       "type": "door",
-      "texture": {
-        "all": "minecraft/textures/block/acacia_door_bottom.png"
-      }
+      "textures": [
+				{
+        	"name": "all", "texture": "minecraft/textures/block/acacia_door_bottom.png"
+      	}
+			]
     }
   },
   {
