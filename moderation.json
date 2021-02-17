@@ -45,7 +45,7 @@
       "pretending that posted work is made by him, even though that's not true, for the third time"
     ],
     "muted": true,
-    "timeout": 352080
+    "timeout": 350850
   },
   {
     "user": "412986918901645313",
@@ -62,5 +62,10 @@
     ],
     "muted": false,
     "timeout": 0
+  },
+  {
+    "user": "312518028267094018",
+    "timeout": 35790,
+    "muted": true
   }
 ]
