@@ -929,11 +929,7 @@
     }
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/attached_melon_stem.png",
@@ -1865,11 +1861,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/black_stained_glass.png",
@@ -1883,11 +1875,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/black_stained_glass_pane_top.png",
@@ -2092,11 +2080,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/blue_stained_glass.png",
@@ -2110,11 +2094,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/blue_stained_glass_pane_top.png",
@@ -2407,11 +2387,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/brown_stained_glass.png",
@@ -2425,11 +2401,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/brown_stained_glass_pane_top.png",
@@ -2720,8 +2692,7 @@
     "c32": {
       "author": [
         "331073143613423616",
-        "402504493255884800",
-        "280854181747884043"
+        "402504493255884800"
       ]
     },
     "c64": {},
@@ -3602,11 +3573,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {
       "author": [
         "340497757410295808"
@@ -4004,11 +3971,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/cyan_stained_glass.png",
@@ -4022,11 +3985,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/cyan_stained_glass_pane_top.png",
@@ -5647,11 +5606,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/glass.png",
@@ -5665,11 +5620,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/glass_pane_top.png",
@@ -5957,11 +5908,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/gray_stained_glass.png",
@@ -5975,11 +5922,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/gray_stained_glass_pane_top.png",
@@ -6090,11 +6033,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/green_stained_glass.png",
@@ -6108,11 +6047,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/green_stained_glass_pane_top.png",
@@ -7122,11 +7057,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_blue_stained_glass.png",
@@ -7140,11 +7071,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_blue_stained_glass_pane_top.png",
@@ -7255,11 +7182,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_gray_stained_glass.png",
@@ -7273,11 +7196,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_gray_stained_glass_pane_top.png",
@@ -7454,11 +7373,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/lime_stained_glass.png",
@@ -7472,11 +7387,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/lime_stained_glass_pane_top.png",
@@ -7546,11 +7457,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/loom_bottom.png",
@@ -7562,11 +7469,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/loom_front.png",
@@ -7578,11 +7481,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/loom_side.png",
@@ -7594,11 +7493,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/loom_top.png",
@@ -7683,11 +7578,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/magenta_stained_glass.png",
@@ -7701,11 +7592,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/magenta_stained_glass_pane_top.png",
@@ -7792,11 +7679,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/melon_stem.png",
@@ -8454,11 +8337,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/orange_stained_glass.png",
@@ -8472,11 +8351,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/orange_stained_glass_pane_top.png",
@@ -8672,11 +8547,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/pink_stained_glass.png",
@@ -8690,11 +8561,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/pink_stained_glass_pane_top.png",
@@ -9441,11 +9308,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/purple_stained_glass.png",
@@ -9459,11 +9322,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/purple_stained_glass_pane_top.png",
@@ -10023,11 +9882,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/red_stained_glass.png",
@@ -10041,11 +9896,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/red_stained_glass_pane_top.png",
@@ -12566,11 +12417,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/white_stained_glass.png",
@@ -12584,11 +12431,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/white_stained_glass_pane_top.png",
@@ -12736,11 +12579,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/yellow_stained_glass.png",
@@ -12754,11 +12593,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/yellow_stained_glass_pane_top.png",
@@ -20179,11 +20014,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/bamboo.png",
@@ -20696,8 +20527,7 @@
   {
     "c32": {
       "author": [
-        "340497757410295808",
-        "280854181747884043"
+        "340497757410295808"
       ]
     },
     "c64": {},
@@ -26240,11 +26070,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/pufferfish.png",
@@ -26852,7 +26678,6 @@
   {
     "c32": {
       "author": [
-        "279642471334412289",
         "220239731273760768"
       ],
       "date": "12/04/2020"
@@ -27145,8 +26970,7 @@
   {
     "c32": {
       "author": [
-        "389357651852787712",
-        "280854181747884043"
+        "389357651852787712"
       ]
     },
     "c64": {},
@@ -29053,11 +28877,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/particle/drip_fall.png",
@@ -29069,11 +28889,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/particle/drip_hang.png",
@@ -29085,11 +28901,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/particle/drip_land.png",

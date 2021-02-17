@@ -45,7 +45,7 @@
       "pretending that posted work is made by him, even though that's not true, for the third time"
     ],
     "muted": true,
-    "timeout": 356460
+    "timeout": 352170
   },
   {
     "user": "412986918901645313",
@@ -56,9 +56,9 @@
     ]
   },
   {
-    "user": "692740123627880459",
+    "user": "319531788512919562",
     "warn": [
-      "advertising"
+      "posting a racist meme"
     ],
     "muted": false,
     "timeout": 0
