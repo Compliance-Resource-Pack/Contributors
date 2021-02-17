@@ -433,7 +433,7 @@
       "type": "door",
       "textures": [
 				{
-        	"name": "door",
+        	"name": "all",
 					"texture": "minecraft/textures/block/acacia_door_bottom.png"
       	}
 			]
@@ -461,10 +461,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
+			"name": "acacia_door_top",
       "type": "door",
-      "texture": {
-        "all": "minecraft/textures/block/acacia_door_top.png"
-      }
+      "textures": [
+				{
+        	"name": "all",
+					"texture": "minecraft/textures/block/acacia_door_top.png"
+      	}
+			]
     }
   },
   {
@@ -485,10 +489,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
+			"name": "acacia_leaves",
       "type": "full-block",
-      "texture": {
-        "all": "minecraft/textures/block/acacia_leaves.png"
-      }
+      "textures": [
+				{
+        	"name": "all",
+					"texture": "minecraft/textures/block/acacia_leaves.png"
+      	}
+			]
     }
   },
   {
@@ -511,11 +519,18 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-      "type": "column-block",
-      "texture": {
-        "side": "minecraft/textures/block/acacia_log.png",
-        "end": "minecraft/textures/block/acacia_log_top.png"
-      }
+			"name": "acacia_log",
+      "type": "col-block",
+      "textures": [
+				{
+        	"name": "side",
+					"texture": "minecraft/textures/block/acacia_log_side.png"
+      	},
+				{
+        	"name": "end",
+					"texture": "minecraft/textures/block/acacia_log_top.png"
+      	}
+			]
     }
   },
   {
@@ -538,11 +553,18 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-      "type": "column-block",
-      "texture": {
-        "side": "minecraft/textures/block/acacia_log.png",
-        "end": "minecraft/textures/block/acacia_log_top.png"
-      }
+			"name": "acacia_log",
+      "type": "col-block",
+      "textures": [
+				{
+        	"name": "side",
+					"texture": "minecraft/textures/block/acacia_log_side.png"
+      	},
+				{
+        	"name": "end",
+					"texture": "minecraft/textures/block/acacia_log_top.png"
+      	}
+			]
     }
   },
   {
@@ -563,10 +585,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
+			"name": "acacia_planks",
       "type": "full-block",
-      "texture": {
-        "all": "minecraft/textures/block/acacia_planks.png"
-      }
+      "textures": [
+				{
+        	"name": "all",
+					"texture": "minecraft/textures/block/acacia_planks.png"
+      	}
+			]
     }
   },
   {
