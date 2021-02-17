@@ -429,14 +429,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "acacia_door_bottom",
+      "name": "acacia_door_bottom",
       "type": "door",
       "textures": [
-				{
-        	"name": "all",
-					"texture": "minecraft/textures/block/acacia_door_bottom.png"
-      	}
-			]
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/acacia_door_bottom.png"
+        }
+      ]
     }
   },
   {
@@ -461,14 +461,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "acacia_door_top",
+      "name": "acacia_door_top",
       "type": "door",
       "textures": [
-				{
-        	"name": "all",
-					"texture": "minecraft/textures/block/acacia_door_top.png"
-      	}
-			]
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/acacia_door_top.png"
+        }
+      ]
     }
   },
   {
@@ -489,14 +489,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "acacia_leaves",
+      "name": "acacia_leaves",
       "type": "full-block",
       "textures": [
-				{
-        	"name": "all",
-					"texture": "minecraft/textures/block/acacia_leaves.png"
-      	}
-			]
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/acacia_leaves.png"
+        }
+      ]
     }
   },
   {
@@ -519,18 +519,18 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "acacia_log",
+      "name": "acacia_log",
       "type": "col-block",
       "textures": [
-				{
-        	"name": "side",
-					"texture": "minecraft/textures/block/acacia_log.png"
-      	},
-				{
-        	"name": "end",
-					"texture": "minecraft/textures/block/acacia_log_top.png"
-      	}
-			]
+        {
+          "name": "side",
+          "texture": "minecraft/textures/block/acacia_log.png"
+        },
+        {
+          "name": "end",
+          "texture": "minecraft/textures/block/acacia_log_top.png"
+        }
+      ]
     }
   },
   {
@@ -553,18 +553,18 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "acacia_log",
+      "name": "acacia_log",
       "type": "col-block",
       "textures": [
-				{
-        	"name": "side",
-					"texture": "minecraft/textures/block/acacia_log.png"
-      	},
-				{
-        	"name": "end",
-					"texture": "minecraft/textures/block/acacia_log_top.png"
-      	}
-			]
+        {
+          "name": "side",
+          "texture": "minecraft/textures/block/acacia_log.png"
+        },
+        {
+          "name": "end",
+          "texture": "minecraft/textures/block/acacia_log_top.png"
+        }
+      ]
     }
   },
   {
@@ -585,14 +585,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "acacia_planks",
+      "name": "acacia_planks",
       "type": "full-block",
       "textures": [
-				{
-        	"name": "all",
-					"texture": "minecraft/textures/block/acacia_planks.png"
-      	}
-			]
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/acacia_planks.png"
+        }
+      ]
     }
   },
   {
@@ -613,14 +613,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "acacia_sappling",
+      "name": "acacia_sappling",
       "type": "cross",
       "textures": [
-				{
-        	"name": "all",
-					"texture": "minecraft/textures/block/acacia_sapling.png"
-      	}
-			]
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/acacia_sapling.png"
+        }
+      ]
     }
   },
   {
@@ -636,14 +636,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "acacia_trapdoor",
+      "name": "acacia_trapdoor",
       "type": "trapdoor",
       "textures": [
-				{
-        	"name": "all",
-					"texture": "minecraft/textures/block/acacia_trapdoor.png"
-      	}
-			]
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/acacia_trapdoor.png"
+        }
+      ]
     }
   },
   {
@@ -664,14 +664,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "activator_rail",
+      "name": "activator_rail",
       "type": "rail",
       "textures": [
-				{
-        	"name": "all",
-					"texture": "minecraft/textures/block/activator_rail.png"
-      	}
-			]
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/activator_rail.png"
+        }
+      ]
     }
   },
   {
@@ -692,14 +692,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "activator_rail_on",
+      "name": "activator_rail_on",
       "type": "rail",
       "textures": [
-				{
-        	"name": "all",
-					"texture": "minecraft/textures/block/activator_rail_on.png"
-      	}
-			]
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/activator_rail_on.png"
+        }
+      ]
     }
   },
   {
@@ -720,14 +720,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "allium",
+      "name": "allium",
       "type": "cross",
       "textures": [
-				{
-        	"name": "all",
-					"texture": "minecraft/textures/block/allium.png"
-      	}
-			]
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/allium.png"
+        }
+      ]
     }
   },
   {
@@ -743,14 +743,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "amethyst_block",
+      "name": "amethyst_block",
       "type": "full-block",
       "textures": [
-				{
-        	"name": "all",
-					"texture": "minecraft/textures/block/amethyst_block.png"
-      	}
-			]
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/amethyst_block.png"
+        }
+      ]
     }
   },
   {
@@ -766,14 +766,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "amethyst_cluster",
+      "name": "amethyst_cluster",
       "type": "cross",
       "textures": [
-				{
-        	"name": "all",
-					"texture": "minecraft/textures/block/amethyst_cluster.png"
-      	}
-			]
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/amethyst_cluster.png"
+        }
+      ]
     }
   },
   {
@@ -790,18 +790,18 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "ancient_debris",
+      "name": "ancient_debris",
       "type": "col-block",
       "textures": [
-				{
-        	"name": "side",
-					"texture": "minecraft/textures/block/ancient_debris_side.png"
-      	},
-				{
-					"name": "end",
-					"texture": "minecraft/textures/block/ancient_debris_top.png"
-				}
-			]
+        {
+          "name": "side",
+          "texture": "minecraft/textures/block/ancient_debris_side.png"
+        },
+        {
+          "name": "end",
+          "texture": "minecraft/textures/block/ancient_debris_top.png"
+        }
+      ]
     }
   },
   {
@@ -818,18 +818,18 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "ancient_debris",
+      "name": "ancient_debris",
       "type": "col-block",
       "textures": [
-				{
-        	"name": "side",
-					"texture": "minecraft/textures/block/ancient_debris_side.png"
-      	},
-				{
-					"name": "end",
-					"texture": "minecraft/textures/block/ancient_debris_top.png"
-				}
-			]
+        {
+          "name": "side",
+          "texture": "minecraft/textures/block/ancient_debris_side.png"
+        },
+        {
+          "name": "end",
+          "texture": "minecraft/textures/block/ancient_debris_top.png"
+        }
+      ]
     }
   },
   {
@@ -850,14 +850,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-			"name": "andesite",
+      "name": "andesite",
       "type": "full-block",
       "textures": [
-				{
-        	"name": "all",
-					"texture": "minecraft/textures/block/andesite.png"
-      	}
-			]
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/andesite.png"
+        }
+      ]
     }
   },
   {
@@ -879,19 +879,19 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "anvil",
+    "render": {
+      "name": "anvil",
       "type": "anvil",
       "textures": [
-				{
-        	"name": "body",
-					"texture": "minecraft/textures/block/anvil.png"
-      	},
-				{
-					"name": "top",
-					"texture": "minecraft/textures/block/anvil_top.png"
-				}
-			]
+        {
+          "name": "body",
+          "texture": "minecraft/textures/block/anvil.png"
+        },
+        {
+          "name": "top",
+          "texture": "minecraft/textures/block/anvil_top.png"
+        }
+      ]
     }
   },
   {
@@ -913,23 +913,27 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "anvil",
+    "render": {
+      "name": "anvil",
       "type": "anvil",
       "textures": [
-				{
-        	"name": "body",
-					"texture": "minecraft/textures/block/anvil.png"
-      	},
-				{
-					"name": "top",
-					"texture": "minecraft/textures/block/anvil_top.png"
-				}
-			]
+        {
+          "name": "body",
+          "texture": "minecraft/textures/block/anvil.png"
+        },
+        {
+          "name": "top",
+          "texture": "minecraft/textures/block/anvil_top.png"
+        }
+      ]
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/attached_melon_stem.png",
@@ -941,19 +945,19 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "attached_melon_stem",
+    "render": {
+      "name": "attached_melon_stem",
       "type": "stem_attached",
       "textures": [
-				{
-        	"name": "upperstem",
-					"texture": "minecraft/textures/block/attached_melon_stem.png"
-      	},
-				{
-					"name": "stem",
-					"texture": "minecraft/textures/block/melon_stem.png"
-				}
-			]
+        {
+          "name": "upperstem",
+          "texture": "minecraft/textures/block/attached_melon_stem.png"
+        },
+        {
+          "name": "stem",
+          "texture": "minecraft/textures/block/melon_stem.png"
+        }
+      ]
     }
   },
   {
@@ -973,19 +977,19 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "attached_pumpkin_stem",
+    "render": {
+      "name": "attached_pumpkin_stem",
       "type": "stem_attached",
       "textures": [
-				{
-        	"name": "upperstem",
-					"texture": "minecraft/textures/block/attached_pumpkin_stem.png"
-      	},
-				{
-					"name": "stem",
-					"texture": "minecraft/textures/block/pumpkin_stem.png"
-				}
-			]
+        {
+          "name": "upperstem",
+          "texture": "minecraft/textures/block/attached_pumpkin_stem.png"
+        },
+        {
+          "name": "stem",
+          "texture": "minecraft/textures/block/pumpkin_stem.png"
+        }
+      ]
     }
   },
   {
@@ -1001,16 +1005,16 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "azalea_leaves",
-			"type": "full-block",
-			"textures": [
-				{
-					"name": "all",
-					"texture": "minecraft/textures/block/azalea_leaves.png"
-				}
-			]
-		}
+    "render": {
+      "name": "azalea_leaves",
+      "type": "full-block",
+      "textures": [
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/azalea_leaves.png"
+        }
+      ]
+    }
   },
   {
     "c32": {
@@ -1025,16 +1029,16 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "azalea_leaves_flowers",
-			"type": "full-block",
-			"textures": [
-				{
-					"name": "all",
-					"texture": "minecraft/textures/block/azalea_leaves_flowers.png"
-				}
-			]
-		}
+    "render": {
+      "name": "azalea_leaves_flowers",
+      "type": "full-block",
+      "textures": [
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/azalea_leaves_flowers.png"
+        }
+      ]
+    }
   },
   {
     "c32": {},
@@ -1044,24 +1048,24 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "azalea_plant",
-			"type": "azalea_plant",
-			"textures": [
-				{
-					"name": "top",
-					"texture": "minecraft/textures/block/azalea_top.png"
-				},
-				{
-					"name": "side",
-					"texture": "minecraft/textures/block/azalea_side.png"
-				},
-				{
-					"name": "plant",
-					"texture": "minecraft/textures/block/azalea_plant.png"
-				}
-			]
-		}
+    "render": {
+      "name": "azalea_plant",
+      "type": "azalea_plant",
+      "textures": [
+        {
+          "name": "top",
+          "texture": "minecraft/textures/block/azalea_top.png"
+        },
+        {
+          "name": "side",
+          "texture": "minecraft/textures/block/azalea_side.png"
+        },
+        {
+          "name": "plant",
+          "texture": "minecraft/textures/block/azalea_plant.png"
+        }
+      ]
+    }
   },
   {
     "c32": {},
@@ -1071,24 +1075,24 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "azalea_plant",
-			"type": "azalea_plant",
-			"textures": [
-				{
-					"name": "top",
-					"texture": "minecraft/textures/block/azalea_top.png"
-				},
-				{
-					"name": "side",
-					"texture": "minecraft/textures/block/azalea_side.png"
-				},
-				{
-					"name": "plant",
-					"texture": "minecraft/textures/block/azalea_plant.png"
-				}
-			]
-		}
+    "render": {
+      "name": "azalea_plant",
+      "type": "azalea_plant",
+      "textures": [
+        {
+          "name": "top",
+          "texture": "minecraft/textures/block/azalea_top.png"
+        },
+        {
+          "name": "side",
+          "texture": "minecraft/textures/block/azalea_side.png"
+        },
+        {
+          "name": "plant",
+          "texture": "minecraft/textures/block/azalea_plant.png"
+        }
+      ]
+    }
   },
   {
     "c32": {},
@@ -1098,24 +1102,24 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "azalea_plant",
-			"type": "azalea_plant",
-			"textures": [
-				{
-					"name": "top",
-					"texture": "minecraft/textures/block/azalea_top.png"
-				},
-				{
-					"name": "side",
-					"texture": "minecraft/textures/block/azalea_side.png"
-				},
-				{
-					"name": "plant",
-					"texture": "minecraft/textures/block/azalea_plant.png"
-				}
-			]
-		}
+    "render": {
+      "name": "azalea_plant",
+      "type": "azalea_plant",
+      "textures": [
+        {
+          "name": "top",
+          "texture": "minecraft/textures/block/azalea_top.png"
+        },
+        {
+          "name": "side",
+          "texture": "minecraft/textures/block/azalea_side.png"
+        },
+        {
+          "name": "plant",
+          "texture": "minecraft/textures/block/azalea_plant.png"
+        }
+      ]
+    }
   },
   {
     "c32": {
@@ -1133,16 +1137,16 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "azure_bluet",
-			"type": "cross",
-			"textures": [
-				{
-					"name": "all",
-					"texture": "minecraft/textures/block/azure_bluet.png"
-				}
-			]
-		}
+    "render": {
+      "name": "azure_bluet",
+      "type": "cross",
+      "textures": [
+        {
+          "name": "all",
+          "texture": "minecraft/textures/block/azure_bluet.png"
+        }
+      ]
+    }
   },
   {
     "c32": {},
@@ -1861,7 +1865,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/black_stained_glass.png",
@@ -1875,7 +1883,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/black_stained_glass_pane_top.png",
@@ -2080,7 +2092,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/blue_stained_glass.png",
@@ -2094,7 +2110,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/blue_stained_glass_pane_top.png",
@@ -2387,7 +2407,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/brown_stained_glass.png",
@@ -2401,7 +2425,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/brown_stained_glass_pane_top.png",
@@ -2692,7 +2720,8 @@
     "c32": {
       "author": [
         "331073143613423616",
-        "402504493255884800"
+        "402504493255884800",
+        "280854181747884043"
       ]
     },
     "c64": {},
@@ -3068,19 +3097,19 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "anvil_chipped",
+    "render": {
+      "name": "anvil_chipped",
       "type": "anvil",
       "textures": [
-				{
-        	"name": "body",
-					"texture": "minecraft/textures/block/anvil.png"
-      	},
-				{
-					"name": "top",
-					"texture": "minecraft/textures/block/chipped_anvil_top.png"
-				}
-			]
+        {
+          "name": "body",
+          "texture": "minecraft/textures/block/anvil.png"
+        },
+        {
+          "name": "top",
+          "texture": "minecraft/textures/block/chipped_anvil_top.png"
+        }
+      ]
     }
   },
   {
@@ -3573,7 +3602,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {
       "author": [
         "340497757410295808"
@@ -3971,7 +4004,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/cyan_stained_glass.png",
@@ -3985,7 +4022,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/cyan_stained_glass_pane_top.png",
@@ -4039,19 +4080,19 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "anvil_damaged",
+    "render": {
+      "name": "anvil_damaged",
       "type": "anvil",
       "textures": [
-				{
-        	"name": "body",
-					"texture": "minecraft/textures/block/anvil.png"
-      	},
-				{
-					"name": "top",
-					"texture": "minecraft/textures/block/damaged_anvil_top.png"
-				}
-			]
+        {
+          "name": "body",
+          "texture": "minecraft/textures/block/anvil.png"
+        },
+        {
+          "name": "top",
+          "texture": "minecraft/textures/block/damaged_anvil_top.png"
+        }
+      ]
     }
   },
   {
@@ -5417,24 +5458,24 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "flowering_azalea_plant",
-			"type": "azalea_plant",
-			"textures": [
-				{
-					"name": "top",
-					"texture": "minecraft/textures/block/flowering_azalea_top.png"
-				},
-				{
-					"name": "side",
-					"texture": "minecraft/textures/block/flowering_azalea_side.png"
-				},
-				{
-					"name": "plant",
-					"texture": "minecraft/textures/block/azalea_plant.png"
-				}
-			]
-		}
+    "render": {
+      "name": "flowering_azalea_plant",
+      "type": "azalea_plant",
+      "textures": [
+        {
+          "name": "top",
+          "texture": "minecraft/textures/block/flowering_azalea_top.png"
+        },
+        {
+          "name": "side",
+          "texture": "minecraft/textures/block/flowering_azalea_side.png"
+        },
+        {
+          "name": "plant",
+          "texture": "minecraft/textures/block/azalea_plant.png"
+        }
+      ]
+    }
   },
   {
     "c32": {},
@@ -5444,24 +5485,24 @@
     },
     "isBedrock": false,
     "bedrock": {},
-		"render": {
-			"name": "azalea_plant",
-			"type": "azalea_plant",
-			"textures": [
-				{
-					"name": "top",
-					"texture": "minecraft/textures/block/flowering_azalea_top.png"
-				},
-				{
-					"name": "side",
-					"texture": "minecraft/textures/block/flowering_azalea_side.png"
-				},
-				{
-					"name": "plant",
-					"texture": "minecraft/textures/block/azalea_plant.png"
-				}
-			]
-		}
+    "render": {
+      "name": "azalea_plant",
+      "type": "azalea_plant",
+      "textures": [
+        {
+          "name": "top",
+          "texture": "minecraft/textures/block/flowering_azalea_top.png"
+        },
+        {
+          "name": "side",
+          "texture": "minecraft/textures/block/flowering_azalea_side.png"
+        },
+        {
+          "name": "plant",
+          "texture": "minecraft/textures/block/azalea_plant.png"
+        }
+      ]
+    }
   },
   {
     "c32": {},
@@ -5606,7 +5647,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/glass.png",
@@ -5620,7 +5665,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/glass_pane_top.png",
@@ -5908,7 +5957,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/gray_stained_glass.png",
@@ -5922,7 +5975,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/gray_stained_glass_pane_top.png",
@@ -6033,7 +6090,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/green_stained_glass.png",
@@ -6047,7 +6108,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/green_stained_glass_pane_top.png",
@@ -7057,7 +7122,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_blue_stained_glass.png",
@@ -7071,7 +7140,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_blue_stained_glass_pane_top.png",
@@ -7182,7 +7255,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_gray_stained_glass.png",
@@ -7196,7 +7273,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_gray_stained_glass_pane_top.png",
@@ -7373,7 +7454,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/lime_stained_glass.png",
@@ -7387,7 +7472,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/lime_stained_glass_pane_top.png",
@@ -7457,7 +7546,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/loom_bottom.png",
@@ -7469,7 +7562,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/loom_front.png",
@@ -7481,7 +7578,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/loom_side.png",
@@ -7493,7 +7594,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/loom_top.png",
@@ -7578,7 +7683,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/magenta_stained_glass.png",
@@ -7592,7 +7701,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/magenta_stained_glass_pane_top.png",
@@ -7679,7 +7792,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/melon_stem.png",
@@ -8337,7 +8454,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/orange_stained_glass.png",
@@ -8351,7 +8472,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/orange_stained_glass_pane_top.png",
@@ -8547,7 +8672,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/pink_stained_glass.png",
@@ -8561,7 +8690,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/pink_stained_glass_pane_top.png",
@@ -9308,7 +9441,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/purple_stained_glass.png",
@@ -9322,7 +9459,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/purple_stained_glass_pane_top.png",
@@ -9882,7 +10023,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/red_stained_glass.png",
@@ -9896,7 +10041,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/red_stained_glass_pane_top.png",
@@ -12417,7 +12566,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/white_stained_glass.png",
@@ -12431,7 +12584,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/white_stained_glass_pane_top.png",
@@ -12579,7 +12736,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/yellow_stained_glass.png",
@@ -12593,7 +12754,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/yellow_stained_glass_pane_top.png",
@@ -20014,7 +20179,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/bamboo.png",
@@ -20527,7 +20696,8 @@
   {
     "c32": {
       "author": [
-        "340497757410295808"
+        "340497757410295808",
+        "280854181747884043"
       ]
     },
     "c64": {},
@@ -26070,7 +26240,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/pufferfish.png",
@@ -26971,7 +27145,8 @@
   {
     "c32": {
       "author": [
-        "389357651852787712"
+        "389357651852787712",
+        "280854181747884043"
       ]
     },
     "c64": {},
@@ -28878,7 +29053,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/particle/drip_fall.png",
@@ -28890,7 +29069,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/particle/drip_hang.png",
@@ -28902,7 +29085,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/particle/drip_land.png",
