@@ -524,7 +524,7 @@
       "textures": [
 				{
         	"name": "side",
-					"texture": "minecraft/textures/block/acacia_log_side.png"
+					"texture": "minecraft/textures/block/acacia_log.png"
       	},
 				{
         	"name": "end",
@@ -558,7 +558,7 @@
       "textures": [
 				{
         	"name": "side",
-					"texture": "minecraft/textures/block/acacia_log_side.png"
+					"texture": "minecraft/textures/block/acacia_log.png"
       	},
 				{
         	"name": "end",
@@ -613,10 +613,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
+			"name": "acacia_sappling",
       "type": "cross",
-      "texture": {
-        "all": "minecraft/textures/block/acacia_sapling.png"
-      }
+      "textures": [
+				{
+        	"name": "all",
+					"texture": "minecraft/textures/block/acacia_sappling.png"
+      	}
+			]
     }
   },
   {
@@ -632,10 +636,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
+			"name": "acacia_trapdoor",
       "type": "trapdoor",
-      "texture": {
-        "all": "minecraft/textures/block/acacia_trapdoor.png"
-      }
+      "textures": [
+				{
+        	"name": "all",
+					"texture": "minecraft/textures/block/acacia_trapdoor.png"
+      	}
+			]
     }
   },
   {
