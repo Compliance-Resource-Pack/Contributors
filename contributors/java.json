@@ -618,7 +618,7 @@
       "textures": [
 				{
         	"name": "all",
-					"texture": "minecraft/textures/block/acacia_sappling.png"
+					"texture": "minecraft/textures/block/acacia_sapling.png"
       	}
 			]
     }
@@ -664,10 +664,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-      "type": "flat",
-      "texture": {
-        "all": "minecraft/textures/block/activator_rail.png"
-      }
+			"name": "activator_rail",
+      "type": "rail",
+      "textures": [
+				{
+        	"name": "all",
+					"texture": "minecraft/textures/block/activator_rail.png"
+      	}
+			]
     }
   },
   {
@@ -688,10 +692,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-      "type": "flat",
-      "texture": {
-        "all": "minecraft/textures/block/activator_rail_on.png"
-      }
+			"name": "activator_rail_on",
+      "type": "rail",
+      "textures": [
+				{
+        	"name": "all",
+					"texture": "minecraft/textures/block/activator_rail_on.png"
+      	}
+			]
     }
   },
   {
@@ -712,10 +720,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
+			"name": "allium",
       "type": "cross",
-      "texture": {
-        "all": "minecraft/textures/block/allium.png"
-      }
+      "textures": [
+				{
+        	"name": "all",
+					"texture": "minecraft/textures/block/allium.png"
+      	}
+			]
     }
   },
   {
@@ -731,10 +743,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
+			"name": "amethyst_block",
       "type": "full-block",
-      "texture": {
-        "all": "minecraft/textures/block/amethyst_block.png"
-      }
+      "textures": [
+				{
+        	"name": "all",
+					"texture": "minecraft/textures/block/amethyst_block.png"
+      	}
+			]
     }
   },
   {
@@ -750,10 +766,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
+			"name": "amethyst_cluster",
       "type": "cross",
-      "texture": {
-        "all": "minecraft/textures/block/amethyst_cluster.png"
-      }
+      "textures": [
+				{
+        	"name": "all",
+					"texture": "minecraft/textures/block/amethyst_cluster.png"
+      	}
+			]
     }
   },
   {
@@ -770,11 +790,18 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-      "type": "column-block",
-      "texture": {
-        "side": "minecraft/textures/block/ancient_debris_side.png",
-        "end": "minecraft/textures/block/ancient_debris_top.png"
-      }
+			"name": "ancient_debris",
+      "type": "col-block",
+      "textures": [
+				{
+        	"name": "side",
+					"texture": "minecraft/textures/block/ancient_debris_side.png"
+      	},
+				{
+					"name": "end",
+					"texture": "minecraft/textures/block/ancient_debris_top.png"
+				}
+			]
     }
   },
   {
@@ -791,11 +818,18 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-      "type": "column-block",
-      "texture": {
-        "side": "minecraft/textures/block/ancient_debris_side.png",
-        "end": "minecraft/textures/block/ancient_debris_top.png"
-      }
+			"name": "ancient_debris",
+      "type": "col-block",
+      "textures": [
+				{
+        	"name": "side",
+					"texture": "minecraft/textures/block/ancient_debris_side.png"
+      	},
+				{
+					"name": "end",
+					"texture": "minecraft/textures/block/ancient_debris_top.png"
+				}
+			]
     }
   },
   {
@@ -816,10 +850,14 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
+			"name": "andesite",
       "type": "full-block",
-      "texture": {
-        "all": "minecraft/textures/block/andesite.png"
-      }
+      "textures": [
+				{
+        	"name": "all",
+					"texture": "minecraft/textures/block/andesite.png"
+      	}
+			]
     }
   },
   {
@@ -840,7 +878,21 @@
       "1.12.2": "minecraft/textures/blocks/anvil_base.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "anvil",
+      "type": "anvil",
+      "textures": [
+				{
+        	"name": "body",
+					"texture": "minecraft/textures/block/anvil.png"
+      	},
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/anvil_top_damaged_0.png"
+				}
+			]
+    }
   },
   {
     "c32": {
@@ -860,7 +912,21 @@
       "1.12.2": "minecraft/textures/blocks/anvil_top_damaged_0.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "anvil",
+      "type": "anvil",
+      "textures": [
+				{
+        	"name": "body",
+					"texture": "minecraft/textures/block/anvil.png"
+      	},
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/anvil_top.png"
+				}
+			]
+    }
   },
   {
     "c32": {},
@@ -2889,7 +2955,21 @@
       "1.12.2": "minecraft/textures/blocks/anvil_top_damaged_1.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "anvil_chipped",
+      "type": "anvil",
+      "textures": [
+				{
+        	"name": "body",
+					"texture": "minecraft/textures/block/anvil.png"
+      	},
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/chipped_anvil_top.png"
+				}
+			]
+    }
   },
   {
     "c32": {
@@ -3846,7 +3926,21 @@
       "1.12.2": "minecraft/textures/blocks/anvil_top_damaged_2.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "anvil_damaged",
+      "type": "anvil",
+      "textures": [
+				{
+        	"name": "body",
+					"texture": "minecraft/textures/block/anvil.png"
+      	},
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/damaged_anvil_top.png"
+				}
+			]
+    }
   },
   {
     "c32": {
