@@ -712,7 +712,7 @@
     "isBedrock": false,
     "bedrock": {},
     "render": {
-      "type": "full-block",
+      "type": "cross",
       "texture": {
         "all": "minecraft/textures/block/amethyst_cluster.png"
       }
@@ -5857,7 +5857,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "692740123627880459"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/hanging_roots.png"
@@ -18606,7 +18610,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/recipe_book.png",
@@ -19218,7 +19226,8 @@
       "author": [
         "484371204153540611",
         "407235780411523072",
-        "426164900855939075"
+        "426164900855939075",
+        "285902386701271050"
       ],
       "date": "12/11/2020"
     },

@@ -45,11 +45,14 @@
       "pretending that posted work is made by him, even though that's not true, for the third time"
     ],
     "muted": true,
-    "timeout": 440190
+    "timeout": 416610
   },
   {
     "user": "412986918901645313",
     "timeout": 0,
-    "muted": false
+    "muted": false,
+    "warn": [
+      "nsfw"
+    ]
   }
 ]
