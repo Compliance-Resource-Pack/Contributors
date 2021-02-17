@@ -889,7 +889,7 @@
       	},
 				{
 					"name": "top",
-					"texture": "minecraft/textures/block/anvil_top_damaged_0.png"
+					"texture": "minecraft/textures/block/anvil_top.png"
 				}
 			]
     }
@@ -940,7 +940,21 @@
       "1.12.2": "minecraft/textures/blocks/melon_stem_connected.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "attached_melon_stem",
+      "type": "stem_attached",
+      "textures": [
+				{
+        	"name": "upperstem",
+					"texture": "minecraft/textures/block/attached_melon_stem.png"
+      	},
+				{
+					"name": "stem",
+					"texture": "minecraft/textures/block/melon_stem.png"
+				}
+			]
+    }
   },
   {
     "c32": {
@@ -958,7 +972,21 @@
       "1.12.2": "minecraft/textures/blocks/pumpkin_stem_connected.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "attached_pumpkin_stem",
+      "type": "stem_attached",
+      "textures": [
+				{
+        	"name": "upperstem",
+					"texture": "minecraft/textures/block/attached_pumpkin_stem.png"
+      	},
+				{
+					"name": "stem",
+					"texture": "minecraft/textures/block/pumpkin_stem.png"
+				}
+			]
+    }
   },
   {
     "c32": {
@@ -972,7 +1000,17 @@
       "1.17": "minecraft/textures/block/azalea_leaves.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "azalea_leaves",
+			"type": "full-block",
+			"textures": [
+				{
+					"name": "all",
+					"texture": "minecraft/textures/block/azalea_leaves.png"
+				}
+			]
+		}
   },
   {
     "c32": {
@@ -986,7 +1024,17 @@
       "1.17": "minecraft/textures/block/azalea_leaves_flowers.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "azalea_leaves_flowers",
+			"type": "full-block",
+			"textures": [
+				{
+					"name": "all",
+					"texture": "minecraft/textures/block/azalea_leaves_flowers.png"
+				}
+			]
+		}
   },
   {
     "c32": {},
@@ -995,7 +1043,25 @@
       "1.17": "minecraft/textures/block/azalea_plant.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "azalea_plant",
+			"type": "azalea_plant",
+			"textures": [
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/azalea_top.png"
+				},
+				{
+					"name": "side",
+					"texture": "minecraft/textures/block/azalea_side.png"
+				},
+				{
+					"name": "plant",
+					"texture": "minecraft/textures/block/azalea_plant.png"
+				}
+			]
+		}
   },
   {
     "c32": {},
@@ -1004,7 +1070,25 @@
       "1.17": "minecraft/textures/block/azalea_side.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "azalea_plant",
+			"type": "azalea_plant",
+			"textures": [
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/azalea_top.png"
+				},
+				{
+					"name": "side",
+					"texture": "minecraft/textures/block/azalea_side.png"
+				},
+				{
+					"name": "plant",
+					"texture": "minecraft/textures/block/azalea_plant.png"
+				}
+			]
+		}
   },
   {
     "c32": {},
@@ -1013,7 +1097,25 @@
       "1.17": "minecraft/textures/block/azalea_top.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "azalea_plant",
+			"type": "azalea_plant",
+			"textures": [
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/azalea_top.png"
+				},
+				{
+					"name": "side",
+					"texture": "minecraft/textures/block/azalea_side.png"
+				},
+				{
+					"name": "plant",
+					"texture": "minecraft/textures/block/azalea_plant.png"
+				}
+			]
+		}
   },
   {
     "c32": {
@@ -1030,7 +1132,17 @@
       "1.13.2": "minecraft/textures/block/azure_bluet.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "azure_bluet",
+			"type": "cross",
+			"textures": [
+				{
+					"name": "all",
+					"texture": "minecraft/textures/block/azure_bluet.png"
+				}
+			]
+		}
   },
   {
     "c32": {},
@@ -5304,7 +5416,25 @@
       "1.17": "minecraft/textures/block/flowering_azalea_side.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "flowering_azalea_plant",
+			"type": "azalea_plant",
+			"textures": [
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/flowering_azalea_top.png"
+				},
+				{
+					"name": "side",
+					"texture": "minecraft/textures/block/flowering_azalea_side.png"
+				},
+				{
+					"name": "plant",
+					"texture": "minecraft/textures/block/azalea_plant.png"
+				}
+			]
+		}
   },
   {
     "c32": {},
@@ -5313,7 +5443,25 @@
       "1.17": "minecraft/textures/block/flowering_azalea_top.png"
     },
     "isBedrock": false,
-    "bedrock": {}
+    "bedrock": {},
+		"render": {
+			"name": "azalea_plant",
+			"type": "azalea_plant",
+			"textures": [
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/flowering_azalea_top.png"
+				},
+				{
+					"name": "side",
+					"texture": "minecraft/textures/block/flowering_azalea_side.png"
+				},
+				{
+					"name": "plant",
+					"texture": "minecraft/textures/block/azalea_plant.png"
+				}
+			]
+		}
   },
   {
     "c32": {},
