@@ -433,7 +433,8 @@
       "type": "door",
       "textures": [
 				{
-        	"name": "door", "texture": "minecraft/textures/block/acacia_door_bottom.png"
+        	"name": "door",
+					"texture": "minecraft/textures/block/acacia_door_bottom.png"
       	}
 			]
     }

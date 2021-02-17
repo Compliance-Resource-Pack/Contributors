@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"all": "door"
+		"all": "block/door"
 	},
 	"elements": [
 		{
