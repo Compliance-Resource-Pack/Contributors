@@ -1834,7 +1834,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "389357651852787712"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/black_glazed_terracotta.png",
@@ -4507,7 +4511,11 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/dead_tube_coral_block.png",
       "1.16.5": "minecraft/textures/block/dead_tube_coral_block.png",
@@ -10514,7 +10522,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "401627057915691009"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/small_dripleaf_stem_bottom.png"
@@ -10523,7 +10535,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "401627057915691009"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/small_dripleaf_stem_top.png"
@@ -11806,7 +11822,11 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/tube_coral_block.png",
       "1.16.5": "minecraft/textures/block/tube_coral_block.png",
@@ -15728,7 +15748,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "401627057915691009"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/llama/spit.png",
@@ -19047,7 +19071,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {
       "author": [
         "389357651852787712"
@@ -19065,7 +19093,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/advancements/widgets.png",
@@ -19079,7 +19111,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {
       "author": [
         "389357651852787712"
@@ -23469,7 +23505,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {
       "author": [
         "389357651852787712"
