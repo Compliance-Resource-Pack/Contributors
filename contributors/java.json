@@ -2026,11 +2026,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "389357651852787712"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/blue_glazed_terracotta.png",
@@ -2330,11 +2326,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "389357651852787712"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/brown_glazed_terracotta.png",
@@ -3094,6 +3086,15 @@
         }
       ]
     }
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/chiseled_grimstone.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
   },
   {
     "c32": {
@@ -5239,11 +5240,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/farmland.png",
       "1.16.5": "minecraft/textures/block/farmland.png",
@@ -5263,11 +5260,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/farmland_moist.png",
       "1.16.5": "minecraft/textures/block/farmland_moist.png",
@@ -9020,6 +9013,15 @@
       "1.14.4": "minecraft/textures/block/polished_granite.png",
       "1.13.2": "minecraft/textures/block/polished_granite.png",
       "1.12.2": "minecraft/textures/blocks/stone_granite_smooth.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/polished_grimstone.png"
     },
     "isBedrock": false,
     "bedrock": {}
@@ -18210,11 +18212,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "407235780411523072"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/wolf/wolf_tame.png",
@@ -19439,6 +19437,33 @@
       "1.14.4": "minecraft/textures/gui/container/generic_54.png",
       "1.13.2": "minecraft/textures/gui/container/generic_54.png",
       "1.12.2": "minecraft/textures/gui/container/generic_54.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/grimstone.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/grimstone_bricks.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/grimstone_tiles.png"
     },
     "isBedrock": false,
     "bedrock": {}
@@ -24122,8 +24147,7 @@
     },
     "c64": {
       "author": [
-        "340497757410295808",
-        "729617269243773008"
+        "340497757410295808"
       ]
     },
     "version": {
@@ -24489,8 +24513,7 @@
   {
     "c32": {
       "author": [
-        "280854181747884043",
-        "692740123627880459"
+        "280854181747884043"
       ]
     },
     "c64": {},
