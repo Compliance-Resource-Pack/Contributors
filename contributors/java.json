@@ -11351,7 +11351,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "389357651852787712"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/structure_block.png",
@@ -11365,7 +11369,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "389357651852787712"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/structure_block_corner.png",
@@ -11379,7 +11387,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "389357651852787712"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/structure_block_data.png",
@@ -11393,7 +11405,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "389357651852787712"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/structure_block_load.png",
@@ -11407,7 +11423,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "389357651852787712"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/structure_block_save.png",
@@ -23541,11 +23561,7 @@
         "729617269243773008"
       ]
     },
-    "c64": {
-      "author": [
-        "729617269243773008"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/diamond_sword.png",
       "1.16.5": "minecraft/textures/item/diamond_sword.png",
@@ -24372,11 +24388,7 @@
         "729617269243773008"
       ]
     },
-    "c64": {
-      "author": [
-        "729617269243773008"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/golden_sword.png",
       "1.16.5": "minecraft/textures/item/golden_sword.png",
@@ -24799,11 +24811,7 @@
         "729617269243773008"
       ]
     },
-    "c64": {
-      "author": [
-        "729617269243773008"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/iron_sword.png",
       "1.16.5": "minecraft/textures/item/iron_sword.png",
