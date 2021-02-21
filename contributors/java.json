@@ -3290,6 +3290,7 @@
     },
     "c64": {},
     "version": {
+      "1.17": "minecraft/textures/block/coal_ore.png",
       "1.16.5": "minecraft/textures/block/coal_ore.png",
       "1.15.2": "minecraft/textures/block/coal_ore.png",
       "1.14.4": "minecraft/textures/block/coal_ore.png",
@@ -5711,6 +5712,7 @@
     },
     "c64": {},
     "version": {
+      "1.17": "minecraft/textures/block/gold_ore.png",
       "1.16.5": "minecraft/textures/block/gold_ore.png",
       "1.15.2": "minecraft/textures/block/gold_ore.png",
       "1.14.4": "minecraft/textures/block/gold_ore.png",
@@ -6434,6 +6436,7 @@
     },
     "c64": {},
     "version": {
+      "1.17": "minecraft/textures/block/iron_ore.png",
       "1.16.5": "minecraft/textures/block/iron_ore.png",
       "1.15.2": "minecraft/textures/block/iron_ore.png",
       "1.14.4": "minecraft/textures/block/iron_ore.png",
@@ -9662,6 +9665,7 @@
     },
     "c64": {},
     "version": {
+      "1.17": "minecraft/textures/block/redstone_ore.png",
       "1.16.5": "minecraft/textures/block/redstone_ore.png",
       "1.15.2": "minecraft/textures/block/redstone_ore.png",
       "1.14.4": "minecraft/textures/block/redstone_ore.png",
@@ -30611,42 +30615,6 @@
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/particle/vibration.png"
-    },
-    "isBedrock": false,
-    "bedrock": {}
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/block/coal_ore_2.png"
-    },
-    "isBedrock": false,
-    "bedrock": {}
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/block/iron_ore_2.png"
-    },
-    "isBedrock": false,
-    "bedrock": {}
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/block/gold_ore_2.png"
-    },
-    "isBedrock": false,
-    "bedrock": {}
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/block/redstone_ore_2.png"
     },
     "isBedrock": false,
     "bedrock": {}

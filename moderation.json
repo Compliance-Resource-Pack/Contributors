@@ -16,8 +16,8 @@
   },
   {
     "user": "285902386701271050",
-    "timeout": 0,
-    "muted": false,
+    "timeout": 604200,
+    "muted": true,
     "warn": [
       "politcs"
     ]
@@ -45,7 +45,7 @@
       "pretending that posted work is made by him, even though that's not true, for the third time"
     ],
     "muted": true,
-    "timeout": 209610
+    "timeout": 181290
   },
   {
     "user": "412986918901645313",
@@ -65,6 +65,11 @@
   },
   {
     "user": "312518028267094018",
+    "timeout": 0,
+    "muted": false
+  },
+  {
+    "user": "775068179235471441",
     "timeout": 0,
     "muted": false
   }
