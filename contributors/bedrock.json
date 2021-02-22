@@ -10155,7 +10155,11 @@
     "path": "textures/ui/CreateNewWorld.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "FabriXd#8017"
+      ]
+    },
     "c64": {},
     "path": "textures/ui/creative_icon.png"
   },
