@@ -20032,7 +20032,11 @@
       ],
       "date": "12/04/2020"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "674962022915506245"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/amethyst_shard.png"
     },
