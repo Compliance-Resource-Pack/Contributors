@@ -1,10 +1,6 @@
 [
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/accept_icon.png",
@@ -28,11 +24,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/configure_icon.png",
@@ -44,11 +36,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/cross_icon.png",
@@ -60,11 +48,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/cross_player_icon.png",
@@ -88,11 +72,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/empty_frame.png",
@@ -116,11 +96,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/expired_icon.png",
@@ -132,11 +108,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/expires_soon_icon.png",
@@ -160,11 +132,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/invitation_icons.png",
@@ -188,11 +156,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/leave_icon.png",
@@ -204,11 +168,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/link_icons.png",
@@ -220,11 +180,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/news_icon.png",
@@ -236,11 +192,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/news_notification_mainscreen.png",
@@ -264,11 +216,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/off_icon.png",
@@ -280,11 +228,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/on_icon.png",
@@ -296,11 +240,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/op_icon.png",
@@ -324,11 +264,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/popup.png",
@@ -340,11 +276,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/questionmark.png",
@@ -356,11 +288,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/reject_icon.png",
@@ -372,11 +300,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/restore_icon.png",
@@ -388,11 +312,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/slot_frame.png",
@@ -416,11 +336,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/trailer_icons.png",
@@ -432,11 +348,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/trial_icon.png",
@@ -460,11 +372,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/user_icon.png",
@@ -476,11 +384,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/world_icon.png",
@@ -2365,8 +2269,10 @@
   {
     "c32": {
       "author": [
-        "340497757410295808"
-      ]
+        "340497757410295808",
+        "672989591283695618"
+      ],
+      "date": "02/24/2021"
     },
     "c64": {},
     "version": {
@@ -5180,8 +5086,10 @@
   {
     "c32": {
       "author": [
-        "396123108248911873"
-      ]
+        "396123108248911873",
+        "729617269243773008"
+      ],
+      "date": "02/24/2021"
     },
     "c64": {},
     "version": {
@@ -7149,8 +7057,10 @@
   {
     "c32": {
       "author": [
-        "280854181747884043"
-      ]
+        "280854181747884043",
+        "389357651852787712"
+      ],
+      "date": "02/24/2021"
     },
     "c64": {},
     "version": {
@@ -7276,7 +7186,12 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "389357651852787712"
+      ],
+      "date": "02/24/2021"
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_gray_glazed_terracotta.png",
@@ -7467,11 +7382,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "389357651852787712"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/lime_glazed_terracotta.png",
@@ -18992,11 +18903,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/book.png",
@@ -19384,7 +19291,8 @@
   {
     "c32": {
       "author": [
-        "484371204153540611"
+        "484371204153540611",
+        "285902386701271050"
       ],
       "date": "12/11/2020"
     },
@@ -20776,8 +20684,7 @@
     "c32": {
       "author": [
         "340497757410295808",
-        "280854181747884043",
-        "729617269243773008"
+        "280854181747884043"
       ],
       "date": "12/04/2020"
     },

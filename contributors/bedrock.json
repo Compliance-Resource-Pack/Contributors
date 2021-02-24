@@ -6885,7 +6885,12 @@
     "path": "textures/items/dragons_breath.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "729617269243773008"
+      ],
+      "date": "02/24/2021"
+    },
     "c64": {},
     "path": "textures/items/dragon_fireball.png"
   },
@@ -11455,11 +11460,7 @@
     "path": "textures/ui/icon_recipe_equipment.png"
   },
   {
-    "c32": {
-      "author": [
-        "FabriXd#8017"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "path": "textures/ui/icon_recipe_item.png"
   },
