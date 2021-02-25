@@ -144,7 +144,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "realms/textures/gui/realms/invite_icon.png",
@@ -5034,7 +5038,11 @@
         "674962022915506245"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/dripstone_block.png"
     },
@@ -7495,7 +7503,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/loom_bottom.png",
       "1.16.5": "minecraft/textures/block/loom_bottom.png",
@@ -7507,7 +7519,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/loom_front.png",
       "1.16.5": "minecraft/textures/block/loom_front.png",
@@ -7531,7 +7547,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/loom_top.png",
       "1.16.5": "minecraft/textures/block/loom_top.png",
@@ -7735,7 +7755,11 @@
         "340497757410295808"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/melon_top.png",
       "1.16.5": "minecraft/textures/block/melon_top.png",
@@ -7833,7 +7857,11 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/mycelium_side.png",
       "1.16.5": "minecraft/textures/block/mycelium_side.png",
@@ -7847,7 +7875,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/mycelium_top.png",
       "1.16.5": "minecraft/textures/block/mycelium_top.png",
@@ -9241,7 +9273,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/pumpkin_side.png",
       "1.16.5": "minecraft/textures/block/pumpkin_side.png",
@@ -9277,7 +9313,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/pumpkin_top.png",
       "1.16.5": "minecraft/textures/block/pumpkin_top.png",
@@ -9824,7 +9864,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/red_mushroom_block.png",
       "1.16.5": "minecraft/textures/block/red_mushroom_block.png",
@@ -14619,7 +14663,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "532669897541550080"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/chest/trapped.png",
@@ -14633,7 +14681,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "532669897541550080"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/chest/trapped_left.png",
@@ -14647,7 +14699,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "532669897541550080"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/chest/trapped_right.png",
@@ -19491,7 +19547,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "464598667425349633"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/grimstone.png"
