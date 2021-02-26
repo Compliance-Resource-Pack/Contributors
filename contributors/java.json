@@ -2710,7 +2710,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/carrots_stage0.png",
       "1.16.5": "minecraft/textures/block/carrots_stage0.png",
@@ -2724,7 +2728,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/carrots_stage1.png",
       "1.16.5": "minecraft/textures/block/carrots_stage1.png",
@@ -2738,7 +2746,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/carrots_stage2.png",
       "1.16.5": "minecraft/textures/block/carrots_stage2.png",
@@ -2752,7 +2764,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/carrots_stage3.png",
       "1.16.5": "minecraft/textures/block/carrots_stage3.png",
@@ -7998,7 +8014,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/nether_wart_stage0.png",
       "1.16.5": "minecraft/textures/block/nether_wart_stage0.png",
@@ -8016,7 +8036,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/nether_wart_stage1.png",
       "1.16.5": "minecraft/textures/block/nether_wart_stage1.png",
@@ -8034,7 +8058,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/nether_wart_stage2.png",
       "1.16.5": "minecraft/textures/block/nether_wart_stage2.png",
@@ -11435,8 +11463,7 @@
   {
     "c32": {
       "author": [
-        "389357651852787712",
-        "473860522710794250"
+        "389357651852787712"
       ]
     },
     "c64": {},
@@ -12297,7 +12324,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/wheat_stage0.png",
       "1.16.5": "minecraft/textures/block/wheat_stage0.png",
@@ -12315,7 +12346,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/wheat_stage1.png",
       "1.16.5": "minecraft/textures/block/wheat_stage1.png",
@@ -12333,7 +12368,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/wheat_stage2.png",
       "1.16.5": "minecraft/textures/block/wheat_stage2.png",
@@ -12351,7 +12390,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/wheat_stage3.png",
       "1.16.5": "minecraft/textures/block/wheat_stage3.png",
@@ -12369,7 +12412,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/wheat_stage4.png",
       "1.16.5": "minecraft/textures/block/wheat_stage4.png",
@@ -12387,7 +12434,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/wheat_stage5.png",
       "1.16.5": "minecraft/textures/block/wheat_stage5.png",
@@ -12405,7 +12456,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/wheat_stage6.png",
       "1.16.5": "minecraft/textures/block/wheat_stage6.png",
@@ -12423,7 +12478,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/wheat_stage7.png",
       "1.16.5": "minecraft/textures/block/wheat_stage7.png",
