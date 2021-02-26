@@ -3109,7 +3109,7 @@
     "c32": {},
     "c64": {},
     "version": {
-      "1.17": "minecraft/textures/block/chiseled_grimstone.png"
+      "1.17": "minecraft/textures/block/chiseled_deepslate.png"
     },
     "isBedrock": false,
     "bedrock": {}
@@ -3328,6 +3328,15 @@
       "1.14.4": "minecraft/textures/block/coarse_dirt.png",
       "1.13.2": "minecraft/textures/block/coarse_dirt.png",
       "1.12.2": "minecraft/textures/blocks/coarse_dirt.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/cobbled_deepslate.png"
     },
     "isBedrock": false,
     "bedrock": {}
@@ -4604,6 +4613,87 @@
       "1.14.4": "minecraft/textures/block/debug2.png",
       "1.13.2": "minecraft/textures/block/debug2.png",
       "1.12.2": "minecraft/textures/blocks/debug2.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/deepslate.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/deepslate_bricks.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/deepslate_diamond_ore.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/deepslate_gold_ore.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/deepslate_iron_ore.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/deepslate_lapis_ore.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/deepslate_redstone_ore.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/deepslate_tiles.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/deepslate_top.png"
     },
     "isBedrock": false,
     "bedrock": {}
@@ -9034,6 +9124,15 @@
     "bedrock": {}
   },
   {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/polished_deepslate.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
     "c32": {
       "author": [
         "340497757410295808"
@@ -9065,15 +9164,6 @@
       "1.14.4": "minecraft/textures/block/polished_granite.png",
       "1.13.2": "minecraft/textures/block/polished_granite.png",
       "1.12.2": "minecraft/textures/blocks/stone_granite_smooth.png"
-    },
-    "isBedrock": false,
-    "bedrock": {}
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/block/polished_grimstone.png"
     },
     "isBedrock": false,
     "bedrock": {}
@@ -10770,6 +10860,15 @@
       "1.16.5": "minecraft/textures/block/smoker_top.png",
       "1.15.2": "minecraft/textures/block/smoker_top.png",
       "1.14.4": "minecraft/textures/block/smoker_top.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/smooth_basalt.png"
     },
     "isBedrock": false,
     "bedrock": {}
@@ -19546,33 +19645,6 @@
       "1.14.4": "minecraft/textures/gui/container/generic_54.png",
       "1.13.2": "minecraft/textures/gui/container/generic_54.png",
       "1.12.2": "minecraft/textures/gui/container/generic_54.png"
-    },
-    "isBedrock": false,
-    "bedrock": {}
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/block/grimstone.png"
-    },
-    "isBedrock": false,
-    "bedrock": {}
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/block/grimstone_bricks.png"
-    },
-    "isBedrock": false,
-    "bedrock": {}
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/block/grimstone_tiles.png"
     },
     "isBedrock": false,
     "bedrock": {}
