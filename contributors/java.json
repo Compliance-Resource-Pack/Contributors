@@ -14160,7 +14160,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "207471947662098432"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bear/polarbear.png",
