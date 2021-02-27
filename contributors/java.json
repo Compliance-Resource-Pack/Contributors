@@ -2149,7 +2149,11 @@
         "340497757410295808"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/bone_block_side.png",
       "1.16.5": "minecraft/textures/block/bone_block_side.png",
@@ -2167,7 +2171,11 @@
         "340497757410295808"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/bone_block_top.png",
       "1.16.5": "minecraft/textures/block/bone_block_top.png",
@@ -6578,7 +6586,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "578035506491817984"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/iron_trapdoor.png",
@@ -6617,7 +6629,11 @@
         "361251723106320384"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/jack_o_lantern.png",
       "1.16.5": "minecraft/textures/block/jack_o_lantern.png",
@@ -11241,7 +11257,11 @@
         "307895652782702593"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/spruce_sapling.png",
       "1.16.5": "minecraft/textures/block/spruce_sapling.png",

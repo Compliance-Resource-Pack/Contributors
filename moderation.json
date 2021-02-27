@@ -16,7 +16,7 @@
   },
   {
     "user": "285902386701271050",
-    "timeout": 424240,
+    "timeout": 377260,
     "muted": true,
     "warn": [
       "politcs"
@@ -29,8 +29,8 @@
   },
   {
     "user": "334337761198866433",
-    "timeout": 0,
-    "muted": false
+    "timeout": 1984680,
+    "muted": true
   },
   {
     "user": "473860522710794250",
@@ -44,8 +44,8 @@
       "posting textures from another pack and pretending it‘s his",
       "pretending that posted work is made by him, even though that's not true, for the third time"
     ],
-    "muted": true,
-    "timeout": 3330
+    "muted": false,
+    "timeout": 0
   },
   {
     "user": "412986918901645313",

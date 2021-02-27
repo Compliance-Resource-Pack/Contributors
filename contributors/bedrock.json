@@ -4236,12 +4236,20 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "XavierPlayz ツ#8901"
+      ]
+    },
     "path": "textures/entity/chest/normal.png"
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "XavierPlayz ツ#8901"
+      ]
+    },
     "path": "textures/entity/chest/trapped.png"
   },
   {
@@ -7650,7 +7658,12 @@
     "path": "textures/items/lever.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "674962022915506245"
+      ],
+      "date": "02/27/2021"
+    },
     "c64": {},
     "path": "textures/items/light_block_0.png"
   },
