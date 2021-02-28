@@ -9509,7 +9509,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "389357651852787712"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/purple_glazed_terracotta.png",
@@ -9963,7 +9967,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "389357651852787712"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/red_glazed_terracotta.png",
@@ -11630,8 +11638,7 @@
   {
     "c32": {
       "author": [
-        "389357651852787712",
-        "473860522710794250"
+        "389357651852787712"
       ]
     },
     "c64": {},
@@ -15180,7 +15187,8 @@
   {
     "c32": {
       "author": [
-        "369259215996583936"
+        "369259215996583936",
+        "220239731273760768"
       ],
       "date": "12/11/2020"
     },
@@ -20835,7 +20843,11 @@
       ],
       "date": "01/09/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/bucket.png",
       "1.16.5": "minecraft/textures/item/bucket.png",
@@ -22533,7 +22545,11 @@
         "285902386701271050"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/cod_bucket.png",
       "1.16.5": "minecraft/textures/item/cod_bucket.png",
@@ -25207,7 +25223,11 @@
       ],
       "date": "01/09/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/lava_bucket.png",
       "1.16.5": "minecraft/textures/item/lava_bucket.png",
@@ -25558,7 +25578,11 @@
       ],
       "date": "01/09/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/milk_bucket.png",
       "1.16.5": "minecraft/textures/item/milk_bucket.png",
@@ -26389,7 +26413,11 @@
         "285902386701271050"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/powder_snow_bucket.png"
     },
@@ -26444,7 +26472,11 @@
         "285902386701271050"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/pufferfish_bucket.png",
       "1.16.5": "minecraft/textures/item/pufferfish_bucket.png",
@@ -26668,7 +26700,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/ruby.png",
@@ -26726,7 +26762,11 @@
       ],
       "date": "01/09/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/salmon_bucket.png",
       "1.16.5": "minecraft/textures/item/salmon_bucket.png",
@@ -27363,7 +27403,11 @@
         "285902386701271050"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/tropical_fish_bucket.png",
       "1.16.5": "minecraft/textures/item/tropical_fish_bucket.png",
@@ -27445,7 +27489,11 @@
       ],
       "date": "01/09/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/water_bucket.png",
       "1.16.5": "minecraft/textures/item/water_bucket.png",
