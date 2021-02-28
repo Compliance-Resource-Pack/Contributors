@@ -16,8 +16,8 @@
   },
   {
     "user": "285902386701271050",
-    "timeout": 343180,
-    "muted": true,
+    "timeout": 0,
+    "muted": false,
     "warn": [
       "politcs"
     ]
@@ -29,7 +29,7 @@
   },
   {
     "user": "334337761198866433",
-    "timeout": 1950600,
+    "timeout": 1918860,
     "muted": true
   },
   {
