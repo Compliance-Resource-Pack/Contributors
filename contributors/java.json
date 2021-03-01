@@ -2683,11 +2683,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "692740123627880459"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/campfire_log.png",
@@ -3616,11 +3612,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "220239731273760768"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/conduit.png",
@@ -7739,8 +7731,7 @@
   {
     "c32": {
       "author": [
-        "280854181747884043",
-        "389357651852787712"
+        "280854181747884043"
       ]
     },
     "c64": {},
@@ -9217,11 +9208,7 @@
         "340497757410295808"
       ]
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/polished_granite.png",
       "1.16.5": "minecraft/textures/block/polished_granite.png",
@@ -11651,7 +11638,8 @@
   {
     "c32": {
       "author": [
-        "389357651852787712"
+        "389357651852787712",
+        "473860522710794250"
       ]
     },
     "c64": {},
@@ -13408,11 +13396,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "220239731273760768"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/spider_eyes.png",
@@ -14822,11 +14806,7 @@
         "361251723106320384"
       ]
     },
-    "c64": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/chest/normal.png",
       "1.16.5": "minecraft/textures/entity/chest/normal.png",
@@ -14880,11 +14860,7 @@
         "532669897541550080"
       ]
     },
-    "c64": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/chest/trapped.png",
       "1.16.5": "minecraft/textures/entity/chest/trapped.png",

@@ -29,7 +29,7 @@
   },
   {
     "user": "334337761198866433",
-    "timeout": 1868820,
+    "timeout": 1849890,
     "muted": true
   },
   {
@@ -73,5 +73,15 @@
     "user": "775068179235471441",
     "timeout": 0,
     "muted": false
+  },
+  {
+    "user": "755468333821722654",
+    "warn": [
+      "ye",
+      "test",
+      "test"
+    ],
+    "muted": true,
+    "timeout": 863340
   }
 ]
