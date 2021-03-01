@@ -6036,7 +6036,12 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "389357651852787712"
+      ],
+      "date": "03/01/2021"
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/gray_glazed_terracotta.png",
