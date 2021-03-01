@@ -29,7 +29,7 @@
   },
   {
     "user": "334337761198866433",
-    "timeout": 1918860,
+    "timeout": 1868820,
     "muted": true
   },
   {
@@ -52,7 +52,8 @@
     "timeout": 0,
     "muted": false,
     "warn": [
-      "nsfw"
+      "nsfw",
+      "use <#774007605320220742> for memes, homophobic memes aren't allowed on this server"
     ]
   },
   {
