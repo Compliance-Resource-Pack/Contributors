@@ -3345,12 +3345,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "729617269243773008"
-      ],
-      "date": "03/03/2021"
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/cobbled_deepslate.png"
