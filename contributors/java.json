@@ -23675,7 +23675,12 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "729617269243773008"
+      ],
+      "date": "03/10/2021"
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/diamond_axe.png",

@@ -6803,7 +6803,12 @@
     "path": "textures/items/diamond.png"
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "729617269243773008"
+      ],
+      "date": "03/10/2021"
+    },
     "c64": {},
     "path": "textures/items/diamond_axe.png"
   },
