@@ -3678,6 +3678,24 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.17": "minecraft/textures/block/cracked_deepslate_bricks.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/cracked_deepslate_tiles.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.17": "minecraft/textures/block/cracked_nether_bricks.png",
       "1.16.5": "minecraft/textures/block/cracked_nether_bricks.png"
     },
@@ -4660,7 +4678,34 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.17": "minecraft/textures/block/deepslate_coal_ore.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/deepslate_copper_ore.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.17": "minecraft/textures/block/deepslate_diamond_ore.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/deepslate_emerald_ore.png"
     },
     "isBedrock": false,
     "bedrock": {}
@@ -27122,6 +27167,15 @@
     "bedrock": {}
   },
   {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/spyglass_model.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
     "c32": {
       "author": [
         "361251723106320384"
@@ -27973,6 +28027,15 @@
       "1.14.4": "minecraft/textures/misc/vignette.png",
       "1.13.2": "minecraft/textures/misc/vignette.png",
       "1.12.2": "minecraft/textures/misc/vignette.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/misc/white.png"
     },
     "isBedrock": false,
     "bedrock": {}
