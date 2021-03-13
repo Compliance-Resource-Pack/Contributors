@@ -10565,7 +10565,12 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "692740123627880459"
+      ],
+      "date": "03/13/2021"
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/respawn_anchor_side4.png",
