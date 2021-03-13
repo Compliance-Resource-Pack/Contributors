@@ -1528,7 +1528,17 @@
 			"1.12.2": "minecraft/textures/blocks/bedrock.png"
 		},
 		"isBedrock": false,
-		"bedrock": {}
+		"bedrock": {},
+		"render": {
+			"name": "bedrock",
+			"type": "full_block",
+			"textures": [
+				{
+					"name": "all",
+					"texture": "minecraft/textures/block/bedrock.png"
+				}
+			]
+		}
 	},
 	{
 		"c32": {},
@@ -1539,7 +1549,29 @@
 			"1.15.2": "minecraft/textures/block/beehive_end.png"
 		},
 		"isBedrock": false,
-		"bedrock": {}
+		"bedrock": {},
+		"render": {
+			"name": "beehive",
+			"type": "sided_block",
+			"textures": [
+				{
+					"name": "side",
+					"texture": "minecraft/textures/block/beehive_side.png"
+				},
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/beehive_end.png"
+				},
+				{
+					"name": "front",
+					"texture": "minecraft/textures/block/beehive_front.png"
+				},
+				{
+					"name": "bottom",
+					"texture": "minecraft/textures/block/beehive_end.png"
+				}
+			]
+		}
 	},
 	{
 		"c32": {},
@@ -1550,7 +1582,29 @@
 			"1.15.2": "minecraft/textures/block/beehive_front.png"
 		},
 		"isBedrock": false,
-		"bedrock": {}
+		"bedrock": {},
+		"render": {
+			"name": "beehive",
+			"type": "sided_block",
+			"textures": [
+				{
+					"name": "side",
+					"texture": "minecraft/textures/block/beehive_side.png"
+				},
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/beehive_end.png"
+				},
+				{
+					"name": "front",
+					"texture": "minecraft/textures/block/beehive_front.png"
+				},
+				{
+					"name": "bottom",
+					"texture": "minecraft/textures/block/beehive_end.png"
+				}
+			]
+		}
 	},
 	{
 		"c32": {},
@@ -1561,7 +1615,29 @@
 			"1.15.2": "minecraft/textures/block/beehive_front_honey.png"
 		},
 		"isBedrock": false,
-		"bedrock": {}
+		"bedrock": {},
+		"render": {
+			"name": "beehive_honey",
+			"type": "sided_block",
+			"textures": [
+				{
+					"name": "side",
+					"texture": "minecraft/textures/block/beehive_side.png"
+				},
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/beehive_end.png"
+				},
+				{
+					"name": "front",
+					"texture": "minecraft/textures/block/beehive_front_honey.png"
+				},
+				{
+					"name": "bottom",
+					"texture": "minecraft/textures/block/beehive_end.png"
+				}
+			]
+		}
 	},
 	{
 		"c32": {},
@@ -1572,7 +1648,29 @@
 			"1.15.2": "minecraft/textures/block/beehive_side.png"
 		},
 		"isBedrock": false,
-		"bedrock": {}
+		"bedrock": {},
+		"render": {
+			"name": "beehive",
+			"type": "sided_block",
+			"textures": [
+				{
+					"name": "side",
+					"texture": "minecraft/textures/block/beehive_side.png"
+				},
+				{
+					"name": "top",
+					"texture": "minecraft/textures/block/beehive_end.png"
+				},
+				{
+					"name": "front",
+					"texture": "minecraft/textures/block/beehive_front.png"
+				},
+				{
+					"name": "bottom",
+					"texture": "minecraft/textures/block/beehive_end.png"
+				}
+			]
+		}
 	},
 	{
 		"c32": {
@@ -1590,7 +1688,17 @@
 			"1.12.2": "minecraft/textures/blocks/beetroots_stage_0.png"
 		},
 		"isBedrock": false,
-		"bedrock": {}
+		"bedrock": {},
+		"render": {
+			"name": "beetroots",
+			"type": "crop",
+			"texture": [
+				{
+					"name": "all",
+					"texture": "minecraft/textures/block/beetroots_stage0.png"
+				}
+			]
+		}
 	},
 	{
 		"c32": {
@@ -1608,7 +1716,17 @@
 			"1.12.2": "minecraft/textures/blocks/beetroots_stage_1.png"
 		},
 		"isBedrock": false,
-		"bedrock": {}
+		"bedrock": {},
+		"render": {
+			"name": "beetroots",
+			"type": "crop",
+			"texture": [
+				{
+					"name": "all",
+					"texture": "minecraft/textures/block/beetroots_stage1.png"
+				}
+			]
+		}
 	},
 	{
 		"c32": {
@@ -1626,7 +1744,17 @@
 			"1.12.2": "minecraft/textures/blocks/beetroots_stage_2.png"
 		},
 		"isBedrock": false,
-		"bedrock": {}
+		"bedrock": {},
+		"render": {
+			"name": "beetroots",
+			"type": "crop",
+			"texture": [
+				{
+					"name": "all",
+					"texture": "minecraft/textures/block/beetroots_stage2.png"
+				}
+			]
+		}
 	},
 	{
 		"c32": {
@@ -1644,7 +1772,17 @@
 			"1.12.2": "minecraft/textures/blocks/beetroots_stage_3.png"
 		},
 		"isBedrock": false,
-		"bedrock": {}
+		"bedrock": {},
+		"render": {
+			"name": "beetroots",
+			"type": "crop",
+			"texture": [
+				{
+					"name": "all",
+					"texture": "minecraft/textures/block/beetroots_stage3.png"
+				}
+			]
+		}
 	},
 	{
 		"c32": {},
