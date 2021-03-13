@@ -1692,7 +1692,7 @@
 		"render": {
 			"name": "beetroots",
 			"type": "crop",
-			"texture": [
+			"textures": [
 				{
 					"name": "all",
 					"texture": "minecraft/textures/block/beetroots_stage0.png"
@@ -1720,7 +1720,7 @@
 		"render": {
 			"name": "beetroots",
 			"type": "crop",
-			"texture": [
+			"textures": [
 				{
 					"name": "all",
 					"texture": "minecraft/textures/block/beetroots_stage1.png"
@@ -1748,7 +1748,7 @@
 		"render": {
 			"name": "beetroots",
 			"type": "crop",
-			"texture": [
+			"textures": [
 				{
 					"name": "all",
 					"texture": "minecraft/textures/block/beetroots_stage2.png"
@@ -1776,7 +1776,7 @@
 		"render": {
 			"name": "beetroots",
 			"type": "crop",
-			"texture": [
+			"textures": [
 				{
 					"name": "all",
 					"texture": "minecraft/textures/block/beetroots_stage3.png"
