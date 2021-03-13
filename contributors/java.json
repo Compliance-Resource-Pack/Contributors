@@ -7458,7 +7458,12 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "220239731273760768"
+      ],
+      "date": "03/13/2021"
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_gray_shulker_box.png",
@@ -7653,7 +7658,12 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "220239731273760768"
+      ],
+      "date": "03/13/2021"
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/lime_shulker_box.png",
