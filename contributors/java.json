@@ -577,11 +577,7 @@
         "280854181747884043"
       ]
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/acacia_planks.png",
       "1.16.5": "minecraft/textures/block/acacia_planks.png",
@@ -1729,11 +1725,7 @@
         "280854181747884043"
       ]
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/birch_planks.png",
       "1.16.5": "minecraft/textures/block/birch_planks.png",
@@ -1905,7 +1897,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/black_terracotta.png",
@@ -2124,7 +2120,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/blue_terracotta.png",
@@ -2441,7 +2441,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/brown_terracotta.png",
@@ -3745,11 +3749,7 @@
         "361251723106320384"
       ]
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/crafting_table_front.png",
       "1.16.5": "minecraft/textures/block/crafting_table_front.png",
@@ -3767,11 +3767,7 @@
         "361251723106320384"
       ]
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/crafting_table_side.png",
       "1.16.5": "minecraft/textures/block/crafting_table_side.png",
@@ -3862,11 +3858,7 @@
         "280854181747884043"
       ]
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/crimson_planks.png",
       "1.16.5": "minecraft/textures/block/crimson_planks.png"
@@ -4102,7 +4094,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/cyan_terracotta.png",
@@ -4283,11 +4279,7 @@
         "280854181747884043"
       ]
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/dark_oak_planks.png",
       "1.16.5": "minecraft/textures/block/dark_oak_planks.png",
@@ -6171,7 +6163,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/gray_terracotta.png",
@@ -6296,7 +6292,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/green_terracotta.png",
@@ -6907,11 +6907,7 @@
         "280854181747884043"
       ]
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/jungle_planks.png",
       "1.16.5": "minecraft/textures/block/jungle_planks.png",
@@ -7139,11 +7135,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/lectern_base.png",
       "1.16.5": "minecraft/textures/block/lectern_base.png",
@@ -7338,7 +7330,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_blue_terracotta.png",
@@ -7468,7 +7464,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/light_gray_terracotta.png",
@@ -7659,7 +7659,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/lime_terracotta.png",
@@ -7876,7 +7880,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/magenta_terracotta.png",
@@ -8016,7 +8024,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "672989591283695618"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/mossy_stone_bricks.png",
@@ -8429,11 +8441,7 @@
         "280854181747884043"
       ]
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/oak_planks.png",
       "1.16.5": "minecraft/textures/block/oak_planks.png",
@@ -8667,7 +8675,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/orange_terracotta.png",
@@ -8877,7 +8889,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/pink_terracotta.png",
@@ -9659,7 +9675,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/purple_terracotta.png",
@@ -10241,7 +10261,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/red_terracotta.png",
@@ -11037,11 +11061,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/smooth_stone.png",
@@ -11342,11 +11362,7 @@
         "280854181747884043"
       ]
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/spruce_planks.png",
       "1.16.5": "minecraft/textures/block/spruce_planks.png",
@@ -12035,7 +12051,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/terracotta.png",
@@ -12394,11 +12414,7 @@
         "280854181747884043"
       ]
     },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/warped_planks.png",
       "1.16.5": "minecraft/textures/block/warped_planks.png"
@@ -12869,7 +12885,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/white_terracotta.png",
@@ -13031,7 +13051,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/yellow_terracotta.png",
@@ -13622,16 +13646,8 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c32": {},
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/armorstand/wood.png",
       "1.16.5": "minecraft/textures/entity/armorstand/wood.png",
@@ -14298,11 +14314,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/black.png",
       "1.16.5": "minecraft/textures/entity/bed/black.png",
@@ -14316,11 +14328,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/blue.png",
       "1.16.5": "minecraft/textures/entity/bed/blue.png",
@@ -14334,11 +14342,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/brown.png",
       "1.16.5": "minecraft/textures/entity/bed/brown.png",
@@ -14352,11 +14356,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/cyan.png",
       "1.16.5": "minecraft/textures/entity/bed/cyan.png",
@@ -14370,11 +14370,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/gray.png",
       "1.16.5": "minecraft/textures/entity/bed/gray.png",
@@ -14388,11 +14384,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/green.png",
       "1.16.5": "minecraft/textures/entity/bed/green.png",
@@ -14406,11 +14398,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/light_blue.png",
       "1.16.5": "minecraft/textures/entity/bed/light_blue.png",
@@ -14424,11 +14412,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/light_gray.png",
       "1.16.5": "minecraft/textures/entity/bed/light_gray.png",
@@ -14442,11 +14426,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/lime.png",
       "1.16.5": "minecraft/textures/entity/bed/lime.png",
@@ -14460,11 +14440,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/magenta.png",
       "1.16.5": "minecraft/textures/entity/bed/magenta.png",
@@ -14478,11 +14454,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/orange.png",
       "1.16.5": "minecraft/textures/entity/bed/orange.png",
@@ -14496,11 +14468,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/pink.png",
       "1.16.5": "minecraft/textures/entity/bed/pink.png",
@@ -14514,11 +14482,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/purple.png",
       "1.16.5": "minecraft/textures/entity/bed/purple.png",
@@ -14532,11 +14496,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/red.png",
       "1.16.5": "minecraft/textures/entity/bed/red.png",
@@ -14550,11 +14510,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/white.png",
       "1.16.5": "minecraft/textures/entity/bed/white.png",
@@ -14568,11 +14524,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/yellow.png",
       "1.16.5": "minecraft/textures/entity/bed/yellow.png",
@@ -15222,7 +15174,8 @@
     "c32": {
       "author": [
         "220230789311365121",
-        "407235780411523072"
+        "407235780411523072",
+        "220239731273760768"
       ]
     },
     "c64": {},
@@ -15241,7 +15194,8 @@
     "c32": {
       "author": [
         "220230789311365121",
-        "407235780411523072"
+        "407235780411523072",
+        "220239731273760768"
       ]
     },
     "c64": {},
@@ -24937,7 +24891,8 @@
     "c32": {
       "author": [
         "340497757410295808",
-        "431843131621769219"
+        "431843131621769219",
+        "173961749941321731"
       ]
     },
     "c64": {},
@@ -26885,7 +26840,8 @@
   {
     "c32": {
       "author": [
-        "369259215996583936"
+        "369259215996583936",
+        "173961749941321731"
       ],
       "date": "12/11/2020"
     },
