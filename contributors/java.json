@@ -4505,7 +4505,11 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/crimson_nylium_side.png",
       "1.16.5": "minecraft/textures/block/crimson_nylium_side.png"
@@ -9272,7 +9276,11 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/netherrack.png",
       "1.16.5": "minecraft/textures/block/netherrack.png",
@@ -9313,7 +9321,11 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/nether_gold_ore.png",
       "1.16.5": "minecraft/textures/block/nether_gold_ore.png"
@@ -9347,7 +9359,11 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/nether_quartz_ore.png",
       "1.16.5": "minecraft/textures/block/nether_quartz_ore.png",
@@ -14043,7 +14059,11 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/warped_nylium_side.png",
       "1.16.5": "minecraft/textures/block/warped_nylium_side.png"
@@ -23557,7 +23577,8 @@
   {
     "c32": {
       "author": [
-        "361251723106320384"
+        "361251723106320384",
+        "173961749941321731"
       ]
     },
     "c64": {},
