@@ -29,7 +29,7 @@
   },
   {
     "user": "334337761198866433",
-    "timeout": 1359990,
+    "timeout": 1340580,
     "muted": true
   },
   {
@@ -89,6 +89,14 @@
     "user": "587237187272310807",
     "warn": [
       "not going to <#798208196405362708> after being told to"
+    ],
+    "muted": false,
+    "timeout": 0
+  },
+  {
+    "user": "426164900855939075",
+    "warn": [
+      "offensive imagery/words"
     ],
     "muted": false,
     "timeout": 0
