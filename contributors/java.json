@@ -5286,7 +5286,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "672989591283695618"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/dead_horn_coral.png",
       "1.16.5": "minecraft/textures/block/dead_horn_coral.png",
@@ -7467,7 +7471,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "672989591283695618"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/horn_coral.png",
       "1.16.5": "minecraft/textures/block/horn_coral.png",
@@ -12283,7 +12291,11 @@
         "256074743940120587"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/shroomlight.png",
       "1.16.5": "minecraft/textures/block/shroomlight.png"
@@ -20585,7 +20597,8 @@
   {
     "c32": {
       "author": [
-        "668409943250042908"
+        "668409943250042908",
+        "285902386701271050"
       ],
       "date": "01/01/2020"
     },
@@ -20950,7 +20963,11 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession/armorer.png",
@@ -20976,7 +20993,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession/cartographer.png",
@@ -21002,7 +21023,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession/farmer.png",
@@ -21016,7 +21041,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession/fisherman.png",
@@ -21028,7 +21057,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession/fletcher.png",
@@ -21066,7 +21099,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession/mason.png",
@@ -21090,7 +21127,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession/shepherd.png",
@@ -21102,7 +21143,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession/toolsmith.png",
@@ -21116,7 +21161,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession/weaponsmith.png",
@@ -21128,7 +21177,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession_level/diamond.png",
@@ -21140,7 +21193,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession_level/emerald.png",
@@ -21152,7 +21209,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession_level/gold.png",
@@ -21164,7 +21225,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession_level/iron.png",
@@ -21176,7 +21241,11 @@
     "bedrock": {}
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie_villager/profession_level/stone.png",
@@ -21948,7 +22017,8 @@
   {
     "c32": {
       "author": [
-        "484371204153540611"
+        "484371204153540611",
+        "285902386701271050"
       ],
       "date": "12/11/2020"
     },
@@ -22974,7 +23044,11 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/blaze_powder.png",
@@ -29992,7 +30066,8 @@
   {
     "c32": {
       "author": [
-        "220239731273760768"
+        "220239731273760768",
+        "285902386701271050"
       ],
       "date": "12/04/2020"
     },
