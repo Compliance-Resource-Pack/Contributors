@@ -3532,7 +3532,7 @@
     },
     "c64": {},
     "version": {
-      "1.17": "minecraft/textures/block/cave_vines_body.png"
+      "1.17": "minecraft/textures/block/cave_vines.png"
     },
     "isBedrock": false,
     "bedrock": {}
@@ -3545,7 +3545,7 @@
     },
     "c64": {},
     "version": {
-      "1.17": "minecraft/textures/block/cave_vines_body_lit.png"
+      "1.17": "minecraft/textures/block/cave_vines_lit.png"
     },
     "isBedrock": false,
     "bedrock": {}
@@ -3558,7 +3558,7 @@
     },
     "c64": {},
     "version": {
-      "1.17": "minecraft/textures/block/cave_vines_head.png"
+      "1.17": "minecraft/textures/block/cave_vines_plant.png"
     },
     "isBedrock": false,
     "bedrock": {}
@@ -3571,7 +3571,7 @@
     },
     "c64": {},
     "version": {
-      "1.17": "minecraft/textures/block/cave_vines_head_lit.png"
+      "1.17": "minecraft/textures/block/cave_vines_plant_lit.png"
     },
     "isBedrock": false,
     "bedrock": {}
@@ -8257,6 +8257,15 @@
     },
     "version": {
       "1.17": "minecraft/textures/block/lightning_rod.png"
+    },
+    "isBedrock": false,
+    "bedrock": {}
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/lightning_rod_on.png"
     },
     "isBedrock": false,
     "bedrock": {}
