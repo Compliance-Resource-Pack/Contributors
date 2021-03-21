@@ -894,8 +894,7 @@
     "c32": {
       "author": [
         "340497757410295808",
-        "692740123627880459",
-        "456289548406620161"
+        "692740123627880459"
       ],
       "date": "01/01/2021"
     },
@@ -931,8 +930,7 @@
     "c32": {
       "author": [
         "340497757410295808",
-        "692740123627880459",
-        "456289548406620161"
+        "692740123627880459"
       ],
       "date": "01/01/2021"
     },
@@ -2757,11 +2755,7 @@
     }
   },
   {
-    "c32": {
-      "author": [
-        "456289548406620161"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/brewing_stand.png",
@@ -3686,11 +3680,7 @@
     }
   },
   {
-    "c32": {
-      "author": [
-        "456289548406620161"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/chipped_anvil_top.png",
@@ -4841,11 +4831,7 @@
     }
   },
   {
-    "c32": {
-      "author": [
-        "456289548406620161"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/damaged_anvil_top.png",
@@ -5252,7 +5238,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "672989591283695618"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/dead_fire_coral.png",
       "1.16.5": "minecraft/textures/block/dead_fire_coral.png",
@@ -6393,7 +6383,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "672989591283695618"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/fire_coral.png",
       "1.16.5": "minecraft/textures/block/fire_coral.png",
@@ -21926,11 +21920,7 @@
     "bedrock": {}
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/advancements/backgrounds/end.png",
@@ -30431,7 +30421,8 @@
   {
     "c32": {
       "author": [
-        "389357651852787712"
+        "389357651852787712",
+        "173961749941321731"
       ]
     },
     "c64": {},
