@@ -6,7 +6,7 @@
       "1.16.200": "textures/flame_atlas.png",
       "1.16.210": "textures/flame_atlas.png"
     },
-    "animated": false
+    "animated": true
   },
   {
     "c32": {},
