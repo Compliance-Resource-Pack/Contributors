@@ -29,7 +29,7 @@
   },
   {
     "user": "334337761198866433",
-    "timeout": 1095930,
+    "timeout": 1028610,
     "muted": true
   },
   {
@@ -68,7 +68,10 @@
   {
     "user": "312518028267094018",
     "timeout": 0,
-    "muted": false
+    "muted": false,
+    "warn": [
+      "spam"
+    ]
   },
   {
     "user": "775068179235471441",
@@ -98,6 +101,14 @@
     "user": "426164900855939075",
     "warn": [
       "offensive imagery/words"
+    ],
+    "muted": false,
+    "timeout": 0
+  },
+  {
+    "user": "729617269243773008",
+    "warn": [
+      "morse spam"
     ],
     "muted": false,
     "timeout": 0
