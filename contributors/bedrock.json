@@ -15,7 +15,7 @@
       "1.16.200": "textures/forcefield_atlas.png",
       "1.16.210": "textures/forcefield_atlas.png"
     },
-    "animated": false
+    "animated": true
   },
   {
     "c32": {},

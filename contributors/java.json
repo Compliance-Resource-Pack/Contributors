@@ -2300,7 +2300,8 @@
   {
     "c32": {
       "author": [
-        "361251723106320384"
+        "361251723106320384",
+        "692740123627880459"
       ]
     },
     "c64": {},
@@ -3394,7 +3395,7 @@
     "bedrock": {
       "1.16.200": "textures/blocks/campfire.png"
     },
-    "animated": false
+    "animated": true
   },
   {
     "c32": {},
@@ -3424,7 +3425,7 @@
     "bedrock": {
       "1.16.200": "textures/blocks/campfire_log_lit.png"
     },
-    "animated": false
+    "animated": true
   },
   {
     "c32": {
@@ -6701,7 +6702,7 @@
     "bedrock": {
       "1.16.200": "textures/blocks/fire_0.png"
     },
-    "animated": false
+    "animated": true
   },
   {
     "c32": {},
@@ -6718,7 +6719,7 @@
     "bedrock": {
       "1.16.200": "textures/blocks/fire_1.png"
     },
-    "animated": false
+    "animated": true
   },
   {
     "c32": {},
@@ -13345,7 +13346,7 @@
     "bedrock": {
       "1.16.200": "textures/blocks/soul_campfire.png"
     },
-    "animated": false
+    "animated": true
   },
   {
     "c32": {},
@@ -13358,7 +13359,7 @@
     "bedrock": {
       "1.16.200": "textures/blocks/soul_campfire_log_lit.png"
     },
-    "animated": false
+    "animated": true
   },
   {
     "c32": {},
@@ -13371,7 +13372,7 @@
     "bedrock": {
       "1.16.200": "textures/blocks/soul_fire_0.png"
     },
-    "animated": false
+    "animated": true
   },
   {
     "c32": {},
@@ -13384,7 +13385,7 @@
     "bedrock": {
       "1.16.200": "textures/blocks/soul_fire_1.png"
     },
-    "animated": false
+    "animated": true
   },
   {
     "c32": {
@@ -15822,7 +15823,11 @@
         "256074743940120587"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/blaze.png",
       "1.16.5": "minecraft/textures/entity/blaze.png",
@@ -32001,7 +32006,8 @@
   {
     "c32": {
       "author": [
-        "400395559871184896"
+        "400395559871184896",
+        "331073143613423616"
       ]
     },
     "c64": {},
@@ -32556,7 +32562,11 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "220239731273760768"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/map/map_background.png",
@@ -32573,7 +32583,11 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "220239731273760768"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/map/map_background_checkerboard.png",
@@ -33717,7 +33731,11 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "331073143613423616"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/painting/back.png",
