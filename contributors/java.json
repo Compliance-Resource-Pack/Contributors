@@ -13353,7 +13353,7 @@
       "1.16.200": "textures/blocks/soul_campfire.png"
     },
     "animated": true,
-		"mcmeta": { "animation": { "frametime": 2 }
+		"mcmeta": { "animation": { "frametime": 2 } }
   },
   {
     "c32": {},
