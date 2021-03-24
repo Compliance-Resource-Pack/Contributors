@@ -8461,7 +8461,12 @@
     },
     "isBedrock": false,
     "bedrock": {},
-    "animated": false
+    "animated": true,
+		"mcmeta": {
+  "animation": {
+    "frametime": 2
+  }
+}
   },
   {
     "c32": {
@@ -8479,7 +8484,12 @@
     },
     "isBedrock": false,
     "bedrock": {},
-    "animated": false
+    "animated": true,
+		"mcmeta": {
+  "animation": {
+    "frametime": 2
+  }
+}
   },
   {
     "c32": {
@@ -11510,7 +11520,37 @@
     "bedrock": {
       "1.16.200": "textures/blocks/prismarine_rough.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": {
+  "animation": {
+    "frametime": 300,
+    "interpolate": true,
+    "frames": [
+      0,
+      1,
+      0,
+      2,
+      0,
+      3,
+      0,
+      1,
+      2,
+      1,
+      3,
+      1,
+      0,
+      2,
+      1,
+      2,
+      3,
+      2,
+      0,
+      3,
+      1,
+      3
+    ]
+  }
+}
   },
   {
     "c32": {},
@@ -12619,8 +12659,7 @@
     "bedrock": {
       "1.16.200": "textures/blocks/respawn_anchor_bottom.png"
     },
-    "animated": true,
-		"mcmeta": { "animation": {}}
+    "animated": false
   },
   {
     "c32": {
@@ -12728,7 +12767,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/respawn_anchor_top.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": {}}
   },
   {
     "c32": {
@@ -13382,7 +13422,13 @@
     "bedrock": {
       "1.16.200": "textures/blocks/smoker_front_on.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": {
+  "animation": {
+    "interpolate": false,
+    "frametime": 4
+  }
+}
   },
   {
     "c32": {},
@@ -36302,6 +36348,7 @@
     },
     "isBedrock": false,
     "bedrock": {},
-    "animated": false
+    "animated": true,
+		"mcmeta": {}
   }
 ]
