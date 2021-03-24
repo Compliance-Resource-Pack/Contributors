@@ -59,18 +59,36 @@
     "id": "407235780411523072",
     "type": "member"
   },
+	{
+		"username": "PeJohn",
+		"uuid": null,
+		"id": "456289548406620161",
+		"type": "moderator"
+	},
   {
     "username": "Redcoke26",
     "uuid": "5703bf08-38d4-4966-81f0-f555acb25323",
     "id": "402504493255884800",
     "type": "member"
   },
+	{
+		"username": "Hozz",
+		"uuid": null,
+		"id": "361251723106320384",
+		"type": "member"
+	},
   {
     "username": "BellPepperBrian",
     "uuid": "67b38532-98c8-4b6a-9c0a-fd03e40ae45e",
     "id": "409514371388145664",
     "type": "member"
   },
+	{
+		"username": "KulenFlulen",
+		"uuid": null,
+		"id": "200867380031782912",
+		"type": "member"
+	},
   {
     "username": "Cituation",
     "uuid": "bb3b9522-dcf5-44d9-a4bb-29df808fdb9e",
@@ -83,12 +101,24 @@
     "id": "233206738784878592",
     "type": "member"
   },
+	{
+		"username": "okDiamond",
+		"uuid": null,
+		"id": "105074028447813632",
+		"type": "member"
+	},
   {
     "username": "Mr.Kirby48",
     "uuid": null,
     "id": "426164900855939075",
     "type": "member"
   },
+	{
+		"username": "EachMenderKhai",
+		"uuid": null,
+		"id": "674962022915506245",
+		"type": "member"
+	},
   {
     "username": "ConnerMiner",
     "uuid": "ebfbbe1b-4ae1-4321-b01c-09e1fb89ffd5",
@@ -101,6 +131,12 @@
     "id": "340497757410295808",
     "type": "moderator"
   },
+	{
+		"username": "jogurciQ",
+		"uuid": null,
+		"id": "256074743940120587",
+		"type": "moderator"
+	},
   {
     "username": "Spherey",
     "uuid": null,
@@ -125,6 +161,18 @@
     "id": "465565663574884352",
     "type": "member"
   },
+	{
+		"username": "Saarlodrie_",
+		"uuid": null,
+		"id": "220230789311365121",
+		"type": "member"
+	},
+	{
+		"username": "THEMAIS0N",
+		"uuid": null,
+		"id": "484371204153540611",
+		"type": "member"
+	},
   {
     "username": "Nyodex",
     "uuid": "6d875c4f-5453-421d-914c-27b793151497",
@@ -190,5 +238,59 @@
     "uuid": null,
     "id": "729617269243773008",
     "type": "member"
-  }
+  },
+	{
+		"username": "Deborn",
+		"uuid": null,
+		"id": "400395559871184896",
+		"type": "member"
+	},
+	{
+		"username": "fyr02",
+		"uuid": null,
+		"id": "396123108248911873",
+		"type": "member"
+	},
+	{
+		"username": "AxiosTV",
+		"uuid": null,
+		"id": "307895652782702593",
+		"type": "member"
+	},
+	{
+		"username": "dāvid̔̏̊",
+		"uuid": null,
+		"id": "105348390530859008",
+		"type": "member"
+	},
+	{
+		"username": "ProstoChelovek",
+		"uuid": null,
+		"id": "668409943250042908",
+		"type": "deleted"
+	},
+	{
+		"username": "Corb",
+		"uuid": null,
+		"id": "344156408255741962",
+		"type": "member"
+	},
+	{
+		"username": "Doggo",
+		"uuid": null,
+		"id": "532669897541550080",
+		"type": "member"
+	},
+	{
+		"username": "Derp",
+		"uuid": null,
+		"id": "431843131621769219",
+		"type": "member"
+	},
+	{
+		"username": "Billy Apicella",
+		"uuid": null,
+		"id": "173961749941321731",
+		"type": "member"
+	}
 ]
