@@ -3398,8 +3398,7 @@
       "1.16.200": "textures/blocks/campfire.png"
     },
     "animated": true,
-		"mcmeta": { "animation": { "frametime": 2 }
-}
+		"mcmeta": { "animation": { "frametime": 2 } }
   },
   {
     "c32": {},
@@ -3430,8 +3429,7 @@
       "1.16.200": "textures/blocks/campfire_log_lit.png"
     },
     "animated": true,
-		"mcmeta": { "animation": { "interpolate": true, "frametime": 20 }
-}
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 20 } }
   },
   {
     "c32": {
@@ -3802,7 +3800,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/chain_command_block_back.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {
@@ -3825,7 +3824,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/chain_command_block_conditional.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {
@@ -3848,7 +3848,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/chain_command_block_front.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {
@@ -3871,7 +3872,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/chain_command_block_side.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {},
@@ -4316,7 +4318,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/command_block_back.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {
@@ -4339,7 +4342,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/command_block_conditional.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {
@@ -4362,7 +4366,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/command_block_front.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {
@@ -4385,7 +4390,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/command_block_side.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {},
@@ -4823,7 +4829,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/huge_fungus/crimson_log_side.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {},
@@ -6708,7 +6715,45 @@
     "bedrock": {
       "1.16.200": "textures/blocks/fire_0.png"
     },
-    "animated": true
+    "animated": true,
+		"mcmeta": {
+			"animation": {
+				"frames": [
+					16,
+					17,
+					18,
+					19,
+					20,
+					21,
+					22,
+					23,
+					24,
+					25,
+					26,
+					27,
+					28,
+					29,
+					30,
+					31,
+					0,
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12,
+					13,
+					14,
+					15
+				]
+			}
+		}
   },
   {
     "c32": {},
@@ -6725,7 +6770,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/fire_1.png"
     },
-    "animated": true
+    "animated": true,
+		"mcmeta": { "animation": {}}
   },
   {
     "c32": {},
@@ -8473,7 +8519,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/lantern.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "frametime": 8 }}
   },
   {
     "c32": {
@@ -8585,7 +8632,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/lava_flow.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "frametime": 3, "interpolate": true }}
   },
   {
     "c32": {
@@ -8607,7 +8655,53 @@
     "bedrock": {
       "1.16.200": "textures/blocks/lava_still.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": {
+			"animation": {
+				"frametime": 3,
+				"interpolate": true,
+				"frames": [
+					0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						18,
+						17,
+						16,
+						15,
+						14,
+						13,
+						12,
+						11,
+						10,
+						9,
+						8,
+						7,
+						6,
+						5,
+						4,
+						3,
+						2,
+					1
+				]
+			}
+		}
   },
   {
     "c32": {},
@@ -9572,7 +9666,18 @@
     "bedrock": {
       "1.16.200": "textures/blocks/magma.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": {
+  "animation": {
+    "frametime": 8,
+    "interpolate": true,
+    "frames": [
+      0,
+      1,
+      2
+    ]
+  }
+}
   },
   {
     "c32": {},
@@ -9887,7 +9992,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/portal.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": {}}
   },
   {
     "c32": {
@@ -12422,7 +12528,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/repeating_command_block_back.png"
     },
-    "animated": false
+    "animated":  true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {
@@ -12445,7 +12552,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/repeating_command_block_conditional.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {
@@ -12468,7 +12576,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/repeating_command_block_front.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {
@@ -12491,7 +12600,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/repeating_command_block_side.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }}
   },
   {
     "c32": {
@@ -12509,7 +12619,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/respawn_anchor_bottom.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": {}}
   },
   {
     "c32": {
@@ -12876,7 +12987,13 @@
     },
     "isBedrock": false,
     "bedrock": {},
-    "animated": false
+    "animated": true,
+		"mcmeta":   
+{
+    "animation": {
+        "frametime": 2
+    }
+}
   },
   {
     "c32": {},
@@ -12886,7 +13003,13 @@
     },
     "isBedrock": false,
     "bedrock": {},
-    "animated": false
+    "animated": true,
+		"mcmeta":   
+{
+    "animation": {
+        "frametime": 2
+    }
+}
   },
   {
     "c32": {
@@ -12917,7 +13040,13 @@
     "bedrock": {
       "1.16.200": "textures/blocks/seagrass.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta":   
+{
+    "animation": {
+        "frametime": 2
+    }
+}
   },
   {
     "c32": {
@@ -12939,7 +13068,12 @@
     "bedrock": {
       "1.16.200": "textures/blocks/sea_lantern.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": {
+    "animation": {
+        "frametime": 5
+    }
+}
   },
   {
     "c32": {
@@ -13380,7 +13514,46 @@
     "bedrock": {
       "1.16.200": "textures/blocks/soul_fire_0.png"
     },
-    "animated": true
+    "animated": true,
+		"mcmeta":   
+{
+  "animation": {
+    "frames": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  }
+}
   },
   {
     "c32": {},
@@ -13393,7 +13566,10 @@
     "bedrock": {
       "1.16.200": "textures/blocks/soul_fire_1.png"
     },
-    "animated": true
+    "animated": true,
+		"mcmeta": {
+  "animation": {}
+}
   },
   {
     "c32": {
@@ -13410,7 +13586,13 @@
     "bedrock": {
       "1.16.200": "textures/blocks/soul_lantern.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta":   
+{
+  "animation": {
+    "frametime": 8
+  }
+}
   },
   {
     "c32": {
@@ -13755,7 +13937,13 @@
     },
     "isBedrock": false,
     "bedrock": {},
-    "animated": false
+    "animated": true,
+		"mcmeta": {
+  "animation": {
+    "interpolate": false,
+    "frametime": 1
+  }
+}
   },
   {
     "c32": {},
@@ -14945,7 +15133,13 @@
     "bedrock": {
       "1.16.200": "textures/blocks/huge_fungus/warped_stem_side.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": {
+  "animation": {
+    "interpolate": true,
+    "frametime": 10
+  }
+}
   },
   {
     "c32": {},
@@ -15010,7 +15204,10 @@
     "bedrock": {
       "1.16.200": "textures/blocks/water_flow_grey.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": {
+  "animation": {}
+}
   },
   {
     "c32": {},
@@ -15042,7 +15239,12 @@
     "bedrock": {
       "1.16.200": "textures/blocks/water_still_grey.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": {
+  "animation": {
+    "frametime": 2
+  }
+}
   },
   {
     "c32": {},
