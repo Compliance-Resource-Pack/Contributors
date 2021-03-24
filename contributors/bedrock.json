@@ -560,7 +560,7 @@
       "1.16.200": "textures/blocks/blast_furnace_front_on.png",
       "1.16.210": "textures/blocks/blast_furnace_front_on.png"
     },
-    "animated": false
+    "animated": true
   },
   {
     "c32": {

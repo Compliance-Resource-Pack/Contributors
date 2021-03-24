@@ -2529,7 +2529,9 @@
     "bedrock": {
       "1.16.200": "textures/blocks/blast_furnace_front_on.png"
     },
-    "animated": false
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 10 }
+}
   },
   {
     "c32": {
@@ -3395,7 +3397,9 @@
     "bedrock": {
       "1.16.200": "textures/blocks/campfire.png"
     },
-    "animated": true
+    "animated": true,
+		"mcmeta": { "animation": { "frametime": 2 }
+}
   },
   {
     "c32": {},
@@ -3425,7 +3429,9 @@
     "bedrock": {
       "1.16.200": "textures/blocks/campfire_log_lit.png"
     },
-    "animated": true
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 20 }
+}
   },
   {
     "c32": {
@@ -13346,7 +13352,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/soul_campfire.png"
     },
-    "animated": true
+    "animated": true,
+		"mcmeta": { "animation": { "frametime": 2 }
   },
   {
     "c32": {},
@@ -13359,7 +13366,8 @@
     "bedrock": {
       "1.16.200": "textures/blocks/soul_campfire_log_lit.png"
     },
-    "animated": true
+    "animated": true,
+		"mcmeta": { "animation": { "interpolate": true, "frametime": 20 }}
   },
   {
     "c32": {},
