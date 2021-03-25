@@ -4173,6 +4173,15 @@
     "animated": false
   },
   {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/coal_ore_2.png"
+    },
+    "isBedrock": false,
+    "animated": false
+  },
+  {
     "c32": {
       "author": [
         "340497757410295808"
@@ -6205,6 +6214,20 @@
   {
     "c32": {
       "author": [
+        "729617269243773008"
+      ],
+      "date": "03/25/2021"
+    },
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/diamond_ore_2.png"
+    },
+    "isBedrock": false,
+    "animated": false
+  },
+  {
+    "c32": {
+      "author": [
         "340497757410295808"
       ],
       "date": "12/18/2020"
@@ -6495,6 +6518,15 @@
     "bedrock": {
       "1.16.200": "textures/blocks/emerald_block.png"
     },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/emerald_ore_2.png"
+    },
+    "isBedrock": false,
     "animated": false
   },
   {
@@ -6927,11 +6959,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/fletching_table_top.png",
@@ -7279,6 +7307,15 @@
     "bedrock": {
       "1.16.200": "textures/blocks/gold_block.png"
     },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/gold_ore_2.png"
+    },
+    "isBedrock": false,
     "animated": false
   },
   {
@@ -8157,6 +8194,15 @@
     "animated": false
   },
   {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/iron_ore_2.png"
+    },
+    "isBedrock": false,
+    "animated": false
+  },
+  {
     "c32": {
       "author": [
         "340497757410295808"
@@ -8619,6 +8665,15 @@
     "bedrock": {
       "1.16.200": "textures/blocks/lapis_block.png"
     },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/lapis_ore_2.png"
+    },
+    "isBedrock": false,
     "animated": false
   },
   {
@@ -12188,6 +12243,15 @@
     "bedrock": {
       "1.16.200": "textures/blocks/redstone_lamp_on.png"
     },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/redstone_ore_2.png"
+    },
+    "isBedrock": false,
     "animated": false
   },
   {
@@ -22499,11 +22563,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie/zombie.png",
       "1.16.5": "minecraft/textures/entity/zombie/zombie.png",
@@ -23266,8 +23326,10 @@
       "author": [
         "369259215996583936",
         "285902386701271050",
-        "409514371388145664"
-      ]
+        "409514371388145664",
+        "401627057915691009"
+      ],
+      "date": "03/25/2021"
     },
     "c64": {},
     "version": {
@@ -23705,8 +23767,7 @@
   {
     "c32": {
       "author": [
-        "484371204153540611",
-        "285902386701271050"
+        "484371204153540611"
       ],
       "date": "12/11/2020"
     },
@@ -24738,11 +24799,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/black_dye.png",
       "1.16.5": "minecraft/textures/item/black_dye.png",
@@ -27873,8 +27930,7 @@
     "c32": {
       "author": [
         "407235780411523072",
-        "173961749941321731",
-        "729617269243773008"
+        "173961749941321731"
       ]
     },
     "c64": {},
@@ -32912,11 +32968,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/yellow_dye.png",
