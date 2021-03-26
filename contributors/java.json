@@ -17727,11 +17727,16 @@
   {
     "c32": {
       "author": [
-        "729617269243773008"
+        "729617269243773008",
+        "285902386701271050"
       ],
       "date": "03/13/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/bee/bee.png",
       "1.16.5": "minecraft/textures/entity/bee/bee.png",
@@ -17744,8 +17749,16 @@
     "animated": false
   },
   {
-    "c32": {},
-    "c64": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
+    "c64": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/bee/bee_angry.png",
       "1.16.5": "minecraft/textures/entity/bee/bee_angry.png",
@@ -17758,8 +17771,16 @@
     "animated": false
   },
   {
-    "c32": {},
-    "c64": {},
+    "c32": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
+    "c64": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/bee/bee_angry_nectar.png",
       "1.16.5": "minecraft/textures/entity/bee/bee_angry_nectar.png",
@@ -17774,11 +17795,16 @@
   {
     "c32": {
       "author": [
-        "729617269243773008"
+        "729617269243773008",
+        "285902386701271050"
       ],
       "date": "03/13/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/bee/bee_nectar.png",
       "1.16.5": "minecraft/textures/entity/bee/bee_nectar.png",
@@ -20203,7 +20229,11 @@
         "409514371388145664"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/entity/pig/pig.png",
       "1.16.5": "minecraft/textures/entity/pig/pig.png",
@@ -29587,7 +29617,11 @@
         "280854181747884043"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/honey_bottle.png",
       "1.16.5": "minecraft/textures/item/honey_bottle.png",
@@ -30068,7 +30102,11 @@
         "456289548406620161"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/lapis_lazuli.png",
       "1.16.5": "minecraft/textures/item/lapis_lazuli.png",
@@ -30129,7 +30167,11 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/leather.png",
       "1.16.5": "minecraft/textures/item/leather.png",
@@ -31378,7 +31420,11 @@
         "407235780411523072"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/popped_chorus_fruit.png",
       "1.16.5": "minecraft/textures/item/popped_chorus_fruit.png",
@@ -31954,7 +32000,11 @@
       ],
       "date": "12/04/2020"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/sea_pickle.png",
       "1.16.5": "minecraft/textures/item/sea_pickle.png",
@@ -31998,7 +32048,11 @@
       ],
       "date": "12/04/2020"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/shulker_shell.png",
       "1.16.5": "minecraft/textures/item/shulker_shell.png",
@@ -32106,7 +32160,11 @@
       ],
       "date": "12/04/2020"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/spawn_egg.png",
       "1.16.5": "minecraft/textures/item/spawn_egg.png",
@@ -32126,7 +32184,11 @@
       ],
       "date": "12/04/2020"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/spawn_egg_overlay.png",
       "1.16.5": "minecraft/textures/item/spawn_egg_overlay.png",
@@ -32472,7 +32534,11 @@
         "331073143613423616"
       ]
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/sugar_cane.png",
       "1.16.5": "minecraft/textures/item/sugar_cane.png",
