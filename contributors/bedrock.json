@@ -6742,7 +6742,12 @@
         "256074743940120587"
       ]
     },
-    "c64": {},
+    "c64": {
+      "date": "03/26/2021",
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.16.200": "textures/blocks/shroomlight.png",
       "1.16.210": "textures/blocks/shroomlight.png"
