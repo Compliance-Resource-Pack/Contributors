@@ -1650,7 +1650,11 @@
       ],
       "date": "01/01/2021"
     },
-    "c64": {},
+    "c64": {
+      "author": [
+        "672989591283695618"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/bedrock.png",
       "1.16.5": "minecraft/textures/block/bedrock.png",
@@ -22594,7 +22598,11 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "220230789311365121"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie/drowned.png",
@@ -22608,7 +22616,11 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "220230789311365121"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/zombie/drowned_outer_layer.png",
