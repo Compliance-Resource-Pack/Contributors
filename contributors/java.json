@@ -16921,11 +16921,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "author": [
-        "173961749941321731"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/banner/creeper.png",
@@ -21847,7 +21843,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "03/29/2021",
+      "author": [
+        "263721013370552321"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/slime/magmacube.png",
