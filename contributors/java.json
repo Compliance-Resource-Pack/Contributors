@@ -215,19 +215,6 @@
     "c32": {},
     "c64": {},
     "version": {
-      "1.17": "realms/textures/gui/realms/plus_icon.png",
-      "1.16.5": "realms/textures/gui/realms/plus_icon.png",
-      "1.15.2": "realms/textures/gui/realms/plus_icon.png",
-      "1.14.4": "realms/textures/gui/realms/plus_icon.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
       "1.17": "realms/textures/gui/realms/popup.png",
       "1.16.5": "realms/textures/gui/realms/popup.png",
       "1.15.2": "realms/textures/gui/realms/popup.png",
