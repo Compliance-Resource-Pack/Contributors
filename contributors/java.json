@@ -16,19 +16,6 @@
     "c32": {},
     "c64": {},
     "version": {
-      "1.17": "realms/textures/gui/realms/adventure.png",
-      "1.16.5": "realms/textures/gui/realms/adventure.png",
-      "1.15.2": "realms/textures/gui/realms/adventure.png",
-      "1.14.4": "realms/textures/gui/realms/adventure.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
       "1.17": "realms/textures/gui/realms/configure_icon.png",
       "1.16.5": "realms/textures/gui/realms/configure_icon.png",
       "1.15.2": "realms/textures/gui/realms/configure_icon.png",
@@ -68,36 +55,10 @@
     "c32": {},
     "c64": {},
     "version": {
-      "1.17": "realms/textures/gui/realms/darken.png",
-      "1.16.5": "realms/textures/gui/realms/darken.png",
-      "1.15.2": "realms/textures/gui/realms/darken.png",
-      "1.14.4": "realms/textures/gui/realms/darken.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
       "1.17": "realms/textures/gui/realms/empty_frame.png",
       "1.16.5": "realms/textures/gui/realms/empty_frame.png",
       "1.15.2": "realms/textures/gui/realms/empty_frame.png",
       "1.14.4": "realms/textures/gui/realms/empty_frame.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "realms/textures/gui/realms/experience.png",
-      "1.16.5": "realms/textures/gui/realms/experience.png",
-      "1.15.2": "realms/textures/gui/realms/experience.png",
-      "1.14.4": "realms/textures/gui/realms/experience.png"
     },
     "isBedrock": false,
     "bedrock": {},
@@ -124,19 +85,6 @@
       "1.16.5": "realms/textures/gui/realms/expires_soon_icon.png",
       "1.15.2": "realms/textures/gui/realms/expires_soon_icon.png",
       "1.14.4": "realms/textures/gui/realms/expires_soon_icon.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "realms/textures/gui/realms/inspiration.png",
-      "1.16.5": "realms/textures/gui/realms/inspiration.png",
-      "1.15.2": "realms/textures/gui/realms/inspiration.png",
-      "1.14.4": "realms/textures/gui/realms/inspiration.png"
     },
     "isBedrock": false,
     "bedrock": {},
@@ -219,19 +167,6 @@
       "1.16.5": "realms/textures/gui/realms/news_notification_mainscreen.png",
       "1.15.2": "realms/textures/gui/realms/news_notification_mainscreen.png",
       "1.14.4": "realms/textures/gui/realms/news_notification_mainscreen.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "realms/textures/gui/realms/new_world.png",
-      "1.16.5": "realms/textures/gui/realms/new_world.png",
-      "1.15.2": "realms/textures/gui/realms/new_world.png",
-      "1.14.4": "realms/textures/gui/realms/new_world.png"
     },
     "isBedrock": false,
     "bedrock": {},
@@ -358,19 +293,6 @@
     "c32": {},
     "c64": {},
     "version": {
-      "1.17": "realms/textures/gui/realms/survival_spawn.png",
-      "1.16.5": "realms/textures/gui/realms/survival_spawn.png",
-      "1.15.2": "realms/textures/gui/realms/survival_spawn.png",
-      "1.14.4": "realms/textures/gui/realms/survival_spawn.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
       "1.17": "realms/textures/gui/realms/trailer_icons.png",
       "1.16.5": "realms/textures/gui/realms/trailer_icons.png",
       "1.15.2": "realms/textures/gui/realms/trailer_icons.png",
@@ -388,19 +310,6 @@
       "1.16.5": "realms/textures/gui/realms/trial_icon.png",
       "1.15.2": "realms/textures/gui/realms/trial_icon.png",
       "1.14.4": "realms/textures/gui/realms/trial_icon.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "realms/textures/gui/realms/upload.png",
-      "1.16.5": "realms/textures/gui/realms/upload.png",
-      "1.15.2": "realms/textures/gui/realms/upload.png",
-      "1.14.4": "realms/textures/gui/realms/upload.png"
     },
     "isBedrock": false,
     "bedrock": {},
