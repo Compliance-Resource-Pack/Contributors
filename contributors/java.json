@@ -16921,7 +16921,11 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "author": [
+        "173961749941321731"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/banner/creeper.png",
