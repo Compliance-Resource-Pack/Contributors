@@ -3277,26 +3277,6 @@
     "c32": {},
     "c64": {},
     "version": {
-      "1.17": "minecraft/textures/block/calibrated_sculk_sensor_side.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/block/calibrated_sculk_sensor_top.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
       "1.17": "minecraft/textures/block/campfire_fire.png",
       "1.16.5": "minecraft/textures/block/campfire_fire.png",
       "1.15.2": "minecraft/textures/block/campfire_fire.png",
@@ -16149,29 +16129,6 @@
     "animated": false
   },
   {
-    "c32": {
-      "author": [
-        "344156408255741962",
-        "409514371388145664"
-      ],
-      "date": "01/01/2021"
-    },
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/entity/arrow.png",
-      "1.16.5": "minecraft/textures/entity/arrow.png",
-      "1.15.2": "minecraft/textures/entity/arrow.png",
-      "1.14.4": "minecraft/textures/entity/arrow.png",
-      "1.13.2": "minecraft/textures/entity/arrow.png",
-      "1.12.2": "minecraft/textures/entity/arrow.png"
-    },
-    "isBedrock": true,
-    "bedrock": {
-      "1.16.210": "textures/entity/arrows.png"
-    },
-    "animated": false
-  },
-  {
     "c32": {},
     "c64": {},
     "version": {
@@ -16398,6 +16355,16 @@
       "1.16.5": "minecraft/textures/entity/fishing_hook.png",
       "1.15.2": "minecraft/textures/entity/fishing_hook.png",
       "1.14.4": "minecraft/textures/entity/fishing_hook.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/entity/goat/goat.png"
     },
     "isBedrock": false,
     "bedrock": {},
@@ -22681,21 +22648,6 @@
     "bedrock": {
       "1.16.210": "textures/entity/zombie/zombie.png"
     },
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/entity/zombie/zombie_villager.png",
-      "1.16.5": "minecraft/textures/entity/zombie/zombie_villager.png",
-      "1.15.2": "minecraft/textures/entity/zombie/zombie_villager.png",
-      "1.14.4": "minecraft/textures/entity/zombie/zombie_villager.png",
-      "1.13.2": "minecraft/textures/entity/zombie/zombie_villager.png",
-      "1.12.2": "minecraft/textures/entity/zombie/zombie_villager.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
     "animated": false
   },
   {
@@ -30227,6 +30179,176 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.17": "minecraft/textures/item/light.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_00.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_01.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_02.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_03.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_04.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_05.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_06.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_07.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_08.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_09.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_10.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_11.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_12.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_13.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_14.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/item/light_15.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.17": "minecraft/textures/item/light_blue_candle.png"
     },
     "isBedrock": false,
@@ -31757,27 +31879,6 @@
     "isBedrock": true,
     "bedrock": {
       "1.16.210": "textures/items/rotten_flesh.png"
-    },
-    "animated": false
-  },
-  {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ]
-    },
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/item/ruby.png",
-      "1.16.5": "minecraft/textures/item/ruby.png",
-      "1.15.2": "minecraft/textures/item/ruby.png",
-      "1.14.4": "minecraft/textures/item/ruby.png",
-      "1.13.2": "minecraft/textures/item/ruby.png",
-      "1.12.2": "minecraft/textures/items/ruby.png"
-    },
-    "isBedrock": true,
-    "bedrock": {
-      "1.16.210": "textures/items/ruby.png"
     },
     "animated": false
   },
@@ -34087,28 +34188,6 @@
     "c32": {},
     "c64": {},
     "version": {
-      "1.17": "minecraft/textures/models/armor/piglin_leather_layer_1.png",
-      "1.16.5": "minecraft/textures/models/armor/piglin_leather_layer_1.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/models/armor/piglin_leather_layer_1_overlay.png",
-      "1.16.5": "minecraft/textures/models/armor/piglin_leather_layer_1_overlay.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {},
-    "c64": {},
-    "version": {
       "1.17": "minecraft/textures/models/armor/turtle_layer_1.png",
       "1.16.5": "minecraft/textures/models/armor/turtle_layer_1.png",
       "1.15.2": "minecraft/textures/models/armor/turtle_layer_1.png",
@@ -35260,26 +35339,6 @@
       "1.16.5": "minecraft/textures/particle/flash.png",
       "1.15.2": "minecraft/textures/particle/flash.png",
       "1.14.4": "minecraft/textures/particle/flash.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
-    "c32": {
-      "author": [
-        "285902386701271050"
-      ],
-      "date": "12/04/2020"
-    },
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/particle/footprint.png",
-      "1.16.5": "minecraft/textures/particle/footprint.png",
-      "1.15.2": "minecraft/textures/particle/footprint.png",
-      "1.14.4": "minecraft/textures/particle/footprint.png",
-      "1.13.2": "minecraft/textures/particle/footprint.png",
-      "1.12.2": "minecraft/textures/particle/footprint.png"
     },
     "isBedrock": false,
     "bedrock": {},
