@@ -11390,7 +11390,12 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "date": "01/04/2021",
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.16.200": "textures/entity/strider/strider.png",
       "1.16.210": "textures/entity/strider/strider.png"
@@ -11408,7 +11413,12 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "date": "01/04/2021",
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.16.200": "textures/entity/strider/strider_suffocated.png",
       "1.16.210": "textures/entity/strider/strider_suffocated.png"
