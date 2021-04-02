@@ -14078,7 +14078,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "02/04/2021",
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.16.200": "textures/items/book_enchanted.png",
@@ -14087,7 +14092,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "02/04/2021",
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.16.200": "textures/items/book_normal.png",
@@ -14105,7 +14115,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "02/04/2021",
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.16.200": "textures/items/book_writable.png",
@@ -14114,7 +14129,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "02/04/2021",
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.16.200": "textures/items/book_written.png",
