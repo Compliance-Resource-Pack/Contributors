@@ -17440,12 +17440,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/black.png",
@@ -17460,12 +17455,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/blue.png",
@@ -17480,12 +17470,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/brown.png",
@@ -17500,12 +17485,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/cyan.png",
@@ -17520,12 +17500,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/gray.png",
@@ -17540,12 +17515,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/green.png",
@@ -17560,12 +17530,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/light_blue.png",
@@ -17580,12 +17545,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/light_gray.png",
@@ -17600,12 +17560,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/lime.png",
@@ -17620,12 +17575,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/magenta.png",
@@ -17640,12 +17590,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/orange.png",
@@ -17660,12 +17605,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/pink.png",
@@ -17680,12 +17620,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/purple.png",
@@ -17700,12 +17635,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/red.png",
@@ -17720,12 +17650,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/white.png",
@@ -17740,12 +17665,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/bed/yellow.png",
@@ -23540,12 +23460,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/gui/recipe_button.png",
@@ -23643,8 +23558,7 @@
       "author": [
         "285902386701271050",
         "464598667425349633"
-      ],
-      "date": "02/04/2021"
+      ]
     },
     "c64": {},
     "version": {
@@ -24916,12 +24830,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/book.png",
@@ -28633,12 +28542,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/enchanted_book.png",
@@ -30009,12 +29913,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/knowledge_book.png",
@@ -32905,7 +32804,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "02/04/2021",
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/warped_sign.png",
@@ -33128,12 +33032,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/writable_book.png",
@@ -33150,12 +33049,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "02/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/written_book.png",
