@@ -973,12 +973,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.16.200": "textures/blocks/campfire_log_lit.png",
@@ -2394,12 +2389,7 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.16.200": "textures/blocks/crimson_nylium_side.png",
       "1.16.210": "textures/blocks/crimson_nylium_side.png"
@@ -2531,7 +2521,12 @@
       ],
       "date": "12/18/2020"
     },
-    "c64": {},
+    "c64": {
+      "date": "05/04/2021",
+      "author": [
+        "674962022915506245"
+      ]
+    },
     "version": {
       "1.16.200": "textures/blocks/diamond_ore.png",
       "1.16.210": "textures/blocks/diamond_ore.png"
@@ -2852,12 +2847,7 @@
         "361251723106320384"
       ]
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.16.200": "textures/blocks/double_plant_rose_bottom.png",
       "1.16.210": "textures/blocks/double_plant_rose_bottom.png"
@@ -2870,12 +2860,7 @@
         "361251723106320384"
       ]
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.16.200": "textures/blocks/double_plant_rose_top.png",
       "1.16.210": "textures/blocks/double_plant_rose_top.png"
@@ -2991,12 +2976,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "672989591283695618"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.16.200": "textures/blocks/emerald_block.png",
       "1.16.210": "textures/blocks/emerald_block.png"
@@ -5317,12 +5297,7 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.16.200": "textures/blocks/netherrack.png",
       "1.16.210": "textures/blocks/netherrack.png"
@@ -6035,12 +6010,7 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.16.200": "textures/blocks/quartz_ore.png",
       "1.16.210": "textures/blocks/quartz_ore.png"
@@ -7176,12 +7146,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "04/04/2021",
-      "author": [
-        "207471947662098432"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.16.200": "textures/blocks/soul_campfire_log_lit.png",
@@ -8027,12 +7992,7 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.16.200": "textures/blocks/warped_nylium_side.png",
       "1.16.210": "textures/blocks/warped_nylium_side.png"
@@ -10601,7 +10561,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "05/04/2021",
+      "author": [
+        "207471947662098432"
+      ]
+    },
     "c64": {},
     "version": {
       "1.16.200": "textures/entity/llama/decor/decor_purple.png",
@@ -15005,8 +14970,7 @@
     "c32": {
       "author": [
         "280854181747884043"
-      ],
-      "date": "04/04/2021"
+      ]
     },
     "c64": {
       "author": [
@@ -15889,7 +15853,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "05/04/2021",
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.16.200": "textures/items/empty_armor_slot_helmet.png",
@@ -15907,7 +15876,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "05/04/2021",
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.16.200": "textures/items/empty_armor_slot_shield.png",
@@ -16388,8 +16362,10 @@
     "c32": {
       "author": [
         "280854181747884043",
-        "340497757410295808"
-      ]
+        "340497757410295808",
+        "692740123627880459"
+      ],
+      "date": "05/04/2021"
     },
     "c64": {},
     "version": {
@@ -17391,8 +17367,7 @@
     "c32": {
       "author": [
         "280854181747884043"
-      ],
-      "date": "04/04/2021"
+      ]
     },
     "c64": {},
     "version": {

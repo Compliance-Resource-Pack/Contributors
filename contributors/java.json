@@ -3309,12 +3309,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/campfire_log_lit.png",
@@ -4541,7 +4536,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "05/04/2021",
+      "author": [
+        "729617269243773008"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/cracked_deepslate_tiles.png"
@@ -4721,12 +4721,7 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/crimson_nylium_side.png",
       "1.16.5": "minecraft/textures/block/crimson_nylium_side.png"
@@ -6144,7 +6139,12 @@
       ],
       "date": "12/18/2020"
     },
-    "c64": {},
+    "c64": {
+      "date": "05/04/2021",
+      "author": [
+        "674962022915506245"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/block/diamond_ore.png",
       "1.16.5": "minecraft/textures/block/diamond_ore.png",
@@ -6419,12 +6419,7 @@
   },
   {
     "c32": {},
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "672989591283695618"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/emerald_block.png",
       "1.16.5": "minecraft/textures/block/emerald_block.png",
@@ -10014,12 +10009,7 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/netherrack.png",
       "1.16.5": "minecraft/textures/block/netherrack.png",
@@ -10101,12 +10091,7 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/nether_quartz_ore.png",
       "1.16.5": "minecraft/textures/block/nether_quartz_ore.png",
@@ -12961,12 +12946,7 @@
         "361251723106320384"
       ]
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/rose_bush_bottom.png",
       "1.16.5": "minecraft/textures/block/rose_bush_bottom.png",
@@ -12987,12 +12967,7 @@
         "361251723106320384"
       ]
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/rose_bush_top.png",
       "1.16.5": "minecraft/textures/block/rose_bush_top.png",
@@ -13208,12 +13183,7 @@
       ],
       "date": "12/11/2020"
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "674962022915506245"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/sculk_sensor_top.png"
     },
@@ -13695,12 +13665,7 @@
     }
   },
   {
-    "c32": {
-      "date": "04/04/2021",
-      "author": [
-        "207471947662098432"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/soul_campfire_log_lit.png",
@@ -14882,16 +14847,13 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "04/04/2021",
-      "author": [
-        "207471947662098432"
-      ]
-    },
+    "c32": {},
     "c64": {
       "author": [
-        "389357651852787712"
-      ]
+        "389357651852787712",
+        "207471947662098432"
+      ],
+      "date": "05/04/2021"
     },
     "version": {
       "1.17": "minecraft/textures/block/tinted_glass.png"
@@ -15283,12 +15245,7 @@
       ],
       "date": "01/19/2021"
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/warped_nylium_side.png",
       "1.16.5": "minecraft/textures/block/warped_nylium_side.png"
@@ -19966,7 +19923,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "05/04/2021",
+      "author": [
+        "207471947662098432"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/llama/decor/purple.png",
@@ -21857,12 +21819,7 @@
         "263721013370552321"
       ]
     },
-    "c64": {
-      "date": "04/04/2021",
-      "author": [
-        "340497757410295808"
-      ]
-    },
+    "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/slime/magmacube.png",
       "1.16.5": "minecraft/textures/entity/slime/magmacube.png",
@@ -28425,8 +28382,7 @@
     "c32": {
       "author": [
         "280854181747884043"
-      ],
-      "date": "04/04/2021"
+      ]
     },
     "c64": {
       "author": [
@@ -28572,7 +28528,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "05/04/2021",
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/empty_armor_slot_helmet.png",
@@ -28606,7 +28567,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "05/04/2021",
+      "author": [
+        "285902386701271050"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/empty_armor_slot_shield.png",
@@ -29030,8 +28996,7 @@
     "c32": {
       "author": [
         "280854181747884043"
-      ],
-      "date": "04/04/2021"
+      ]
     },
     "c64": {},
     "version": {
@@ -29542,8 +29507,10 @@
   {
     "c32": {
       "author": [
-        "280854181747884043"
-      ]
+        "280854181747884043",
+        "692740123627880459"
+      ],
+      "date": "05/04/2021"
     },
     "c64": {
       "author": [
@@ -31590,8 +31557,7 @@
     "c32": {
       "author": [
         "280854181747884043"
-      ],
-      "date": "04/04/2021"
+      ]
     },
     "c64": {
       "author": [
@@ -32331,12 +32297,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "04/04/2021",
-      "author": [
-        "280854181747884043"
-      ]
-    },
+    "c32": {},
     "c64": {
       "author": [
         "389357651852787712"
