@@ -1,15 +1,5 @@
 [
   {
-    "user": "000000000000000000",
-    "warn": [
-      "reason 1",
-      "reason 2",
-      "reason 3"
-    ],
-    "muted": true,
-    "timeout": -100
-  },
-  {
     "user": "785114694872465428",
     "timeout": -100,
     "muted": true
@@ -29,7 +19,7 @@
   },
   {
     "user": "334337761198866433",
-    "timeout": 310800,
+    "timeout": 308070,
     "muted": true
   },
   {

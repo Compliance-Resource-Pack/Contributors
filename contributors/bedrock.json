@@ -16264,7 +16264,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "06/04/2021",
+      "author": [
+        "729617269243773008"
+      ]
+    },
     "c64": {},
     "version": {
       "1.16.200": "textures/items/gold_nugget.png",
