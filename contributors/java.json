@@ -29386,12 +29386,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "06/04/2021",
-      "author": [
-        "729617269243773008"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/gold_nugget.png",
@@ -30246,12 +30241,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "06/04/2021",
-      "author": [
-        "285902386701271050"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/light.png"
