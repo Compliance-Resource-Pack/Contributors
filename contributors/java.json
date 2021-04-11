@@ -2816,7 +2816,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "11/04/2021",
+      "author": [
+        "456289548406620161"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/brewing_stand_base.png",
@@ -5722,7 +5727,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "11/04/2021",
+      "author": [
+        "729617269243773008"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/deepslate_bricks.png"
@@ -31294,8 +31304,10 @@
   {
     "c32": {
       "author": [
-        "692740123627880459"
-      ]
+        "692740123627880459",
+        "373928073176809485"
+      ],
+      "date": "11/04/2021"
     },
     "c64": {},
     "version": {
@@ -31897,7 +31909,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "11/04/2021",
+      "author": [
+        "373928073176809485"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/raw_copper.png"
@@ -31907,7 +31924,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "11/04/2021",
+      "author": [
+        "373928073176809485"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/raw_gold.png"
@@ -31917,7 +31939,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "11/04/2021",
+      "author": [
+        "373928073176809485"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/item/raw_iron.png"
