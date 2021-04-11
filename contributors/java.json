@@ -16606,7 +16606,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "11/04/2021",
+      "author": [
+        "173336582265241601"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/entity/snow_golem.png",
