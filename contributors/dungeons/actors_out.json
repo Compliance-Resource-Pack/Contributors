@@ -1,0 +1,5828 @@
+[
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Bat/T_Bat.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Bat/T_Bat_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/CauldronBoss/T_CauldronBoss.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/CauldronBoss/T_CauldronBoss_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/CaveSpider/T_CaveSpider.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Creeper/T_Creeper.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Creeper/T_Creeper_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Enderman/T_Enderman.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Enderman/T_Enderman_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/FrozenZombie/T_FrozenZombie.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Husk/T_Husk.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Husk/T_Husk_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/ArchIllager/T_ArchIllager.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/ArchIllager/T_ArchIllagerUndressed.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/ArchIllager/T_ArchIllagerUndressed_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/ArchIllager/T_ArchIllager_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/ArchIllager/T_SuperCube.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/ArchIllager/T_SuperStaff.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/ArchVessel/T_ArchIllagerAvatarGlow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/ArchVessel/T_ArchIllagerAvatarSpace.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Chillager/T_Chillager.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Enchanter/T_EnchantedBook.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Enchanter/T_Enchanter_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Enchanter/T_IllagerEnchanter.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Evoker/Fang/T_EvokerFangs.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Evoker/T_IllagerEvoker.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Evoker/T_IllagerEvoker_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Geomancer/GeomancerBomb/T_Geomancer_Bomb_E.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Geomancer/GeomancerBomb/T_Geomancer_Pillar_Bomb.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Geomancer/GeomancerWall/T_Geomancer_Pillar_Wall.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Geomancer/T_IllagerGeomancer.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Geomancer/T_IllagerGeomancer_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Pillager/T_Pillager.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Pillager/T_PillagerVariant1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Pillager/T_PillagerVariant2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Pillager/T_Pillager_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/RoyalGuard/T_IllagerRoyalGuard.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/RoyalGuard/T_IllagerRoyalGuard_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/RoyalGuard/T_RoyalGuardShield.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/RoyalGuard/T_RoyalGuardShield_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Vindicator/ChefOutfit/T_ChefOutfit.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Vindicator/T_IllagerVindicator.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Vindicator/T_VindicatorVariant1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Vindicator/T_VindicatorVariant2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illagers/Vindicator/T_Vindicator_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illusioner/Illusioner_Arrow/T_Illusioner_Arrow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Illusioner/illusionistJasper.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/JackOLantern/T_JackOLantern.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/JackOLantern/T_JackOLantern_E.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/JungleAbomination/T_Jungle_Abomination_E_M6.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/JungleAbomination/T_Jungle_Abomination_M6.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/JungleAbominationVine/T_Vine_Arm.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/JungleZombie/T_JungleZombie_v4.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Leaper/T_Leaper.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Leaper/T_Leaper_E.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/MobSpawner/T_MobSpawner.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/MobSpawner/T_MobSpawner_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Mooshroom/T_MooShroom.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/MooshroomMonstrosity/T_MooshroomMonstrosity.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/MossySkeleton/T_MossySkeleton.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/NamelessKing/T_NamelessKing.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/NamelessKing/T_NamelessKing_E.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Phantom/T_Phantom.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Phantom/T_Phantom_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/PoisonQuillVine/T_Posion_Quill_Vine.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/PoisonQuillVine/T_Posion_Quill_Vine_E.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/QuickGrowingVine/T_QuickGrowingVine.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/QuickGrowingVine/T_QuickGrowingVine_E.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/RedStoneCube/T_RedstoneCube.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/RedStoneCube/T_RedstoneCube_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/RedstoneGolem/T_RedStoneGolem_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/RedstoneGolem/T_Redstone_Golem.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/RedStoneMonstrosity/T_RedStoneMonstrosity.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/RedStoneMonstrosity/T_RedStoneMonstrosity_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Skeleton/T_Skeleton.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Skeleton/T_Skeleton_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/SkeletonHorseman/T_SkeletonHorse.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/SkeletonHorseman/T_SkeletonHorse_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/SkeletonNecromancer/T_Skeleton_Necromancer.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/SkeletonNecromancer/T_Skeleton_Necromancer_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/SkeletonVanguard/T_DesertArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/SkeletonVanguard/T_desertShield.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Slime/T_Slime.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Slime/T_Slime_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/SlimeCauldron/T_SlimePurple.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Spider/T_Spider.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Spider/T_spider_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Spider/VFX/T_SpiderWebProjectile.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Spider/VFX/T_Web.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Stray/T_Stray.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Stray/T_Stray_Overlay.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/TargetDummy/Dummy/T_TargetDummy.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Vex/T_Vex.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Vex/T_Vex_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Whisperer/T_Whisperer.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Whisperer/T_Whisperer_E.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Whisperer/Vine_Trap/T_Whisperer_Trap.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Whisperer/Vine_Trap/T_Whisperer_Trap_A.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Wicked_Wraith/T_Wicked_Wraith_01.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Wicked_Wraith/T_Wicked_Wraith_E_01.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Wicked_Wraith/T_WraithFB.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Witch/T_Witch.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Witch/T_Witch_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Wraith/T_Wraith.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Wraith/T_Wraith_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Zombie/T_Zombie.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Enemies/Zombie/T_Zombie_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/BabyPig/T_babyChicken.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Chicken/T_Chicken.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Chicken/T_Chicken_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/ChickenBaby/T_babyChicken.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Cow/T_Cow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Cow/T_Cow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Horse/Skins/T_Horse_black.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Horse/Skins/T_Horse_gray.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Horse/T_Horse_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Llama/Skins/T_Llama.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Llama/Skins/T_Llama_RedDecor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Llama/Skins/T_Llama_TradeDecor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Llama/Skins/T_Llama_TradeDecor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Llama/T_Llama_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Ocelot/T_Ocelot.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Panda/T_Panda.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Panda/T_Panda_Brown.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Parrot/parrot_red_blue.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Pig/T_Pig.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Pig/T_Pig_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/PiggyBank/T_PiggyBank.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/PiggyBank/T_PiggyBank_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/PolarBear/polarbear.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Rabbit/T_Rabbit.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Sheep/T_Sheep.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Sheep/T_Sheep_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/SnowFox/T_SnowFox.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Wolf/T_Wolf.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Animals/Wolf/T_Wolf_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/BabyKey/T_BabyKey_Diamond.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/BabyKey/T_BabyKey_Gold.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/BabyKey/T_BabyKey_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/IronGolem/T_IronGolem.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/IronGolem/T_IronGolem_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/Merchants/T_GiftGiverHat.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/Merchants/T_ShopKeeperMagnifyingGlass.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Armorer.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Blacksmith.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Butcher.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Cleric.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Farmer.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Fisherman.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Fletcher.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_GiftWrapper.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Leatherworker.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Librarian.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_LuxuryMerchant.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Mason.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_MysteryMerchant.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_QuestGiver.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_QuestGiver_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_ShopKeeper.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Toolsmith.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_TravellingMerchant.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_TravellingMerchant_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Unemployed.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Friendlies/Villager/T_Villager_Weaponsmith.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Capes/Skins/HammerCape/T_HammerCape.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Capes/Skins/HammerCape/T_HammerCape_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Capes/Skins/IronGolemCape/T_IronGolemCape.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Capes/Skins/IronGolemCape/T_IronGolemCape_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Capes/Skins/MonstrosityGoldenCape/T_RedstoneMonstrosityGoldenCape.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Capes/Skins/MonstrosityGoldenCape/T_RedstoneMonstrosityGoldenCape_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Capes/Skins/MysteryCape/T_MysteryCape.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Capes/Skins/RedRoyalCape/T_RedRoyalCape.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Capes/Skins/RedRoyalCape/T_RedRoyalCape_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Capes/Skins/SinisterBlueCape/T_SinisterBlueCape.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Alex/T_Alex_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Annika/T_Annika_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Annika/T_Annika_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Archeologist/T_Archeologist.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Archeologist/T_Archeologist_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Baako/T_Baako_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Baako/T_Baako_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Bediako/T_Bediako_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Bediako/T_Bediako_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Christina/T_Christina_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Christina/T_Christina_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Dani/T_Dani_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Dani/T_Dani_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Darian/T_Darian_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Darian/T_Darian_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Elaine/T_Elaine_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Elaine/T_Elaine_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Emerald/T_Emerald_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Emerald/T_Emerald_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/End_Rogue/T_EndRogue_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/End_Rogue/T_EndRogue_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Eshe/T_Eshe_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Esperanza/T_Esperanza_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Esperanza/T_Esperanza_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Explorer/T_Explorer.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Explorer/T_Explorer_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Frosty/T_Frosty.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Frosty/T_Frosty_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Fuego/T_Fuego_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Fuego/T_Fuego_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Greta/T_Greta_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Hal/T_Hal.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Hal/T_Hal_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Hedwig/T_Hedwig_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Hedwig/T_Hedwig_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Hex/T_Hex.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Hex/T_Hex_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Igor/T_Igor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Igor/T_Igor_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Jade/T_Jade_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Jade/T_Jade_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Llama/T_Llama_skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Loge/T_Loge_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Loge/T_Loge_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Mayeso/T_Mayeso_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Morris/T_Morris_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Neo/T_Neo_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Neo/T_Neo_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Nether_Warrior/T_NetherWarrior_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Nether_Warrior/T_NetherWarrior_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Nuru/T_Nuru_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Nuru/T_Nuru_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Pake/T_Pake_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Pake/T_Pake_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Qamar/T_Qamar_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Sam/T_Sam_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Sam/T_Sam_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Sergey/T_Sergey_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Sergey/T_Sergey_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Shikoba/T_Shikoba_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Shikoba/T_Shikoba_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Skelly/T_Skelly_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Skelly/T_Skelly_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Steve/T_Steve_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Steve/T_Steve_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/StriderWarrior/T_StriderWarrior_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/StriderWarrior/T_Strider_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Sven/T_Sven_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Sven/T_Sven_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Tim/T_Tim_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Valorie/T_Valorie_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Valorie/T_Valorie_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Violet/T_Violet_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Violet/T_Violet_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Wargen/T_Wargen_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Wargen/T_Wargen_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Winter_Warrior/T_Winter_Warrior.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Winter_Warrior/T_Winter_Warrior_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Characters/Player/Master/Skins/Zola/T_Zola_Skin.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ArchersStrappings/T_ArchersStrappings.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ArchersStrappings/T_ArchersStrappings_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ArchersStrappings/T_ArchersStrappings_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ArchersStrappings/T_ArchersStrappings_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ArchersStrappings/T_ArchersStrappings_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ArchersStrappings_Unique1/T_ArchersStrappings_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ArchersStrappings_Unique1/T_ArchersStrappings_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ArchersStrappings_Unique1/T_HuntersArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ArchersStrappings_Unique1/T_HuntersArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/AssassinArmor/T_AssasinArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/AssassinArmor/T_AssasinArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/AssassinArmor/T_AssassinArmor_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/AssassinArmor/T_AssassinArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/AssassinArmor/T_AssassinArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/AssassinArmor_Unique1/T_AssassinArmor_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/AssassinArmor_Unique1/T_AssassinArmor_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/AssassinArmor_Unique1/T_SpiderArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/AssassinArmor_Unique1/T_SpiderArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/BattleRobe/T_BattleRobe.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/BattleRobe/T_BattleRobe_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/BattleRobe/T_BattleRobe_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/BattleRobe/T_BattleRobe_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/BattleRobe/T_BattleRobe_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/BattleRobe_Unique1/T_Battlerobe_unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/BattleRobe_Unique1/T_Battlerobe_unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/BattleRobe_Unique1/T_DragonRobe_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/BattleRobe_Unique1/T_DraognRobe.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ChampionsArmor/T_ChampionsArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ChampionsArmor/T_ChampionsArmor_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ChampionsArmor/T_ChampionsArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ChampionsArmor/T_ChampionsArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ChampionsArmor/T_ChampionsArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ChampionsArmor_Unique1/T_ChampionsArmor_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ChampionsArmor_Unique1/T_ChampionsArmor_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ChampionsArmor_Unique1/T_HerosArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ChampionsArmor_Unique1/T_HerosArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/CowardsArmor/T_CowardsArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/CowardsArmor/T_CowardsArmor_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/CowardsArmor/T_CowardsArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/CowardsArmor/T_CowardsArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/CowardsArmor/T_CowardsArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/DarkArmor/T_DarkArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/DarkArmor/T_DarkArmor_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/DarkArmor/T_DarkArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/DarkArmor/T_DarkArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/DarkArmor/T_DarkArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/DarkArmor_Unique1/T_ColdNight.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/DarkArmor_Unique1/T_ColdNight_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/DarkArmor_Unique1/T_DarkArmor_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/DarkArmor_Unique1/T_DarkArmor_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/EvocationRobe/T_EvocationRobe.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/EvocationRobe/T_EvocationRobe_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/EvocationRobe/T_EvocationRobe_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/EvocationRobe/T_EvocationRobe_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/EvocationRobe/T_EvocationRobe_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/EvocationRobe_Unique1/T_EvocationRobe_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/EvocationRobe_Unique1/T_EvocationRobe_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/EvocationRobe_Unique1/T_EvocationRobe_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/EvocationRobe_Unique1/T_EvocationRobe_Unique1_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/EvocationRobe_Unique2/T_EvocationRobe_Unique2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/EvocationRobe_Unique2/T_EvocationRobe_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/EvocationRobe_Unique2/T_EvocationRobe_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/FullPlateArmor/T_FullPlateArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/FullPlateArmor/T_FullPlateArmor_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/FullPlateArmor/T_FullPlateArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/FullPlateArmor/T_FullPlateArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/FullPlateArmor/T_FullPlateArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/FullPlateArmor_Unique1/T_FullPlateArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/FullPlateArmor_Unique1/T_FullPlateArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/FullPlateArmor_Unique1/T_FullPlateArmor_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/FullPlateArmor_Unique1/T_FullPlateArmor_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/GrimArmor/T_GrimArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/GrimArmor/T_GrimArmor_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/GrimArmor/T_GrimArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/GrimArmor/T_GrimArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/GrimArmor/T_GrimArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/GrimArmor_Unique1/T_GrimArmor_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/GrimArmor_Unique1/T_GrimArmor_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/GrimArmor_Unique1/T_WitherArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/GrimArmor_Unique1/T_WitherArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MercenaryArmor/T_MercenaryArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MercenaryArmor/T_MercenaryArmor_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MercenaryArmor/T_MercenaryArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MercenaryArmor/T_MercenaryArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MercenaryArmor/T_MercenaryArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MercenaryArmor_Unique1/T_MercenaryArmor_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MercenaryArmor_Unique1/T_MercenaryArmor_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MercenaryArmor_Unique1/T_RenegadeArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MercenaryArmor_Unique1/T_RenegadeArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MysteryArmor/T_MysteryArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MysteryArmor/T_MysteryArmor_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MysteryArmor/T_MysteryArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MysteryArmor/T_MysteryArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/MysteryArmor/T_MysteryArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/OcelotArmor/Ocelot-Armor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/OcelotArmor/Ocelot-Armor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/OcelotArmor/T_Ocelot-Armor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/OcelotArmor/T_OcelotArmor_Gearicon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/OcelotArmor/T_OcelotArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/OcelotArmor/T_OcelotArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/OcelotArmor_Unique1/T_OcelotArmor_Unique1_Gearicon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/OcelotArmor_Unique1/T_OcelotArmor_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/OcelotArmor_Unique1/T_OcelotArmor_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/OcelotArmor_Unique1/T_Shadow_Walker_Armour.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/OcelotArmor_Unique1/T_Shadow_Walker_Armour_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/PhantomArmor/T_PhantomArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/PhantomArmor/T_PhantomArmor_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/PhantomArmor/T_PhantomArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/PhantomArmor/T_PhantomArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/PhantomArmor/T_PhantomArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/PhantomArmor_Unique1/T_Frostwalker.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/PhantomArmor_Unique1/T_PhantomArmor_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/PhantomArmor_Unique1/T_PhantomArmor_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ReinforcedMail/T_ReinforcedMail.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ReinforcedMail/T_ReinforcedMail_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ReinforcedMail/T_ReinforcedMail_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ReinforcedMail/T_ReinforcedMail_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ReinforcedMail/T_ReinforcedMail_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ReinforcedMail_Unique1/T_ReinforcedMail_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ReinforcedMail_Unique1/T_ReinforcedMail_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ReinforcedMail_Unique1/T_StalwartArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ReinforcedMail_Unique1/T_StalwartArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ScaleMail/T_ScaleMail.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ScaleMail/T_ScaleMail_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ScaleMail/T_ScaleMail_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ScaleMail/T_ScaleMail_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ScaleMail/T_ScaleMail_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ScaleMail_Unique1/T_HighlandArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ScaleMail_Unique1/T_HighlandArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ScaleMail_Unique1/T_ScaleMail_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/ScaleMail_Unique1/T_ScaleMail_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SnowArmor/Snow_Armor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SnowArmor/T_SnowArmor_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SnowArmor/T_SnowArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SnowArmor/T_SnowArmor_Icon_Inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SnowArmor/T_Snow_Armor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SnowArmor_Unique1/T_SnowArmor_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SnowArmor_Unique1/T_SnowArmor_Unique1_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SnowArmor_Unique1/T_SnowArmor_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SnowArmor_Unique1/T_SnowArmor_Unique1_Icon_Inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SoulRobe/T_SoulRobe_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SoulRobe/T_SoulRobe_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SoulRobe/T_SoulRobe_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SoulRobe/T_SpiritRobe.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SoulRobe/T_SpiritRobe_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SoulRobe_Unique1/T_SoulDancerRobe.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SoulRobe_Unique1/T_SoulDancerRobe_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SoulRobe_Unique1/T_SoulRobe_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SoulRobe_Unique1/T_SoulRobe_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SpelunkersArmor/T_SpelunkersArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SpelunkersArmor/T_SpelunkersArmor_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SpelunkersArmor/T_SpelunkersArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SpelunkersArmor/T_SpelunkersArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SpelunkersArmor/T_SpelunkersArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SpelunkersArmor_Unique1/T_MinersArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SpelunkersArmor_Unique1/T_MinersArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SpelunkersArmor_Unique1/T_SpelunkersArmor_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/SpelunkersArmor_Unique1/T_SpelunkersArmor_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor/T_WolfArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor/T_WolfArmor_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor/T_WolfArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor/T_WolfArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor/T_WolfArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor_Unique1/T_FoxArmor.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor_Unique1/T_FoxArmor_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor_Unique1/T_WolfArmor_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor_Unique1/T_WolfArmor_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor_Unique2/T_WolfArmor_Unique2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor_Unique2/T_WolfArmor_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor_Unique2/T_WolfArmor_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Armor/WolfArmor_Unique2/T_WolfArmor_Unique2_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe/T_Axe.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe/T_Axe_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe/T_Axe_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe/T_Axe_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe/T_Axe_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe_Unique1/T_Axe_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe_Unique1/T_Axe_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe_Unique1/T_Axe_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe_Unique1/T_Axe_Unique1_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe_Unique2/T_Axe_Unique2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe_Unique2/T_Axe_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe_Unique2/T_Axe_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Axe_Unique2/T_Axe_Unique2_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore/T_Claymore.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore/T_Claymore_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore/T_Claymore_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore/T_Claymore_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore/T_Claymore_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore_Unique1/T_Claymore_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore_Unique1/T_Claymore_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore_Unique1/T_CrimsonCore.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore_Unique1/T_CrimsonCore_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore_Unique2/T_Claymore_Unique2_BroadSword.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore_Unique2/T_Claymore_Unique2_BroadSword_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore_Unique2/T_Claymore_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore_Unique2/T_Claymore_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore_Unique3/T_Claymore_Unique3_GreatAxeBlade.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore_Unique3/T_Claymore_Unique3_GreatAxeBlade_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore_Unique3/T_Claymore_Unique3_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Claymore_Unique3/T_Claymore_Unique3_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass/T_Cutlass.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass/T_Cutlass_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass/T_Cutlass_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass/T_Cutlass_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass/T_Cutlass_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass_Unique1/T_Cutlass_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass_Unique1/T_Cutlass_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass_Unique1/T_Cutlass_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass_Unique1/T_Cutlass_Unique1_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass_Unique2/T_Cutlass_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass_Unique2/T_Cutlass_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass_Unique2/T_DoubleBladedSword.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Cutlass_Unique2/T_DoubleBladedSword_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers/T_Daggers.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers/T_Daggers_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers/T_Daggers_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers/T_Daggers_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers/T_Daggers_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers_Unique1/T_Daggers_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers_Unique1/T_Daggers_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers_Unique1/T_FrostKnives.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers_Unique1/T_FrostKnives_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers_unique2/T_Daggers_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers_unique2/T_Daggers_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers_unique2/T_MoonDaggers.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers_unique2/T_MoonDaggers_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers_Unique3/T_Daggers_Unique3.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers_Unique3/T_Daggers_Unique3_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers_Unique3/T_Daggers_Unique3_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Daggers_Unique3/T_Daggers_Unique3_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/DoubleAxe/T_DoubleAxe.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/DoubleAxe/T_DoubleAxe_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/DoubleAxe/T_DoubleAxe_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/DoubleAxe/T_DoubleAxe_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/DoubleAxe/T_DoubleAxe_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/DoubleAxe_Unique1/T_DoubleAxe_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/DoubleAxe_Unique1/T_DoubleAxe_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/DoubleAxe_Unique1/T_DoubleAxe_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/DoubleAxe_Unique2/T_DoubleAxe_Unique2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/DoubleAxe_Unique2/T_DoubleAxe_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/DoubleAxe_Unique2/T_DoubleAxe_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/DoubleAxe_Unique2/T_DoubleAxe_Unique2_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets/T_Gauntlet.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets/T_GauntletRender.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets/T_Gauntlets_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets/T_Gauntlets_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets/T_Gauntlets_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets/T_Gauntlet_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique1/T_Gauntlets_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique1/T_Gauntlets_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique1/T_Gauntlet_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique1/T_Gauntlet_Unique1_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique2/T_Gauntlets_Unique2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique2/T_Gauntlets_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique2/T_Gauntlets_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique2/T_Gauntlets_Unique2_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique3/T_Gauntlets_Unique3_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique3/T_Gauntlets_Unique3_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique3/T_GauntletUnique3.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique3/T_GauntletUnique3Render.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Gauntlets_Unique3/T_GauntletUnique3_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive/T_Glaive.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive/T_Glaive_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive/T_Glaive_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive/T_Glaive_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive/T_Glaive_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive_Unique1/T_GlaiveUnique1_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive_Unique1/T_Glaive_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive_Unique1/T_Glaive_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive_Unique1/T_Glaive_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive_Unique2/T_GlaiveUnique2_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive_Unique2/T_Glaive_Unique2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive_Unique2/T_Glaive_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Glaive_Unique2/T_Glaive_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer/T_Hammer.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer/T_Hammer_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer/T_Hammer_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer/T_Hammer_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer/T_Hammer_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer_Unique1/T_Hammer_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer_Unique1/T_Hammer_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer_Unique1/T_Hammer_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer_Unique1/T_Hammer_Unique1_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer_Unique2/T_Hammer_Unique2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer_Unique2/T_Hammer_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer_Unique2/T_Hammer_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Hammer_Unique2/T_Hammer_Unique2_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/HighlanderLongSword/T_HighlanderLongSword_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/HighlanderLongSword/T_HighlanderLongSword_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana/T_Katana.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana/T_Katana_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana/T_Katana_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana/T_Katana_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana/T_Katana_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana_Unique1/T_Katana_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana_Unique1/T_Katana_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana_Unique1/T_Katana_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana_Unique1/T_Katana_Unique1_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana_Unique2/T_Katana_Unique2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana_Unique2/T_Katana_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana_Unique2/T_Katana_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Katana_Unique2/T_Katana_Unique2_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Mace/T_Mace.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Mace/T_Mace_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Mace/T_Mace_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Mace/T_Mace_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Mace/T_Mace_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Mace_Unique1/T_Mace_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Mace_Unique1/T_Mace_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Mace_Unique1/T_SunMace.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Mace_Unique1/T_SunMace_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Mace_Unique2/T_Mace_Unique2_Flail.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Mace_Unique2/T_Mace_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Mace_Unique2/T_Mace_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Pickaxe_Steel/T_PickAxe.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Pickaxe_Steel/T_Pickaxe_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Pickaxe_Steel/T_Pickaxe_Steel_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Pickaxe_Steel/T_PickAxe_Steel_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Pickaxe_Steel/T_PickAxe_Steel_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Pickaxe_Unique1_Steel/T_DiamondPickaxe.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Pickaxe_Unique1_Steel/T_DiamondPickaxe_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Pickaxe_Unique1_Steel/T_Pickaxe_Unique1_Steel_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Pickaxe_Unique1_Steel/T_Pickaxe_Unique1_Steel_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sickles/T_Sickles.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sickles/T_Sickles_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sickles/T_Sickles_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sickles/T_Sickles_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sickles/T_Sickles_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sickles_Unique1/T_Sickles_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sickles_Unique1/T_Sickles_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sickles_Unique1/T_Sickles_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sickles_Unique2/T_Sickles_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sickles_Unique2/T_Sickles_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sickles_Unique2/T_Sickles_Unique2_JesterFingers.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sickles_Unique2/T_Sickles_Unique2_JesterFingers_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife/T_SoulKnife_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife/T_SoulKnife_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife/T_SoulKnife_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife/T_SpiritKnife.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife/T_SpiritKnife_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife_Unique1/T_SoulKnife_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife_Unique1/T_SoulKnife_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife_Unique1/T_SoulKnife_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife_Unique1/T_SpiritKnife_S_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife_Unique2/T_SoulKnife_Unique2EternalKnife.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife_Unique2/T_SoulKnife_Unique2EternalKnife_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife_Unique2/T_SoulKnife_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulKnife_Unique2/T_SoulKnife_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe/T_SoulScythe_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe/T_SoulScythe_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe/T_SoulScythe_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe/T_SpiritScythe.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe/T_SpiritScythe_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe_Unique1/T_SoulScythe_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe_Unique1/T_SoulScythe_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe_Unique1/T_SoulScythe_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe_Unique1/T_SpiritScythe_Unique1_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe_Unique2/T_FrostScythe_Unique2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe_Unique2/T_FrostScythe_Unique2_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe_Unique2/T_SoulScythe_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/SoulScythe_Unique2/T_SoulScythe_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Spear/T_Spear.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Spear/T_Spear_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Spear/T_Spear_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Spear/T_Spear_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Spear/T_Spear_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Spear_Unique1/T_Spear_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Spear_Unique1/T_Spear_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Spear_Unique1/T_Spear_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Spear_Unique2/T_Spear_Unique2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Spear_Unique2/T_Spear_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Spear_Unique2/T_Spear_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Spear_Unique2/T_Spear_Unique2_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Spooky1/T_Sword_Spooky1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Spooky1/T_Sword_Spooky1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Steel/T_Sword.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Steel/T_Sword_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Steel/T_Sword_Steel_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Steel/T_Sword_Steel_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Steel/T_Sword_Steel_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Unique1/T_DiamondSword.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Unique1/T_DiamondSword_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Unique1/T_Sword_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Unique1/T_Sword_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Unique2/T_Hawkbrand.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Unique2/T_Hawkbrand_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Unique2/T_Sword_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Sword_Unique2/T_Sword_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Whip/T_Whip.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Whip/T_Whip_Gearicon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Whip/T_Whip_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Whip/T_Whip_Icon_Inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Whip_Unique1/T_Poison_Whip.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/MeleeWeapons/Whip_Unique1/T_Whip_Unique1_Icon_Inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Bow/T_Bow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Bow/T_Bow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Bow/T_Bow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Bow/T_Bow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Bow_Unique1/T_BoneBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Bow_Unique1/T_Bow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Bow_Unique1/T_Bow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Bow_Unique2/T_Bow_Unique2TwinBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Bow_Unique2/T_Bow_Unique2TwinBow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Bow_Unique2/T_Bow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Bow_Unique2/T_Bow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Crossbow/T_Crossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Crossbow/T_Crossbow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Crossbow/T_Crossbow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Crossbow/T_Crossbow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Crossbow/T_Crossbow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Crossbow_Unique1/T_Crossbow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Crossbow_Unique1/T_Crossbow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Crossbow_Unique1/T_Slicer.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Crossbow_Unique1/T_Slicer_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Crossbow_Unique2/T_AzureSeeker.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Crossbow_Unique2/T_Crossbow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Crossbow_Unique2/T_Crossbow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow/T_ExplodingCrossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow/T_ExplodingCrossbow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow/T_ExplodingCrossbow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow/T_ExplodingCrossbow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow/T_ExplodingCrossbow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow_Unique1/T_ExplodingCrossbow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow_Unique1/T_ExplodingCrossbow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow_Unique1/T_ImplodingCrossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow_Unique1/T_ImplodingCrossbow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow_Unique2/T_BlazingBomber.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow_Unique2/T_BlazingBomber_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow_Unique2/T_ExplodingCrossbow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ExplodingCrossbow_Unique2/T_ExplodingCrossbow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HeavyCrossbow/T_HeavyCrossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HeavyCrossbow/T_HeavyCrossbow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HeavyCrossbow/T_HeavyCrossbow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HeavyCrossbow/T_HeavyCrossbow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HeavyCrossbow/T_HeavyCrossbow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HeavyCrossbow_Unique1/T_DoomCrossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HeavyCrossbow_Unique1/T_HeavyCrossbow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HeavyCrossbow_Unique1/T_HeavyCrossbow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HeavyCrossbow_Unique2/T_HeavyCrossbow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HeavyCrossbow_Unique2/T_HeavyCrossbow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HeavyCrossbow_Unique2/T_SlayerCrossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HeavyCrossbow_Unique2/T_SlayerCrossbow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow/T_HuntingBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow/T_HuntingBow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow/T_HuntingBow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow/T_HuntingBow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow_Unique1/T_EagleBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow_Unique1/T_EagleBowFeather.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow_Unique1/T_Huntingbow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow_Unique1/T_Huntingbow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow_Unique2/T_Huntingbow_Unique2MastersBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow_Unique2/T_Huntingbow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow_Unique2/T_Huntingbow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow_Unique3/T_Huntingbow_Unique2MastersBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow_Unique3/T_Huntingbow_Unique3_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/HuntingBow_Unique3/T_Huntingbow_Unique3_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/LongBow/T_LongBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/LongBow/T_Longbow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/LongBow/T_LongBow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/LongBow/T_LongBow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/LongBow_Unique1/T_GuardianBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/LongBow_Unique1/T_GuardianBow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/LongBow_Unique1/T_LongBow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/LongBow_Unique1/T_LongBow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/LongBow_Unique2/T_Longbow_Unique2RedSnake.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/LongBow_Unique2/T_Longbow_Unique2RedSnake_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/LongBow_Unique2/T_LongBow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/LongBow_Unique2/T_LongBow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow/T_PowerBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow/T_PowerBow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow/T_PowerBow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow/T_PowerBow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow/T_PowerBow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow_Unique1/T_PowerBow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow_Unique1/T_PowerBow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow_Unique1/T_RoyalPowerBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow_Unique1/T_RoyalPowerBow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow_Unique2/T_PowerBow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow_Unique2/T_PowerBow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow_Unique2/T_PowerBow_Unique2_SabrewingBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/PowerBow_Unique2/T_PowerBow_Unique2_SabrewingBow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow/T_RapidCrossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow/T_RapidCrossbow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow/T_RapidCrossbow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow/T_RapidCrossbow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow/T_RapidCrossbow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow_Unique1/T_ButterflyCrossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow_Unique1/T_ButterflyCrossbow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow_Unique1/T_RapidCrossbow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow_Unique1/T_RapidCrossbow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow_Unique2/T_AutoCrossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow_Unique2/T_AutoCrossbow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow_Unique2/T_RapidCrossbow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/RapidCrossbow_Unique2/T_RapidCrossbow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow/T_ScatterCrossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow/T_ScatterCrossbow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow/T_ScatterCrossbow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow/T_ScatterCrossbow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow/T_ScatterCrossbow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow_Unique1/T_HarpCrossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow_Unique1/T_HarpCrossbow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow_Unique1/T_ScatterCrossbow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow_Unique1/T_ScatterCrossbow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow_Unique2/T_HarpCrossbow_Unique2ElectricHarpCrossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow_Unique2/T_HarpCrossbow_Unique2ElectricHarpCrossbow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow_Unique2/T_ScatterCrossbow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ScatterCrossbow_Unique2/T_ScatterCrossbow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Shortbow/T_ShortBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Shortbow/T_ShortBow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Shortbow/T_ShortBow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Shortbow/T_ShortBow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ShortBow_Unique1/T_PurpleRain.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ShortBow_Unique1/T_PurpleRain_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ShortBow_Unique1/T_ShortBow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ShortBow_Unique1/T_ShortBow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ShortBow_Unique2/T_ShortBow_Unique2MechanicalShortBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ShortBow_Unique2/T_ShortBow_Unique2MechanicalShortBow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ShortBow_Unique2/T_ShortBow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ShortBow_Unique2/T_ShortBow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ShortBow_Unique3/T_ShortBow_Unique2MechanicalShortBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ShortBow_Unique3/T_ShortBow_Unique2MechanicalShortBow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ShortBow_Unique3/T_ShortBow_Unique3_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/ShortBow_Unique3/T_ShortBow_Unique3_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SlowBow/T_SlowBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SlowBow/T_SlowBow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SlowBow/T_SlowBow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SlowBow/T_SlowBow_Icon_Inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Slowbow_Unique1/T_SlowBow_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Slowbow_Unique1/T_SlowBow_Unique1_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Slowbow_Unique1/T_SlowBow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/Slowbow_Unique1/T_SlowBow_Unique1_Icon_Inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow/T_SoulBow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow/T_SoulBow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow/T_SoulBow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow/T_SpiritBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow/T_SpiritBow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow_Unique1/T_SoulBow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow_Unique1/T_SoulBow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow_Unique1/T_SpiritBow_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow_Unique1/T_SpiritBow_Unique1_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow_Unique2/T_SoulBow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow_Unique2/T_SoulBow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow_Unique2/T_SoulBow_Unique2_NecrosisBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulBow_Unique2/T_SpiritBow_Unique2_NecrosisBow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow/T_SoulCrossbow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow/T_SoulCrossbow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow/T_SoulCrossbow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow/T_SoulCrossbow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow/T_SpiritCrossbow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow_Unique1/T_SoulCrossbow_Unique1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow_Unique1/T_SoulCrossbow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow_Unique1/T_SoulCrossbow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow_Unique1/T_SpiritCrossbow_Unique1_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow_Unique2/T_SoulCrossbow_Unique2.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow_Unique2/T_SoulCrossbow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow_Unique2/T_SoulCrossbow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/SoulCrossbow_Unique2/T_SpiritCrossbow_Unique2_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/TrickBow/T_TrickBow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/TrickBow/T_TrickBow_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/TrickBow/T_TrickBow_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/TrickBow/T_TrickBow_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/TrickBow_Unique1/T_TheGreenJester.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/TrickBow_Unique1/T_TheGreenJester_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/TrickBow_Unique1/T_Trickbow_Unique1_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/TrickBow_Unique1/T_Trickbow_Unique1_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/TrickBow_Unique2/T_ThePinkTrickster.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/TrickBow_Unique2/T_ThePinkTrickster_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/TrickBow_Unique2/T_Trickbow_Unique2_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/RangedWeapons/TrickBow_Unique2/T_Trickbow_Unique2_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Traps/SpikeTrap/T_DitherPixel_1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Equipment/Traps/SpikeTrap/T_SpikePlates.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Amulets/IronHideAmulet/T_IronHideAmulet_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Amulets/IronHideAmulet/T_IronHideAmulet_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Amulets/IronHideAmulet/T_IronHideAmulet_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Amulets/T_BlankAmulet_Rectangle.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Amulets/T_BlankAmulet_Square.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Arrow/JackOLantern/T_PumpkinSeed.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Arrow/T_Arrow_AmmoIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Arrow/T_Arrow_AmmoIconSmall.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/BootsOfSwiftness/T_BootsOfSwiftness.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/BootsOfSwiftness/T_BootsOfSwiftness_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/BootsOfSwiftness/T_BootsOfSwiftness_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/BootsOfSwiftness/T_BootsOfSwiftness_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/BurningArrow/T_BurningArrow_AmmoIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/BurningArrow/T_BurningArrow_AmmoIconSmall.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/CorruptedBeacon/T_CorruptedBeacon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/CorruptedBeacon/T_CorruptedBeacon_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/CorruptedBeacon/T_CorruptedBeacon_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/CorruptedBeacon/T_CorruptedBeacon_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/CorruptedSeeds/T_Corrupted-Seeds.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/CorruptedSeeds/T_CorruptedSeeds_Gearicon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/CorruptedSeeds/T_CorruptedSeeds_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/CorruptedSeeds/T_CorruptedSeeds_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/DeathCapMushroom/T_DeathCapMushroom.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/DeathCapMushroom/T_DeathCapMushroom_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/DeathCapMushroom/T_DeathCapMushroom_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/DeathCapMushroom/T_DeathCapMushroom_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Emerald/T_EmeraldPickup.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Falling_IceBlock/T_Falling_IceBlock.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FireworksArrow/T_FireworksArrow_AmmoIconSmall.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FireworksArrowItem/T_Firework.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FireworksArrowItem/T_FireworksArrowItem_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FireworksArrowItem/T_FireworksArrowItem_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FireworksArrowItem/T_FireworksArrowItem_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FishingRod/T_FishingRod.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FishingRod/T_FishingRod_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FishingRod/T_FishingRod_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FishingRod/T_FishingRod_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FlamingQuiver/T_FlamingQuiver.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FlamingQuiver/T_FlamingQuiver_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FlamingQuiver/T_FlamingQuiver_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/FlamingQuiver/T_FlamingQuiver_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Food/Food1/T_Bread_Minecraft.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Food/Food2/T_Apple_Minecraft.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Food/Food3/T_Porkchop_Minecraft.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Food/Food4/T_Melon_Slice_Minecraft.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Food/Food5/T_Cooked_Salmon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/GhostCloak/T_GhostCloak.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/GhostCloak/T_GhostCloak_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/GhostCloak/T_GhostCloak_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/GhostCloak/T_GhostCloak_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/GolemKit/T_GolemKit_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/GolemKit/T_GolemKit_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/GolemKit/T_GolemKit_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/GolemKit/T_IronGolemConstruct.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/GongOfWeakening/T_GongOfWeakening.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/GongOfWeakening/T_GongOfWeakening_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/GongOfWeakening/T_GongOfWeakening_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/GongOfWeakening/T_GongOfWeakening_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Harvester/T_Harvester.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Harvester/T_Harvester_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Harvester/T_Harvester_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Harvester/T_Harvester_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/IceWand/T_IceWand.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/IceWand/T_IceWand_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/IceWand/T_IceWand_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/IceWand/T_IceWand_Icon_Inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LightFeather/T_LightFeather.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LightFeather/T_LightFeather_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LightFeather/T_LightFeather_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LightFeather/T_LightFeather_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LightningRod/T_LightningRod.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LightningRod/T_LightningRod_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LightningRod/T_LightningRod_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LightningRod/T_LightningRod_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LightningRod/T_LightningRod_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LoveMedallion/T_LoveMedallion.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LoveMedallion/T_LoveMedallion_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LoveMedallion/T_LoveMedallion_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/LoveMedallion/T_LoveMedallion_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Map/T_Map.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/MysteryBoxes/MysteryBoxAny/T_MysteryBoxAny_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/MysteryBoxes/MysteryBoxAny/T_MysteryBoxAny_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/MysteryBoxes/MysteryBoxArmor/T_MysteryBoxArmor_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/MysteryBoxes/MysteryBoxArmor/T_MysteryBoxArmor_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/MysteryBoxes/MysteryBoxArtifact/T_MysteryBoxArtifact_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/MysteryBoxes/MysteryBoxArtifact/T_MysteryBoxArtifact_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/MysteryBoxes/MysteryBoxMelee/T_MysteryBoxMelee_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/MysteryBoxes/MysteryBoxMelee/T_MysteryBoxMelee_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/MysteryBoxes/MysteryBoxRanged/T_MysteryBoxRanged_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/MysteryBoxes/MysteryBoxRanged/T_MysteryBoxRanged_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/BackstabbersBrew/T_BackstabbersBrew_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/BackstabbersBrew/T_BackstabbersBrew_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/HealthPotion/T_HealthPotion_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/OakWoodBrew/T_OakwoodBrew_Box.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/OakWoodBrew/T_OakwoodBrew_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/OakWoodBrew/T_OakwoodBrew_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/StrengthPotion/T_StrengthPotion_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/StrengthPotion/T_StrengthPotion_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/SwiftnessPotion/T_SwiftnessPotion_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/SwiftnessPotion/T_SwiftnessPotion_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/Templates/Potion_Rectangular/T_Potion_Rectangular.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/Templates/Potion_Skewed/T_Potion_Skewed.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/Potions/Templates/Potion_Square/T_Potion_Square.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/ShockPowder/T_ShockPowder.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/ShockPowder/T_ShockPowder_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/ShockPowder/T_ShockPowder_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/ShockPowder/T_ShockPowder_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/SoulHealer/T_SoulHealer_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/SoulHealer/T_SoulHealer_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/SoulHealer/T_SoulHealer_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TastyBone/T_TastyBone.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TastyBone/T_TastyBone_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TastyBone/T_TastyBone_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TastyBone/T_TastyBone_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TNTBox/T_TNTBox.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TNTBox/T_TNTBox_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TNTBox/T_TNTBox_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TormentQuiver/T_TormentArrow.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TormentQuiver/T_TormentArrowCounter.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TormentQuiver/T_TormentArrow_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TormentQuiver/T_TormentQuiver.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TormentQuiver/T_TormentQuiver_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TormentQuiver/T_TormentQuiver_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TormentQuiver/T_TormentQuiver_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfRegeneration/T_TotemOfRegeneration.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfRegeneration/T_TotemOfRegenerationRunes.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfRegeneration/T_TotemOfRegeneration_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfRegeneration/T_TotemOfRegeneration_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfRegeneration/T_TotemOfRegeneration_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfRegeneration/T_TotemOfRegeneration_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfShielding/Shine.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfShielding/T_6Side.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfShielding/T_ShieldingTotem.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfShielding/T_ShieldingTotem_S.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfShielding/T_TotemOfShielding_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfShielding/T_TotemOfShielding_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/TotemOfShielding/T_TotemOfShielding_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/WindHorn/T_Windhorn.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/WindHorn/T_WindHorn_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/WindHorn/T_WindHorn_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/WindHorn/T_WindHorn_Icon_inventory.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/WonderfulWheat/T_WonderfulWheat.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/WonderfulWheat/T_WonderfulWheat_GearIcon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/WonderfulWheat/T_WonderfulWheat_Icon.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Actors/Items/WonderfulWheat/T_WonderfulWheat_Icon_inventory.png"
+    }
+  }
+]

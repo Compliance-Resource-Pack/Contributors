@@ -1,0 +1,14 @@
+[
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Cues/FrozenSolid/Splash.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Cues/FrozenSolid/T_Ice_Block.png"
+    }
+  }
+]

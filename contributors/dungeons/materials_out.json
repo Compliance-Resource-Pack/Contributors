@@ -1,0 +1,44 @@
+[
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Materials/black1x1.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Materials/Runes/runes.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Materials/Sky/T_Stars_Sky_Dungeons.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Materials/tallgrass.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Materials/T_Lava_16_spritesheet.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Materials/T_OutlineColorLT.png"
+    }
+  },
+  {
+    "c32": {},
+    "version": {
+      "master": "Dungeons/Content/Materials/T_WaterTile.png"
+    }
+  }
+]
