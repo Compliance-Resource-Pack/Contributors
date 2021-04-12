@@ -2,2035 +2,2035 @@
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/MountaineerAxes/T_MountaineerAxe_01.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/MountaineerAxes/T_MountaineerAxe_01.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/MountaineerAxes/T_MountaineerAxe_02.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/MountaineerAxes/T_MountaineerAxe_02.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/MountaineerAxes/T_MountaineerAxe_03.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/MountaineerAxes/T_MountaineerAxe_03.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/MountaineerAxes/T_MountaineerAxe_S_01.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/MountaineerAxes/T_MountaineerAxe_S_01.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/MountaineerAxes/T_MountaineerAxe_S_03.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/MountaineerAxes/T_MountaineerAxe_S_03.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/T_Mountaineer.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/T_Mountaineer.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/T_MountaineerVariant1.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/T_MountaineerVariant1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/T_MountaineerVariant2.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/Mountaineer/T_MountaineerVariant2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/RampartCaptain/T_Rampart_Captain_Banner.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Illagers/RampartCaptain/T_Rampart_Captain_Banner.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Ravager/T_Ravager.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Ravager/T_Ravager.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Ravager/T_RavagerHitShock.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Ravager/T_RavagerHitShock.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Squall_Golem/T_Squallgolem02_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Squall_Golem/T_Squallgolem02_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Squall_Golem/T_Squallgolem_03.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Squall_Golem/T_Squallgolem_03.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Squall_Golem/T_Squallgolem_Crystal_Mask.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Squall_Golem/T_Squallgolem_Crystal_Mask.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Squall_Golem/VFX/T_SquallGolem_Gradient.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Squall_Golem/VFX/T_SquallGolem_Gradient.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Tempest_Golem/Particles/Electric_Tornado/T_WindBuildUpSpiralBig.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Tempest_Golem/Particles/Electric_Tornado/T_WindBuildUpSpiralBig.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Tempest_Golem/T_TempestGolem.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Tempest_Golem/T_TempestGolem.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Tempest_Golem/T_TempestGolem_Base.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Tempest_Golem/T_TempestGolem_Base.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Tempest_Golem/T_TempestGolem_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Tempest_Golem/T_TempestGolem_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Windcaller/T_Wind_Caller.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Windcaller/T_Wind_Caller.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Windcaller/VFX/T_WindBuildUpSpiral.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Windcaller/VFX/T_WindBuildUpSpiral.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Windcaller/VFX/WindBuildup.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Enemies/Windcaller/VFX/WindBuildup.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Friendlies/Animals/Goat/T_Goat.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Friendlies/Animals/Goat/T_Goat.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Friendlies/Animals/GoatBaby/Babygoat_Icon_Inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Friendlies/Animals/GoatBaby/Babygoat_Icon_Inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Characters/Friendlies/Animals/WoolyCow/wooly_cow.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Characters/Friendlies/Animals/WoolyCow/wooly_cow.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear/T_ClimbingGear.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear/T_ClimbingGear.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear/T_ClimbingGear_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear/T_ClimbingGear_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear/T_ClimbingGear_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear/T_ClimbingGear_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear/T_ClimbingGear_Icon_Inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear/T_ClimbingGear_Icon_Inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique1/T_ClimbingGear_Unique1.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique1/T_ClimbingGear_Unique1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique1/T_ClimbingGear_Unique1_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique1/T_ClimbingGear_Unique1_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique1/T_ClimbingGear_Unique1_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique1/T_ClimbingGear_Unique1_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique1/T_ClimbingGear_Unique1_Icon_Inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique1/T_ClimbingGear_Unique1_Icon_Inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique2/T_ClimbingGear_Unique2.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique2/T_ClimbingGear_Unique2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique2/T_ClimbingGear_Unique2_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique2/T_ClimbingGear_Unique2_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique2/T_ClimbingGear_Unique2_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique2/T_ClimbingGear_Unique2_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique2/T_ClimbingGear_Unique2_Icon_Inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique2/T_ClimbingGear_Unique2_Icon_Inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique2/T_ClimbingGear_Unique2_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/ClimbingGear_Unique2/T_ClimbingGear_Unique2_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor/T_EmeraldArmor.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor/T_EmeraldArmor.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor/T_EmeraldArmor_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor/T_EmeraldArmor_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor/T_EmeraldArmor_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor/T_EmeraldArmor_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor/T_EmeraldArmor_Icon_Inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor/T_EmeraldArmor_Icon_Inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor/T_EmeraldArmor_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor/T_EmeraldArmor_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique1/Emerald_Skin.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique1/Emerald_Skin.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique1/T_EmeraldArmor_Unique1_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique1/T_EmeraldArmor_Unique1_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique1/T_EmeraldArmor_Unique1_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique1/T_EmeraldArmor_Unique1_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique1/T_EmeraldArmor_Unique1_Icon_Inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique1/T_EmeraldArmor_Unique1_Icon_Inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique1/T_Emerald_Skin_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique1/T_Emerald_Skin_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique2/T_EmeraldArmor_Unique2.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique2/T_EmeraldArmor_Unique2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique2/T_EmeraldArmor_Unique2_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique2/T_EmeraldArmor_Unique2_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique2/T_EmeraldArmor_Unique2_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique2/T_EmeraldArmor_Unique2_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique2/T_EmeraldArmor_Unique2_Icon_Inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique2/T_EmeraldArmor_Unique2_Icon_Inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique2/T_EmeraldArmor_Unique2_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/EmeraldArmor_Unique2/T_EmeraldArmor_Unique2_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/MercenaryArmor_Spooky1/T_MercenaryArmor_Spooky1.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/MercenaryArmor_Spooky1/T_MercenaryArmor_Spooky1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/MercenaryArmor_Spooky1/T_MercenaryArmor_Spooky1_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/MercenaryArmor_Spooky1/T_MercenaryArmor_Spooky1_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/MercenaryArmor_Spooky1/T_MercenaryArmor_Spooky1_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/MercenaryArmor_Spooky1/T_MercenaryArmor_Spooky1_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/MercenaryArmor_Spooky1/T_MercenaryArmor_Spooky1_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/MercenaryArmor_Spooky1/T_MercenaryArmor_Spooky1_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/MercenaryArmor_Spooky1/T_MercenaryArmor_Spooky1_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/MercenaryArmor_Spooky1/T_MercenaryArmor_Spooky1_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/WolfArmor_Winter1/T_WolfArmor_Unique1.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/WolfArmor_Winter1/T_WolfArmor_Unique1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/WolfArmor_Winter1/T_WolfArmor_Winter1_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/WolfArmor_Winter1/T_WolfArmor_Winter1_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/WolfArmor_Winter1/T_WolfArmor_Winter1_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/WolfArmor_Winter1/T_WolfArmor_Winter1_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/WolfArmor_Winter1/T_WolfArmor_Winter1_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/Armor/WolfArmor_Winter1/T_WolfArmor_Winter1_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Claymore_Winter1/T_Claymore_Winter1.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Claymore_Winter1/T_Claymore_Winter1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Claymore_Winter1/T_Claymore_Winter1_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Claymore_Winter1/T_Claymore_Winter1_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Claymore_Winter1/T_Claymore_Winter1_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Claymore_Winter1/T_Claymore_Winter1_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Claymore_Winter1/T_Claymore_Winter1_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Claymore_Winter1/T_Claymore_Winter1_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Claymore_Winter1/T_Claymore_Winter1_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Claymore_Winter1/T_Claymore_Winter1_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Sword_Spooky1/T_Sword_Spooky1.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Sword_Spooky1/T_Sword_Spooky1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Sword_Spooky1/T_Sword_Spooky1_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Sword_Spooky1/T_Sword_Spooky1_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Sword_Spooky1/T_Sword_Spooky1_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Sword_Spooky1/T_Sword_Spooky1_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Sword_Spooky1/T_Sword_Spooky1_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Sword_Spooky1/T_Sword_Spooky1_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Sword_Spooky1/T_Sword_Spooky1_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/Sword_Spooky1/T_Sword_Spooky1_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife/T_TempestKnife.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife/T_TempestKnife.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife/T_TempestKnife_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife/T_TempestKnife_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife/T_TempestKnife_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife/T_TempestKnife_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife/T_TempestKnife_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife/T_TempestKnife_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife/T_TempestKnife_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife/T_TempestKnife_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique1/T_TempestKnife_Unique1.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique1/T_TempestKnife_Unique1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique1/T_TempestKnife_Unique1_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique1/T_TempestKnife_Unique1_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique1/T_TempestKnife_Unique1_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique1/T_TempestKnife_Unique1_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique1/T_TempestKnife_Unique1_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique1/T_TempestKnife_Unique1_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique1/T_TempestKnife_Unique1_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique1/T_TempestKnife_Unique1_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique2/T_TempestKnife_Unique2.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique2/T_TempestKnife_Unique2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique2/T_TempestKnife_Unique2_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique2/T_TempestKnife_Unique2_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique2/T_TempestKnife_Unique2_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique2/T_TempestKnife_Unique2_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique2/T_TempestKnife_Unique2_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique2/T_TempestKnife_Unique2_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique2/T_TempestKnife_Unique2_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/MeleeWeapons/TempestKnife_Unique2/T_TempestKnife_Unique2_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/Bow_Spooky1/T_Bow_Spooky1.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/Bow_Spooky1/T_Bow_Spooky1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/Bow_Spooky1/T_Bow_Spooky1_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/Bow_Spooky1/T_Bow_Spooky1_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/Bow_Spooky1/T_Bow_Spooky1_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/Bow_Spooky1/T_Bow_Spooky1_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/Bow_Spooky1/T_Bow_Spooky1_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/Bow_Spooky1/T_Bow_Spooky1_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/SoulBow_Winter1/T_SoulBow_Winter1.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/SoulBow_Winter1/T_SoulBow_Winter1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/SoulBow_Winter1/T_SoulBow_Winter1_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/SoulBow_Winter1/T_SoulBow_Winter1_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/SoulBow_Winter1/T_SoulBow_Winter1_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/SoulBow_Winter1/T_SoulBow_Winter1_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/SoulBow_Winter1/T_SoulBow_Winter1_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/SoulBow_Winter1/T_SoulBow_Winter1_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/SoulBow_Winter1/T_SoulBow_Winter1_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/SoulBow_Winter1/T_SoulBow_Winter1_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow/T_GaleArrow_Helix.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow/T_GaleArrow_Helix.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow/T_WindBow.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow/T_WindBow.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow/T_WindBow_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow/T_WindBow_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow/T_WindBow_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow/T_WindBow_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow/T_WindBow_Icon_Inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow/T_WindBow_Icon_Inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique1/T_WindBow_Unique1.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique1/T_WindBow_Unique1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique1/T_WindBow_Unique1_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique1/T_WindBow_Unique1_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique1/T_WindBow_Unique1_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique1/T_WindBow_Unique1_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique1/T_WindBow_Unique1_Icon_Inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique1/T_WindBow_Unique1_Icon_Inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique2/T_WindBow_Unique2.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique2/T_WindBow_Unique2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique2/T_WindBow_Unique2_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique2/T_WindBow_Unique2_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique2/T_WindBow_Unique2_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique2/T_WindBow_Unique2_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique2/T_WindBow_Unique2_Icon_Inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Equipment/RangedWeapons/WindBow_Unique2/T_WindBow_Unique2_Icon_Inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/ChargedRedstoneMines/T_ChargedRedstoneMines.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/ChargedRedstoneMines/T_ChargedRedstoneMines.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/ChargedRedstoneMines/T_ChargedRedstoneMines_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/ChargedRedstoneMines/T_ChargedRedstoneMines_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/ChargedRedstoneMines/T_ChargedRedstoneMines_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/ChargedRedstoneMines/T_ChargedRedstoneMines_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/ChargedRedstoneMines/T_ChargedRedstoneMines_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/ChargedRedstoneMines/T_ChargedRedstoneMines_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/ChargedRedstoneMines/T_ChargedRedstoneMines_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/ChargedRedstoneMines/T_ChargedRedstoneMines_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/CorruptedBeacon_Spooky1/T_CorruptedBeaconSpooky.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/CorruptedBeacon_Spooky1/T_CorruptedBeaconSpooky.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/CorruptedBeacon_Spooky1/T_CorruptedBeaconSpooky_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/CorruptedBeacon_Spooky1/T_CorruptedBeaconSpooky_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/CorruptedBeacon_Spooky1/T_CorruptedBeacon_Spooky1_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/CorruptedBeacon_Spooky1/T_CorruptedBeacon_Spooky1_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/CorruptedBeacon_Spooky1/T_CorruptedBeacon_Spooky1_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/CorruptedBeacon_Spooky1/T_CorruptedBeacon_Spooky1_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/CorruptedBeacon_Spooky1/T_CorruptedBeacon_Spooky1_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/CorruptedBeacon_Spooky1/T_CorruptedBeacon_Spooky1_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/EnchantersTome/T_EnchantersTome.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/EnchantersTome/T_EnchantersTome.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/EnchantersTome/T_EnchantersTome_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/EnchantersTome/T_EnchantersTome_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/EnchantersTome/T_EnchantersTome_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/EnchantersTome/T_EnchantersTome_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/EnchantersTome/T_EnchantersTome_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/EnchantersTome/T_EnchantersTome_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/Food/Food6/T_Sweet_Berries.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/Food/Food6/T_Sweet_Berries.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/Potions/DenseBrew/T_DenseBrew_Box.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/Potions/DenseBrew/T_DenseBrew_Box.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/SatchelOfTheElements/T_SatchelOfTheElements.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/SatchelOfTheElements/T_SatchelOfTheElements.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/SatchelOfTheElements/T_SatchelOfTheElements_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/SatchelOfTheElements/T_SatchelOfTheElements_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/SatchelOfTheElements/T_SatchelOfTheElements_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/SatchelOfTheElements/T_SatchelOfTheElements_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/SatchelOfTheElements/T_SatchelOfTheElements_Icon_inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/SatchelOfTheElements/T_SatchelOfTheElements_Icon_inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/UpdraftTome/T_UpdraftTome.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/UpdraftTome/T_UpdraftTome.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/UpdraftTome/T_UpdraftTome_GearIcon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/UpdraftTome/T_UpdraftTome_GearIcon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/UpdraftTome/T_UpdraftTome_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/UpdraftTome/T_UpdraftTome_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Actors/Items/UpdraftTome/T_UpdraftTome_Icon_Inventory.png"
+      "master": "UE4Project/Content/Content_DLC3/Actors/Items/UpdraftTome/T_UpdraftTome_Icon_Inventory.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/ArmorProperties/EmeraldShield/T_EmeraldShield_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/ArmorProperties/EmeraldShield/T_EmeraldShield_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/ArmorProperties/EnvironmentalProtection/T_EnvironmentalProtectionShine_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/ArmorProperties/EnvironmentalProtection/T_EnvironmentalProtectionShine_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/ArmorProperties/EnvironmentalProtection/T_EnvironmentalProtection_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/ArmorProperties/EnvironmentalProtection/T_EnvironmentalProtection_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/BaneOfIllagers/T_BaneOfIllagersShine_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/BaneOfIllagers/T_BaneOfIllagersShine_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/BaneOfIllagers/T_BaneOfIllagers_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/BaneOfIllagers/T_BaneOfIllagers_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/DeathBarter/T_DeathBarterShine_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/DeathBarter/T_DeathBarterShine_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/DeathBarter/T_DeathBarter_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/DeathBarter/T_DeathBarter_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/EmeraldDivination/T_EmeraldDivinationShine_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/EmeraldDivination/T_EmeraldDivinationShine_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/EmeraldDivination/T_EmeraldDivination_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/EmeraldDivination/T_EmeraldDivination_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/MultiDodge/T_MultiDodgeShine_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/MultiDodge/T_MultiDodgeShine_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/MultiDodge/T_MultiDodge_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/MultiDodge/T_MultiDodge_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/ResurrectionSurge/T_ResurrectionSurgeShine_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/ResurrectionSurge/T_ResurrectionSurgeShine_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/ResurrectionSurge/T_ResurrectionSurge_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/ResurrectionSurge/T_ResurrectionSurge_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/RollCharge/T_RollChargeShine_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/RollCharge/T_RollChargeShine_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/RollCharge/T_RollCharge_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/RollCharge/T_RollCharge_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/Rushdown/T_RushdownShine_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/Rushdown/T_RushdownShine_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Components/Enchantments/Rushdown/T_Rushdown_Icon.png"
+      "master": "UE4Project/Content/Content_DLC3/Components/Enchantments/Rushdown/T_Rushdown_Icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonCR_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonCR_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonCR_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonCR_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonCR_M.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonCR_M.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonCR_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonCR_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonGS_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonGS_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonGS_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonGS_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonGS_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/GoldButtonGS_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/T_GoldButtonWP_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/T_GoldButtonWP_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/T_GoldButtonWP_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/T_GoldButtonWP_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/T_GoldButtonWP_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Buttons/T_GoldButtonWP_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/ColossalRampart_Props/Catapult_Burn/T_Catapult_Burnt_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/ColossalRampart_Props/Catapult_Burn/T_Catapult_Burnt_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/ColossalRampart_Props/Catapult_Burn/T_Catapult_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/ColossalRampart_Props/Catapult_Burn/T_Catapult_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/ColossalRampart_Props/Catapult_Burn/T_Catapult_D_Burnt.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/ColossalRampart_Props/Catapult_Burn/T_Catapult_D_Burnt.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/ColossalRampart_Props/MeshFadeTemple/Meshfade_Atlas.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/ColossalRampart_Props/MeshFadeTemple/Meshfade_Atlas.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/ColossalRampart_Props/T_ER_Props.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/ColossalRampart_Props/T_ER_Props.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/FallingBlocks_new/T_WP_FallingBlocks.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/FallingBlocks_new/T_WP_FallingBlocks.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Falling_Blocks/T_FallingBlockMarble.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Falling_Blocks/T_FallingBlockMarble.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Falling_Blocks/T_Mountains_Falling_Blocks_Atlas.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Falling_Blocks/T_Mountains_Falling_Blocks_Atlas.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Falling_Blocks/T_RampartsFallingBlocks.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Falling_Blocks/T_RampartsFallingBlocks.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Falling_Blocks/T_Ravine_Ruins_Falling_Blocks_Atlas.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Falling_Blocks/T_Ravine_Ruins_Falling_Blocks_Atlas.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Fade_01/T_GS_SewerPillar.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Fade_01/T_GS_SewerPillar.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Banners/T_GS_Banners.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Banners/T_GS_Banners.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Benches/T_GS_PropAtlas.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Benches/T_GS_PropAtlas.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Benches/T_GS_PropAtlas_s.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Benches/T_GS_PropAtlas_s.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GolemWorkshop_Props/Golem_Poster.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GolemWorkshop_Props/Golem_Poster.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GS2_Fade/T_GS2_SlabFade.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GS2_Fade/T_GS2_SlabFade.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GS_Lantern_Cube/T_LF_GSCube.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GS_Lantern_Cube/T_LF_GSCube.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GS_Lantern_Hanging_01/T_Gold_Chain.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GS_Lantern_Hanging_01/T_Gold_Chain.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GS_Planter/leaves_oak.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GS_Planter/leaves_oak.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GS_Planter/leaves_oak_outer.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GS_Planter/leaves_oak_outer.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GS_Torch_Wall/T_GSTorch_Wall.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/GS_Torch_Wall/T_GSTorch_Wall.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/hardened_clay_stained_lime.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/hardened_clay_stained_lime.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Lightfunctions/T_LF_WL_2.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Lightfunctions/T_LF_WL_2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Lightfunctions/T_LF_WL_4.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Lightfunctions/T_LF_WL_4.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_GS_Cog_d.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_GS_Cog_d.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_GS_Cog_s.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_GS_Cog_s.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_LF_03SunShaft.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_LF_03SunShaft.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_LF_GS_InteriorSpot_L.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_LF_GS_InteriorSpot_L.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_LF_GS_InteriorSpot_M.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_LF_GS_InteriorSpot_M.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_LF_GS_InteriorSpot_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_LF_GS_InteriorSpot_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_WalkablePipeCarpet.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/LLinks03/T_WalkablePipeCarpet.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/SetExtensions/planks_oak.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/SetExtensions/planks_oak.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Skyroom/quartz_block_bottom.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Skyroom/quartz_block_bottom.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Skyroom/sandstone_normal.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Skyroom/sandstone_normal.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Skyroom/T_GS_FakeGeo.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Skyroom/T_GS_FakeGeo.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Skyroom/T_GS_FakeGeo_Top.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Skyroom/T_GS_FakeGeo_Top.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Skyroom/T_SkyroomBG.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Skyroom/T_SkyroomBG.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Sunshaft/T_LF_GS_InteriorSpot.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/Sunshaft/T_LF_GS_InteriorSpot.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_ER_LF.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_ER_LF.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_GaleSanctum_Props_Trim.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_GaleSanctum_Props_Trim.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_GaleSanctum_Props_Trim_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_GaleSanctum_Props_Trim_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_GS_Bridge.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_GS_Bridge.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_GS_Bridge_e.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_GS_Bridge_e.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_GS_Bridge_Spec.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_GS_Bridge_Spec.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_New_WindPlat_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_New_WindPlat_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_New_WindPlat_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/T_New_WindPlat_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/WindPlaque/T_Windplaque_d.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/WindPlaque/T_Windplaque_d.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/WindPlaque/T_Windplaque_e.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/WindPlaque/T_Windplaque_e.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/WindPlaque/T_Windplaque_s.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Gale_Sanctum_Props/WindPlaque/T_Windplaque_s.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Golden_Barley/T_Golden_Barley.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Golden_Barley/T_Golden_Barley.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Golden_Barley/T_Golden_Wheat_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Golden_Barley/T_Golden_Wheat_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Hay/T_Hay_Bale.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Hay/T_Hay_Bale.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/LlamaLockin_Statue/T_Llama_Statue.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/LlamaLockin_Statue/T_Llama_Statue.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Minecart/TNT_Cart/T_TNTCart.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Minecart/TNT_Cart/T_TNTCart.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Mountain_Door/T_Mountain_Door.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Mountain_Door/T_Mountain_Door.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Mountain_Door/T_Mountain_Door_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Mountain_Door/T_Mountain_Door_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Moving_Blocks/T_Wind_Block_01_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Moving_Blocks/T_Wind_Block_01_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Moving_Block_Goal/T_Wind_Block_Goal.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Moving_Block_Goal/T_Wind_Block_Goal.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Moving_Block_Goal/T_Wind_Block_Goal_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Moving_Block_Goal/T_Wind_Block_Goal_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Particles/Mountains_Pre_Spawn/T_SmokeBallVariationBig.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Particles/Mountains_Pre_Spawn/T_SmokeBallVariationBig.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Particles/T_Red_Grass.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Particles/T_Red_Grass.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Ravager_Pens/Ravager_Gate/T_Ravager_Gate.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Ravager_Pens/Ravager_Gate/T_Ravager_Gate.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Ravager_Pens/Ravager_Gate/T_Ravager_Gate_Long.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Ravager_Pens/Ravager_Gate/T_Ravager_Gate_Long.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Resonance_Crystal/Resonance_Crystal_Base_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Resonance_Crystal/Resonance_Crystal_Base_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Resonance_Crystal/Resonance_Crystal_Base_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Resonance_Crystal/Resonance_Crystal_Base_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Resonance_Crystal/T_Resonance_Crystal_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Resonance_Crystal/T_Resonance_Crystal_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Resonance_Crystal/T_Resonance_Crystal_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Resonance_Crystal/T_Resonance_Crystal_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/SkyRoom_Puzzle/T_Fountain_Statue.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/SkyRoom_Puzzle/T_Fountain_Statue.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/SkyRoom_Puzzle/T_Fountain_Statue_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/SkyRoom_Puzzle/T_Fountain_Statue_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/T_FirePipe.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/T_FirePipe.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/New_Windhole/T_New_Windhole_AO.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/New_Windhole/T_New_Windhole_AO.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/New_Windhole/T_New_Windhole_Back.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/New_Windhole/T_New_Windhole_Back.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/New_Windhole/T_New_Windhole_Fan.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/New_Windhole/T_New_Windhole_Fan.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/New_Windhole/T_New_Windhole_grate.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/New_Windhole/T_New_Windhole_grate.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/New_Windhole/T_New_Windhole_Mask.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/New_Windhole/T_New_Windhole_Mask.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/Particle/T_BarGradient2.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/Particle/T_BarGradient2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/Particle/T_BarGradient2_SW.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/Particle/T_BarGradient2_SW.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/T_WH.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/T_WH.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/T_WH_WP_Grey.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/T_WH_WP_Grey.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/T_WH_WP_Ochre.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WindHoles/T_WH_WP_Ochre.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windmill/T_GS_Windmill_d.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windmill/T_GS_Windmill_d.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/Cloth_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/Cloth_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/Cloth_Pattern_002.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/Cloth_Pattern_002.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/Cloth_Pattern_003.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/Cloth_Pattern_003.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/Cloth_Pattern_004.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/Cloth_Pattern_004.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/T_Cloth_Rips.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/T_Cloth_Rips.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/T_Cloth_Roof.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/T_Cloth_Roof.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/Wind_Ripple.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Buildings/Wind_Ripple.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_End_Gate/T_Windswept_End_Gate.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_End_Gate/T_Windswept_End_Gate.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_End_Gate/T_Windswept_End_Gate_Frame.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_End_Gate/T_Windswept_End_Gate_Frame.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_End_Gate/T_Windswept_End_Gate_Frame_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_End_Gate/T_Windswept_End_Gate_Frame_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_End_Gate/T_Windswept_End_Gate_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_End_Gate/T_Windswept_End_Gate_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Lift/Rope_Bridge_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Lift/Rope_Bridge_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Lift/Rope_Bridge_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Lift/Rope_Bridge_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Lift/Rope_Bridge_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Lift/Rope_Bridge_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Lift/T_WS_Elevator_Buttons.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Lift/T_WS_Elevator_Buttons.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Lift/T_WS_Elevator_Buttons_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Lift/T_WS_Elevator_Buttons_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Lift/T_WS_Elevator_Buttons_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Lift/T_WS_Elevator_Buttons_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Moving_Platforms/T_Moving_Platform_01.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Moving_Platforms/T_Moving_Platform_01.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Moving_Platforms/T_Moving_Platform_01_GS.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Moving_Platforms/T_Moving_Platform_01_GS.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Moving_Platforms/T_Moving_Platform_01_S_GS.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Moving_Platforms/T_Moving_Platform_01_S_GS.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Moving_Platforms/T_Moving_Platform_Fan_01.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Moving_Platforms/T_Moving_Platform_Fan_01.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Moving_Platforms/T_Moving_Platform_Fan_01_GS.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Moving_Platforms/T_Moving_Platform_Fan_01_GS.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Moving_Platforms/T_Moving_Platform_Fan_01_S_GS.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Moving_Platforms/T_Moving_Platform_Fan_01_S_GS.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/T_CR_Flow.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/T_CR_Flow.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/T_Flowclouds.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/T_Flowclouds.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/T_FlowcloudsDarker.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/T_FlowcloudsDarker.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/T_OutpostBG_Sun.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/T_OutpostBG_Sun.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/T_WS_Backdrop_sun.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/T_WS_Backdrop_sun.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/Windswept_cliffs/T_Cliffblend.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/Windswept_cliffs/T_Cliffblend.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/Windswept_cliffs/T_cliffstone.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/Windswept_cliffs/T_cliffstone.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/Windswept_cliffs/T_clifftop.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/Windswept_cliffs/T_clifftop.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/WP_Flow_Pixels.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_post/WP_Flow_Pixels.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/Cabin_Fade/T_CabinMeshfade_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/Cabin_Fade/T_CabinMeshfade_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/T_Windswept_Props_New_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/T_Windswept_Props_New_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/T_Windswept_Props_Trim.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/T_Windswept_Props_Trim.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/T_WP_Banners.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/T_WP_Banners.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/T_WP_Lighshaft.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/T_WP_Lighshaft.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/T_WP_OrbLF.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/T_WP_OrbLF.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/T_WP_TentG.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/T_WP_TentG.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/Well/T_Well.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/Well/T_Well.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/WP_Cave_Fade/T_WP_CaveFade.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_Props/WP_Cave_Fade/T_WP_CaveFade.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_RopeBridge/T_WP_rope_bridge_2.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Windswept_RopeBridge/T_WP_rope_bridge_2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Beacon/T_Wind_Beacon.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Beacon/T_Wind_Beacon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Beacon/T_Wind_Beacon_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Beacon/T_Wind_Beacon_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Beacon/T_Wind_Beacon_Spec.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Beacon/T_Wind_Beacon_Spec.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Beacon/T_Wind_Swirl.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Beacon/T_Wind_Swirl.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Gale_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Gale_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Gale_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Gale_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Gears_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Gears_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Gears_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Gears_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Vertical_D.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Vertical_D.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Vertical_D_GS.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Vertical_D_GS.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Vertical_S_GS.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Gate/T_Wind_Gate_Vertical_S_GS.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pillar/T_Wind_Pillar.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pillar/T_Wind_Pillar.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pillar/T_Wind_PillarPost.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pillar/T_Wind_PillarPost.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pillar/T_Wind_Pillar_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pillar/T_Wind_Pillar_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pillar/T_Wind_Pillar_E_Channelled.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pillar/T_Wind_Pillar_E_Channelled.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pillar/T_Wind_Pillar_Post_E_Channelled.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pillar/T_Wind_Pillar_Post_E_Channelled.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pillar/T_Wind_Pillar_S.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pillar/T_Wind_Pillar_S.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pipes/T_Wind_Pipes.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pipes/T_Wind_Pipes.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pipes/T_Wind_Pipes_e.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pipes/T_Wind_Pipes_e.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pipes/T_Wind_Pipes_Spec.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pipes/T_Wind_Pipes_Spec.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pipes/T_Wind_Pipes_W_E.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Pipes/T_Wind_Pipes_W_E.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Swept_Trees/T_DeadLeaf.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Swept_Trees/T_DeadLeaf.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Swept_Trees/T_DeadLeaves.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Swept_Trees/T_DeadLeaves.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Swept_Trees/Windy_Trees/T_WindSwept_Trees.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/Wind_Swept_Trees/Windy_Trees/T_WindSwept_Trees.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WP_Fades/T_WP_Fade.png"
+      "master": "UE4Project/Content/Content_DLC3/Decor/Prefabs/_Mountains/WP_Fades/T_WP_Fade.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/Inventory/events/Seasonal_Inventory_background.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/Inventory/events/Seasonal_Inventory_background.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/Inventory/events/Seasonal_slot_icon_70.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/Inventory/events/Seasonal_slot_icon_70.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/Inventory/Inspector/Seasonal_bullit.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/Inventory/Inspector/Seasonal_bullit.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/LoadingScreen/dungeon_marker_BIG_clean.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/LoadingScreen/dungeon_marker_BIG_clean.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/LoadingScreen/seasonal_lv2.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/LoadingScreen/seasonal_lv2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/LoadingScreen/seasonal_lv4.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/LoadingScreen/seasonal_lv4.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/LoadingScreen/seasonal_lv5.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/LoadingScreen/seasonal_lv5.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/LoadingScreen/standard_foldout_NodeBack.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/LoadingScreen/standard_foldout_NodeBack.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/daily_foldout_wingsLevel1.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/daily_foldout_wingsLevel1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/daily_foldout_wingsLevel2.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/daily_foldout_wingsLevel2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/daily_foldout_wingsLevel3.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/daily_foldout_wingsLevel3.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_level1.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_level1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_level2.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_level2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_level3.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_level3.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_NodeBack.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_NodeBack.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_wingsLevel1.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_wingsLevel1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_wingsLevel2.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_wingsLevel2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_wingsLevel3.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/inspector/trial/seasonal_foldout_wingsLevel3.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/daily_map_wings_Level1.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/daily_map_wings_Level1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/daily_map_wings_Level2.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/daily_map_wings_Level2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/daily_map_wings_Level3.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/daily_map_wings_Level3.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_counter_Background.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_counter_Background.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_large_icon.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_large_icon.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_mapNode_Base.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_mapNode_Base.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_mapNode_level1.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_mapNode_level1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_mapNode_level2.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_mapNode_level2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_mapNode_level3.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_mapNode_level3.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_map_wings_Level1.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_map_wings_Level1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_map_wings_level2.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_map_wings_level2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_map_wings_level3.png"
+      "master": "UE4Project/Content/Content_DLC3/UI/Materials/MissionSelectMap/marker/seasonal_map_wings_level3.png"
     }
   }
 ]

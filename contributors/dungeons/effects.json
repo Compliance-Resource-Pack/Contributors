@@ -2,649 +2,649 @@
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Bubbles/T_Bubble.png"
+      "master": "UE4Project/Content/Effects/Materials/Bubbles/T_Bubble.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Combat/T_Combat_LongSlash_GrayScale.png"
+      "master": "UE4Project/Content/Effects/Materials/Combat/T_Combat_LongSlash_GrayScale.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Combat/T_Combat_Stab_Grayscale.png"
+      "master": "UE4Project/Content/Effects/Materials/Combat/T_Combat_Stab_Grayscale.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Combat/T_Slash_Grayscale.png"
+      "master": "UE4Project/Content/Effects/Materials/Combat/T_Slash_Grayscale.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Combat/T_SpikeyGradient.png"
+      "master": "UE4Project/Content/Effects/Materials/Combat/T_SpikeyGradient.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Cracks/T_Cracks.png"
+      "master": "UE4Project/Content/Effects/Materials/Cracks/T_Cracks.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Decals/T_Decal.png"
+      "master": "UE4Project/Content/Effects/Materials/Decals/T_Decal.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Electric/T_ElectricArcs.png"
+      "master": "UE4Project/Content/Effects/Materials/Electric/T_ElectricArcs.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Electric/T_ElectricStraight.png"
+      "master": "UE4Project/Content/Effects/Materials/Electric/T_ElectricStraight.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Electric/T_ElectricStraight_Horizontal.png"
+      "master": "UE4Project/Content/Effects/Materials/Electric/T_ElectricStraight_Horizontal.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Environmental/Leaves/T_LeavesMaple_Grayscale.png"
+      "master": "UE4Project/Content/Effects/Materials/Environmental/Leaves/T_LeavesMaple_Grayscale.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Environmental/Leaves/T_LeavesVanilla_Grayscale.png"
+      "master": "UE4Project/Content/Effects/Materials/Environmental/Leaves/T_LeavesVanilla_Grayscale.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Environmental/Mist/T_Mist_ColorIndex.png"
+      "master": "UE4Project/Content/Effects/Materials/Environmental/Mist/T_Mist_ColorIndex.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Environmental/Mist/T_Mist_Large.png"
+      "master": "UE4Project/Content/Effects/Materials/Environmental/Mist/T_Mist_Large.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Environmental/Mist/T_Mist_Small.png"
+      "master": "UE4Project/Content/Effects/Materials/Environmental/Mist/T_Mist_Small.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Experience/T_LevelUp.png"
+      "master": "UE4Project/Content/Effects/Materials/Experience/T_LevelUp.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Feather/T_Feathers.png"
+      "master": "UE4Project/Content/Effects/Materials/Feather/T_Feathers.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Fire/FireBlock/T_FireBlock1x1.png"
+      "master": "UE4Project/Content/Effects/Materials/Fire/FireBlock/T_FireBlock1x1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Fire/T_FireDroplet.png"
+      "master": "UE4Project/Content/Effects/Materials/Fire/T_FireDroplet.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Fire/T_FireGround.png"
+      "master": "UE4Project/Content/Effects/Materials/Fire/T_FireGround.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Fire/T_FireSide.png"
+      "master": "UE4Project/Content/Effects/Materials/Fire/T_FireSide.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Fire/T_HeatTile3_N.png"
+      "master": "UE4Project/Content/Effects/Materials/Fire/T_HeatTile3_N.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Fire/T_LavaBall_SpriteSheet.png"
+      "master": "UE4Project/Content/Effects/Materials/Fire/T_LavaBall_SpriteSheet.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/Circles/T_Circle_Full_15_spritesheet.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/Circles/T_Circle_Full_15_spritesheet.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/Circles/T_fullcircle_dissolvedArc_15_spritesheet.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/Circles/T_fullcircle_dissolvedArc_15_spritesheet.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/Circles/T_fullcircle_explosion_124_spritesheet.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/Circles/T_fullcircle_explosion_124_spritesheet.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/Circles/T_fullcircle_explosion_64_spritesheet.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/Circles/T_fullcircle_explosion_64_spritesheet.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/Circles/T_fullsquareEdgeless_15_spritesheet.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/Circles/T_fullsquareEdgeless_15_spritesheet.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/Circles/T_PixelHollowRadial_16.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/Circles/T_PixelHollowRadial_16.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/Circles/T_PixelHollowRadial_32.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/Circles/T_PixelHollowRadial_32.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/Circles/T_PixelHollowRadial_64.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/Circles/T_PixelHollowRadial_64.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/ColorIndexes/T_Rainbow_ColorIndex.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/ColorIndexes/T_Rainbow_ColorIndex.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/SinglePixelSurrondedByAlpha.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/SinglePixelSurrondedByAlpha.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_BulgeNormalMap_Circle.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_BulgeNormalMap_Circle.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_BulgeNormalMap_HollowSquare.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_BulgeNormalMap_HollowSquare.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_CloudsNormal_64.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_CloudsNormal_64.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_DiagonalLine.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_DiagonalLine.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_DiagonalLine_512.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_DiagonalLine_512.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_GenericTrail_25.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_GenericTrail_25.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_GenericTrail_25_Intense.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_GenericTrail_25_Intense.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_HollowHexagonClean.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_HollowHexagonClean.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_HollowSquare64.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_HollowSquare64.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_HollowSquare8.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_HollowSquare8.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_HollowSquareEdgeless16.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_HollowSquareEdgeless16.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_MagicSymbolHiRes.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_MagicSymbolHiRes.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_Minecraft_Particles_Generic_4x4.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_Minecraft_Particles_Generic_4x4.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_MysteriousShapedCircle.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_MysteriousShapedCircle.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_MysteriousShapedCircleFaded.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_MysteriousShapedCircleFaded.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_MysteriousShapedCirclePixelated.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_MysteriousShapedCirclePixelated.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_OnePixel.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_OnePixel.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_OnePixelClamp.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_OnePixelClamp.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_PixelCircleGradient128.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_PixelCircleGradient128.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_PixelCircleGradient256.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_PixelCircleGradient256.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_PixelCircleGradient32.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_PixelCircleGradient32.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_PixelCircleGradient512.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_PixelCircleGradient512.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_PixelCircleGradient64.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_PixelCircleGradient64.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_PixelGradient.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_PixelGradient.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_PixelHollowEgg_16.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_PixelHollowEgg_16.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_PixelSpiral.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_PixelSpiral.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Generic/T_Radial_Gradient.png"
+      "master": "UE4Project/Content/Effects/Materials/Generic/T_Radial_Gradient.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Ghost/T_GhostTile.png"
+      "master": "UE4Project/Content/Effects/Materials/Ghost/T_GhostTile.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Gibs/T_GenericGibs_16.png"
+      "master": "UE4Project/Content/Effects/Materials/Gibs/T_GenericGibs_16.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Gibs/T_GenericGibs_8.png"
+      "master": "UE4Project/Content/Effects/Materials/Gibs/T_GenericGibs_8.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Hearts/T_Heart.png"
+      "master": "UE4Project/Content/Effects/Materials/Hearts/T_Heart.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Ice/T_IceSymbol.png"
+      "master": "UE4Project/Content/Effects/Materials/Ice/T_IceSymbol.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Items/T_ArmourVFX.png"
+      "master": "UE4Project/Content/Effects/Materials/Items/T_ArmourVFX.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Items/T_ArrowVFX.png"
+      "master": "UE4Project/Content/Effects/Materials/Items/T_ArrowVFX.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Items/T_BootsVFX.png"
+      "master": "UE4Project/Content/Effects/Materials/Items/T_BootsVFX.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Items/T_CriticalHitVFX.png"
+      "master": "UE4Project/Content/Effects/Materials/Items/T_CriticalHitVFX.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Items/T_DenseBrewVFX.png"
+      "master": "UE4Project/Content/Effects/Materials/Items/T_DenseBrewVFX.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Items/T_DenseBrew_backingVFX.png"
+      "master": "UE4Project/Content/Effects/Materials/Items/T_DenseBrew_backingVFX.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Items/T_ShieldVFX.png"
+      "master": "UE4Project/Content/Effects/Materials/Items/T_ShieldVFX.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Items/T_SwordVFX.png"
+      "master": "UE4Project/Content/Effects/Materials/Items/T_SwordVFX.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Light/T_GodRayLight.png"
+      "master": "UE4Project/Content/Effects/Materials/Light/T_GodRayLight.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/LightFunctions/CreeperWoods_LightCookie.png"
+      "master": "UE4Project/Content/Effects/Materials/LightFunctions/CreeperWoods_LightCookie.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/LightFunctions/DesertTemple_LightCookie.png"
+      "master": "UE4Project/Content/Effects/Materials/LightFunctions/DesertTemple_LightCookie.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/LightFunctions/DesertTemple_Long_LightCookie.png"
+      "master": "UE4Project/Content/Effects/Materials/LightFunctions/DesertTemple_Long_LightCookie.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/LightFunctions/FieryForge_Cellar_LightCookie.png"
+      "master": "UE4Project/Content/Effects/Materials/LightFunctions/FieryForge_Cellar_LightCookie.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/LightFunctions/FireyForge_Bars_Lightcookie.png"
+      "master": "UE4Project/Content/Effects/Materials/LightFunctions/FireyForge_Bars_Lightcookie.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/LightFunctions/T_canopy_lightcookie.png"
+      "master": "UE4Project/Content/Effects/Materials/LightFunctions/T_canopy_lightcookie.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/LightFunctions/T_Dungeon_Roof_LightCookie.png"
+      "master": "UE4Project/Content/Effects/Materials/LightFunctions/T_Dungeon_Roof_LightCookie.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Music/T_MusicNote.png"
+      "master": "UE4Project/Content/Effects/Materials/Music/T_MusicNote.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Noise/pixelgradient64.png"
+      "master": "UE4Project/Content/Effects/Materials/Noise/pixelgradient64.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Noise/T_Clouds_128.png"
+      "master": "UE4Project/Content/Effects/Materials/Noise/T_Clouds_128.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Noise/T_Clouds_512.png"
+      "master": "UE4Project/Content/Effects/Materials/Noise/T_Clouds_512.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Noise/T_Clouds_64.png"
+      "master": "UE4Project/Content/Effects/Materials/Noise/T_Clouds_64.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Noise/T_Clouds_HF_128.png"
+      "master": "UE4Project/Content/Effects/Materials/Noise/T_Clouds_HF_128.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Noise/T_Dissolve_32.png"
+      "master": "UE4Project/Content/Effects/Materials/Noise/T_Dissolve_32.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Noise/T_MonoChromeGradient.png"
+      "master": "UE4Project/Content/Effects/Materials/Noise/T_MonoChromeGradient.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Noise/T_OffsetGradientLeft.png"
+      "master": "UE4Project/Content/Effects/Materials/Noise/T_OffsetGradientLeft.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Noise/T_OffsetGradientRight.png"
+      "master": "UE4Project/Content/Effects/Materials/Noise/T_OffsetGradientRight.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Noise/T_PixelNoise_32.png"
+      "master": "UE4Project/Content/Effects/Materials/Noise/T_PixelNoise_32.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Noise/T_SmoothClouds_512.png"
+      "master": "UE4Project/Content/Effects/Materials/Noise/T_SmoothClouds_512.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Noise/T_TilingNoise03.png"
+      "master": "UE4Project/Content/Effects/Materials/Noise/T_TilingNoise03.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Skull/T_SkullSoul.png"
+      "master": "UE4Project/Content/Effects/Materials/Skull/T_SkullSoul.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Smoke/Smoke_Ball_SmallVariation.png"
+      "master": "UE4Project/Content/Effects/Materials/Smoke/Smoke_Ball_SmallVariation.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Smoke/T_SmokeBallVariation.png"
+      "master": "UE4Project/Content/Effects/Materials/Smoke/T_SmokeBallVariation.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Smoke/T_Smoke_deformedBall_Small.png"
+      "master": "UE4Project/Content/Effects/Materials/Smoke/T_Smoke_deformedBall_Small.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Stars/T_Stars_16.png"
+      "master": "UE4Project/Content/Effects/Materials/Stars/T_Stars_16.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Status/T_Slow.png"
+      "master": "UE4Project/Content/Effects/Materials/Status/T_Slow.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Target/T_Target.png"
+      "master": "UE4Project/Content/Effects/Materials/Target/T_Target.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Thorn/T_Thorns.png"
+      "master": "UE4Project/Content/Effects/Materials/Thorn/T_Thorns.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Water/T_WaterSplash_Medium.png"
+      "master": "UE4Project/Content/Effects/Materials/Water/T_WaterSplash_Medium.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Water/T_WaterSplash_Small.png"
+      "master": "UE4Project/Content/Effects/Materials/Water/T_WaterSplash_Small.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Wind/T_WhirlWind.png"
+      "master": "UE4Project/Content/Effects/Materials/Wind/T_WhirlWind.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Materials/Wood/T_GenericWood.png"
+      "master": "UE4Project/Content/Effects/Materials/Wood/T_GenericWood.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Meshes/TotemOfUndying/T_TotemOfUndying.png"
+      "master": "UE4Project/Content/Effects/Meshes/TotemOfUndying/T_TotemOfUndying.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Effects/Meshes/TotemOfUndying/T_TotemOfUndying_E.png"
+      "master": "UE4Project/Content/Effects/Meshes/TotemOfUndying/T_TotemOfUndying_E.png"
     }
   }
 ]

@@ -2,13 +2,13 @@
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Cues/FrozenSolid/Splash.png"
+      "master": "UE4Project/Content/Cues/FrozenSolid/Splash.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/UE4Project/Content/Cues/FrozenSolid/T_Ice_Block.png"
+      "master": "UE4Project/Content/Cues/FrozenSolid/T_Ice_Block.png"
     }
   }
 ]
