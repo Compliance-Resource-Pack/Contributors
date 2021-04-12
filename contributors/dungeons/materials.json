@@ -2,43 +2,43 @@
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Materials/black1x1.png"
+      "master": "Dungeons/UE4Project/Content/Materials/black1x1.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Materials/Runes/runes.png"
+      "master": "Dungeons/UE4Project/Content/Materials/Runes/runes.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Materials/Sky/T_Stars_Sky_Dungeons.png"
+      "master": "Dungeons/UE4Project/Content/Materials/Sky/T_Stars_Sky_Dungeons.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Materials/tallgrass.png"
+      "master": "Dungeons/UE4Project/Content/Materials/tallgrass.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Materials/T_Lava_16_spritesheet.png"
+      "master": "Dungeons/UE4Project/Content/Materials/T_Lava_16_spritesheet.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Materials/T_OutlineColorLT.png"
+      "master": "Dungeons/UE4Project/Content/Materials/T_OutlineColorLT.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Materials/T_WaterTile.png"
+      "master": "Dungeons/UE4Project/Content/Materials/T_WaterTile.png"
     }
   }
 ]

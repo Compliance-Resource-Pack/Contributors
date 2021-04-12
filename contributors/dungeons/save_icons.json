@@ -2,13 +2,13 @@
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/SaveIcons/save_character.png"
+      "master": "Dungeons/UE4Project/Content/SaveIcons/save_character.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/SaveIcons/save_global.png"
+      "master": "Dungeons/UE4Project/Content/SaveIcons/save_global.png"
     }
   }
 ]

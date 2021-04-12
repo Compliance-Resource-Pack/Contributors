@@ -2,55 +2,55 @@
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Textures/arrow.png"
+      "master": "Dungeons/UE4Project/Content/Textures/arrow.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Textures/InventoryNew/3DView_Spotlight_Pattern.png"
+      "master": "Dungeons/UE4Project/Content/Textures/InventoryNew/3DView_Spotlight_Pattern.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Textures/InventoryNew/master_inventory_backdrop.png"
+      "master": "Dungeons/UE4Project/Content/Textures/InventoryNew/master_inventory_backdrop.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Textures/InventoryNew/master_inventory_backdrop_switch.png"
+      "master": "Dungeons/UE4Project/Content/Textures/InventoryNew/master_inventory_backdrop_switch.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Textures/InventoryNew/master_settings_backdrop.png"
+      "master": "Dungeons/UE4Project/Content/Textures/InventoryNew/master_settings_backdrop.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Textures/LUT/LUT_DesertTemple_Mild.png"
+      "master": "Dungeons/UE4Project/Content/Textures/LUT/LUT_DesertTemple_Mild.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Textures/LUT/LUT_SquidCoast.png"
+      "master": "Dungeons/UE4Project/Content/Textures/LUT/LUT_SquidCoast.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Textures/LUT/LUT_SquidCoastAlt2.png"
+      "master": "Dungeons/UE4Project/Content/Textures/LUT/LUT_SquidCoastAlt2.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Textures/screenspec_text.png"
+      "master": "Dungeons/UE4Project/Content/Textures/screenspec_text.png"
     }
   }
 ]

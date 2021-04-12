@@ -2,13 +2,13 @@
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Meshes/TotemOfUndying/T_TotemOfUndying.png"
+      "master": "Dungeons/UE4Project/Content/Meshes/TotemOfUndying/T_TotemOfUndying.png"
     }
   },
   {
     "c32": {},
     "version": {
-      "master": "Dungeons/Content/Meshes/TotemOfUndying/T_TotemOfUndying_E.png"
+      "master": "Dungeons/UE4Project/Content/Meshes/TotemOfUndying/T_TotemOfUndying_E.png"
     }
   }
 ]
