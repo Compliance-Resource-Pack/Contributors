@@ -23884,12 +23884,7 @@
     "animated": false
   },
   {
-    "c32": {
-      "date": "13/04/2021",
-      "author": [
-        "173961749941321731"
-      ]
-    },
+    "c32": {},
     "c64": {},
     "version": {
       "1.16.200": "textures/ui/icon_fish_clownfish_raw.png",
