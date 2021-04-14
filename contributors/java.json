@@ -3300,7 +3300,12 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "14/04/2021",
+      "author": [
+        "692740123627880459"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/campfire_log.png",
@@ -3315,7 +3320,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "14/04/2021",
+      "author": [
+        "692740123627880459"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/campfire_log_lit.png",
@@ -13698,7 +13708,12 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "14/04/2021",
+      "author": [
+        "692740123627880459"
+      ]
+    },
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/soul_campfire_log_lit.png",
