@@ -12104,6 +12104,36 @@
     "animated": false
   },
   {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/raw_copper_block.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/raw_gold_block.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.17": "minecraft/textures/block/raw_iron_block.png"
+    },
+    "isBedrock": false,
+    "bedrock": {},
+    "animated": false
+  },
+  {
     "c32": {
       "author": [
         "340497757410295808"

@@ -124,13 +124,5 @@
     ],
     "muted": false,
     "timeout": 0
-  },
-  {
-    "user": "105348390530859008",
-    "warn": [
-      "spam"
-    ],
-    "muted": false,
-    "timeout": 0
   }
 ]
