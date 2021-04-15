@@ -29176,7 +29176,7 @@
       "1.15.2": "minecraft/textures/item/glass_bottle.png",
       "1.14.4": "minecraft/textures/item/glass_bottle.png",
       "1.13.2": "minecraft/textures/item/glass_bottle.png",
-      "1.12.2": "minecraft/textures/item/potion_bottle_empty"
+      "1.12.2": "minecraft/textures/items/potion_bottle_empty"
     },
     "isBedrock": true,
     "bedrock": {
