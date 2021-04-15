@@ -28024,7 +28024,12 @@
   },
   {
     "c32": {},
-    "c64": {},
+    "c64": {
+      "date": "15/04/2021",
+      "author": [
+        "674962022915506245"
+      ]
+    },
     "version": {
       "1.17": "minecraft/textures/item/crimson_door.png",
       "1.16.5": "minecraft/textures/item/crimson_door.png"
