@@ -18929,7 +18929,12 @@
         "729617269243773008"
       ]
     },
-    "c64": {},
+    "c64": {
+      "date": "16/04/2021",
+      "author": [
+        "340497757410295808"
+      ]
+    },
     "version": {
       "1.16.200": "textures/items/stone_sword.png",
       "1.16.210": "textures/items/stone_sword.png"
