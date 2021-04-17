@@ -3070,7 +3070,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/bubble_coral.png",
@@ -3084,7 +3089,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/bubble_coral_block.png",
@@ -3100,7 +3110,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/bubble_coral_fan.png",
@@ -5431,7 +5446,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/dead_brain_coral_block.png",
@@ -5447,7 +5467,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/dead_brain_coral_fan.png",
@@ -5463,7 +5488,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/dead_bubble_coral.png",
@@ -5479,7 +5509,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/dead_bubble_coral_block.png",
@@ -5495,7 +5530,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/dead_bubble_coral_fan.png",
@@ -5533,7 +5573,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/dead_fire_coral.png",
@@ -5550,9 +5595,10 @@
   },
   {
     "c32": {
-      "author": [
-        "369259215996583936"
-      ]
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
     },
     "c64": {},
     "version": {
@@ -5569,7 +5615,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/dead_fire_coral_fan.png",
@@ -5626,9 +5677,11 @@
   },
   {
     "c32": {
-      "author": [
-        "674962022915506245"
-      ]
+			"author": [
+				"674962022915506245",
+				"369259215996583936"
+			],
+			"date": "17/04/2021"
     },
     "c64": {},
     "version": {
@@ -6838,7 +6891,12 @@
     }
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/fire_coral.png",
@@ -6875,7 +6933,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/fire_coral_fan.png",
@@ -8067,7 +8130,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+			"author": [
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
+		},
     "c64": {},
     "version": {
       "1.17": "minecraft/textures/block/horn_coral_fan.png",
@@ -14675,9 +14743,11 @@
   },
   {
     "c32": {
-      "author": [
-        "200867380031782912"
-      ]
+			"author": [
+				"200867380031782912",
+				"369259215996583936"	
+			],
+			"date": "17/04/2021"
     },
     "c64": {},
     "version": {
@@ -14697,8 +14767,10 @@
   {
     "c32": {
       "author": [
-        "200867380031782912"
-      ]
+        "200867380031782912",
+				"369259215996583936"
+      ],
+			"date": "17/04/2021"
     },
     "c64": {},
     "version": {
@@ -14718,8 +14790,10 @@
   {
     "c32": {
       "author": [
-        "200867380031782912"
-      ]
+        "200867380031782912",
+				"369259215996583936"
+      ],
+			"date": "17/04/2021"
     },
     "c64": {},
     "version": {
@@ -14739,8 +14813,10 @@
   {
     "c32": {
       "author": [
-        "200867380031782912"
-      ]
+        "200867380031782912",
+				"369259215996583936"
+      ],
+			"date": "17/04/2021"
     },
     "c64": {},
     "version": {
