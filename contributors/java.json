@@ -28556,7 +28556,12 @@
         "173961749941321731"
       ]
     },
-    "c64": {},
+    "c64": {
+			"author": [
+				"729617269243773008"
+			],
+			"date": "17/04/2021"
+		},
     "version": {
       "1.17": "minecraft/textures/item/diamond_sword.png",
       "1.16.5": "minecraft/textures/item/diamond_sword.png",
@@ -29531,7 +29536,12 @@
         "409514371388145664"
       ]
     },
-    "c64": {},
+    "c64": {
+			"author": [
+				"729617269243773008"
+			],
+			"date": "17/04/2021"
+		},
     "version": {
       "1.17": "minecraft/textures/item/golden_sword.png",
       "1.16.5": "minecraft/textures/item/golden_sword.png",
@@ -30044,7 +30054,12 @@
         "173961749941321731"
       ]
     },
-    "c64": {},
+    "c64": {
+			"author": [
+				"729617269243773008"
+			],
+			"date": "17/04/2021"
+		},
     "version": {
       "1.17": "minecraft/textures/item/iron_sword.png",
       "1.16.5": "minecraft/textures/item/iron_sword.png",

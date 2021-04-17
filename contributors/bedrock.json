@@ -15083,7 +15083,12 @@
         "729617269243773008"
       ]
     },
-    "c64": {},
+    "c64": {
+			"author": [
+				"729617269243773008"
+			],
+			"date": "17/04/2021"
+		},
     "version": {
       "1.16.200": "textures/items/diamond_sword.png",
       "1.16.210": "textures/items/diamond_sword.png"
@@ -16524,7 +16529,12 @@
         "729617269243773008"
       ]
     },
-    "c64": {},
+    "c64": {
+			"author": [
+				"729617269243773008"
+			],
+			"date": "17/04/2021"
+		},
     "version": {
       "1.16.200": "textures/items/gold_sword.png",
       "1.16.210": "textures/items/gold_sword.png"
@@ -16762,7 +16772,12 @@
         "729617269243773008"
       ]
     },
-    "c64": {},
+    "c64": {
+			"author": [
+				"729617269243773008"
+			],
+			"date": "17/04/2021"
+		},
     "version": {
       "1.16.200": "textures/items/iron_sword.png",
       "1.16.210": "textures/items/iron_sword.png"
