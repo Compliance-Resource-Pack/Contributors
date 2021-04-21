@@ -15,7 +15,7 @@
       "1.16.200": "textures/forcefield_atlas.png",
       "1.16.210": "textures/forcefield_atlas.png"
     },
-    "animated": false
+    "animated": true
   },
   {
     "c32": {},
@@ -8688,6 +8688,60 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.16.200": "textures/colormap/birch.png",
+      "1.16.210": "textures/colormap/birch.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/colormap/evergreen.png",
+      "1.16.210": "textures/colormap/evergreen.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/colormap/foliage.png",
+      "1.16.210": "textures/colormap/foliage.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/colormap/grass.png",
+      "1.16.210": "textures/colormap/grass.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/colormap/swamp_foliage.png",
+      "1.16.210": "textures/colormap/swamp_foliage.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/colormap/swamp_grass.png",
+      "1.16.210": "textures/colormap/swamp_grass.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.16.200": "textures/entity/agent.png",
       "1.16.210": "textures/entity/agent.png"
     },
@@ -10096,6 +10150,15 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.16.200": "textures/entity/horse/horse_markings_none.png",
+      "1.16.210": "textures/entity/horse/horse_markings_none.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.16.200": "textures/entity/horse/horse_markings_white.png",
       "1.16.210": "textures/entity/horse/horse_markings_white.png"
     },
@@ -10186,6 +10249,15 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.16.200": "textures/entity/horse/armor/horse_armor_none.png",
+      "1.16.210": "textures/entity/horse/armor/horse_armor_none.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.16.200": "textures/entity/horse2/donkey.png",
       "1.16.210": "textures/entity/horse2/donkey.png"
     },
@@ -10251,6 +10323,15 @@
     "version": {
       "1.16.200": "textures/entity/horse2/horse_markings_blackdots.png",
       "1.16.210": "textures/entity/horse2/horse_markings_blackdots.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/entity/horse2/horse_markings_none.png",
+      "1.16.210": "textures/entity/horse2/horse_markings_none.png"
     },
     "animated": false
   },
@@ -10361,6 +10442,15 @@
     "version": {
       "1.16.200": "textures/entity/horse2/armor/horse_armor_iron.png",
       "1.16.210": "textures/entity/horse2/armor/horse_armor_iron.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/entity/horse2/armor/horse_armor_none.png",
+      "1.16.210": "textures/entity/horse2/armor/horse_armor_none.png"
     },
     "animated": false
   },
@@ -12725,6 +12815,24 @@
     "version": {
       "1.16.200": "textures/gui/newgui/Propeller2.png",
       "1.16.210": "textures/gui/newgui/Propeller2.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/gui/newgui/Realms.png",
+      "1.16.210": "textures/gui/newgui/Realms.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/gui/newgui/RealmsArt.png",
+      "1.16.210": "textures/gui/newgui/RealmsArt.png"
     },
     "animated": false
   },
@@ -19329,6 +19437,15 @@
     "animated": false
   },
   {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/misc/missing_texture.png",
+      "1.16.210": "textures/misc/missing_texture.png"
+    },
+    "animated": false
+  },
+  {
     "c32": {
       "author": [
         "285902386701271050"
@@ -19552,6 +19669,123 @@
     "version": {
       "1.16.200": "textures/particle/soul.png",
       "1.16.210": "textures/particle/soul.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/alex_hair_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/alex_hair_thumbnail_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/alex_pants_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/alex_pants_thumbnail_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/alex_shirt_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/alex_shirt_thumbnail_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/alex_shoes_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/alex_shoes_thumbnail_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/plain_eyes_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/plain_eyes_thumbnail_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/plain_mouth_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/plain_mouth_thumbnail_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/skin_alex_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/skin_alex_thumbnail_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/skin_steve_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/skin_steve_thumbnail_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/steve_hair_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/steve_hair_thumbnail_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/steve_pants_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/steve_pants_thumbnail_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/steve_shirt_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/steve_shirt_thumbnail_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/steve_shoes_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/steve_shoes_thumbnail_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/persona_thumbnails/straight_thumbnail_0.png",
+      "1.16.210": "textures/persona_thumbnails/straight_thumbnail_0.png"
     },
     "animated": false
   },
@@ -24308,8 +24542,26 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.16.200": "textures/ui/InvalidWorldDemoScreen.png",
+      "1.16.210": "textures/ui/InvalidWorldDemoScreen.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.16.200": "textures/ui/inventory_icon.png",
       "1.16.210": "textures/ui/inventory_icon.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/inventory_warning_xbox.png",
+      "1.16.210": "textures/ui/inventory_warning_xbox.png"
     },
     "animated": false
   },
@@ -24616,6 +24868,15 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.16.200": "textures/ui/LoadingWorldDemoScreen.png",
+      "1.16.210": "textures/ui/LoadingWorldDemoScreen.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.16.200": "textures/ui/loading_bar.png",
       "1.16.210": "textures/ui/loading_bar.png"
     },
@@ -24762,6 +25023,15 @@
     "version": {
       "1.16.200": "textures/ui/mashup_world.png",
       "1.16.210": "textures/ui/mashup_world.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/massive_servers.png",
+      "1.16.210": "textures/ui/massive_servers.png"
     },
     "animated": false
   },
@@ -24983,6 +25253,24 @@
     "version": {
       "1.16.200": "textures/ui/nausea_effect.png",
       "1.16.210": "textures/ui/nausea_effect.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/NetherPortal.png",
+      "1.16.210": "textures/ui/NetherPortal.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/NetherPortalMirror.png",
+      "1.16.210": "textures/ui/NetherPortalMirror.png"
     },
     "animated": false
   },
@@ -25213,6 +25501,111 @@
     "version": {
       "1.16.200": "textures/ui/panel_outline.png",
       "1.16.210": "textures/ui/panel_outline.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {
+      "author": [
+        "285902386701271050",
+        "331073143613423616"
+      ],
+      "date": "01/01/2021"
+    },
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/panorama_0.png",
+      "1.16.210": "textures/ui/panorama_0.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {
+      "author": [
+        "285902386701271050",
+        "331073143613423616"
+      ],
+      "date": "01/01/2021"
+    },
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/panorama_1.png",
+      "1.16.210": "textures/ui/panorama_1.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {
+      "author": [
+        "285902386701271050",
+        "331073143613423616"
+      ],
+      "date": "01/01/2021"
+    },
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/panorama_2.png",
+      "1.16.210": "textures/ui/panorama_2.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {
+      "author": [
+        "285902386701271050",
+        "331073143613423616"
+      ],
+      "date": "01/01/2021"
+    },
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/panorama_3.png",
+      "1.16.210": "textures/ui/panorama_3.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {
+      "author": [
+        "285902386701271050",
+        "331073143613423616"
+      ],
+      "date": "01/01/2021"
+    },
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/panorama_4.png",
+      "1.16.210": "textures/ui/panorama_4.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {
+      "author": [
+        "285902386701271050",
+        "331073143613423616"
+      ],
+      "date": "01/01/2021"
+    },
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/panorama_5.png",
+      "1.16.210": "textures/ui/panorama_5.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {
+      "author": [
+        "285902386701271050",
+        "331073143613423616"
+      ],
+      "date": "01/01/2021"
+    },
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/panorama_overlay.png",
+      "1.16.210": "textures/ui/panorama_overlay.png"
     },
     "animated": false
   },
@@ -25526,6 +25919,15 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.16.200": "textures/ui/PlaceholderStore.png",
+      "1.16.210": "textures/ui/PlaceholderStore.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.16.200": "textures/ui/player_offline_icon.png",
       "1.16.210": "textures/ui/player_offline_icon.png"
     },
@@ -25695,6 +26097,15 @@
     "version": {
       "1.16.200": "textures/ui/postGradientSolid.png",
       "1.16.210": "textures/ui/postGradientSolid.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/profile_bg.png",
+      "1.16.210": "textures/ui/profile_bg.png"
     },
     "animated": false
   },
@@ -26278,6 +26689,33 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.16.200": "textures/ui/rating_screen.png",
+      "1.16.210": "textures/ui/rating_screen.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/RealmDemoScreen.png",
+      "1.16.210": "textures/ui/RealmDemoScreen.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/realmflagSmooth.png",
+      "1.16.210": "textures/ui/realmflagSmooth.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.16.200": "textures/ui/realmflagtriangleSmooth.png",
       "1.16.210": "textures/ui/realmflagtriangleSmooth.png"
     },
@@ -26350,8 +26788,26 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.16.200": "textures/ui/realms_art_icon.png",
+      "1.16.210": "textures/ui/realms_art_icon.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.16.200": "textures/ui/realms_green_check.png",
       "1.16.210": "textures/ui/realms_green_check.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/realms_key_art.png",
+      "1.16.210": "textures/ui/realms_key_art.png"
     },
     "animated": false
   },
@@ -26941,6 +27397,15 @@
     "version": {
       "1.16.200": "textures/ui/sale_button_borderless_lightpressedflag.png",
       "1.16.210": "textures/ui/sale_button_borderless_lightpressedflag.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/Scaffolding.png",
+      "1.16.210": "textures/ui/Scaffolding.png"
     },
     "animated": false
   },
@@ -27560,6 +28025,15 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.16.200": "textures/ui/storexblsignin.png",
+      "1.16.210": "textures/ui/storexblsignin.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.16.200": "textures/ui/store_background.png",
       "1.16.210": "textures/ui/store_background.png"
     },
@@ -27706,6 +28180,24 @@
     "version": {
       "1.16.200": "textures/ui/subscription_glyph_color.png",
       "1.16.210": "textures/ui/subscription_glyph_color.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/sunset_keyart.png",
+      "1.16.210": "textures/ui/sunset_keyart.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/sunset_pending_keyart.png",
+      "1.16.210": "textures/ui/sunset_pending_keyart.png"
     },
     "animated": false
   },
@@ -28989,6 +29481,15 @@
     "animated": false
   },
   {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/warning_alex.png",
+      "1.16.210": "textures/ui/warning_alex.png"
+    },
+    "animated": false
+  },
+  {
     "c32": {
       "author": [
         "285902386701271050"
@@ -29145,6 +29646,15 @@
     "c32": {},
     "c64": {},
     "version": {
+      "1.16.200": "textures/ui/WorldDemoScreen.png",
+      "1.16.210": "textures/ui/WorldDemoScreen.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
       "1.16.200": "textures/ui/worldsIcon.png",
       "1.16.210": "textures/ui/worldsIcon.png"
     },
@@ -29219,6 +29729,15 @@
     "version": {
       "1.16.200": "textures/ui/xbox4.png",
       "1.16.210": "textures/ui/xbox4.png"
+    },
+    "animated": false
+  },
+  {
+    "c32": {},
+    "c64": {},
+    "version": {
+      "1.16.200": "textures/ui/xboxconversionkeyart.png",
+      "1.16.210": "textures/ui/xboxconversionkeyart.png"
     },
     "animated": false
   },
