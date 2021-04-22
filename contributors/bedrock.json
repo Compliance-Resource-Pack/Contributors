@@ -10884,7 +10884,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "22/04/2021",
+      "author": [
+        "692740123627880459"
+      ]
+    },
     "c64": {},
     "version": {
       "1.16.200": "textures/entity/parrot/parrot_grey.png",
