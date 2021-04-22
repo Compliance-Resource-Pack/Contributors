@@ -13085,17 +13085,6 @@
     "animated": false
   },
   {
-    "c32": {},
-    "c64": {},
-    "version": {
-      "1.17": "minecraft/textures/block/root_vines_head.png",
-      "1.16.5": "minecraft/textures/block/root_vines_head.png"
-    },
-    "isBedrock": false,
-    "bedrock": {},
-    "animated": false
-  },
-  {
     "c32": {
       "author": [
         "407235780411523072"
