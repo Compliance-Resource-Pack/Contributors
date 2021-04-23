@@ -124,5 +124,13 @@
     ],
     "muted": false,
     "timeout": 0
+  },
+  {
+    "user": "173961749941321731",
+    "warn": [
+      "advertising"
+    ],
+    "muted": false,
+    "timeout": 0
   }
 ]
