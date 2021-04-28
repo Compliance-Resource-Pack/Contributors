@@ -133,5 +133,13 @@
     ],
     "muted": false,
     "timeout": 0
+  },
+  {
+    "user": "828363570915311678",
+    "warn": [
+      "not going to <#794137845408595978>"
+    ],
+    "muted": false,
+    "timeout": 0
   }
 ]
