@@ -99,7 +99,8 @@
   {
     "user": "729617269243773008",
     "warn": [
-      "morse spam"
+      "morse spam",
+      "starting problems by saying no one asked"
     ],
     "muted": false,
     "timeout": 0
