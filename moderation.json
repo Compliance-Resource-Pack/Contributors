@@ -100,10 +100,11 @@
     "user": "729617269243773008",
     "warn": [
       "morse spam",
-      "starting problems by saying no one asked"
+      "starting problems by saying no one asked",
+      "spam, and chatting off-topic in general"
     ],
-    "muted": false,
-    "timeout": 0
+    "muted": true,
+    "timeout": 238830
   },
   {
     "user": "781555777705345034",
@@ -138,6 +139,14 @@
     "user": "828363570915311678",
     "warn": [
       "not going to <#794137845408595978>"
+    ],
+    "muted": false,
+    "timeout": 0
+  },
+  {
+    "user": "672989591283695618",
+    "warn": [
+      "spam, and chatting off-topic in general"
     ],
     "muted": false,
     "timeout": 0
