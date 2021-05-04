@@ -103,8 +103,8 @@
       "starting problems by saying no one asked",
       "spam, and chatting off-topic in general"
     ],
-    "muted": true,
-    "timeout": 212100
+    "muted": false,
+    "timeout": 0
   },
   {
     "user": "781555777705345034",
