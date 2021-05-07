@@ -10573,7 +10573,12 @@
     "animated": false
   },
   {
-    "c32": {},
+    "c32": {
+      "date": "07/05/2021",
+      "author": [
+        "280854181747884043"
+      ]
+    },
     "c64": {},
     "version": {
       "1.16.200": "textures/entity/llama/decor/decor_green.png",
