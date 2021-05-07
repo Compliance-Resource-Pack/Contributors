@@ -150,5 +150,13 @@
     ],
     "muted": false,
     "timeout": 0
+  },
+  {
+    "user": "716560832787382273",
+    "warn": [
+      "random, potentially harmful bit.ly link"
+    ],
+    "muted": false,
+    "timeout": 0
   }
 ]
