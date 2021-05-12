@@ -41,6 +41,17 @@
 			}
 		},
 		{
+			"displayName": "Expert Creation",
+			"codeName": "expertcreation",
+			"versions": {
+				"1.16.5": ["1.4.5"]
+			},
+			"blackList": {
+				"default": [],
+				"1.16.5": []
+			}
+		},
+		{
 			"displayName": "FTB Infinity Evolved",
 			"codeName": "ftbinfinityevolved",
 			"versions": {
