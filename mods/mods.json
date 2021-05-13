@@ -4543,6 +4543,17 @@
   },
   {
     "name": {
+      "displayName": "Valhesia Structures",
+      "aliases": []
+    },
+    "versions": [
+      "1.16.5"
+    ],
+    "curse": "valhelsia-structures",
+    "orgRepo": "valhelsia_structures"
+  },
+  {
+    "name": {
       "displayName": "ValkyrieLib",
       "aliases": []
     },
