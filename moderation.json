@@ -67,7 +67,10 @@
   {
     "user": "775068179235471441",
     "timeout": 0,
-    "muted": false
+    "muted": false,
+    "warn": [
+      "Not Specified"
+    ]
   },
   {
     "user": "755468333821722654",
