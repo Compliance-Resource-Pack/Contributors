@@ -2541,6 +2541,17 @@
   },
   {
     "name": {
+      "displayName": "KubeJS (Forge)",
+      "aliases": []
+    },
+    "versions": [
+      "1.16.5"
+    ],
+    "curse": "kubejs-forge",
+    "orgRepo": "kubejs"
+  },
+  {
+    "name": {
       "displayName": "LandCore",
       "aliases": []
     },
