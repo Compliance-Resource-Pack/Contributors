@@ -197,6 +197,7 @@
       "aliases": []
     },
     "versions": [
+      "1.16.5",
       "1.12.2"
     ],
     "curse": "akashic-tome",
