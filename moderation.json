@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "user": "373928073176809485",
+    "warn": [
+      "Breaking rule 2. Please be more polite, thanks."
+    ],
+    "muted": false,
+    "timeout": 0
+  }
+]
