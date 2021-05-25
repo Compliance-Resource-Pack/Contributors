@@ -23,6 +23,17 @@
   },
   {
     "name": {
+      "displayName": "Armored Elytra",
+      "aliases": [ "AE", "ArmoredElytra" ]
+    },
+    "versions": [
+      "1.16.5"
+    ],
+    "curse": "armored-elytra",
+    "extRepo": "https://github.com/bonn2/armored-elytra"
+  },
+  {
+    "name": {
       "displayName": "AIOT Botania",
       "aliases": []
     },
