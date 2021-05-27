@@ -1397,6 +1397,28 @@
   },
   {
     "name": {
+      "displayName": "Easy Piglins",
+      "aliases": []
+    },
+    "versions": [
+      "1.16.5"
+    ],
+    "curse": "easy-piglins",
+    "orgRepo": "easy_piglins"
+  },
+  {
+    "name": {
+      "displayName": "Easy Villagers",
+      "aliases": []
+    },
+    "versions": [
+      "1.16.5"
+    ],
+    "curse": "easy-villagers",
+    "orgRepo": "easy_villagers"
+  },
+  {
+    "name": {
       "displayName": "Electro-Magic Tools",
       "aliases": []
     },
