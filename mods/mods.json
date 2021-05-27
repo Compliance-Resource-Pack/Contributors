@@ -4683,6 +4683,17 @@
   },
   {
     "name": {
+      "displayName": "Waystones",
+      "aliases": []
+    },
+    "versions": [
+      "1.16.5"
+    ],
+    "curse": "waystones",
+    "orgRepo": "waystones"
+  },
+  {
+    "name": {
       "displayName": "Wireless Crafting Terminal",
       "aliases": []
     },
