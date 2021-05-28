@@ -197,7 +197,6 @@
       "aliases": []
     },
     "versions": [
-      "1.16.5",
       "1.12.2"
     ],
     "curse": "akashic-tome",
@@ -337,20 +336,6 @@
     ],
     "curse": "architecturecraft-tridev",
     "orgRepo": "architecturecraft"
-  },
-  {
-    "name": {
-      "displayName": "Armored Elytra",
-      "aliases": [
-        "AE",
-        "ArmoredElytra"
-      ]
-    },
-    "versions": [
-      "1.16.5"
-    ],
-    "curse": "armored-elytra",
-    "extRepo": "https://github.com/bonn2/armored-elytra"
   },
   {
     "name": {
@@ -793,7 +778,6 @@
       "aliases": []
     },
     "versions": [
-      "1.16.5",
       "1.12.2",
       "1.11.2",
       "1.10.2",
@@ -1394,28 +1378,6 @@
     ],
     "curse": "easycrafting",
     "orgRepo": "easycrafting"
-  },
-  {
-    "name": {
-      "displayName": "Easy Piglins",
-      "aliases": []
-    },
-    "versions": [
-      "1.16.5"
-    ],
-    "curse": "easy-piglins",
-    "orgRepo": "easy_piglins"
-  },
-  {
-    "name": {
-      "displayName": "Easy Villagers",
-      "aliases": []
-    },
-    "versions": [
-      "1.16.5"
-    ],
-    "curse": "easy-villagers",
-    "orgRepo": "easy_villagers"
   },
   {
     "name": {
@@ -2272,7 +2234,6 @@
       "aliases": []
     },
     "versions": [
-      "1.16.5",
       "1.12.2",
       "1.11.2",
       "1.10.2",
@@ -2574,17 +2535,6 @@
     ],
     "curse": "karat-garden",
     "orgRepo": "karatgarden"
-  },
-  {
-    "name": {
-      "displayName": "KubeJS (Forge)",
-      "aliases": []
-    },
-    "versions": [
-      "1.16.5"
-    ],
-    "curse": "kubejs-forge",
-    "orgRepo": "kubejs"
   },
   {
     "name": {
@@ -4592,17 +4542,6 @@
   },
   {
     "name": {
-      "displayName": "Valhesia Structures",
-      "aliases": []
-    },
-    "versions": [
-      "1.16.5"
-    ],
-    "curse": "valhelsia-structures",
-    "orgRepo": "valhelsia_structures"
-  },
-  {
-    "name": {
       "displayName": "ValkyrieLib",
       "aliases": []
     },
@@ -4702,17 +4641,6 @@
     ],
     "curse": "warp-theory",
     "orgRepo": "warptheory"
-  },
-  {
-    "name": {
-      "displayName": "Waystones",
-      "aliases": []
-    },
-    "versions": [
-      "1.16.5"
-    ],
-    "curse": "waystones",
-    "orgRepo": "waystones"
   },
   {
     "name": {
