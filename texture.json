@@ -7951,90 +7951,6 @@
     "name": "forcefield_atlas",
     "id": "1987"
   },
-  "1988": {
-    "name": "acacia_trapdoor",
-    "id": "1988"
-  },
-  "1989": {
-    "name": "ancient_debris_side",
-    "id": "1989"
-  },
-  "1990": {
-    "name": "ancient_debris_top",
-    "id": "1990"
-  },
-  "1991": {
-    "name": "anvil_base",
-    "id": "1991"
-  },
-  "1992": {
-    "name": "anvil_top_damaged_0",
-    "id": "1992"
-  },
-  "1993": {
-    "name": "anvil_top_damaged_1",
-    "id": "1993"
-  },
-  "1994": {
-    "name": "anvil_top_damaged_2",
-    "id": "1994"
-  },
-  "1995": {
-    "name": "bamboo_leaf",
-    "id": "1995"
-  },
-  "1996": {
-    "name": "bamboo_sapling",
-    "id": "1996"
-  },
-  "1997": {
-    "name": "bamboo_singleleaf",
-    "id": "1997"
-  },
-  "1998": {
-    "name": "bamboo_small_leaf",
-    "id": "1998"
-  },
-  "1999": {
-    "name": "bamboo_stem",
-    "id": "1999"
-  },
-  "2000": {
-    "name": "barrel_bottom",
-    "id": "2000"
-  },
-  "2001": {
-    "name": "barrel_side",
-    "id": "2001"
-  },
-  "2002": {
-    "name": "barrel_top",
-    "id": "2002"
-  },
-  "2003": {
-    "name": "barrel_top_open",
-    "id": "2003"
-  },
-  "2004": {
-    "name": "barrier",
-    "id": "2004"
-  },
-  "2005": {
-    "name": "basalt_side",
-    "id": "2005"
-  },
-  "2006": {
-    "name": "basalt_top",
-    "id": "2006"
-  },
-  "2007": {
-    "name": "beacon",
-    "id": "2007"
-  },
-  "2008": {
-    "name": "bedrock",
-    "id": "2008"
-  },
   "2009": {
     "name": "bed_feet_end",
     "id": "2009"
@@ -8059,129 +7975,17 @@
     "name": "bed_head_top",
     "id": "2014"
   },
-  "2015": {
-    "name": "beehive_front",
-    "id": "2015"
-  },
-  "2016": {
-    "name": "beehive_front_honey",
-    "id": "2016"
-  },
-  "2017": {
-    "name": "beehive_side",
-    "id": "2017"
-  },
   "2018": {
     "name": "beehive_top",
     "id": "2018"
-  },
-  "2019": {
-    "name": "beetroots_stage_0",
-    "id": "2019"
-  },
-  "2020": {
-    "name": "beetroots_stage_1",
-    "id": "2020"
-  },
-  "2021": {
-    "name": "beetroots_stage_2",
-    "id": "2021"
-  },
-  "2022": {
-    "name": "beetroots_stage_3",
-    "id": "2022"
   },
   "2023": {
     "name": "bee_nest_bottom",
     "id": "2023"
   },
-  "2024": {
-    "name": "bee_nest_front",
-    "id": "2024"
-  },
-  "2025": {
-    "name": "bee_nest_front_honey",
-    "id": "2025"
-  },
-  "2026": {
-    "name": "bee_nest_side",
-    "id": "2026"
-  },
-  "2027": {
-    "name": "bee_nest_top",
-    "id": "2027"
-  },
-  "2028": {
-    "name": "bell_bottom",
-    "id": "2028"
-  },
-  "2029": {
-    "name": "bell_side",
-    "id": "2029"
-  },
-  "2030": {
-    "name": "bell_top",
-    "id": "2030"
-  },
-  "2031": {
-    "name": "birch_trapdoor",
-    "id": "2031"
-  },
-  "2032": {
-    "name": "blackstone",
-    "id": "2032"
-  },
-  "2033": {
-    "name": "blackstone_top",
-    "id": "2033"
-  },
-  "2034": {
-    "name": "blast_furnace_front_off",
-    "id": "2034"
-  },
-  "2035": {
-    "name": "blast_furnace_front_on",
-    "id": "2035"
-  },
-  "2036": {
-    "name": "blast_furnace_side",
-    "id": "2036"
-  },
-  "2037": {
-    "name": "blast_furnace_top",
-    "id": "2037"
-  },
-  "2038": {
-    "name": "blue_ice",
-    "id": "2038"
-  },
-  "2039": {
-    "name": "bone_block_side",
-    "id": "2039"
-  },
-  "2040": {
-    "name": "bone_block_top",
-    "id": "2040"
-  },
-  "2041": {
-    "name": "bookshelf",
-    "id": "2041"
-  },
   "2042": {
     "name": "border",
     "id": "2042"
-  },
-  "2043": {
-    "name": "brewing_stand",
-    "id": "2043"
-  },
-  "2044": {
-    "name": "brewing_stand_base",
-    "id": "2044"
-  },
-  "2045": {
-    "name": "brick",
-    "id": "2045"
   },
   "2046": {
     "name": "bubble_column_down_top_a",
@@ -8263,22 +8067,6 @@
     "name": "build_deny",
     "id": "2065"
   },
-  "2066": {
-    "name": "cake_bottom",
-    "id": "2066"
-  },
-  "2067": {
-    "name": "cake_inner",
-    "id": "2067"
-  },
-  "2068": {
-    "name": "cake_side",
-    "id": "2068"
-  },
-  "2069": {
-    "name": "cake_top",
-    "id": "2069"
-  },
   "2070": {
     "name": "camera_back",
     "id": "2070"
@@ -8295,69 +8083,9 @@
     "name": "camera_top",
     "id": "2073"
   },
-  "2074": {
-    "name": "campfire",
-    "id": "2074"
-  },
-  "2075": {
-    "name": "campfire_log",
-    "id": "2075"
-  },
-  "2076": {
-    "name": "campfire_log_lit",
-    "id": "2076"
-  },
   "2077": {
     "name": "carried_waterlily",
     "id": "2077"
-  },
-  "2078": {
-    "name": "carrots_stage_0",
-    "id": "2078"
-  },
-  "2079": {
-    "name": "carrots_stage_1",
-    "id": "2079"
-  },
-  "2080": {
-    "name": "carrots_stage_2",
-    "id": "2080"
-  },
-  "2081": {
-    "name": "carrots_stage_3",
-    "id": "2081"
-  },
-  "2082": {
-    "name": "cartography_table_side1",
-    "id": "2082"
-  },
-  "2083": {
-    "name": "cartography_table_side2",
-    "id": "2083"
-  },
-  "2084": {
-    "name": "cartography_table_side3",
-    "id": "2084"
-  },
-  "2085": {
-    "name": "cartography_table_top",
-    "id": "2085"
-  },
-  "2086": {
-    "name": "cauldron_bottom",
-    "id": "2086"
-  },
-  "2087": {
-    "name": "cauldron_inner",
-    "id": "2087"
-  },
-  "2088": {
-    "name": "cauldron_side",
-    "id": "2088"
-  },
-  "2089": {
-    "name": "cauldron_top",
-    "id": "2089"
   },
   "2090": {
     "name": "cauldron_water",
@@ -8375,33 +8103,17 @@
     "name": "chain2",
     "id": "2093"
   },
-  "2094": {
-    "name": "chain_command_block_back",
-    "id": "2094"
-  },
   "2095": {
     "name": "chain_command_block_back_mipmap",
     "id": "2095"
-  },
-  "2096": {
-    "name": "chain_command_block_conditional",
-    "id": "2096"
   },
   "2097": {
     "name": "chain_command_block_conditional_mipmap",
     "id": "2097"
   },
-  "2098": {
-    "name": "chain_command_block_front",
-    "id": "2098"
-  },
   "2099": {
     "name": "chain_command_block_front_mipmap",
     "id": "2099"
-  },
-  "2100": {
-    "name": "chain_command_block_side",
-    "id": "2100"
   },
   "2101": {
     "name": "chain_command_block_side_mipmap",
@@ -8419,253 +8131,25 @@
     "name": "chest_top",
     "id": "2104"
   },
-  "2105": {
-    "name": "chiseled_nether_bricks",
-    "id": "2105"
-  },
-  "2106": {
-    "name": "chiseled_polished_blackstone",
-    "id": "2106"
-  },
-  "2107": {
-    "name": "chorus_flower",
-    "id": "2107"
-  },
-  "2108": {
-    "name": "chorus_flower_dead",
-    "id": "2108"
-  },
-  "2109": {
-    "name": "chorus_plant",
-    "id": "2109"
-  },
-  "2110": {
-    "name": "clay",
-    "id": "2110"
-  },
-  "2111": {
-    "name": "coal_block",
-    "id": "2111"
-  },
-  "2112": {
-    "name": "coal_ore",
-    "id": "2112"
-  },
-  "2113": {
-    "name": "coarse_dirt",
-    "id": "2113"
-  },
-  "2114": {
-    "name": "cobblestone",
-    "id": "2114"
-  },
-  "2115": {
-    "name": "cobblestone_mossy",
-    "id": "2115"
-  },
-  "2116": {
-    "name": "cocoa_stage_0",
-    "id": "2116"
-  },
-  "2117": {
-    "name": "cocoa_stage_1",
-    "id": "2117"
-  },
-  "2118": {
-    "name": "cocoa_stage_2",
-    "id": "2118"
-  },
   "2119": {
     "name": "command_block",
     "id": "2119"
-  },
-  "2120": {
-    "name": "command_block_back",
-    "id": "2120"
   },
   "2121": {
     "name": "command_block_back_mipmap",
     "id": "2121"
   },
-  "2122": {
-    "name": "command_block_conditional",
-    "id": "2122"
-  },
   "2123": {
     "name": "command_block_conditional_mipmap",
     "id": "2123"
-  },
-  "2124": {
-    "name": "command_block_front",
-    "id": "2124"
   },
   "2125": {
     "name": "command_block_front_mipmap",
     "id": "2125"
   },
-  "2126": {
-    "name": "command_block_side",
-    "id": "2126"
-  },
   "2127": {
     "name": "command_block_side_mipmap",
     "id": "2127"
-  },
-  "2128": {
-    "name": "comparator_off",
-    "id": "2128"
-  },
-  "2129": {
-    "name": "comparator_on",
-    "id": "2129"
-  },
-  "2130": {
-    "name": "compost",
-    "id": "2130"
-  },
-  "2131": {
-    "name": "composter_bottom",
-    "id": "2131"
-  },
-  "2132": {
-    "name": "composter_side",
-    "id": "2132"
-  },
-  "2133": {
-    "name": "composter_top",
-    "id": "2133"
-  },
-  "2134": {
-    "name": "compost_ready",
-    "id": "2134"
-  },
-  "2135": {
-    "name": "concrete_black",
-    "id": "2135"
-  },
-  "2136": {
-    "name": "concrete_blue",
-    "id": "2136"
-  },
-  "2137": {
-    "name": "concrete_brown",
-    "id": "2137"
-  },
-  "2138": {
-    "name": "concrete_cyan",
-    "id": "2138"
-  },
-  "2139": {
-    "name": "concrete_gray",
-    "id": "2139"
-  },
-  "2140": {
-    "name": "concrete_green",
-    "id": "2140"
-  },
-  "2141": {
-    "name": "concrete_light_blue",
-    "id": "2141"
-  },
-  "2142": {
-    "name": "concrete_lime",
-    "id": "2142"
-  },
-  "2143": {
-    "name": "concrete_magenta",
-    "id": "2143"
-  },
-  "2144": {
-    "name": "concrete_orange",
-    "id": "2144"
-  },
-  "2145": {
-    "name": "concrete_pink",
-    "id": "2145"
-  },
-  "2146": {
-    "name": "concrete_powder_black",
-    "id": "2146"
-  },
-  "2147": {
-    "name": "concrete_powder_blue",
-    "id": "2147"
-  },
-  "2148": {
-    "name": "concrete_powder_brown",
-    "id": "2148"
-  },
-  "2149": {
-    "name": "concrete_powder_cyan",
-    "id": "2149"
-  },
-  "2150": {
-    "name": "concrete_powder_gray",
-    "id": "2150"
-  },
-  "2151": {
-    "name": "concrete_powder_green",
-    "id": "2151"
-  },
-  "2152": {
-    "name": "concrete_powder_light_blue",
-    "id": "2152"
-  },
-  "2153": {
-    "name": "concrete_powder_lime",
-    "id": "2153"
-  },
-  "2154": {
-    "name": "concrete_powder_magenta",
-    "id": "2154"
-  },
-  "2155": {
-    "name": "concrete_powder_orange",
-    "id": "2155"
-  },
-  "2156": {
-    "name": "concrete_powder_pink",
-    "id": "2156"
-  },
-  "2157": {
-    "name": "concrete_powder_purple",
-    "id": "2157"
-  },
-  "2158": {
-    "name": "concrete_powder_red",
-    "id": "2158"
-  },
-  "2159": {
-    "name": "concrete_powder_silver",
-    "id": "2159"
-  },
-  "2160": {
-    "name": "concrete_powder_white",
-    "id": "2160"
-  },
-  "2161": {
-    "name": "concrete_powder_yellow",
-    "id": "2161"
-  },
-  "2162": {
-    "name": "concrete_purple",
-    "id": "2162"
-  },
-  "2163": {
-    "name": "concrete_red",
-    "id": "2163"
-  },
-  "2164": {
-    "name": "concrete_silver",
-    "id": "2164"
-  },
-  "2165": {
-    "name": "concrete_white",
-    "id": "2165"
-  },
-  "2166": {
-    "name": "concrete_yellow",
-    "id": "2166"
   },
   "2167": {
     "name": "conduit_base",
@@ -8691,273 +8175,17 @@
     "name": "conduit_wind_vertical",
     "id": "2172"
   },
-  "2173": {
-    "name": "coral_blue",
-    "id": "2173"
-  },
-  "2174": {
-    "name": "coral_blue_dead",
-    "id": "2174"
-  },
-  "2175": {
-    "name": "coral_fan_blue",
-    "id": "2175"
-  },
-  "2176": {
-    "name": "coral_fan_blue_dead",
-    "id": "2176"
-  },
   "2177": {
     "name": "coral_fan_pink",
     "id": "2177"
-  },
-  "2178": {
-    "name": "coral_fan_pink_dead",
-    "id": "2178"
-  },
-  "2179": {
-    "name": "coral_fan_purple",
-    "id": "2179"
-  },
-  "2180": {
-    "name": "coral_fan_purple_dead",
-    "id": "2180"
-  },
-  "2181": {
-    "name": "coral_fan_red",
-    "id": "2181"
-  },
-  "2182": {
-    "name": "coral_fan_red_dead",
-    "id": "2182"
-  },
-  "2183": {
-    "name": "coral_fan_yellow",
-    "id": "2183"
-  },
-  "2184": {
-    "name": "coral_fan_yellow_dead",
-    "id": "2184"
-  },
-  "2185": {
-    "name": "coral_pink",
-    "id": "2185"
-  },
-  "2186": {
-    "name": "coral_pink_dead",
-    "id": "2186"
-  },
-  "2187": {
-    "name": "coral_plant_blue",
-    "id": "2187"
-  },
-  "2188": {
-    "name": "coral_plant_blue_dead",
-    "id": "2188"
-  },
-  "2189": {
-    "name": "coral_plant_pink",
-    "id": "2189"
-  },
-  "2190": {
-    "name": "coral_plant_pink_dead",
-    "id": "2190"
   },
   "2191": {
     "name": "coral_plant_purple",
     "id": "2191"
   },
-  "2192": {
-    "name": "coral_plant_purple_dead",
-    "id": "2192"
-  },
-  "2193": {
-    "name": "coral_plant_red",
-    "id": "2193"
-  },
-  "2194": {
-    "name": "coral_plant_red_dead",
-    "id": "2194"
-  },
-  "2195": {
-    "name": "coral_plant_yellow",
-    "id": "2195"
-  },
-  "2196": {
-    "name": "coral_plant_yellow_dead",
-    "id": "2196"
-  },
-  "2197": {
-    "name": "coral_purple",
-    "id": "2197"
-  },
   "2198": {
     "name": "coral_purple_dead",
     "id": "2198"
-  },
-  "2199": {
-    "name": "coral_red",
-    "id": "2199"
-  },
-  "2200": {
-    "name": "coral_red_dead",
-    "id": "2200"
-  },
-  "2201": {
-    "name": "coral_yellow",
-    "id": "2201"
-  },
-  "2202": {
-    "name": "coral_yellow_dead",
-    "id": "2202"
-  },
-  "2203": {
-    "name": "cracked_nether_bricks",
-    "id": "2203"
-  },
-  "2204": {
-    "name": "cracked_polished_blackstone_bricks",
-    "id": "2204"
-  },
-  "2205": {
-    "name": "crafting_table_front",
-    "id": "2205"
-  },
-  "2206": {
-    "name": "crafting_table_side",
-    "id": "2206"
-  },
-  "2207": {
-    "name": "crafting_table_top",
-    "id": "2207"
-  },
-  "2208": {
-    "name": "crimson_fungus",
-    "id": "2208"
-  },
-  "2209": {
-    "name": "crimson_nylium_side",
-    "id": "2209"
-  },
-  "2210": {
-    "name": "crimson_nylium_top",
-    "id": "2210"
-  },
-  "2211": {
-    "name": "crimson_roots",
-    "id": "2211"
-  },
-  "2212": {
-    "name": "crimson_roots_pot",
-    "id": "2212"
-  },
-  "2213": {
-    "name": "crying_obsidian",
-    "id": "2213"
-  },
-  "2214": {
-    "name": "dark_oak_trapdoor",
-    "id": "2214"
-  },
-  "2215": {
-    "name": "daylight_detector_inverted_top",
-    "id": "2215"
-  },
-  "2216": {
-    "name": "daylight_detector_side",
-    "id": "2216"
-  },
-  "2217": {
-    "name": "daylight_detector_top",
-    "id": "2217"
-  },
-  "2218": {
-    "name": "deadbush",
-    "id": "2218"
-  },
-  "2219": {
-    "name": "diamond_block",
-    "id": "2219"
-  },
-  "2220": {
-    "name": "diamond_ore",
-    "id": "2220"
-  },
-  "2221": {
-    "name": "dirt",
-    "id": "2221"
-  },
-  "2222": {
-    "name": "dirt_podzol_side",
-    "id": "2222"
-  },
-  "2223": {
-    "name": "dirt_podzol_top",
-    "id": "2223"
-  },
-  "2224": {
-    "name": "dispenser_front_horizontal",
-    "id": "2224"
-  },
-  "2225": {
-    "name": "dispenser_front_vertical",
-    "id": "2225"
-  },
-  "2226": {
-    "name": "door_acacia_lower",
-    "id": "2226"
-  },
-  "2227": {
-    "name": "door_acacia_upper",
-    "id": "2227"
-  },
-  "2228": {
-    "name": "door_birch_lower",
-    "id": "2228"
-  },
-  "2229": {
-    "name": "door_birch_upper",
-    "id": "2229"
-  },
-  "2230": {
-    "name": "door_dark_oak_lower",
-    "id": "2230"
-  },
-  "2231": {
-    "name": "door_dark_oak_upper",
-    "id": "2231"
-  },
-  "2232": {
-    "name": "door_iron_lower",
-    "id": "2232"
-  },
-  "2233": {
-    "name": "door_iron_upper",
-    "id": "2233"
-  },
-  "2234": {
-    "name": "door_jungle_lower",
-    "id": "2234"
-  },
-  "2235": {
-    "name": "door_jungle_upper",
-    "id": "2235"
-  },
-  "2236": {
-    "name": "door_spruce_lower",
-    "id": "2236"
-  },
-  "2237": {
-    "name": "door_spruce_upper",
-    "id": "2237"
-  },
-  "2238": {
-    "name": "door_wood_lower",
-    "id": "2238"
-  },
-  "2239": {
-    "name": "door_wood_upper",
-    "id": "2239"
   },
   "2240": {
     "name": "double_plant_fern_carried",
@@ -8967,81 +8195,9 @@
     "name": "double_plant_grass_carried",
     "id": "2241"
   },
-  "2242": {
-    "name": "double_plant_paeonia_bottom",
-    "id": "2242"
-  },
-  "2243": {
-    "name": "double_plant_paeonia_top",
-    "id": "2243"
-  },
-  "2244": {
-    "name": "double_plant_rose_bottom",
-    "id": "2244"
-  },
-  "2245": {
-    "name": "double_plant_rose_top",
-    "id": "2245"
-  },
-  "2246": {
-    "name": "double_plant_sunflower_back",
-    "id": "2246"
-  },
   "2247": {
     "name": "double_plant_sunflower_bottom",
     "id": "2247"
-  },
-  "2248": {
-    "name": "double_plant_sunflower_front",
-    "id": "2248"
-  },
-  "2249": {
-    "name": "double_plant_sunflower_top",
-    "id": "2249"
-  },
-  "2250": {
-    "name": "dragon_egg",
-    "id": "2250"
-  },
-  "2251": {
-    "name": "dried_kelp_side_a",
-    "id": "2251"
-  },
-  "2252": {
-    "name": "dried_kelp_side_b",
-    "id": "2252"
-  },
-  "2253": {
-    "name": "dried_kelp_top",
-    "id": "2253"
-  },
-  "2254": {
-    "name": "dropper_front_horizontal",
-    "id": "2254"
-  },
-  "2255": {
-    "name": "dropper_front_vertical",
-    "id": "2255"
-  },
-  "2256": {
-    "name": "emerald_block",
-    "id": "2256"
-  },
-  "2257": {
-    "name": "emerald_ore",
-    "id": "2257"
-  },
-  "2258": {
-    "name": "enchanting_table_bottom",
-    "id": "2258"
-  },
-  "2259": {
-    "name": "enchanting_table_side",
-    "id": "2259"
-  },
-  "2260": {
-    "name": "enchanting_table_top",
-    "id": "2260"
   },
   "2261": {
     "name": "ender_chest_front",
@@ -9055,22 +8211,6 @@
     "name": "ender_chest_top",
     "id": "2263"
   },
-  "2264": {
-    "name": "endframe_eye",
-    "id": "2264"
-  },
-  "2265": {
-    "name": "endframe_side",
-    "id": "2265"
-  },
-  "2266": {
-    "name": "endframe_top",
-    "id": "2266"
-  },
-  "2267": {
-    "name": "end_bricks",
-    "id": "2267"
-  },
   "2268": {
     "name": "end_gateway",
     "id": "2268"
@@ -9079,193 +8219,21 @@
     "name": "end_portal",
     "id": "2269"
   },
-  "2270": {
-    "name": "end_rod",
-    "id": "2270"
-  },
-  "2271": {
-    "name": "end_stone",
-    "id": "2271"
-  },
-  "2272": {
-    "name": "farmland_dry",
-    "id": "2272"
-  },
-  "2273": {
-    "name": "farmland_wet",
-    "id": "2273"
-  },
-  "2274": {
-    "name": "fire_0",
-    "id": "2274"
-  },
   "2275": {
     "name": "fire_0_placeholder",
     "id": "2275"
-  },
-  "2276": {
-    "name": "fire_1",
-    "id": "2276"
   },
   "2277": {
     "name": "fire_1_placeholder",
     "id": "2277"
   },
-  "2278": {
-    "name": "fletcher_table_side1",
-    "id": "2278"
-  },
-  "2279": {
-    "name": "fletcher_table_side2",
-    "id": "2279"
-  },
-  "2280": {
-    "name": "fletcher_table_top",
-    "id": "2280"
-  },
-  "2281": {
-    "name": "flower_allium",
-    "id": "2281"
-  },
-  "2282": {
-    "name": "flower_blue_orchid",
-    "id": "2282"
-  },
-  "2283": {
-    "name": "flower_cornflower",
-    "id": "2283"
-  },
-  "2284": {
-    "name": "flower_dandelion",
-    "id": "2284"
-  },
-  "2285": {
-    "name": "flower_houstonia",
-    "id": "2285"
-  },
-  "2286": {
-    "name": "flower_lily_of_the_valley",
-    "id": "2286"
-  },
-  "2287": {
-    "name": "flower_oxeye_daisy",
-    "id": "2287"
-  },
   "2288": {
     "name": "flower_paeonia",
     "id": "2288"
   },
-  "2289": {
-    "name": "flower_pot",
-    "id": "2289"
-  },
-  "2290": {
-    "name": "flower_rose",
-    "id": "2290"
-  },
   "2291": {
     "name": "flower_rose_blue",
     "id": "2291"
-  },
-  "2292": {
-    "name": "flower_tulip_orange",
-    "id": "2292"
-  },
-  "2293": {
-    "name": "flower_tulip_pink",
-    "id": "2293"
-  },
-  "2294": {
-    "name": "flower_tulip_red",
-    "id": "2294"
-  },
-  "2295": {
-    "name": "flower_tulip_white",
-    "id": "2295"
-  },
-  "2296": {
-    "name": "flower_wither_rose",
-    "id": "2296"
-  },
-  "2297": {
-    "name": "frosted_ice_0",
-    "id": "2297"
-  },
-  "2298": {
-    "name": "frosted_ice_1",
-    "id": "2298"
-  },
-  "2299": {
-    "name": "frosted_ice_2",
-    "id": "2299"
-  },
-  "2300": {
-    "name": "frosted_ice_3",
-    "id": "2300"
-  },
-  "2301": {
-    "name": "furnace_front_off",
-    "id": "2301"
-  },
-  "2302": {
-    "name": "furnace_front_on",
-    "id": "2302"
-  },
-  "2303": {
-    "name": "furnace_side",
-    "id": "2303"
-  },
-  "2304": {
-    "name": "furnace_top",
-    "id": "2304"
-  },
-  "2305": {
-    "name": "gilded_blackstone",
-    "id": "2305"
-  },
-  "2306": {
-    "name": "glass",
-    "id": "2306"
-  },
-  "2307": {
-    "name": "glass_black",
-    "id": "2307"
-  },
-  "2308": {
-    "name": "glass_blue",
-    "id": "2308"
-  },
-  "2309": {
-    "name": "glass_brown",
-    "id": "2309"
-  },
-  "2310": {
-    "name": "glass_cyan",
-    "id": "2310"
-  },
-  "2311": {
-    "name": "glass_gray",
-    "id": "2311"
-  },
-  "2312": {
-    "name": "glass_green",
-    "id": "2312"
-  },
-  "2313": {
-    "name": "glass_light_blue",
-    "id": "2313"
-  },
-  "2314": {
-    "name": "glass_lime",
-    "id": "2314"
-  },
-  "2315": {
-    "name": "glass_magenta",
-    "id": "2315"
-  },
-  "2316": {
-    "name": "glass_orange",
-    "id": "2316"
   },
   "2317": {
     "name": "glass_pane_top",
@@ -9335,325 +8303,17 @@
     "name": "glass_pane_top_yellow",
     "id": "2333"
   },
-  "2334": {
-    "name": "glass_pink",
-    "id": "2334"
-  },
-  "2335": {
-    "name": "glass_purple",
-    "id": "2335"
-  },
-  "2336": {
-    "name": "glass_red",
-    "id": "2336"
-  },
-  "2337": {
-    "name": "glass_silver",
-    "id": "2337"
-  },
-  "2338": {
-    "name": "glass_white",
-    "id": "2338"
-  },
-  "2339": {
-    "name": "glass_yellow",
-    "id": "2339"
-  },
-  "2340": {
-    "name": "glazed_terracotta_black",
-    "id": "2340"
-  },
-  "2341": {
-    "name": "glazed_terracotta_blue",
-    "id": "2341"
-  },
-  "2342": {
-    "name": "glazed_terracotta_brown",
-    "id": "2342"
-  },
-  "2343": {
-    "name": "glazed_terracotta_cyan",
-    "id": "2343"
-  },
-  "2344": {
-    "name": "glazed_terracotta_gray",
-    "id": "2344"
-  },
-  "2345": {
-    "name": "glazed_terracotta_green",
-    "id": "2345"
-  },
-  "2346": {
-    "name": "glazed_terracotta_light_blue",
-    "id": "2346"
-  },
-  "2347": {
-    "name": "glazed_terracotta_lime",
-    "id": "2347"
-  },
-  "2348": {
-    "name": "glazed_terracotta_magenta",
-    "id": "2348"
-  },
-  "2349": {
-    "name": "glazed_terracotta_orange",
-    "id": "2349"
-  },
-  "2350": {
-    "name": "glazed_terracotta_pink",
-    "id": "2350"
-  },
-  "2351": {
-    "name": "glazed_terracotta_purple",
-    "id": "2351"
-  },
-  "2352": {
-    "name": "glazed_terracotta_red",
-    "id": "2352"
-  },
-  "2353": {
-    "name": "glazed_terracotta_silver",
-    "id": "2353"
-  },
-  "2354": {
-    "name": "glazed_terracotta_white",
-    "id": "2354"
-  },
-  "2355": {
-    "name": "glazed_terracotta_yellow",
-    "id": "2355"
-  },
   "2356": {
     "name": "glowing_obsidian",
     "id": "2356"
-  },
-  "2357": {
-    "name": "glowstone",
-    "id": "2357"
-  },
-  "2358": {
-    "name": "gold_block",
-    "id": "2358"
-  },
-  "2359": {
-    "name": "gold_ore",
-    "id": "2359"
   },
   "2360": {
     "name": "grass_carried",
     "id": "2360"
   },
-  "2361": {
-    "name": "grass_path_side",
-    "id": "2361"
-  },
-  "2362": {
-    "name": "grass_path_top",
-    "id": "2362"
-  },
-  "2363": {
-    "name": "grass_side_carried",
-    "id": "2363"
-  },
-  "2364": {
-    "name": "grass_side_snowed",
-    "id": "2364"
-  },
-  "2365": {
-    "name": "grass_top",
-    "id": "2365"
-  },
-  "2366": {
-    "name": "gravel",
-    "id": "2366"
-  },
-  "2367": {
-    "name": "hardened_clay",
-    "id": "2367"
-  },
-  "2368": {
-    "name": "hardened_clay_stained_black",
-    "id": "2368"
-  },
-  "2369": {
-    "name": "hardened_clay_stained_blue",
-    "id": "2369"
-  },
-  "2370": {
-    "name": "hardened_clay_stained_brown",
-    "id": "2370"
-  },
-  "2371": {
-    "name": "hardened_clay_stained_cyan",
-    "id": "2371"
-  },
-  "2372": {
-    "name": "hardened_clay_stained_gray",
-    "id": "2372"
-  },
-  "2373": {
-    "name": "hardened_clay_stained_green",
-    "id": "2373"
-  },
-  "2374": {
-    "name": "hardened_clay_stained_light_blue",
-    "id": "2374"
-  },
-  "2375": {
-    "name": "hardened_clay_stained_lime",
-    "id": "2375"
-  },
-  "2376": {
-    "name": "hardened_clay_stained_magenta",
-    "id": "2376"
-  },
-  "2377": {
-    "name": "hardened_clay_stained_orange",
-    "id": "2377"
-  },
-  "2378": {
-    "name": "hardened_clay_stained_pink",
-    "id": "2378"
-  },
-  "2379": {
-    "name": "hardened_clay_stained_purple",
-    "id": "2379"
-  },
-  "2380": {
-    "name": "hardened_clay_stained_red",
-    "id": "2380"
-  },
-  "2381": {
-    "name": "hardened_clay_stained_silver",
-    "id": "2381"
-  },
-  "2382": {
-    "name": "hardened_clay_stained_white",
-    "id": "2382"
-  },
-  "2383": {
-    "name": "hardened_clay_stained_yellow",
-    "id": "2383"
-  },
-  "2384": {
-    "name": "hay_block_side",
-    "id": "2384"
-  },
-  "2385": {
-    "name": "hay_block_top",
-    "id": "2385"
-  },
-  "2386": {
-    "name": "honeycomb",
-    "id": "2386"
-  },
-  "2387": {
-    "name": "honey_bottom",
-    "id": "2387"
-  },
-  "2388": {
-    "name": "honey_side",
-    "id": "2388"
-  },
-  "2389": {
-    "name": "honey_top",
-    "id": "2389"
-  },
-  "2390": {
-    "name": "hopper_inside",
-    "id": "2390"
-  },
-  "2391": {
-    "name": "hopper_outside",
-    "id": "2391"
-  },
-  "2392": {
-    "name": "hopper_top",
-    "id": "2392"
-  },
-  "2393": {
-    "name": "ice",
-    "id": "2393"
-  },
-  "2394": {
-    "name": "ice_packed",
-    "id": "2394"
-  },
-  "2395": {
-    "name": "iron_bars",
-    "id": "2395"
-  },
-  "2396": {
-    "name": "iron_block",
-    "id": "2396"
-  },
-  "2397": {
-    "name": "iron_ore",
-    "id": "2397"
-  },
-  "2398": {
-    "name": "iron_trapdoor",
-    "id": "2398"
-  },
-  "2399": {
-    "name": "itemframe_background",
-    "id": "2399"
-  },
-  "2400": {
-    "name": "jigsaw_back",
-    "id": "2400"
-  },
-  "2401": {
-    "name": "jigsaw_front",
-    "id": "2401"
-  },
-  "2402": {
-    "name": "jigsaw_lock",
-    "id": "2402"
-  },
-  "2403": {
-    "name": "jigsaw_side",
-    "id": "2403"
-  },
-  "2404": {
-    "name": "jukebox_side",
-    "id": "2404"
-  },
-  "2405": {
-    "name": "jukebox_top",
-    "id": "2405"
-  },
-  "2406": {
-    "name": "jungle_trapdoor",
-    "id": "2406"
-  },
-  "2407": {
-    "name": "ladder",
-    "id": "2407"
-  },
-  "2408": {
-    "name": "lantern",
-    "id": "2408"
-  },
-  "2409": {
-    "name": "lapis_block",
-    "id": "2409"
-  },
-  "2410": {
-    "name": "lapis_ore",
-    "id": "2410"
-  },
-  "2411": {
-    "name": "lava_flow",
-    "id": "2411"
-  },
   "2412": {
     "name": "lava_placeholder",
     "id": "2412"
-  },
-  "2413": {
-    "name": "lava_still",
-    "id": "2413"
   },
   "2414": {
     "name": "leaves_acacia_opaque",
@@ -9679,421 +8339,17 @@
     "name": "leaves_spruce_opaque",
     "id": "2419"
   },
-  "2420": {
-    "name": "lectern_base",
-    "id": "2420"
-  },
-  "2421": {
-    "name": "lectern_front",
-    "id": "2421"
-  },
-  "2422": {
-    "name": "lectern_sides",
-    "id": "2422"
-  },
-  "2423": {
-    "name": "lectern_top",
-    "id": "2423"
-  },
-  "2424": {
-    "name": "lever",
-    "id": "2424"
-  },
-  "2425": {
-    "name": "lodestone_side",
-    "id": "2425"
-  },
-  "2426": {
-    "name": "lodestone_top",
-    "id": "2426"
-  },
-  "2427": {
-    "name": "log_acacia",
-    "id": "2427"
-  },
-  "2428": {
-    "name": "log_acacia_top",
-    "id": "2428"
-  },
-  "2429": {
-    "name": "log_big_oak",
-    "id": "2429"
-  },
-  "2430": {
-    "name": "log_big_oak_top",
-    "id": "2430"
-  },
-  "2431": {
-    "name": "log_birch",
-    "id": "2431"
-  },
-  "2432": {
-    "name": "log_birch_top",
-    "id": "2432"
-  },
-  "2433": {
-    "name": "log_jungle",
-    "id": "2433"
-  },
-  "2434": {
-    "name": "log_jungle_top",
-    "id": "2434"
-  },
-  "2435": {
-    "name": "log_oak",
-    "id": "2435"
-  },
-  "2436": {
-    "name": "log_oak_top",
-    "id": "2436"
-  },
-  "2437": {
-    "name": "log_spruce",
-    "id": "2437"
-  },
-  "2438": {
-    "name": "log_spruce_top",
-    "id": "2438"
-  },
-  "2439": {
-    "name": "loom_bottom",
-    "id": "2439"
-  },
-  "2440": {
-    "name": "loom_front",
-    "id": "2440"
-  },
-  "2441": {
-    "name": "loom_side",
-    "id": "2441"
-  },
-  "2442": {
-    "name": "loom_top",
-    "id": "2442"
-  },
-  "2443": {
-    "name": "magma",
-    "id": "2443"
-  },
-  "2444": {
-    "name": "melon_side",
-    "id": "2444"
-  },
-  "2445": {
-    "name": "melon_stem_connected",
-    "id": "2445"
-  },
-  "2446": {
-    "name": "melon_stem_disconnected",
-    "id": "2446"
-  },
-  "2447": {
-    "name": "melon_top",
-    "id": "2447"
-  },
   "2448": {
     "name": "missing_tile",
     "id": "2448"
-  },
-  "2449": {
-    "name": "mob_spawner",
-    "id": "2449"
-  },
-  "2450": {
-    "name": "mushroom_block_inside",
-    "id": "2450"
-  },
-  "2451": {
-    "name": "mushroom_block_skin_brown",
-    "id": "2451"
-  },
-  "2452": {
-    "name": "mushroom_block_skin_red",
-    "id": "2452"
-  },
-  "2453": {
-    "name": "mushroom_block_skin_stem",
-    "id": "2453"
-  },
-  "2454": {
-    "name": "mushroom_brown",
-    "id": "2454"
-  },
-  "2455": {
-    "name": "mushroom_red",
-    "id": "2455"
-  },
-  "2456": {
-    "name": "mycelium_side",
-    "id": "2456"
-  },
-  "2457": {
-    "name": "mycelium_top",
-    "id": "2457"
-  },
-  "2458": {
-    "name": "netherite_block",
-    "id": "2458"
-  },
-  "2459": {
-    "name": "netherrack",
-    "id": "2459"
-  },
-  "2460": {
-    "name": "nether_brick",
-    "id": "2460"
-  },
-  "2461": {
-    "name": "nether_gold_ore",
-    "id": "2461"
-  },
-  "2462": {
-    "name": "nether_sprouts",
-    "id": "2462"
-  },
-  "2463": {
-    "name": "nether_wart_block",
-    "id": "2463"
-  },
-  "2464": {
-    "name": "nether_wart_stage_0",
-    "id": "2464"
-  },
-  "2465": {
-    "name": "nether_wart_stage_1",
-    "id": "2465"
-  },
-  "2466": {
-    "name": "nether_wart_stage_2",
-    "id": "2466"
-  },
-  "2467": {
-    "name": "noteblock",
-    "id": "2467"
-  },
-  "2468": {
-    "name": "observer_back",
-    "id": "2468"
-  },
-  "2469": {
-    "name": "observer_back_lit",
-    "id": "2469"
-  },
-  "2470": {
-    "name": "observer_front",
-    "id": "2470"
-  },
-  "2471": {
-    "name": "observer_side",
-    "id": "2471"
-  },
-  "2472": {
-    "name": "observer_top",
-    "id": "2472"
-  },
-  "2473": {
-    "name": "obsidian",
-    "id": "2473"
-  },
-  "2474": {
-    "name": "piston_bottom",
-    "id": "2474"
-  },
-  "2475": {
-    "name": "piston_inner",
-    "id": "2475"
-  },
-  "2476": {
-    "name": "piston_side",
-    "id": "2476"
-  },
-  "2477": {
-    "name": "piston_top_normal",
-    "id": "2477"
-  },
-  "2478": {
-    "name": "piston_top_sticky",
-    "id": "2478"
-  },
-  "2479": {
-    "name": "planks_acacia",
-    "id": "2479"
-  },
-  "2480": {
-    "name": "planks_big_oak",
-    "id": "2480"
-  },
-  "2481": {
-    "name": "planks_birch",
-    "id": "2481"
-  },
-  "2482": {
-    "name": "planks_jungle",
-    "id": "2482"
-  },
-  "2483": {
-    "name": "planks_oak",
-    "id": "2483"
-  },
-  "2484": {
-    "name": "planks_spruce",
-    "id": "2484"
-  },
-  "2485": {
-    "name": "polished_basalt_side",
-    "id": "2485"
-  },
-  "2486": {
-    "name": "polished_basalt_top",
-    "id": "2486"
-  },
-  "2487": {
-    "name": "polished_blackstone",
-    "id": "2487"
-  },
-  "2488": {
-    "name": "polished_blackstone_bricks",
-    "id": "2488"
-  },
-  "2489": {
-    "name": "portal",
-    "id": "2489"
   },
   "2490": {
     "name": "portal_placeholder",
     "id": "2490"
   },
-  "2491": {
-    "name": "potatoes_stage_0",
-    "id": "2491"
-  },
-  "2492": {
-    "name": "potatoes_stage_1",
-    "id": "2492"
-  },
-  "2493": {
-    "name": "potatoes_stage_2",
-    "id": "2493"
-  },
-  "2494": {
-    "name": "potatoes_stage_3",
-    "id": "2494"
-  },
-  "2495": {
-    "name": "prismarine_bricks",
-    "id": "2495"
-  },
-  "2496": {
-    "name": "prismarine_dark",
-    "id": "2496"
-  },
-  "2497": {
-    "name": "prismarine_rough",
-    "id": "2497"
-  },
-  "2498": {
-    "name": "pumpkin_face_off",
-    "id": "2498"
-  },
-  "2499": {
-    "name": "pumpkin_face_on",
-    "id": "2499"
-  },
-  "2500": {
-    "name": "pumpkin_side",
-    "id": "2500"
-  },
   "2501": {
     "name": "pumpkin_stem_connected",
     "id": "2501"
-  },
-  "2502": {
-    "name": "pumpkin_stem_disconnected",
-    "id": "2502"
-  },
-  "2503": {
-    "name": "pumpkin_top",
-    "id": "2503"
-  },
-  "2504": {
-    "name": "purpur_block",
-    "id": "2504"
-  },
-  "2505": {
-    "name": "purpur_pillar",
-    "id": "2505"
-  },
-  "2506": {
-    "name": "purpur_pillar_top",
-    "id": "2506"
-  },
-  "2507": {
-    "name": "quartz_block_bottom",
-    "id": "2507"
-  },
-  "2508": {
-    "name": "quartz_block_chiseled",
-    "id": "2508"
-  },
-  "2509": {
-    "name": "quartz_block_chiseled_top",
-    "id": "2509"
-  },
-  "2510": {
-    "name": "quartz_block_lines",
-    "id": "2510"
-  },
-  "2511": {
-    "name": "quartz_block_lines_top",
-    "id": "2511"
-  },
-  "2512": {
-    "name": "quartz_block_side",
-    "id": "2512"
-  },
-  "2513": {
-    "name": "quartz_block_top",
-    "id": "2513"
-  },
-  "2514": {
-    "name": "quartz_bricks",
-    "id": "2514"
-  },
-  "2515": {
-    "name": "quartz_ore",
-    "id": "2515"
-  },
-  "2516": {
-    "name": "rail_activator",
-    "id": "2516"
-  },
-  "2517": {
-    "name": "rail_activator_powered",
-    "id": "2517"
-  },
-  "2518": {
-    "name": "rail_detector",
-    "id": "2518"
-  },
-  "2519": {
-    "name": "rail_detector_powered",
-    "id": "2519"
-  },
-  "2520": {
-    "name": "rail_golden",
-    "id": "2520"
-  },
-  "2521": {
-    "name": "rail_golden_powered",
-    "id": "2521"
-  },
-  "2522": {
-    "name": "rail_normal",
-    "id": "2522"
-  },
-  "2523": {
-    "name": "rail_normal_turned",
-    "id": "2523"
   },
   "2524": {
     "name": "reactor_core_stage_0",
@@ -10107,10 +8363,6 @@
     "name": "reactor_core_stage_2",
     "id": "2526"
   },
-  "2527": {
-    "name": "redstone_block",
-    "id": "2527"
-  },
   "2528": {
     "name": "redstone_dust_cross",
     "id": "2528"
@@ -10119,381 +8371,25 @@
     "name": "redstone_dust_line",
     "id": "2529"
   },
-  "2530": {
-    "name": "redstone_lamp_off",
-    "id": "2530"
-  },
-  "2531": {
-    "name": "redstone_lamp_on",
-    "id": "2531"
-  },
-  "2532": {
-    "name": "redstone_ore",
-    "id": "2532"
-  },
-  "2533": {
-    "name": "redstone_torch_off",
-    "id": "2533"
-  },
-  "2534": {
-    "name": "redstone_torch_on",
-    "id": "2534"
-  },
-  "2535": {
-    "name": "red_nether_brick",
-    "id": "2535"
-  },
-  "2536": {
-    "name": "red_sand",
-    "id": "2536"
-  },
-  "2537": {
-    "name": "red_sandstone_bottom",
-    "id": "2537"
-  },
-  "2538": {
-    "name": "red_sandstone_carved",
-    "id": "2538"
-  },
-  "2539": {
-    "name": "red_sandstone_normal",
-    "id": "2539"
-  },
-  "2540": {
-    "name": "red_sandstone_smooth",
-    "id": "2540"
-  },
-  "2541": {
-    "name": "red_sandstone_top",
-    "id": "2541"
-  },
-  "2542": {
-    "name": "repeater_off",
-    "id": "2542"
-  },
-  "2543": {
-    "name": "repeater_on",
-    "id": "2543"
-  },
-  "2544": {
-    "name": "repeating_command_block_back",
-    "id": "2544"
-  },
   "2545": {
     "name": "repeating_command_block_back_mipmap",
     "id": "2545"
-  },
-  "2546": {
-    "name": "repeating_command_block_conditional",
-    "id": "2546"
   },
   "2547": {
     "name": "repeating_command_block_conditional_mipmap",
     "id": "2547"
   },
-  "2548": {
-    "name": "repeating_command_block_front",
-    "id": "2548"
-  },
   "2549": {
     "name": "repeating_command_block_front_mipmap",
     "id": "2549"
-  },
-  "2550": {
-    "name": "repeating_command_block_side",
-    "id": "2550"
   },
   "2551": {
     "name": "repeating_command_block_side_mipmap",
     "id": "2551"
   },
-  "2552": {
-    "name": "respawn_anchor_bottom",
-    "id": "2552"
-  },
-  "2553": {
-    "name": "respawn_anchor_side0",
-    "id": "2553"
-  },
-  "2554": {
-    "name": "respawn_anchor_side1",
-    "id": "2554"
-  },
-  "2555": {
-    "name": "respawn_anchor_side2",
-    "id": "2555"
-  },
-  "2556": {
-    "name": "respawn_anchor_side3",
-    "id": "2556"
-  },
-  "2557": {
-    "name": "respawn_anchor_side4",
-    "id": "2557"
-  },
-  "2558": {
-    "name": "respawn_anchor_top",
-    "id": "2558"
-  },
-  "2559": {
-    "name": "respawn_anchor_top_off",
-    "id": "2559"
-  },
-  "2560": {
-    "name": "sand",
-    "id": "2560"
-  },
-  "2561": {
-    "name": "sandstone_bottom",
-    "id": "2561"
-  },
-  "2562": {
-    "name": "sandstone_carved",
-    "id": "2562"
-  },
-  "2563": {
-    "name": "sandstone_normal",
-    "id": "2563"
-  },
-  "2564": {
-    "name": "sandstone_smooth",
-    "id": "2564"
-  },
-  "2565": {
-    "name": "sandstone_top",
-    "id": "2565"
-  },
-  "2566": {
-    "name": "sapling_acacia",
-    "id": "2566"
-  },
-  "2567": {
-    "name": "sapling_birch",
-    "id": "2567"
-  },
-  "2568": {
-    "name": "sapling_jungle",
-    "id": "2568"
-  },
-  "2569": {
-    "name": "sapling_oak",
-    "id": "2569"
-  },
-  "2570": {
-    "name": "sapling_roofed_oak",
-    "id": "2570"
-  },
-  "2571": {
-    "name": "sapling_spruce",
-    "id": "2571"
-  },
-  "2572": {
-    "name": "seagrass",
-    "id": "2572"
-  },
-  "2573": {
-    "name": "seagrass_carried",
-    "id": "2573"
-  },
-  "2574": {
-    "name": "sea_lantern",
-    "id": "2574"
-  },
-  "2575": {
-    "name": "sea_pickle",
-    "id": "2575"
-  },
-  "2576": {
-    "name": "shroomlight",
-    "id": "2576"
-  },
-  "2577": {
-    "name": "shulker_top_black",
-    "id": "2577"
-  },
-  "2578": {
-    "name": "shulker_top_blue",
-    "id": "2578"
-  },
-  "2579": {
-    "name": "shulker_top_brown",
-    "id": "2579"
-  },
-  "2580": {
-    "name": "shulker_top_cyan",
-    "id": "2580"
-  },
-  "2581": {
-    "name": "shulker_top_gray",
-    "id": "2581"
-  },
-  "2582": {
-    "name": "shulker_top_green",
-    "id": "2582"
-  },
-  "2583": {
-    "name": "shulker_top_light_blue",
-    "id": "2583"
-  },
-  "2584": {
-    "name": "shulker_top_lime",
-    "id": "2584"
-  },
-  "2585": {
-    "name": "shulker_top_magenta",
-    "id": "2585"
-  },
-  "2586": {
-    "name": "shulker_top_orange",
-    "id": "2586"
-  },
-  "2587": {
-    "name": "shulker_top_pink",
-    "id": "2587"
-  },
-  "2588": {
-    "name": "shulker_top_purple",
-    "id": "2588"
-  },
-  "2589": {
-    "name": "shulker_top_red",
-    "id": "2589"
-  },
-  "2590": {
-    "name": "shulker_top_silver",
-    "id": "2590"
-  },
   "2591": {
     "name": "shulker_top_undyed",
     "id": "2591"
-  },
-  "2592": {
-    "name": "shulker_top_white",
-    "id": "2592"
-  },
-  "2593": {
-    "name": "shulker_top_yellow",
-    "id": "2593"
-  },
-  "2594": {
-    "name": "slime",
-    "id": "2594"
-  },
-  "2595": {
-    "name": "smithing_table_bottom",
-    "id": "2595"
-  },
-  "2596": {
-    "name": "smithing_table_front",
-    "id": "2596"
-  },
-  "2597": {
-    "name": "smithing_table_side",
-    "id": "2597"
-  },
-  "2598": {
-    "name": "smithing_table_top",
-    "id": "2598"
-  },
-  "2599": {
-    "name": "smoker_bottom",
-    "id": "2599"
-  },
-  "2600": {
-    "name": "smoker_front_off",
-    "id": "2600"
-  },
-  "2601": {
-    "name": "smoker_front_on",
-    "id": "2601"
-  },
-  "2602": {
-    "name": "smoker_side",
-    "id": "2602"
-  },
-  "2603": {
-    "name": "smoker_top",
-    "id": "2603"
-  },
-  "2604": {
-    "name": "snow",
-    "id": "2604"
-  },
-  "2605": {
-    "name": "soul_campfire",
-    "id": "2605"
-  },
-  "2606": {
-    "name": "soul_campfire_log_lit",
-    "id": "2606"
-  },
-  "2607": {
-    "name": "soul_fire_0",
-    "id": "2607"
-  },
-  "2608": {
-    "name": "soul_fire_1",
-    "id": "2608"
-  },
-  "2609": {
-    "name": "soul_lantern",
-    "id": "2609"
-  },
-  "2610": {
-    "name": "soul_sand",
-    "id": "2610"
-  },
-  "2611": {
-    "name": "soul_soil",
-    "id": "2611"
-  },
-  "2612": {
-    "name": "soul_torch",
-    "id": "2612"
-  },
-  "2613": {
-    "name": "sponge",
-    "id": "2613"
-  },
-  "2614": {
-    "name": "sponge_wet",
-    "id": "2614"
-  },
-  "2615": {
-    "name": "spruce_trapdoor",
-    "id": "2615"
-  },
-  "2616": {
-    "name": "stone",
-    "id": "2616"
-  },
-  "2617": {
-    "name": "stonebrick",
-    "id": "2617"
-  },
-  "2618": {
-    "name": "stonebrick_carved",
-    "id": "2618"
-  },
-  "2619": {
-    "name": "stonebrick_cracked",
-    "id": "2619"
-  },
-  "2620": {
-    "name": "stonebrick_mossy",
-    "id": "2620"
-  },
-  "2621": {
-    "name": "stonecutter2_bottom",
-    "id": "2621"
-  },
-  "2622": {
-    "name": "stonecutter2_side",
-    "id": "2622"
-  },
-  "2623": {
-    "name": "stonecutter2_top",
-    "id": "2623"
   },
   "2624": {
     "name": "stonecutter_bottom",
@@ -10511,241 +8407,29 @@
     "name": "stonecutter_top",
     "id": "2627"
   },
-  "2628": {
-    "name": "stone_andesite",
-    "id": "2628"
-  },
-  "2629": {
-    "name": "stone_andesite_smooth",
-    "id": "2629"
-  },
-  "2630": {
-    "name": "stone_diorite",
-    "id": "2630"
-  },
-  "2631": {
-    "name": "stone_diorite_smooth",
-    "id": "2631"
-  },
-  "2632": {
-    "name": "stone_granite",
-    "id": "2632"
-  },
-  "2633": {
-    "name": "stone_granite_smooth",
-    "id": "2633"
-  },
-  "2634": {
-    "name": "stone_slab_side",
-    "id": "2634"
-  },
-  "2635": {
-    "name": "stone_slab_top",
-    "id": "2635"
-  },
-  "2636": {
-    "name": "stripped_acacia_log",
-    "id": "2636"
-  },
-  "2637": {
-    "name": "stripped_acacia_log_top",
-    "id": "2637"
-  },
-  "2638": {
-    "name": "stripped_birch_log",
-    "id": "2638"
-  },
-  "2639": {
-    "name": "stripped_birch_log_top",
-    "id": "2639"
-  },
-  "2640": {
-    "name": "stripped_dark_oak_log",
-    "id": "2640"
-  },
-  "2641": {
-    "name": "stripped_dark_oak_log_top",
-    "id": "2641"
-  },
-  "2642": {
-    "name": "stripped_jungle_log",
-    "id": "2642"
-  },
-  "2643": {
-    "name": "stripped_jungle_log_top",
-    "id": "2643"
-  },
-  "2644": {
-    "name": "stripped_oak_log",
-    "id": "2644"
-  },
-  "2645": {
-    "name": "stripped_oak_log_top",
-    "id": "2645"
-  },
-  "2646": {
-    "name": "stripped_spruce_log",
-    "id": "2646"
-  },
-  "2647": {
-    "name": "stripped_spruce_log_top",
-    "id": "2647"
-  },
   "2648": {
     "name": "structure_air",
     "id": "2648"
-  },
-  "2649": {
-    "name": "structure_block",
-    "id": "2649"
-  },
-  "2650": {
-    "name": "structure_block_corner",
-    "id": "2650"
-  },
-  "2651": {
-    "name": "structure_block_data",
-    "id": "2651"
   },
   "2652": {
     "name": "structure_block_export",
     "id": "2652"
   },
-  "2653": {
-    "name": "structure_block_load",
-    "id": "2653"
-  },
-  "2654": {
-    "name": "structure_block_save",
-    "id": "2654"
-  },
   "2655": {
     "name": "structure_void",
     "id": "2655"
-  },
-  "2656": {
-    "name": "sweet_berry_bush_stage0",
-    "id": "2656"
-  },
-  "2657": {
-    "name": "sweet_berry_bush_stage1",
-    "id": "2657"
-  },
-  "2658": {
-    "name": "sweet_berry_bush_stage2",
-    "id": "2658"
-  },
-  "2659": {
-    "name": "sweet_berry_bush_stage3",
-    "id": "2659"
-  },
-  "2660": {
-    "name": "tallgrass",
-    "id": "2660"
-  },
-  "2661": {
-    "name": "target_side",
-    "id": "2661"
-  },
-  "2662": {
-    "name": "target_top",
-    "id": "2662"
-  },
-  "2663": {
-    "name": "tnt_bottom",
-    "id": "2663"
-  },
-  "2664": {
-    "name": "tnt_side",
-    "id": "2664"
-  },
-  "2665": {
-    "name": "tnt_top",
-    "id": "2665"
-  },
-  "2666": {
-    "name": "torch_on",
-    "id": "2666"
-  },
-  "2667": {
-    "name": "trapdoor",
-    "id": "2667"
   },
   "2668": {
     "name": "trapped_chest_front",
     "id": "2668"
   },
-  "2669": {
-    "name": "trip_wire",
-    "id": "2669"
-  },
-  "2670": {
-    "name": "trip_wire_source",
-    "id": "2670"
-  },
-  "2671": {
-    "name": "turtle_egg_not_cracked",
-    "id": "2671"
-  },
-  "2672": {
-    "name": "turtle_egg_slightly_cracked",
-    "id": "2672"
-  },
-  "2673": {
-    "name": "turtle_egg_very_cracked",
-    "id": "2673"
-  },
-  "2674": {
-    "name": "twisting_vines_base",
-    "id": "2674"
-  },
-  "2675": {
-    "name": "twisting_vines_bottom",
-    "id": "2675"
-  },
-  "2676": {
-    "name": "vine",
-    "id": "2676"
-  },
   "2677": {
     "name": "vine_carried",
     "id": "2677"
   },
-  "2678": {
-    "name": "warped_fungus",
-    "id": "2678"
-  },
-  "2679": {
-    "name": "warped_nylium_side",
-    "id": "2679"
-  },
-  "2680": {
-    "name": "warped_nylium_top",
-    "id": "2680"
-  },
-  "2681": {
-    "name": "warped_roots",
-    "id": "2681"
-  },
-  "2682": {
-    "name": "warped_roots_pot",
-    "id": "2682"
-  },
-  "2683": {
-    "name": "warped_wart_block",
-    "id": "2683"
-  },
-  "2684": {
-    "name": "waterlily",
-    "id": "2684"
-  },
   "2685": {
     "name": "water_flow",
     "id": "2685"
-  },
-  "2686": {
-    "name": "water_flow_grey",
-    "id": "2686"
   },
   "2687": {
     "name": "water_placeholder",
@@ -10755,205 +8439,17 @@
     "name": "water_still",
     "id": "2688"
   },
-  "2689": {
-    "name": "water_still_grey",
-    "id": "2689"
-  },
-  "2690": {
-    "name": "web",
-    "id": "2690"
-  },
-  "2691": {
-    "name": "weeping_vines_base",
-    "id": "2691"
-  },
-  "2692": {
-    "name": "weeping_vines_bottom",
-    "id": "2692"
-  },
-  "2693": {
-    "name": "wheat_stage_0",
-    "id": "2693"
-  },
-  "2694": {
-    "name": "wheat_stage_1",
-    "id": "2694"
-  },
-  "2695": {
-    "name": "wheat_stage_2",
-    "id": "2695"
-  },
-  "2696": {
-    "name": "wheat_stage_3",
-    "id": "2696"
-  },
-  "2697": {
-    "name": "wheat_stage_4",
-    "id": "2697"
-  },
-  "2698": {
-    "name": "wheat_stage_5",
-    "id": "2698"
-  },
-  "2699": {
-    "name": "wheat_stage_6",
-    "id": "2699"
-  },
-  "2700": {
-    "name": "wheat_stage_7",
-    "id": "2700"
-  },
-  "2701": {
-    "name": "wool_colored_black",
-    "id": "2701"
-  },
-  "2702": {
-    "name": "wool_colored_blue",
-    "id": "2702"
-  },
-  "2703": {
-    "name": "wool_colored_brown",
-    "id": "2703"
-  },
-  "2704": {
-    "name": "wool_colored_cyan",
-    "id": "2704"
-  },
-  "2705": {
-    "name": "wool_colored_gray",
-    "id": "2705"
-  },
-  "2706": {
-    "name": "wool_colored_green",
-    "id": "2706"
-  },
-  "2707": {
-    "name": "wool_colored_light_blue",
-    "id": "2707"
-  },
-  "2708": {
-    "name": "wool_colored_lime",
-    "id": "2708"
-  },
-  "2709": {
-    "name": "wool_colored_magenta",
-    "id": "2709"
-  },
-  "2710": {
-    "name": "wool_colored_orange",
-    "id": "2710"
-  },
-  "2711": {
-    "name": "wool_colored_pink",
-    "id": "2711"
-  },
-  "2712": {
-    "name": "wool_colored_purple",
-    "id": "2712"
-  },
-  "2713": {
-    "name": "wool_colored_red",
-    "id": "2713"
-  },
-  "2714": {
-    "name": "wool_colored_silver",
-    "id": "2714"
-  },
-  "2715": {
-    "name": "wool_colored_white",
-    "id": "2715"
-  },
-  "2716": {
-    "name": "wool_colored_yellow",
-    "id": "2716"
-  },
-  "2717": {
-    "name": "crimson_door_lower",
-    "id": "2717"
-  },
-  "2718": {
-    "name": "crimson_door_top",
-    "id": "2718"
-  },
-  "2719": {
-    "name": "crimson_log_side",
-    "id": "2719"
-  },
-  "2720": {
-    "name": "crimson_log_top",
-    "id": "2720"
-  },
-  "2721": {
-    "name": "crimson_planks",
-    "id": "2721"
-  },
-  "2722": {
-    "name": "crimson_trapdoor",
-    "id": "2722"
-  },
-  "2723": {
-    "name": "stripped_crimson_stem_side",
-    "id": "2723"
-  },
-  "2724": {
-    "name": "stripped_crimson_stem_top",
-    "id": "2724"
-  },
-  "2725": {
-    "name": "stripped_warped_stem_side",
-    "id": "2725"
-  },
-  "2726": {
-    "name": "stripped_warped_stem_top",
-    "id": "2726"
-  },
-  "2727": {
-    "name": "warped_door_lower",
-    "id": "2727"
-  },
-  "2728": {
-    "name": "warped_door_top",
-    "id": "2728"
-  },
-  "2729": {
-    "name": "warped_planks",
-    "id": "2729"
-  },
-  "2730": {
-    "name": "warped_stem_side",
-    "id": "2730"
-  },
   "2731": {
     "name": "warped_stem_top",
     "id": "2731"
-  },
-  "2732": {
-    "name": "warped_trapdoor",
-    "id": "2732"
   },
   "2733": {
     "name": "agent",
     "id": "2733"
   },
-  "2734": {
-    "name": "alex",
-    "id": "2734"
-  },
-  "2735": {
-    "name": "armor_stand",
-    "id": "2735"
-  },
   "2736": {
     "name": "arrows",
     "id": "2736"
-  },
-  "2737": {
-    "name": "bat",
-    "id": "2737"
-  },
-  "2738": {
-    "name": "beacon_beam",
-    "id": "2738"
   },
   "2739": {
     "name": "camera_tripod",
@@ -10967,10 +8463,6 @@
     "name": "char",
     "id": "2741"
   },
-  "2742": {
-    "name": "chicken",
-    "id": "2742"
-  },
   "2743": {
     "name": "dolphin",
     "id": "2743"
@@ -10979,25 +8471,9 @@
     "name": "dummy",
     "id": "2744"
   },
-  "2745": {
-    "name": "enchanting_table_book",
-    "id": "2745"
-  },
   "2746": {
     "name": "enchanting_table_book_shadow",
     "id": "2746"
-  },
-  "2747": {
-    "name": "endermite",
-    "id": "2747"
-  },
-  "2748": {
-    "name": "end_portal",
-    "id": "2748"
-  },
-  "2749": {
-    "name": "experience_orb",
-    "id": "2749"
   },
   "2750": {
     "name": "fireworks",
@@ -11007,26 +8483,6 @@
     "name": "fishhook",
     "id": "2751"
   },
-  "2752": {
-    "name": "guardian",
-    "id": "2752"
-  },
-  "2753": {
-    "name": "guardian_beam",
-    "id": "2753"
-  },
-  "2754": {
-    "name": "guardian_elder",
-    "id": "2754"
-  },
-  "2755": {
-    "name": "iron_golem",
-    "id": "2755"
-  },
-  "2756": {
-    "name": "lead_knot",
-    "id": "2756"
-  },
   "2757": {
     "name": "lead_rope",
     "id": "2757"
@@ -11035,97 +8491,9 @@
     "name": "loyalty_rope",
     "id": "2758"
   },
-  "2759": {
-    "name": "minecart",
-    "id": "2759"
-  },
-  "2760": {
-    "name": "pillager",
-    "id": "2760"
-  },
-  "2761": {
-    "name": "polarbear",
-    "id": "2761"
-  },
   "2762": {
     "name": "saddle",
     "id": "2762"
-  },
-  "2763": {
-    "name": "sea_turtle",
-    "id": "2763"
-  },
-  "2764": {
-    "name": "shield",
-    "id": "2764"
-  },
-  "2765": {
-    "name": "sign",
-    "id": "2765"
-  },
-  "2766": {
-    "name": "sign_acacia",
-    "id": "2766"
-  },
-  "2767": {
-    "name": "sign_birch",
-    "id": "2767"
-  },
-  "2768": {
-    "name": "sign_crimson",
-    "id": "2768"
-  },
-  "2769": {
-    "name": "sign_darkoak",
-    "id": "2769"
-  },
-  "2770": {
-    "name": "sign_jungle",
-    "id": "2770"
-  },
-  "2771": {
-    "name": "sign_spruce",
-    "id": "2771"
-  },
-  "2772": {
-    "name": "sign_warped",
-    "id": "2772"
-  },
-  "2773": {
-    "name": "silverfish",
-    "id": "2773"
-  },
-  "2774": {
-    "name": "snow_golem",
-    "id": "2774"
-  },
-  "2775": {
-    "name": "squid",
-    "id": "2775"
-  },
-  "2776": {
-    "name": "steve",
-    "id": "2776"
-  },
-  "2777": {
-    "name": "trident",
-    "id": "2777"
-  },
-  "2778": {
-    "name": "trident_riptide",
-    "id": "2778"
-  },
-  "2779": {
-    "name": "vindicator",
-    "id": "2779"
-  },
-  "2780": {
-    "name": "wandering_trader",
-    "id": "2780"
-  },
-  "2781": {
-    "name": "witch",
-    "id": "2781"
   },
   "2782": {
     "name": "banner_piglin",
@@ -11195,109 +8563,9 @@
     "name": "yellow",
     "id": "2798"
   },
-  "2799": {
-    "name": "bee",
-    "id": "2799"
-  },
-  "2800": {
-    "name": "bee_angry",
-    "id": "2800"
-  },
-  "2801": {
-    "name": "bee_angry_nectar",
-    "id": "2801"
-  },
-  "2802": {
-    "name": "bee_nectar",
-    "id": "2802"
-  },
-  "2803": {
-    "name": "bell",
-    "id": "2803"
-  },
-  "2804": {
-    "name": "boat_acacia",
-    "id": "2804"
-  },
-  "2805": {
-    "name": "boat_birch",
-    "id": "2805"
-  },
-  "2806": {
-    "name": "boat_darkoak",
-    "id": "2806"
-  },
-  "2807": {
-    "name": "boat_jungle",
-    "id": "2807"
-  },
-  "2808": {
-    "name": "boat_oak",
-    "id": "2808"
-  },
-  "2809": {
-    "name": "boat_spruce",
-    "id": "2809"
-  },
-  "2810": {
-    "name": "allblackcat",
-    "id": "2810"
-  },
-  "2811": {
-    "name": "blackcat",
-    "id": "2811"
-  },
-  "2812": {
-    "name": "britishshorthair",
-    "id": "2812"
-  },
-  "2813": {
-    "name": "calico",
-    "id": "2813"
-  },
-  "2814": {
-    "name": "jellie",
-    "id": "2814"
-  },
-  "2815": {
-    "name": "ocelot",
-    "id": "2815"
-  },
-  "2816": {
-    "name": "persian",
-    "id": "2816"
-  },
-  "2817": {
-    "name": "ragdoll",
-    "id": "2817"
-  },
-  "2818": {
-    "name": "red",
-    "id": "2818"
-  },
   "2819": {
     "name": "redtabby",
     "id": "2819"
-  },
-  "2820": {
-    "name": "siamese",
-    "id": "2820"
-  },
-  "2821": {
-    "name": "siamesecat",
-    "id": "2821"
-  },
-  "2822": {
-    "name": "tabby",
-    "id": "2822"
-  },
-  "2823": {
-    "name": "tuxedo",
-    "id": "2823"
-  },
-  "2824": {
-    "name": "white",
-    "id": "2824"
   },
   "2825": {
     "name": "double_normal",
@@ -11319,117 +8587,13 @@
     "name": "trapped_double",
     "id": "2829"
   },
-  "2830": {
-    "name": "brown_mooshroom",
-    "id": "2830"
-  },
-  "2831": {
-    "name": "cow",
-    "id": "2831"
-  },
-  "2832": {
-    "name": "mooshroom",
-    "id": "2832"
-  },
-  "2833": {
-    "name": "creeper",
-    "id": "2833"
-  },
-  "2834": {
-    "name": "creeper_armor",
-    "id": "2834"
-  },
   "2835": {
     "name": "dragon_exploding",
     "id": "2835"
   },
-  "2836": {
-    "name": "dragon_eyes",
-    "id": "2836"
-  },
-  "2837": {
-    "name": "endercrystal",
-    "id": "2837"
-  },
-  "2838": {
-    "name": "endercrystal_beam",
-    "id": "2838"
-  },
   "2839": {
     "name": "clownfish",
     "id": "2839"
-  },
-  "2840": {
-    "name": "cod",
-    "id": "2840"
-  },
-  "2841": {
-    "name": "fish",
-    "id": "2841"
-  },
-  "2842": {
-    "name": "pufferfish",
-    "id": "2842"
-  },
-  "2843": {
-    "name": "salmon",
-    "id": "2843"
-  },
-  "2844": {
-    "name": "tropical_a",
-    "id": "2844"
-  },
-  "2845": {
-    "name": "tropical_a_pattern_1",
-    "id": "2845"
-  },
-  "2846": {
-    "name": "tropical_a_pattern_2",
-    "id": "2846"
-  },
-  "2847": {
-    "name": "tropical_a_pattern_3",
-    "id": "2847"
-  },
-  "2848": {
-    "name": "tropical_a_pattern_4",
-    "id": "2848"
-  },
-  "2849": {
-    "name": "tropical_a_pattern_5",
-    "id": "2849"
-  },
-  "2850": {
-    "name": "tropical_a_pattern_6",
-    "id": "2850"
-  },
-  "2851": {
-    "name": "tropical_b",
-    "id": "2851"
-  },
-  "2852": {
-    "name": "tropical_b_pattern_1",
-    "id": "2852"
-  },
-  "2853": {
-    "name": "tropical_b_pattern_2",
-    "id": "2853"
-  },
-  "2854": {
-    "name": "tropical_b_pattern_3",
-    "id": "2854"
-  },
-  "2855": {
-    "name": "tropical_b_pattern_4",
-    "id": "2855"
-  },
-  "2856": {
-    "name": "tropical_b_pattern_5",
-    "id": "2856"
-  },
-  "2857": {
-    "name": "tropical_b_pattern_6",
-    "id": "2857"
   },
   "2858": {
     "name": "arctic_fox",
@@ -11438,14 +8602,6 @@
   "2859": {
     "name": "fox",
     "id": "2859"
-  },
-  "2860": {
-    "name": "ghast",
-    "id": "2860"
-  },
-  "2861": {
-    "name": "hoglin",
-    "id": "2861"
   },
   "2862": {
     "name": "donkey",
@@ -11519,185 +8675,13 @@
     "name": "horse_armor_iron",
     "id": "2879"
   },
-  "2880": {
-    "name": "donkey",
-    "id": "2880"
-  },
-  "2881": {
-    "name": "horse_black",
-    "id": "2881"
-  },
-  "2882": {
-    "name": "horse_brown",
-    "id": "2882"
-  },
-  "2883": {
-    "name": "horse_chestnut",
-    "id": "2883"
-  },
-  "2884": {
-    "name": "horse_creamy",
-    "id": "2884"
-  },
-  "2885": {
-    "name": "horse_darkbrown",
-    "id": "2885"
-  },
-  "2886": {
-    "name": "horse_gray",
-    "id": "2886"
-  },
-  "2887": {
-    "name": "horse_markings_blackdots",
-    "id": "2887"
-  },
-  "2888": {
-    "name": "horse_markings_white",
-    "id": "2888"
-  },
-  "2889": {
-    "name": "horse_markings_whitedots",
-    "id": "2889"
-  },
-  "2890": {
-    "name": "horse_markings_whitefield",
-    "id": "2890"
-  },
-  "2891": {
-    "name": "horse_skeleton",
-    "id": "2891"
-  },
-  "2892": {
-    "name": "horse_white",
-    "id": "2892"
-  },
-  "2893": {
-    "name": "horse_zombie",
-    "id": "2893"
-  },
-  "2894": {
-    "name": "mule",
-    "id": "2894"
-  },
-  "2895": {
-    "name": "horse_armor_diamond",
-    "id": "2895"
-  },
-  "2896": {
-    "name": "horse_armor_gold",
-    "id": "2896"
-  },
-  "2897": {
-    "name": "horse_armor_iron",
-    "id": "2897"
-  },
-  "2898": {
-    "name": "evoker",
-    "id": "2898"
-  },
-  "2899": {
-    "name": "fangs",
-    "id": "2899"
-  },
-  "2900": {
-    "name": "ravager",
-    "id": "2900"
-  },
-  "2901": {
-    "name": "llama",
-    "id": "2901"
-  },
-  "2902": {
-    "name": "llama_brown",
-    "id": "2902"
-  },
-  "2903": {
-    "name": "llama_creamy",
-    "id": "2903"
-  },
-  "2904": {
-    "name": "llama_gray",
-    "id": "2904"
-  },
-  "2905": {
-    "name": "llama_white",
-    "id": "2905"
-  },
-  "2906": {
-    "name": "spit",
-    "id": "2906"
-  },
-  "2907": {
-    "name": "decor_black",
-    "id": "2907"
-  },
-  "2908": {
-    "name": "decor_blue",
-    "id": "2908"
-  },
-  "2909": {
-    "name": "decor_brown",
-    "id": "2909"
-  },
-  "2910": {
-    "name": "decor_cyan",
-    "id": "2910"
-  },
-  "2911": {
-    "name": "decor_gray",
-    "id": "2911"
-  },
-  "2912": {
-    "name": "decor_green",
-    "id": "2912"
-  },
-  "2913": {
-    "name": "decor_light_blue",
-    "id": "2913"
-  },
   "2914": {
     "name": "decor_lime",
     "id": "2914"
   },
-  "2915": {
-    "name": "decor_magenta",
-    "id": "2915"
-  },
   "2916": {
     "name": "decor_none",
     "id": "2916"
-  },
-  "2917": {
-    "name": "decor_orange",
-    "id": "2917"
-  },
-  "2918": {
-    "name": "decor_pink",
-    "id": "2918"
-  },
-  "2919": {
-    "name": "decor_purple",
-    "id": "2919"
-  },
-  "2920": {
-    "name": "decor_red",
-    "id": "2920"
-  },
-  "2921": {
-    "name": "decor_silver",
-    "id": "2921"
-  },
-  "2922": {
-    "name": "decor_white",
-    "id": "2922"
-  },
-  "2923": {
-    "name": "decor_yellow",
-    "id": "2923"
-  },
-  "2924": {
-    "name": "trader_llama_decor",
-    "id": "2924"
   },
   "2925": {
     "name": "npc_1",
@@ -11779,77 +8763,9 @@
     "name": "npc_scientist_9",
     "id": "2944"
   },
-  "2945": {
-    "name": "panda",
-    "id": "2945"
-  },
-  "2946": {
-    "name": "panda_aggressive",
-    "id": "2946"
-  },
-  "2947": {
-    "name": "panda_brown",
-    "id": "2947"
-  },
-  "2948": {
-    "name": "panda_lazy",
-    "id": "2948"
-  },
-  "2949": {
-    "name": "panda_playful",
-    "id": "2949"
-  },
-  "2950": {
-    "name": "panda_sneezy",
-    "id": "2950"
-  },
-  "2951": {
-    "name": "panda_worried",
-    "id": "2951"
-  },
-  "2952": {
-    "name": "parrot_blue",
-    "id": "2952"
-  },
-  "2953": {
-    "name": "parrot_green",
-    "id": "2953"
-  },
-  "2954": {
-    "name": "parrot_grey",
-    "id": "2954"
-  },
-  "2955": {
-    "name": "parrot_red_blue",
-    "id": "2955"
-  },
-  "2956": {
-    "name": "parrot_yellow_blue",
-    "id": "2956"
-  },
-  "2957": {
-    "name": "pig",
-    "id": "2957"
-  },
   "2958": {
     "name": "pigzombie",
     "id": "2958"
-  },
-  "2959": {
-    "name": "pig_saddle",
-    "id": "2959"
-  },
-  "2960": {
-    "name": "piglin",
-    "id": "2960"
-  },
-  "2961": {
-    "name": "piglin_brute",
-    "id": "2961"
-  },
-  "2962": {
-    "name": "zombie_piglin",
-    "id": "2962"
   },
   "2963": {
     "name": "pistonArm",
@@ -11859,165 +8775,17 @@
     "name": "pistonArmSticky",
     "id": "2964"
   },
-  "2965": {
-    "name": "blackrabbit",
-    "id": "2965"
-  },
-  "2966": {
-    "name": "brown",
-    "id": "2966"
-  },
-  "2967": {
-    "name": "gold",
-    "id": "2967"
-  },
-  "2968": {
-    "name": "salt",
-    "id": "2968"
-  },
-  "2969": {
-    "name": "toast",
-    "id": "2969"
-  },
-  "2970": {
-    "name": "white",
-    "id": "2970"
-  },
-  "2971": {
-    "name": "white_splotched",
-    "id": "2971"
-  },
-  "2972": {
-    "name": "shulker_black",
-    "id": "2972"
-  },
-  "2973": {
-    "name": "shulker_blue",
-    "id": "2973"
-  },
-  "2974": {
-    "name": "shulker_brown",
-    "id": "2974"
-  },
-  "2975": {
-    "name": "shulker_cyan",
-    "id": "2975"
-  },
-  "2976": {
-    "name": "shulker_gray",
-    "id": "2976"
-  },
-  "2977": {
-    "name": "shulker_green",
-    "id": "2977"
-  },
-  "2978": {
-    "name": "shulker_light_blue",
-    "id": "2978"
-  },
-  "2979": {
-    "name": "shulker_lime",
-    "id": "2979"
-  },
-  "2980": {
-    "name": "shulker_magenta",
-    "id": "2980"
-  },
-  "2981": {
-    "name": "shulker_orange",
-    "id": "2981"
-  },
-  "2982": {
-    "name": "shulker_pink",
-    "id": "2982"
-  },
-  "2983": {
-    "name": "shulker_purple",
-    "id": "2983"
-  },
-  "2984": {
-    "name": "shulker_red",
-    "id": "2984"
-  },
-  "2985": {
-    "name": "shulker_silver",
-    "id": "2985"
-  },
-  "2986": {
-    "name": "shulker_undyed",
-    "id": "2986"
-  },
-  "2987": {
-    "name": "shulker_white",
-    "id": "2987"
-  },
-  "2988": {
-    "name": "shulker_yellow",
-    "id": "2988"
-  },
-  "2989": {
-    "name": "spark",
-    "id": "2989"
-  },
-  "2990": {
-    "name": "skeleton",
-    "id": "2990"
-  },
-  "2991": {
-    "name": "stray",
-    "id": "2991"
-  },
-  "2992": {
-    "name": "stray_overlay",
-    "id": "2992"
-  },
-  "2993": {
-    "name": "wither_skeleton",
-    "id": "2993"
-  },
-  "2994": {
-    "name": "creeper",
-    "id": "2994"
-  },
-  "2995": {
-    "name": "skeleton",
-    "id": "2995"
-  },
-  "2996": {
-    "name": "wither_skeleton",
-    "id": "2996"
-  },
   "2997": {
     "name": "zombie",
     "id": "2997"
-  },
-  "2998": {
-    "name": "slime",
-    "id": "2998"
-  },
-  "2999": {
-    "name": "strider",
-    "id": "2999"
   },
   "3000": {
     "name": "strider_saddled",
     "id": "3000"
   },
-  "3001": {
-    "name": "strider_suffocated",
-    "id": "3001"
-  },
   "3002": {
     "name": "strider_suffocated_saddled",
     "id": "3002"
-  },
-  "3003": {
-    "name": "vex",
-    "id": "3003"
-  },
-  "3004": {
-    "name": "vex_charging",
-    "id": "3004"
   },
   "3005": {
     "name": "butcher",
@@ -12043,94 +8811,6 @@
     "name": "villager",
     "id": "3010"
   },
-  "3011": {
-    "name": "villager",
-    "id": "3011"
-  },
-  "3012": {
-    "name": "biome_desert",
-    "id": "3012"
-  },
-  "3013": {
-    "name": "biome_jungle",
-    "id": "3013"
-  },
-  "3014": {
-    "name": "biome_plains",
-    "id": "3014"
-  },
-  "3015": {
-    "name": "biome_savanna",
-    "id": "3015"
-  },
-  "3016": {
-    "name": "biome_snow",
-    "id": "3016"
-  },
-  "3017": {
-    "name": "biome_swamp",
-    "id": "3017"
-  },
-  "3018": {
-    "name": "biome_taiga",
-    "id": "3018"
-  },
-  "3019": {
-    "name": "level_diamond",
-    "id": "3019"
-  },
-  "3020": {
-    "name": "level_emerald",
-    "id": "3020"
-  },
-  "3021": {
-    "name": "level_gold",
-    "id": "3021"
-  },
-  "3022": {
-    "name": "level_iron",
-    "id": "3022"
-  },
-  "3023": {
-    "name": "level_stone",
-    "id": "3023"
-  },
-  "3024": {
-    "name": "wither",
-    "id": "3024"
-  },
-  "3025": {
-    "name": "wither_armor_blue",
-    "id": "3025"
-  },
-  "3026": {
-    "name": "wither_armor_white",
-    "id": "3026"
-  },
-  "3027": {
-    "name": "wither_invulnerable",
-    "id": "3027"
-  },
-  "3028": {
-    "name": "wolf",
-    "id": "3028"
-  },
-  "3029": {
-    "name": "wolf_angry",
-    "id": "3029"
-  },
-  "3030": {
-    "name": "zoglin",
-    "id": "3030"
-  },
-  "3031": {
-    "name": "husk",
-    "id": "3031"
-  },
-  "3032": {
-    "name": "zombie",
-    "id": "3032"
-  },
   "3033": {
     "name": "zombie_butcher",
     "id": "3033"
@@ -12155,82 +8835,6 @@
     "name": "zombie_villager",
     "id": "3038"
   },
-  "3039": {
-    "name": "zombie-villager",
-    "id": "3039"
-  },
-  "3040": {
-    "name": "biome-desert-zombie",
-    "id": "3040"
-  },
-  "3041": {
-    "name": "biome-jungle-zombie",
-    "id": "3041"
-  },
-  "3042": {
-    "name": "biome-plains-zombie",
-    "id": "3042"
-  },
-  "3043": {
-    "name": "biome-savanna-zombie",
-    "id": "3043"
-  },
-  "3044": {
-    "name": "biome-snow-zombie",
-    "id": "3044"
-  },
-  "3045": {
-    "name": "biome-swamp-zombie",
-    "id": "3045"
-  },
-  "3046": {
-    "name": "biome-taiga-zombie",
-    "id": "3046"
-  },
-  "3047": {
-    "name": "clouds",
-    "id": "3047"
-  },
-  "3048": {
-    "name": "destroy_stage_0",
-    "id": "3048"
-  },
-  "3049": {
-    "name": "destroy_stage_1",
-    "id": "3049"
-  },
-  "3050": {
-    "name": "destroy_stage_2",
-    "id": "3050"
-  },
-  "3051": {
-    "name": "destroy_stage_3",
-    "id": "3051"
-  },
-  "3052": {
-    "name": "destroy_stage_4",
-    "id": "3052"
-  },
-  "3053": {
-    "name": "destroy_stage_5",
-    "id": "3053"
-  },
-  "3054": {
-    "name": "destroy_stage_6",
-    "id": "3054"
-  },
-  "3055": {
-    "name": "destroy_stage_7",
-    "id": "3055"
-  },
-  "3056": {
-    "name": "destroy_stage_8",
-    "id": "3056"
-  },
-  "3057": {
-    "name": "destroy_stage_9",
-    "id": "3057"
-  },
   "3058": {
     "name": "end_portal_colors",
     "id": "3058"
@@ -12238,14 +8842,6 @@
   "3059": {
     "name": "end_sky",
     "id": "3059"
-  },
-  "3060": {
-    "name": "moon_phases",
-    "id": "3060"
-  },
-  "3061": {
-    "name": "sun",
-    "id": "3061"
   },
   "3062": {
     "name": "weather",
@@ -12899,30 +9495,6 @@
     "name": "radio_off_hover",
     "id": "3224"
   },
-  "3225": {
-    "name": "apple",
-    "id": "3225"
-  },
-  "3226": {
-    "name": "apple_golden",
-    "id": "3226"
-  },
-  "3227": {
-    "name": "armor_stand",
-    "id": "3227"
-  },
-  "3228": {
-    "name": "arrow",
-    "id": "3228"
-  },
-  "3229": {
-    "name": "bamboo",
-    "id": "3229"
-  },
-  "3230": {
-    "name": "banner_pattern",
-    "id": "3230"
-  },
   "3231": {
     "name": "bed_black",
     "id": "3231"
@@ -12987,193 +9559,13 @@
     "name": "bed_yellow",
     "id": "3246"
   },
-  "3247": {
-    "name": "beef_cooked",
-    "id": "3247"
-  },
-  "3248": {
-    "name": "beef_raw",
-    "id": "3248"
-  },
-  "3249": {
-    "name": "beetroot",
-    "id": "3249"
-  },
-  "3250": {
-    "name": "beetroot_soup",
-    "id": "3250"
-  },
-  "3251": {
-    "name": "blaze_powder",
-    "id": "3251"
-  },
-  "3252": {
-    "name": "blaze_rod",
-    "id": "3252"
-  },
   "3253": {
     "name": "boat",
     "id": "3253"
   },
-  "3254": {
-    "name": "boat_acacia",
-    "id": "3254"
-  },
-  "3255": {
-    "name": "boat_birch",
-    "id": "3255"
-  },
-  "3256": {
-    "name": "boat_darkoak",
-    "id": "3256"
-  },
-  "3257": {
-    "name": "boat_jungle",
-    "id": "3257"
-  },
-  "3258": {
-    "name": "boat_oak",
-    "id": "3258"
-  },
-  "3259": {
-    "name": "boat_spruce",
-    "id": "3259"
-  },
-  "3260": {
-    "name": "bone",
-    "id": "3260"
-  },
-  "3261": {
-    "name": "book_enchanted",
-    "id": "3261"
-  },
-  "3262": {
-    "name": "book_normal",
-    "id": "3262"
-  },
   "3263": {
     "name": "book_portfolio",
     "id": "3263"
-  },
-  "3264": {
-    "name": "book_writable",
-    "id": "3264"
-  },
-  "3265": {
-    "name": "book_written",
-    "id": "3265"
-  },
-  "3266": {
-    "name": "bowl",
-    "id": "3266"
-  },
-  "3267": {
-    "name": "bow_pulling_0",
-    "id": "3267"
-  },
-  "3268": {
-    "name": "bow_pulling_1",
-    "id": "3268"
-  },
-  "3269": {
-    "name": "bow_pulling_2",
-    "id": "3269"
-  },
-  "3270": {
-    "name": "bow_standby",
-    "id": "3270"
-  },
-  "3271": {
-    "name": "bread",
-    "id": "3271"
-  },
-  "3272": {
-    "name": "brewing_stand",
-    "id": "3272"
-  },
-  "3273": {
-    "name": "brick",
-    "id": "3273"
-  },
-  "3274": {
-    "name": "broken_elytra",
-    "id": "3274"
-  },
-  "3275": {
-    "name": "bucket_cod",
-    "id": "3275"
-  },
-  "3276": {
-    "name": "bucket_empty",
-    "id": "3276"
-  },
-  "3277": {
-    "name": "bucket_lava",
-    "id": "3277"
-  },
-  "3278": {
-    "name": "bucket_milk",
-    "id": "3278"
-  },
-  "3279": {
-    "name": "bucket_pufferfish",
-    "id": "3279"
-  },
-  "3280": {
-    "name": "bucket_salmon",
-    "id": "3280"
-  },
-  "3281": {
-    "name": "bucket_tropical",
-    "id": "3281"
-  },
-  "3282": {
-    "name": "bucket_water",
-    "id": "3282"
-  },
-  "3283": {
-    "name": "cake",
-    "id": "3283"
-  },
-  "3284": {
-    "name": "campfire",
-    "id": "3284"
-  },
-  "3285": {
-    "name": "carrot",
-    "id": "3285"
-  },
-  "3286": {
-    "name": "carrot_golden",
-    "id": "3286"
-  },
-  "3287": {
-    "name": "carrot_on_a_stick",
-    "id": "3287"
-  },
-  "3288": {
-    "name": "cauldron",
-    "id": "3288"
-  },
-  "3289": {
-    "name": "chain",
-    "id": "3289"
-  },
-  "3290": {
-    "name": "chainmail_boots",
-    "id": "3290"
-  },
-  "3291": {
-    "name": "chainmail_chestplate",
-    "id": "3291"
-  },
-  "3292": {
-    "name": "chainmail_helmet",
-    "id": "3292"
-  },
-  "3293": {
-    "name": "chainmail_leggings",
-    "id": "3293"
   },
   "3294": {
     "name": "chalkboard_large",
@@ -13187,157 +9579,9 @@
     "name": "chalkboard_small",
     "id": "3296"
   },
-  "3297": {
-    "name": "charcoal",
-    "id": "3297"
-  },
-  "3298": {
-    "name": "chicken_cooked",
-    "id": "3298"
-  },
-  "3299": {
-    "name": "chicken_raw",
-    "id": "3299"
-  },
-  "3300": {
-    "name": "chorus_fruit",
-    "id": "3300"
-  },
-  "3301": {
-    "name": "chorus_fruit_popped",
-    "id": "3301"
-  },
-  "3302": {
-    "name": "clay_ball",
-    "id": "3302"
-  },
-  "3303": {
-    "name": "clock_item",
-    "id": "3303"
-  },
-  "3304": {
-    "name": "coal",
-    "id": "3304"
-  },
-  "3305": {
-    "name": "comparator",
-    "id": "3305"
-  },
   "3306": {
     "name": "compass_atlas",
     "id": "3306"
-  },
-  "3307": {
-    "name": "compass_item",
-    "id": "3307"
-  },
-  "3308": {
-    "name": "cookie",
-    "id": "3308"
-  },
-  "3309": {
-    "name": "crimson_door",
-    "id": "3309"
-  },
-  "3310": {
-    "name": "crossbow_arrow",
-    "id": "3310"
-  },
-  "3311": {
-    "name": "crossbow_firework",
-    "id": "3311"
-  },
-  "3312": {
-    "name": "crossbow_pulling_0",
-    "id": "3312"
-  },
-  "3313": {
-    "name": "crossbow_pulling_1",
-    "id": "3313"
-  },
-  "3314": {
-    "name": "crossbow_pulling_2",
-    "id": "3314"
-  },
-  "3315": {
-    "name": "crossbow_standby",
-    "id": "3315"
-  },
-  "3316": {
-    "name": "diamond",
-    "id": "3316"
-  },
-  "3317": {
-    "name": "diamond_axe",
-    "id": "3317"
-  },
-  "3318": {
-    "name": "diamond_boots",
-    "id": "3318"
-  },
-  "3319": {
-    "name": "diamond_chestplate",
-    "id": "3319"
-  },
-  "3320": {
-    "name": "diamond_helmet",
-    "id": "3320"
-  },
-  "3321": {
-    "name": "diamond_hoe",
-    "id": "3321"
-  },
-  "3322": {
-    "name": "diamond_horse_armor",
-    "id": "3322"
-  },
-  "3323": {
-    "name": "diamond_leggings",
-    "id": "3323"
-  },
-  "3324": {
-    "name": "diamond_pickaxe",
-    "id": "3324"
-  },
-  "3325": {
-    "name": "diamond_shovel",
-    "id": "3325"
-  },
-  "3326": {
-    "name": "diamond_sword",
-    "id": "3326"
-  },
-  "3327": {
-    "name": "door_acacia",
-    "id": "3327"
-  },
-  "3328": {
-    "name": "door_birch",
-    "id": "3328"
-  },
-  "3329": {
-    "name": "door_dark_oak",
-    "id": "3329"
-  },
-  "3330": {
-    "name": "door_iron",
-    "id": "3330"
-  },
-  "3331": {
-    "name": "door_jungle",
-    "id": "3331"
-  },
-  "3332": {
-    "name": "door_spruce",
-    "id": "3332"
-  },
-  "3333": {
-    "name": "door_wood",
-    "id": "3333"
-  },
-  "3334": {
-    "name": "dragons_breath",
-    "id": "3334"
   },
   "3335": {
     "name": "dragon_fireball",
@@ -13346,90 +9590,6 @@
   "3336": {
     "name": "dried_kelp",
     "id": "3336"
-  },
-  "3337": {
-    "name": "dye_powder_black",
-    "id": "3337"
-  },
-  "3338": {
-    "name": "dye_powder_black_new",
-    "id": "3338"
-  },
-  "3339": {
-    "name": "dye_powder_blue",
-    "id": "3339"
-  },
-  "3340": {
-    "name": "dye_powder_blue_new",
-    "id": "3340"
-  },
-  "3341": {
-    "name": "dye_powder_brown",
-    "id": "3341"
-  },
-  "3342": {
-    "name": "dye_powder_brown_new",
-    "id": "3342"
-  },
-  "3343": {
-    "name": "dye_powder_cyan",
-    "id": "3343"
-  },
-  "3344": {
-    "name": "dye_powder_gray",
-    "id": "3344"
-  },
-  "3345": {
-    "name": "dye_powder_green",
-    "id": "3345"
-  },
-  "3346": {
-    "name": "dye_powder_light_blue",
-    "id": "3346"
-  },
-  "3347": {
-    "name": "dye_powder_lime",
-    "id": "3347"
-  },
-  "3348": {
-    "name": "dye_powder_magenta",
-    "id": "3348"
-  },
-  "3349": {
-    "name": "dye_powder_orange",
-    "id": "3349"
-  },
-  "3350": {
-    "name": "dye_powder_pink",
-    "id": "3350"
-  },
-  "3351": {
-    "name": "dye_powder_purple",
-    "id": "3351"
-  },
-  "3352": {
-    "name": "dye_powder_red",
-    "id": "3352"
-  },
-  "3353": {
-    "name": "dye_powder_silver",
-    "id": "3353"
-  },
-  "3354": {
-    "name": "dye_powder_white",
-    "id": "3354"
-  },
-  "3355": {
-    "name": "dye_powder_white_new",
-    "id": "3355"
-  },
-  "3356": {
-    "name": "dye_powder_yellow",
-    "id": "3356"
-  },
-  "3357": {
-    "name": "egg",
-    "id": "3357"
   },
   "3358": {
     "name": "egg_agent",
@@ -13683,170 +9843,6 @@
     "name": "egg_zombievillager",
     "id": "3420"
   },
-  "3421": {
-    "name": "elytra",
-    "id": "3421"
-  },
-  "3422": {
-    "name": "emerald",
-    "id": "3422"
-  },
-  "3423": {
-    "name": "empty_armor_slot_boots",
-    "id": "3423"
-  },
-  "3424": {
-    "name": "empty_armor_slot_chestplate",
-    "id": "3424"
-  },
-  "3425": {
-    "name": "empty_armor_slot_helmet",
-    "id": "3425"
-  },
-  "3426": {
-    "name": "empty_armor_slot_leggings",
-    "id": "3426"
-  },
-  "3427": {
-    "name": "empty_armor_slot_shield",
-    "id": "3427"
-  },
-  "3428": {
-    "name": "ender_eye",
-    "id": "3428"
-  },
-  "3429": {
-    "name": "ender_pearl",
-    "id": "3429"
-  },
-  "3430": {
-    "name": "end_crystal",
-    "id": "3430"
-  },
-  "3431": {
-    "name": "experience_bottle",
-    "id": "3431"
-  },
-  "3432": {
-    "name": "feather",
-    "id": "3432"
-  },
-  "3433": {
-    "name": "fireball",
-    "id": "3433"
-  },
-  "3434": {
-    "name": "fireworks",
-    "id": "3434"
-  },
-  "3435": {
-    "name": "fishing_rod_cast",
-    "id": "3435"
-  },
-  "3436": {
-    "name": "fishing_rod_uncast",
-    "id": "3436"
-  },
-  "3437": {
-    "name": "fish_clownfish_raw",
-    "id": "3437"
-  },
-  "3438": {
-    "name": "fish_cooked",
-    "id": "3438"
-  },
-  "3439": {
-    "name": "fish_pufferfish_raw",
-    "id": "3439"
-  },
-  "3440": {
-    "name": "fish_raw",
-    "id": "3440"
-  },
-  "3441": {
-    "name": "fish_salmon_cooked",
-    "id": "3441"
-  },
-  "3442": {
-    "name": "fish_salmon_raw",
-    "id": "3442"
-  },
-  "3443": {
-    "name": "flint",
-    "id": "3443"
-  },
-  "3444": {
-    "name": "flint_and_steel",
-    "id": "3444"
-  },
-  "3445": {
-    "name": "flower_pot",
-    "id": "3445"
-  },
-  "3446": {
-    "name": "ghast_tear",
-    "id": "3446"
-  },
-  "3447": {
-    "name": "glowstone_dust",
-    "id": "3447"
-  },
-  "3448": {
-    "name": "gold_axe",
-    "id": "3448"
-  },
-  "3449": {
-    "name": "gold_boots",
-    "id": "3449"
-  },
-  "3450": {
-    "name": "gold_chestplate",
-    "id": "3450"
-  },
-  "3451": {
-    "name": "gold_helmet",
-    "id": "3451"
-  },
-  "3452": {
-    "name": "gold_hoe",
-    "id": "3452"
-  },
-  "3453": {
-    "name": "gold_horse_armor",
-    "id": "3453"
-  },
-  "3454": {
-    "name": "gold_ingot",
-    "id": "3454"
-  },
-  "3455": {
-    "name": "gold_leggings",
-    "id": "3455"
-  },
-  "3456": {
-    "name": "gold_nugget",
-    "id": "3456"
-  },
-  "3457": {
-    "name": "gold_pickaxe",
-    "id": "3457"
-  },
-  "3458": {
-    "name": "gold_shovel",
-    "id": "3458"
-  },
-  "3459": {
-    "name": "gold_sword",
-    "id": "3459"
-  },
-  "3460": {
-    "name": "gunpowder",
-    "id": "3460"
-  },
-  "3461": {
-    "name": "heartofthesea_closed",
-    "id": "3461"
-  },
   "3462": {
     "name": "hoglin_meat_cooked",
     "id": "3462"
@@ -13858,82 +9854,6 @@
   "3464": {
     "name": "honeycomb",
     "id": "3464"
-  },
-  "3465": {
-    "name": "honey_bottle",
-    "id": "3465"
-  },
-  "3466": {
-    "name": "hopper",
-    "id": "3466"
-  },
-  "3467": {
-    "name": "iron_axe",
-    "id": "3467"
-  },
-  "3468": {
-    "name": "iron_boots",
-    "id": "3468"
-  },
-  "3469": {
-    "name": "iron_chestplate",
-    "id": "3469"
-  },
-  "3470": {
-    "name": "iron_helmet",
-    "id": "3470"
-  },
-  "3471": {
-    "name": "iron_hoe",
-    "id": "3471"
-  },
-  "3472": {
-    "name": "iron_horse_armor",
-    "id": "3472"
-  },
-  "3473": {
-    "name": "iron_ingot",
-    "id": "3473"
-  },
-  "3474": {
-    "name": "iron_leggings",
-    "id": "3474"
-  },
-  "3475": {
-    "name": "iron_nugget",
-    "id": "3475"
-  },
-  "3476": {
-    "name": "iron_pickaxe",
-    "id": "3476"
-  },
-  "3477": {
-    "name": "iron_shovel",
-    "id": "3477"
-  },
-  "3478": {
-    "name": "iron_sword",
-    "id": "3478"
-  },
-  "3479": {
-    "name": "item_frame",
-    "id": "3479"
-  },
-  "3480": {
-    "name": "kelp",
-    "id": "3480"
-  },
-  "3481": {
-    "name": "lantern",
-    "id": "3481"
-  },
-  "3482": {
-    "name": "lead",
-    "id": "3482"
-  },
-  "3483": {
-    "name": "leather",
-    "id": "3483"
   },
   "3484": {
     "name": "leather_chestplate",
@@ -14015,14 +9935,6 @@
     "name": "lodestonecompass_item",
     "id": "3503"
   },
-  "3504": {
-    "name": "magma_cream",
-    "id": "3504"
-  },
-  "3505": {
-    "name": "map_empty",
-    "id": "3505"
-  },
   "3506": {
     "name": "map_filled",
     "id": "3506"
@@ -14042,150 +9954,6 @@
   "3510": {
     "name": "map_nautilus",
     "id": "3510"
-  },
-  "3511": {
-    "name": "melon",
-    "id": "3511"
-  },
-  "3512": {
-    "name": "melon_speckled",
-    "id": "3512"
-  },
-  "3513": {
-    "name": "minecart_chest",
-    "id": "3513"
-  },
-  "3514": {
-    "name": "minecart_command_block",
-    "id": "3514"
-  },
-  "3515": {
-    "name": "minecart_furnace",
-    "id": "3515"
-  },
-  "3516": {
-    "name": "minecart_hopper",
-    "id": "3516"
-  },
-  "3517": {
-    "name": "minecart_normal",
-    "id": "3517"
-  },
-  "3518": {
-    "name": "minecart_tnt",
-    "id": "3518"
-  },
-  "3519": {
-    "name": "mushroom_stew",
-    "id": "3519"
-  },
-  "3520": {
-    "name": "mutton_cooked",
-    "id": "3520"
-  },
-  "3521": {
-    "name": "mutton_raw",
-    "id": "3521"
-  },
-  "3522": {
-    "name": "name_tag",
-    "id": "3522"
-  },
-  "3523": {
-    "name": "nautilus",
-    "id": "3523"
-  },
-  "3524": {
-    "name": "netherbrick",
-    "id": "3524"
-  },
-  "3525": {
-    "name": "netherite_axe",
-    "id": "3525"
-  },
-  "3526": {
-    "name": "netherite_boots",
-    "id": "3526"
-  },
-  "3527": {
-    "name": "netherite_chestplate",
-    "id": "3527"
-  },
-  "3528": {
-    "name": "netherite_helmet",
-    "id": "3528"
-  },
-  "3529": {
-    "name": "netherite_hoe",
-    "id": "3529"
-  },
-  "3530": {
-    "name": "netherite_ingot",
-    "id": "3530"
-  },
-  "3531": {
-    "name": "netherite_leggings",
-    "id": "3531"
-  },
-  "3532": {
-    "name": "netherite_pickaxe",
-    "id": "3532"
-  },
-  "3533": {
-    "name": "netherite_scrap",
-    "id": "3533"
-  },
-  "3534": {
-    "name": "netherite_shovel",
-    "id": "3534"
-  },
-  "3535": {
-    "name": "netherite_sword",
-    "id": "3535"
-  },
-  "3536": {
-    "name": "nether_sprouts",
-    "id": "3536"
-  },
-  "3537": {
-    "name": "nether_star",
-    "id": "3537"
-  },
-  "3538": {
-    "name": "nether_wart",
-    "id": "3538"
-  },
-  "3539": {
-    "name": "painting",
-    "id": "3539"
-  },
-  "3540": {
-    "name": "paper",
-    "id": "3540"
-  },
-  "3541": {
-    "name": "phantom_membrane",
-    "id": "3541"
-  },
-  "3542": {
-    "name": "porkchop_cooked",
-    "id": "3542"
-  },
-  "3543": {
-    "name": "porkchop_raw",
-    "id": "3543"
-  },
-  "3544": {
-    "name": "potato",
-    "id": "3544"
-  },
-  "3545": {
-    "name": "potato_baked",
-    "id": "3545"
-  },
-  "3546": {
-    "name": "potato_poisonous",
-    "id": "3546"
   },
   "3547": {
     "name": "potion_bottle_absorption",
@@ -14214,10 +9982,6 @@
   "3553": {
     "name": "potion_bottle_drinkable",
     "id": "3553"
-  },
-  "3554": {
-    "name": "potion_bottle_empty",
-    "id": "3554"
   },
   "3555": {
     "name": "potion_bottle_fireResistance",
@@ -14258,10 +10022,6 @@
   "3564": {
     "name": "potion_bottle_lingering_damageBoost",
     "id": "3564"
-  },
-  "3565": {
-    "name": "potion_bottle_lingering_empty",
-    "id": "3565"
   },
   "3566": {
     "name": "potion_bottle_lingering_fireResistance",
@@ -14483,265 +10243,25 @@
     "name": "potion_bottle_wither",
     "id": "3620"
   },
-  "3621": {
-    "name": "potion_overlay",
-    "id": "3621"
-  },
-  "3622": {
-    "name": "prismarine_crystals",
-    "id": "3622"
-  },
-  "3623": {
-    "name": "prismarine_shard",
-    "id": "3623"
-  },
-  "3624": {
-    "name": "pumpkin_pie",
-    "id": "3624"
-  },
-  "3625": {
-    "name": "quartz",
-    "id": "3625"
-  },
   "3626": {
     "name": "quiver",
     "id": "3626"
-  },
-  "3627": {
-    "name": "rabbit_cooked",
-    "id": "3627"
-  },
-  "3628": {
-    "name": "rabbit_foot",
-    "id": "3628"
-  },
-  "3629": {
-    "name": "rabbit_hide",
-    "id": "3629"
-  },
-  "3630": {
-    "name": "rabbit_raw",
-    "id": "3630"
-  },
-  "3631": {
-    "name": "rabbit_stew",
-    "id": "3631"
-  },
-  "3632": {
-    "name": "record_11",
-    "id": "3632"
-  },
-  "3633": {
-    "name": "record_13",
-    "id": "3633"
-  },
-  "3634": {
-    "name": "record_blocks",
-    "id": "3634"
-  },
-  "3635": {
-    "name": "record_cat",
-    "id": "3635"
-  },
-  "3636": {
-    "name": "record_chirp",
-    "id": "3636"
-  },
-  "3637": {
-    "name": "record_far",
-    "id": "3637"
-  },
-  "3638": {
-    "name": "record_mall",
-    "id": "3638"
-  },
-  "3639": {
-    "name": "record_mellohi",
-    "id": "3639"
-  },
-  "3640": {
-    "name": "record_pigstep",
-    "id": "3640"
-  },
-  "3641": {
-    "name": "record_stal",
-    "id": "3641"
-  },
-  "3642": {
-    "name": "record_strad",
-    "id": "3642"
-  },
-  "3643": {
-    "name": "record_wait",
-    "id": "3643"
-  },
-  "3644": {
-    "name": "record_ward",
-    "id": "3644"
-  },
-  "3645": {
-    "name": "redstone_dust",
-    "id": "3645"
-  },
-  "3646": {
-    "name": "reeds",
-    "id": "3646"
-  },
-  "3647": {
-    "name": "repeater",
-    "id": "3647"
-  },
-  "3648": {
-    "name": "rotten_flesh",
-    "id": "3648"
   },
   "3649": {
     "name": "ruby",
     "id": "3649"
   },
-  "3650": {
-    "name": "saddle",
-    "id": "3650"
-  },
-  "3651": {
-    "name": "sea_pickle",
-    "id": "3651"
-  },
-  "3652": {
-    "name": "seeds_beetroot",
-    "id": "3652"
-  },
-  "3653": {
-    "name": "seeds_melon",
-    "id": "3653"
-  },
-  "3654": {
-    "name": "seeds_pumpkin",
-    "id": "3654"
-  },
-  "3655": {
-    "name": "seeds_wheat",
-    "id": "3655"
-  },
-  "3656": {
-    "name": "shears",
-    "id": "3656"
-  },
-  "3657": {
-    "name": "shulker_shell",
-    "id": "3657"
-  },
-  "3658": {
-    "name": "sign",
-    "id": "3658"
-  },
   "3659": {
     "name": "sign_acacia",
     "id": "3659"
-  },
-  "3660": {
-    "name": "sign_birch",
-    "id": "3660"
-  },
-  "3661": {
-    "name": "sign_crimson",
-    "id": "3661"
-  },
-  "3662": {
-    "name": "sign_darkoak",
-    "id": "3662"
-  },
-  "3663": {
-    "name": "sign_jungle",
-    "id": "3663"
-  },
-  "3664": {
-    "name": "sign_spruce",
-    "id": "3664"
-  },
-  "3665": {
-    "name": "sign_warped",
-    "id": "3665"
-  },
-  "3666": {
-    "name": "slimeball",
-    "id": "3666"
-  },
-  "3667": {
-    "name": "snowball",
-    "id": "3667"
-  },
-  "3668": {
-    "name": "soul_campfire",
-    "id": "3668"
-  },
-  "3669": {
-    "name": "soul_lantern",
-    "id": "3669"
   },
   "3670": {
     "name": "spawn_egg",
     "id": "3670"
   },
-  "3671": {
-    "name": "spawn_egg_overlay",
-    "id": "3671"
-  },
-  "3672": {
-    "name": "spider_eye",
-    "id": "3672"
-  },
-  "3673": {
-    "name": "spider_eye_fermented",
-    "id": "3673"
-  },
-  "3674": {
-    "name": "stick",
-    "id": "3674"
-  },
-  "3675": {
-    "name": "stone_axe",
-    "id": "3675"
-  },
-  "3676": {
-    "name": "stone_hoe",
-    "id": "3676"
-  },
-  "3677": {
-    "name": "stone_pickaxe",
-    "id": "3677"
-  },
-  "3678": {
-    "name": "stone_shovel",
-    "id": "3678"
-  },
-  "3679": {
-    "name": "stone_sword",
-    "id": "3679"
-  },
-  "3680": {
-    "name": "string",
-    "id": "3680"
-  },
-  "3681": {
-    "name": "sugar",
-    "id": "3681"
-  },
-  "3682": {
-    "name": "suspicious_stew",
-    "id": "3682"
-  },
-  "3683": {
-    "name": "sweet_berries",
-    "id": "3683"
-  },
   "3684": {
     "name": "tipped_arrow",
     "id": "3684"
-  },
-  "3685": {
-    "name": "tipped_arrow_base",
-    "id": "3685"
   },
   "3686": {
     "name": "tipped_arrow_fireres",
@@ -14750,10 +10270,6 @@
   "3687": {
     "name": "tipped_arrow_harm",
     "id": "3687"
-  },
-  "3688": {
-    "name": "tipped_arrow_head",
-    "id": "3688"
   },
   "3689": {
     "name": "tipped_arrow_healing",
@@ -14815,69 +10331,9 @@
     "name": "tipped_arrow_wither",
     "id": "3703"
   },
-  "3704": {
-    "name": "totem",
-    "id": "3704"
-  },
-  "3705": {
-    "name": "trident",
-    "id": "3705"
-  },
-  "3706": {
-    "name": "turtle_egg",
-    "id": "3706"
-  },
-  "3707": {
-    "name": "turtle_helmet",
-    "id": "3707"
-  },
-  "3708": {
-    "name": "turtle_shell_piece",
-    "id": "3708"
-  },
-  "3709": {
-    "name": "villagebell",
-    "id": "3709"
-  },
-  "3710": {
-    "name": "warped_door",
-    "id": "3710"
-  },
-  "3711": {
-    "name": "warped_fungus_on_a_stick",
-    "id": "3711"
-  },
   "3712": {
     "name": "watch_atlas",
     "id": "3712"
-  },
-  "3713": {
-    "name": "wheat",
-    "id": "3713"
-  },
-  "3714": {
-    "name": "wood_axe",
-    "id": "3714"
-  },
-  "3715": {
-    "name": "wood_hoe",
-    "id": "3715"
-  },
-  "3716": {
-    "name": "wood_pickaxe",
-    "id": "3716"
-  },
-  "3717": {
-    "name": "wood_shovel",
-    "id": "3717"
-  },
-  "3718": {
-    "name": "wood_sword",
-    "id": "3718"
-  },
-  "3719": {
-    "name": "map_background",
-    "id": "3719"
   },
   "3720": {
     "name": "map_icons",
@@ -14891,18 +10347,6 @@
     "name": "enchanted_item_glint",
     "id": "3722"
   },
-  "3723": {
-    "name": "pumpkinblur",
-    "id": "3723"
-  },
-  "3724": {
-    "name": "chain_1",
-    "id": "3724"
-  },
-  "3725": {
-    "name": "chain_2",
-    "id": "3725"
-  },
   "3726": {
     "name": "cloth_1",
     "id": "3726"
@@ -14910,46 +10354,6 @@
   "3727": {
     "name": "cloth_2",
     "id": "3727"
-  },
-  "3728": {
-    "name": "diamond_1",
-    "id": "3728"
-  },
-  "3729": {
-    "name": "diamond_2",
-    "id": "3729"
-  },
-  "3730": {
-    "name": "elytra",
-    "id": "3730"
-  },
-  "3731": {
-    "name": "gold_1",
-    "id": "3731"
-  },
-  "3732": {
-    "name": "gold_2",
-    "id": "3732"
-  },
-  "3733": {
-    "name": "iron_1",
-    "id": "3733"
-  },
-  "3734": {
-    "name": "iron_2",
-    "id": "3734"
-  },
-  "3735": {
-    "name": "netherite_1",
-    "id": "3735"
-  },
-  "3736": {
-    "name": "netherite_2",
-    "id": "3736"
-  },
-  "3737": {
-    "name": "turtle_1",
-    "id": "3737"
   },
   "3738": {
     "name": "kz",
@@ -14986,10 +10390,6 @@
   "3746": {
     "name": "5stars_full_new",
     "id": "3746"
-  },
-  "3747": {
-    "name": "absorption_effect",
-    "id": "3747"
   },
   "3748": {
     "name": "absorption_heart",
@@ -15151,10 +10551,6 @@
     "name": "auto_save",
     "id": "3787"
   },
-  "3788": {
-    "name": "background",
-    "id": "3788"
-  },
   "3789": {
     "name": "background_image",
     "id": "3789"
@@ -15194,10 +10590,6 @@
   "3798": {
     "name": "back_button_pressed",
     "id": "3798"
-  },
-  "3799": {
-    "name": "bad_omen_effect",
-    "id": "3799"
   },
   "3800": {
     "name": "bang_icon",
@@ -15274,10 +10666,6 @@
   "3818": {
     "name": "black_border",
     "id": "3818"
-  },
-  "3819": {
-    "name": "blindness_effect",
-    "id": "3819"
   },
   "3820": {
     "name": "bonus_banner",
@@ -15839,10 +11227,6 @@
     "name": "common-classic_toggle_unchecked_state",
     "id": "3959"
   },
-  "3960": {
-    "name": "conduit_power_effect",
-    "id": "3960"
-  },
   "3961": {
     "name": "confirm",
     "id": "3961"
@@ -16311,10 +11695,6 @@
     "name": "filled_progress_bar",
     "id": "4077"
   },
-  "4078": {
-    "name": "fire_resistance_effect",
-    "id": "4078"
-  },
   "4079": {
     "name": "first_of_three",
     "id": "4079"
@@ -16591,17 +11971,9 @@
     "name": "hangar",
     "id": "4147"
   },
-  "4148": {
-    "name": "haste_effect",
-    "id": "4148"
-  },
   "4149": {
     "name": "header_bar",
     "id": "4149"
-  },
-  "4150": {
-    "name": "health_boost_effect",
-    "id": "4150"
   },
   "4151": {
     "name": "heart",
@@ -16766,10 +12138,6 @@
   "4191": {
     "name": "hunger_blink",
     "id": "4191"
-  },
-  "4192": {
-    "name": "hunger_effect",
-    "id": "4192"
   },
   "4193": {
     "name": "hunger_effect_background",
@@ -17051,10 +12419,6 @@
     "name": "invertedmultiselecticon",
     "id": "4262"
   },
-  "4263": {
-    "name": "invisibility_effect",
-    "id": "4263"
-  },
   "4264": {
     "name": "invite_base",
     "id": "4264"
@@ -17082,10 +12446,6 @@
   "4270": {
     "name": "item_seperator",
     "id": "4270"
-  },
-  "4271": {
-    "name": "jump_boost_effect",
-    "id": "4271"
   },
   "4272": {
     "name": "keyboard_and_mouse_glyph",
@@ -17142,10 +12502,6 @@
   "4285": {
     "name": "legacy_pocket_close_button_pressed",
     "id": "4285"
-  },
-  "4286": {
-    "name": "levitation_effect",
-    "id": "4286"
   },
   "4287": {
     "name": "light",
@@ -17283,10 +12639,6 @@
     "name": "minimizePress",
     "id": "4320"
   },
-  "4321": {
-    "name": "mining_fatigue_effect",
-    "id": "4321"
-  },
   "4322": {
     "name": "minus",
     "id": "4322"
@@ -17335,10 +12687,6 @@
     "name": "mute_on",
     "id": "4333"
   },
-  "4334": {
-    "name": "nausea_effect",
-    "id": "4334"
-  },
   "4335": {
     "name": "newOffersIcon",
     "id": "4335"
@@ -17354,10 +12702,6 @@
   "4338": {
     "name": "new_offer_symbol",
     "id": "4338"
-  },
-  "4339": {
-    "name": "night_vision_effect",
-    "id": "4339"
   },
   "4340": {
     "name": "normalArm",
@@ -17622,10 +12966,6 @@
   "4405": {
     "name": "pointer",
     "id": "4405"
-  },
-  "4406": {
-    "name": "poison_effect",
-    "id": "4406"
   },
   "4407": {
     "name": "poison_heart",
@@ -18115,17 +13455,9 @@
     "name": "refresh_light",
     "id": "4528"
   },
-  "4529": {
-    "name": "regeneration_effect",
-    "id": "4529"
-  },
   "4530": {
     "name": "RepeatSquare",
     "id": "4530"
-  },
-  "4531": {
-    "name": "resistance_effect",
-    "id": "4531"
   },
   "4532": {
     "name": "restore_arrow_default",
@@ -18379,14 +13711,6 @@
     "name": "slot_sale",
     "id": "4594"
   },
-  "4595": {
-    "name": "slowness_effect",
-    "id": "4595"
-  },
-  "4596": {
-    "name": "slow_falling_effect",
-    "id": "4596"
-  },
   "4597": {
     "name": "smallerHeight",
     "id": "4597"
@@ -18422,10 +13746,6 @@
   "4605": {
     "name": "sound_glyph_color_2x",
     "id": "4605"
-  },
-  "4606": {
-    "name": "speed_effect",
-    "id": "4606"
   },
   "4607": {
     "name": "spyglass_flat",
@@ -18478,10 +13798,6 @@
   "4619": {
     "name": "store_sort_icon",
     "id": "4619"
-  },
-  "4620": {
-    "name": "strength_effect",
-    "id": "4620"
   },
   "4621": {
     "name": "strikethru",
@@ -19063,10 +14379,6 @@
     "name": "video_glyph_color_2x",
     "id": "4765"
   },
-  "4766": {
-    "name": "village_hero_effect",
-    "id": "4766"
-  },
   "4767": {
     "name": "vr_glyph",
     "id": "4767"
@@ -19082,14 +14394,6 @@
   "4770": {
     "name": "WarningGlyph_small_hover",
     "id": "4770"
-  },
-  "4771": {
-    "name": "water_breathing_effect",
-    "id": "4771"
-  },
-  "4772": {
-    "name": "weakness_effect",
-    "id": "4772"
   },
   "4773": {
     "name": "weather_clear",
@@ -19122,10 +14426,6 @@
   "4780": {
     "name": "white_background",
     "id": "4780"
-  },
-  "4781": {
-    "name": "wither_effect",
-    "id": "4781"
   },
   "4782": {
     "name": "wither_heart",
