@@ -1,7 +1,58 @@
 {
 	"globalBlackList" : {
-		"default" : ["Micdoodle Core","NetherPortalFix","ModTweaker","Morpheus","More Overlays","ModTweaker","ModLister","Mo' Villages","MTLib","MCMultipart","LunatriusCore","LootTweaker","AromaBackup","AutoRegLib","BdLib","BetterBedrockGen","BetterFps","Chameleon","Clumps","CodeChicken Lib 1.8.+","Colytra","ConnectedTexturesMod","CraftTweaker","FastFurnace","FastWorkbench","FoamFix for Minecraft","Knob Control"],
-		"1.12.2" : ["AppleCore"],
+		"default": [
+			"Abnormals Core",
+			"AromaBackup",
+			"Architectury API",
+			"AttributeFix",
+			"AutoRegLib",
+			"Bad Wither No Cookie - Reloaded",
+			"BdLib",
+			"Bed Benefits",
+			"BetterBedrockGen",
+			"BetterFps",
+			"Bookshelf",
+			"Botany Pots",
+			"Botany Trees",
+			"Chameleon",
+			"Clumps",
+			"CodeChicken Lib 1.8.+",
+			"Colytra",
+			"ConnectedTexturesMod",
+			"Controlling",
+			"CraftTweaker",
+			"Desired Servers",
+			"Ding",
+			"FastFurnace",
+			"FastWorkbench",
+			"FoamFix for Minecraft",
+			"FindMe",
+			"Flat Bedrock",
+			"FPS Reducer",
+			"FTB Backups",
+			"FTB Essentials",
+			"FTB Teams",
+			"Game Stages",
+			"JEI Integration",
+			"Knob Control",
+			"LootTweaker",
+			"LunatriusCore",
+			"Micdoodle Core",
+			"ModTweaker",
+			"Morpheus",
+			"More Overlays",
+			"ModTweaker",
+			"ModLister",
+			"Mo' Villages",
+			"MTLib",
+			"MCMultipart",
+			"NetherPortalFix",
+			"YUNG's Better Caves",
+			"YUNG's Better Mineshafts"
+		],
+		"1.12.2": [
+			"AppleCore"
+		],
 		"1.10.2" : [],
 		"1.7.10" : []
 	
@@ -38,6 +89,17 @@
 			"blackList": {
 				"default": [],
 				"1.12.2": []
+			}
+		},
+		{
+			"displayName": "Expert Creation",
+			"codeName": "expertcreation",
+			"versions": {
+				"1.16.5": ["1.4.5"]
+			},
+			"blackList": {
+				"default": [],
+				"1.16.5": []
 			}
 		},
 		{
