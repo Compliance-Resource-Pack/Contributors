@@ -65,9 +65,15 @@
   "173336582265241601": {
     "username": "TheRolf",
     "type": {
-      "0": "developer"
+      "0": "Developer",
+      "1": "IT Wizard"
     },
     "uuid": "23a17086-a073-4eea-88cc-1dd6054b7883",
+    "warns": {
+      "0": "Funny",
+      "1": "Cool",
+      "2": "Intelligent"
+    },
     "id": "173336582265241601"
   },
   "519179484340027392": {
@@ -138,7 +144,8 @@
       "3": "posting the same thing that got deleted before again",
       "4": "not dropping the subject after being told so",
       "5": "the minor offenses do be stacking up",
-      "6": "not moving to <#774007605320220742> after being told to, also many many MANY minor offenses"
+      "6": "not moving to <#774007605320220742> after being told to, also many many MANY minor offenses",
+      "7": "rule 2"
     },
     "muted": {},
     "id": "285902386701271050"
@@ -178,6 +185,9 @@
     "username": "EachMenderKhai",
     "type": {
       "0": "member"
+    },
+    "warns": {
+      "0": "death threat"
     },
     "id": "674962022915506245"
   },
@@ -408,7 +418,7 @@
     "id": "344156408255741962"
   },
   "532669897541550080": {
-    "username": "Doggo",
+    "username": "Dogggoo",
     "type": {
       "0": "member"
     },
@@ -416,6 +426,7 @@
       "0": "spam",
       "1": "nsfw"
     },
+    "uuid": "9ea85690-6f5d-4b04-8d69-4b4ebc178896",
     "id": "532669897541550080"
   },
   "431843131621769219": {
@@ -524,6 +535,7 @@
   },
   "742323736564465667": {
     "username": "RalphOfficial",
+    "uuid": "fe03668f-7788-49ea-ba0c-fee919ceed20",
     "id": "742323736564465667"
   }
 }
