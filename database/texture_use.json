@@ -8,11 +8,11 @@
     "id": "0a"
   },
   "1a": {
-    "textureID": 1,
     "textureUseName": "",
     "editions": [
       "java"
     ],
+    "textureID": 1,
     "id": "1a"
   },
   "2a": {
@@ -23663,14 +23663,6 @@
     ],
     "id": "2957a"
   },
-  "2958a": {
-    "textureID": 2958,
-    "textureUseName": "",
-    "editions": [
-      "bedrock"
-    ],
-    "id": "2958a"
-  },
   "2959a": {
     "textureID": 2959,
     "textureUseName": "",
@@ -38727,12 +38719,6 @@
     ],
     "id": "4840a"
   },
-  "4841a": {
-    "textureID": 0,
-    "textureUseName": "undefined",
-    "editions": [],
-    "id": "4841a"
-  },
   "26b": {
     "textureID": 26,
     "textureUseName": "",
@@ -48180,5 +48166,253 @@
       "bedrock"
     ],
     "id": "1818b"
+  },
+  "4841a": {
+    "textureID": "4841",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4841a"
+  },
+  "4842a": {
+    "textureID": "4842",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4842a"
+  },
+  "4843a": {
+    "textureID": "4843",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4843a"
+  },
+  "4844a": {
+    "textureID": "4844",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4844a"
+  },
+  "4845a": {
+    "textureID": "4845",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4845a"
+  },
+  "4846a": {
+    "textureID": "4846",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4846a"
+  },
+  "4847a": {
+    "textureID": "4847",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4847a"
+  },
+  "4848a": {
+    "textureID": "4848",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4848a"
+  },
+  "4849a": {
+    "textureID": "4849",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4849a"
+  },
+  "4850a": {
+    "textureID": "4850",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4850a"
+  },
+  "4851a": {
+    "textureID": "4851",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4851a"
+  },
+  "4852a": {
+    "textureID": "4852",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4852a"
+  },
+  "4853a": {
+    "textureID": "4853",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4853a"
+  },
+  "4854a": {
+    "textureID": "4854",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4854a"
+  },
+  "4855a": {
+    "textureID": "4855",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4855a"
+  },
+  "4856a": {
+    "textureID": "4856",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4856a"
+  },
+  "4857a": {
+    "textureID": "4857",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4857a"
+  },
+  "4858a": {
+    "textureID": "4858",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4858a"
+  },
+  "4859a": {
+    "textureID": "4859",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4859a"
+  },
+  "4860a": {
+    "textureID": "4860",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4860a"
+  },
+  "4861a": {
+    "textureID": "4861",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4861a"
+  },
+  "4862a": {
+    "textureID": "4862",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4862a"
+  },
+  "4863a": {
+    "textureID": "4863",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4863a"
+  },
+  "4864a": {
+    "textureID": "4864",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4864a"
+  },
+  "4864b": {
+    "textureID": "4864",
+    "textureUseName": "",
+    "editions": [
+      "bedrock"
+    ],
+    "id": "4864b"
+  },
+  "4865a": {
+    "textureID": "4865",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4865a"
+  },
+  "4866a": {
+    "textureID": "4866",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4866a"
+  },
+  "4867a": {
+    "textureID": "4867",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4867a"
+  },
+  "4868a": {
+    "textureID": "4868",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4868a"
+  },
+  "4869a": {
+    "textureID": "4869",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4869a"
+  },
+  "4870a": {
+    "textureID": "4870",
+    "textureUseName": "",
+    "editions": [
+      "java"
+    ],
+    "id": "4870a"
   }
 }

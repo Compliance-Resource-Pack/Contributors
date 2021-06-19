@@ -188,7 +188,7 @@
     "id": "46"
   },
   "47": {
-    "name": "azalea_leaves_flowers",
+    "name": "flowering_azalea_leaves",
     "id": "47"
   },
   "48": {
@@ -764,7 +764,7 @@
     "id": "190"
   },
   "191": {
-    "name": "coal_ore_2",
+    "name": "coal_ore",
     "id": "191"
   },
   "192": {
@@ -1216,7 +1216,7 @@
     "id": "303"
   },
   "304": {
-    "name": "diamond_ore_2",
+    "name": "diamond_ore",
     "id": "304"
   },
   "305": {
@@ -1280,7 +1280,7 @@
     "id": "319"
   },
   "320": {
-    "name": "emerald_ore_2",
+    "name": "emerald_ore",
     "id": "320"
   },
   "321": {
@@ -1440,7 +1440,7 @@
     "id": "359"
   },
   "360": {
-    "name": "gold_ore_2",
+    "name": "gold_ore",
     "id": "360"
   },
   "361": {
@@ -1632,7 +1632,7 @@
     "id": "407"
   },
   "408": {
-    "name": "iron_ore_2",
+    "name": "iron_ore",
     "id": "408"
   },
   "409": {
@@ -1728,7 +1728,7 @@
     "id": "431"
   },
   "432": {
-    "name": "lapis_ore_2",
+    "name": "lapis_ore",
     "id": "432"
   },
   "433": {
@@ -2496,7 +2496,7 @@
     "id": "623"
   },
   "624": {
-    "name": "redstone_ore_2",
+    "name": "redstone_ore",
     "id": "624"
   },
   "625": {
@@ -3180,7 +3180,7 @@
     "id": "794"
   },
   "795": {
-    "name": "oxidized_copper_block",
+    "name": "oxidized_copper",
     "id": "795"
   },
   "796": {
@@ -8762,10 +8762,6 @@
   "2944": {
     "name": "npc_scientist_9",
     "id": "2944"
-  },
-  "2958": {
-    "name": "pigzombie",
-    "id": "2958"
   },
   "2963": {
     "name": "pistonArm",
@@ -14662,5 +14658,125 @@
   "4840": {
     "name": "tops",
     "id": "4840"
+  },
+  "4841": {
+    "name": "black_candle_lit",
+    "id": "4841"
+  },
+  "4842": {
+    "name": "blue_candle_lit",
+    "id": "4842"
+  },
+  "4843": {
+    "name": "brown_candle_lit",
+    "id": "4843"
+  },
+  "4844": {
+    "name": "candle_lit",
+    "id": "4844"
+  },
+  "4845": {
+    "name": "cyan_candle_lit",
+    "id": "4845"
+  },
+  "4846": {
+    "name": "gray_candle_lit",
+    "id": "4846"
+  },
+  "4847": {
+    "name": "green_candle_lit",
+    "id": "4847"
+  },
+  "4848": {
+    "name": "light_blue_candle_lit",
+    "id": "4848"
+  },
+  "4849": {
+    "name": "light_gray_candle_lit",
+    "id": "4849"
+  },
+  "4850": {
+    "name": "lime_candle_lit",
+    "id": "4850"
+  },
+  "4851": {
+    "name": "magenta_candle_lit",
+    "id": "4851"
+  },
+  "4852": {
+    "name": "orange_candle_lit",
+    "id": "4852"
+  },
+  "4853": {
+    "name": "pink_candle_lit",
+    "id": "4853"
+  },
+  "4854": {
+    "name": "potted_azalea_bush_plant",
+    "id": "4854"
+  },
+  "4855": {
+    "name": "potted_azalea_bush_side",
+    "id": "4855"
+  },
+  "4856": {
+    "name": "potted_azalea_bush_top",
+    "id": "4856"
+  },
+  "4857": {
+    "name": "potted_flowering_azalea_bush_plant",
+    "id": "4857"
+  },
+  "4858": {
+    "name": "potted_flowering_azalea_bush_side",
+    "id": "4858"
+  },
+  "4859": {
+    "name": "potted_flowering_azalea_bush_top",
+    "id": "4859"
+  },
+  "4860": {
+    "name": "purple_candle_lit",
+    "id": "4860"
+  },
+  "4861": {
+    "name": "red_candle_lit",
+    "id": "4861"
+  },
+  "4862": {
+    "name": "white_candle_lit",
+    "id": "4862"
+  },
+  "4863": {
+    "name": "yellow_candle_lit",
+    "id": "4863"
+  },
+  "4864": {
+    "name": "zombie_pigman",
+    "id": "4864"
+  },
+  "4865": {
+    "name": "panorama_0",
+    "id": "4865"
+  },
+  "4866": {
+    "name": "panorama_1",
+    "id": "4866"
+  },
+  "4867": {
+    "name": "panorama_2",
+    "id": "4867"
+  },
+  "4868": {
+    "name": "panorama_3",
+    "id": "4868"
+  },
+  "4869": {
+    "name": "panorama_4",
+    "id": "4869"
+  },
+  "4870": {
+    "name": "panorama_5",
+    "id": "4870"
   }
 }

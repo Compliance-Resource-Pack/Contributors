@@ -1,536 +1,565 @@
 {
   "207471947662098432": {
     "username": "Juknum",
-    "type": {
-      "0": "moderator"
-    },
+    "type": [
+      "moderator"
+    ],
     "uuid": "5bff3e18-cd6f-4a22-b8b3-31f740879f14",
     "id": "207471947662098432"
   },
   "473860522710794250": {
     "username": "RobertR11",
-    "type": {
-      "0": "moderator"
-    },
+    "type": [
+      "moderator"
+    ],
     "uuid": "ea571288-e784-4a48-8d0f-2835db884899",
     "id": "473860522710794250"
   },
   "331073143613423616": {
     "username": "Pomik108",
-    "type": {
-      "0": "moderator"
-    },
+    "type": [
+      "moderator"
+    ],
     "uuid": "e609d426-cef1-4db0-be80-2b9c065ed706",
-    "warns": {
-      "0": "rule 2"
-    },
+    "warns": [
+      "rule 2"
+    ],
     "id": "331073143613423616"
   },
   "401627057915691009": {
     "username": "seirin_blu",
-    "type": {
-      "0": "moderator"
-    },
+    "type": [
+      "moderator"
+    ],
     "uuid": "0e8be195-752e-4367-ae04-9458b7ea959c",
+    "warns": [
+      "please dont make jokes like this in the future"
+    ],
     "id": "401627057915691009"
   },
   "808879286521036830": {
     "username": "Banakin",
-    "type": {
-      "0": "developer"
-    },
+    "type": [
+      "developer"
+    ],
     "uuid": "d028fc7b-ff0b-4892-aaab-4d3554c00099",
     "id": "808879286521036830"
   },
   "312518028267094018": {
     "username": "Domi",
-    "type": {
-      "0": "developer"
-    },
+    "type": [
+      "developer"
+    ],
     "uuid": "fe99d58c-6bec-43a0-925d-35203a5d3ca5",
-    "warns": {
-      "0": "spam",
-      "1": "Not Specified"
-    },
+    "warns": [
+      "spam",
+      "Not Specified"
+    ],
     "id": "312518028267094018"
   },
   "336133489969856513": {
     "username": "Kirov_power",
-    "type": {
-      "0": "developer"
-    },
+    "type": [
+      "developer"
+    ],
     "uuid": "484eb117-65b5-4ab5-b530-f208687c9b2c",
     "id": "336133489969856513"
   },
   "173336582265241601": {
     "username": "TheRolf",
-    "type": {
-      "0": "Developer",
-      "1": "IT Wizard"
-    },
+    "type": [
+      "Developer",
+      "IT Wizard"
+    ],
     "uuid": "23a17086-a073-4eea-88cc-1dd6054b7883",
     "id": "173336582265241601"
   },
   "519179484340027392": {
     "username": "Ewan",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "519179484340027392"
   },
   "407235780411523072": {
     "username": "Tekayo",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "uuid": "c1086114-4b61-4136-a4d2-e4fda2f624e4",
     "id": "407235780411523072"
   },
   "456289548406620161": {
     "username": "PeJohn",
-    "type": {
-      "0": "moderator"
-    },
+    "type": [
+      "moderator"
+    ],
     "id": "456289548406620161"
   },
   "402504493255884800": {
     "username": "Redcoke26",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "uuid": "5703bf08-38d4-4966-81f0-f555acb25323",
     "id": "402504493255884800"
   },
   "361251723106320384": {
     "username": "Hozz",
-    "type": {
-      "0": "member"
-    },
-    "warns": {
-      "0": "unsolicited advertising"
-    },
+    "type": [
+      "member"
+    ],
+    "warns": [
+      "unsolicited advertising",
+      "politics"
+    ],
     "id": "361251723106320384"
   },
   "409514371388145664": {
     "username": "BellPepperBrian",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "uuid": "67b38532-98c8-4b6a-9c0a-fd03e40ae45e",
     "id": "409514371388145664"
   },
   "200867380031782912": {
     "username": "KulenFlulen",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "200867380031782912"
   },
   "285902386701271050": {
     "username": "Cituation",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "uuid": "bb3b9522-dcf5-44d9-a4bb-29df808fdb9e",
-    "warns": {
-      "0": "politics",
-      "1": "Not specified",
-      "2": "posting cropped porn after being told not to",
-      "3": "posting the same thing that got deleted before again",
-      "4": "not dropping the subject after being told so",
-      "5": "the minor offenses do be stacking up",
-      "6": "not moving to <#774007605320220742> after being told to, also many many MANY minor offenses",
-      "7": "rule 2"
-    },
-    "muted": {},
+    "warns": [
+      "politics",
+      "Not specified",
+      "posting cropped porn after being told not to",
+      "posting the same thing that got deleted before again",
+      "not dropping the subject after being told so",
+      "the minor offenses do be stacking up",
+      "not moving to <#774007605320220742> after being told to, also many many MANY minor offenses",
+      "rule 2"
+    ],
+    "muted": [],
     "id": "285902386701271050"
   },
   "233206738784878592": {
     "username": "Adrien_Sama",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "233206738784878592"
   },
   "263721013370552321": {
     "username": "SuperMario20",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "263721013370552321"
   },
   "105074028447813632": {
     "username": "okDiamond",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "105074028447813632"
   },
   "426164900855939075": {
     "username": "Mr.Kirby48",
-    "type": {
-      "0": "member"
-    },
-    "warns": {
-      "0": "offensive imagery/words"
-    },
+    "type": [
+      "member"
+    ],
+    "warns": [
+      "offensive imagery/words"
+    ],
     "id": "426164900855939075"
   },
   "674962022915506245": {
     "username": "EachMenderKhai",
-    "type": {
-      "0": "member"
-    },
-    "warns": {
-      "0": "death threat"
-    },
+    "type": [
+      "member"
+    ],
+    "warns": [
+      "death threat"
+    ],
     "id": "674962022915506245"
   },
   "578035506491817984": {
     "username": "ConnerMiner",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "uuid": "ebfbbe1b-4ae1-4321-b01c-09e1fb89ffd5",
     "id": "578035506491817984"
   },
   "340497757410295808": {
     "username": "Harag0n",
-    "type": {
-      "0": "moderator"
-    },
+    "type": [
+      "moderator"
+    ],
     "id": "340497757410295808"
   },
   "256074743940120587": {
     "username": "jogurciQ",
-    "type": {
-      "0": "moderator"
-    },
+    "type": [
+      "moderator"
+    ],
     "id": "256074743940120587"
   },
   "668568662680272898": {
     "username": "XavierPlayz ツ",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "668568662680272898"
   },
   "464598667425349633": {
     "username": "Spherey",
-    "type": {
-      "0": "member"
-    },
-    "warns": {
-      "0": "repeated spam"
-    },
+    "type": [
+      "member"
+    ],
+    "warns": [
+      "repeated spam"
+    ],
     "id": "464598667425349633"
   },
   "279642471334412289": {
     "username": "Fractali5",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "279642471334412289"
   },
   "672989591283695618": {
     "username": "FHLX",
-    "type": {
-      "0": "member"
-    },
-    "warns": {
-      "0": "spam, and chatting off-topic in general"
-    },
+    "type": [
+      "member"
+    ],
+    "warns": [
+      "spam, and chatting off-topic in general"
+    ],
+    "muted": [],
     "id": "672989591283695618"
   },
   "465565663574884352": {
     "username": "That1Dragon",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "uuid": "6d2a1622-c9cd-4fac-a4b2-6e9b9a61e4ac",
-    "warns": {
-      "0": "offensive imagery",
-      "1": "spam",
-      "2": "spam reactions",
-      "3": "off-topic next time"
+    "warns": [
+      "offensive imagery",
+      "spam",
+      "spam reactions",
+      "off-topic next time",
+      "wall of text",
+      "wall of text, why do i gotta warn you twice in a row?"
+    ],
+    "muted": {
+      "start": 1624088416551,
+      "end": 1624520416551
     },
     "id": "465565663574884352"
   },
   "220230789311365121": {
     "username": "Saarlodrie_",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "220230789311365121"
   },
   "484371204153540611": {
     "username": "THEMAIS0N",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "484371204153540611"
   },
   "280854181747884043": {
     "username": "Nyodex",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "uuid": "6d875c4f-5453-421d-914c-27b793151497",
     "id": "280854181747884043"
   },
   "220239731273760768": {
     "username": "Cryptogenic",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "uuid": "c565a3db-ba8d-4c72-9359-0271bf3d9bbd",
     "id": "220239731273760768"
   },
   "692740123627880459": {
     "username": "Pythagoras_314",
-    "type": {
-      "0": "member"
-    },
-    "warns": {
-      "0": "advertising",
-      "1": "no NSFW"
-    },
+    "type": [
+      "member"
+    ],
+    "warns": [
+      "advertising",
+      "no NSFW"
+    ],
+    "muted": [],
     "id": "692740123627880459"
   },
   "369259215996583936": {
     "username": "Alexsor",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "369259215996583936"
   },
   "544973678438383623": {
     "username": "mildly_skilled53",
-    "type": {
-      "0": "member"
-    },
-    "warns": {
-      "0": "spam injuries"
-    },
+    "type": [
+      "member"
+    ],
+    "warns": [
+      "spam injuries"
+    ],
     "id": "544973678438383623"
   },
   "780754313379053569": {
     "username": "IbrahimKhalid-TRG",
-    "type": {
-      "0": "developer"
-    },
+    "type": [
+      "developer"
+    ],
     "uuid": "7bf1663d-700f-42e7-8892-a97a342efac3",
-    "warns": {
-      "0": "nsfw"
-    },
+    "warns": [
+      "nsfw"
+    ],
     "id": "780754313379053569"
   },
   "779134418581061642": {
     "username": "rh",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "779134418581061642"
   },
   "534841403709325332": {
     "username": "CLtheman1",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "534841403709325332"
   },
   "389357651852787712": {
     "username": "Po3stell3d",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "389357651852787712"
   },
   "412986918901645313": {
     "username": "Nekusi",
-    "type": {
-      "0": "deleted"
-    },
-    "warns": {
-      "0": "THIS IS A DELETED ACCOUNT, NEW ACCOUNT: 828363570915311678"
-    },
+    "type": [
+      "deleted"
+    ],
+    "warns": [
+      "THIS IS A DELETED ACCOUNT, NEW ACCOUNT: 828363570915311678"
+    ],
     "id": "412986918901645313"
   },
   "729617269243773008": {
     "username": "FabriXd",
-    "type": {
-      "0": "member"
-    },
-    "warns": {
-      "0": "morse spam",
-      "1": "spam",
-      "2": "spam reactions",
-      "3": "starting problems by saying no one asked",
-      "4": "spam, and chatting off-topic in general"
-    },
+    "type": [
+      "member"
+    ],
+    "warns": [
+      "morse spam",
+      "spam",
+      "spam reactions",
+      "starting problems by saying no one asked",
+      "spam, and chatting off-topic in general"
+    ],
     "id": "729617269243773008"
   },
   "400395559871184896": {
     "username": "Deborn",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "400395559871184896"
   },
   "396123108248911873": {
     "username": "fyr02",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "396123108248911873"
   },
   "307895652782702593": {
     "username": "AxiosTV",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "307895652782702593"
   },
   "105348390530859008": {
     "username": "dāvid̔̏̊",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "105348390530859008"
   },
   "668409943250042908": {
     "username": "ProstoChelovek",
-    "type": {
-      "0": "deleted"
-    },
+    "type": [
+      "deleted"
+    ],
     "id": "668409943250042908"
   },
   "344156408255741962": {
     "username": "Corb",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "344156408255741962"
   },
   "532669897541550080": {
     "username": "Dogggoo",
-    "type": {
-      "0": "member"
-    },
-    "warns": {
-      "0": "spam",
-      "1": "nsfw"
-    },
+    "type": [
+      "member"
+    ],
+    "warns": [
+      "spam",
+      "nsfw"
+    ],
     "uuid": "9ea85690-6f5d-4b04-8d69-4b4ebc178896",
     "id": "532669897541550080"
   },
   "431843131621769219": {
     "username": "Derp",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "431843131621769219"
   },
   "173961749941321731": {
     "username": "Billy Apicella",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "uuid": "4759fb95e8e14d65aeb032e51d06b797",
-    "warns": {
-      "0": "be more polite please",
-      "1": "advertising",
-      "2": "read messages"
-    },
+    "warns": [
+      "be more polite please",
+      "advertising",
+      "read messages"
+    ],
     "id": "173961749941321731"
   },
   "373928073176809485": {
     "username": "LethalChicken",
-    "type": {
-      "0": "member"
-    },
-    "warns": {
-      "0": "not following rule 2",
-      "1": "r-word",
-      "2": "posting nsfw mario",
-      "3": "thats enough, remember rule 2",
-      "4": "Breaking rule 2. Please be more polite, thanks."
-    },
+    "type": [
+      "member"
+    ],
+    "warns": [
+      "not following rule 2",
+      "r-word",
+      "posting nsfw mario",
+      "thats enough, remember rule 2",
+      "Breaking rule 2. Please be more polite, thanks."
+    ],
+    "muted": [],
     "id": "373928073176809485"
   },
   "178394162381455360": {
     "username": "SyndiShanX",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "178394162381455360"
   },
   "145399015062765568": {
     "username": "Karthy",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "145399015062765568"
   },
   "169614136697815040": {
     "username": "catsofwar",
-    "type": {
-      "0": "member"
-    },
+    "type": [
+      "member"
+    ],
     "id": "169614136697815040"
   },
   "674976089264619535": {
-    "warns": {
-      "0": "posting textures from another pack and pretending it‘s his",
-      "1": "posting textures from another pack and pretending it‘s his",
-      "2": "pretending that posted work is made by him, even though that's not true, for the third time"
-    },
+    "warns": [
+      "posting textures from another pack and pretending it‘s his",
+      "posting textures from another pack and pretending it‘s his",
+      "pretending that posted work is made by him, even though that's not true, for the third time"
+    ],
     "id": "674976089264619535"
   },
   "319531788512919562": {
-    "warns": {
-      "0": "posting a racist meme"
-    },
+    "warns": [
+      "posting a racist meme"
+    ],
     "id": "319531788512919562"
   },
   "587237187272310807": {
-    "warns": {
-      "0": "not going to <#798208196405362708> after being told to"
-    },
+    "warns": [
+      "not going to <#798208196405362708> after being told to"
+    ],
     "id": "587237187272310807"
   },
   "828363570915311678": {
-    "warns": {
-      "0": "nsfw",
-      "1": "use <#774007605320220742> for memes, homophobic memes aren't allowed on this server",
-      "2": "offensive meme",
-      "3": "nsfw",
-      "4": "not going to <#794137845408595978>",
-      "5": "spam"
-    },
+    "warns": [
+      "nsfw",
+      "use <#774007605320220742> for memes, homophobic memes aren't allowed on this server",
+      "offensive meme",
+      "nsfw",
+      "not going to <#794137845408595978>",
+      "spam"
+    ],
     "id": "828363570915311678"
   },
   "716560832787382273": {
-    "warns": {
-      "0": "random, potentially harmful bit.ly link"
-    },
+    "warns": [
+      "random, potentially harmful bit.ly link"
+    ],
     "id": "716560832787382273"
   },
   "742067015728103444": {
     "username": null,
     "uuid": null,
-    "warns": {
-      "0": "spam"
-    },
-    "muted": {},
-    "type": {
-      "0": "member"
-    },
+    "warns": [
+      "spam"
+    ],
+    "muted": [],
+    "type": [
+      "member"
+    ],
     "id": "742067015728103444"
   },
   "742323736564465667": {
     "username": "RalphOfficial",
     "uuid": "fe03668f-7788-49ea-ba0c-fee919ceed20",
     "id": "742323736564465667"
+  },
+  "750796684992184461": {
+    "username": "_69420_",
+    "uuid": "2a9ce76f-2c83-4841-8b89-ce60a56d70ab",
+    "id": "750796684992184461"
+  },
+  "550038673236819981": {
+    "username": "thedo",
+    "type": [
+      "member"
+    ],
+    "muted": {
+      "start": 1623272106086,
+      "end": 1654808106086
+    },
+    "id": "550038673236819981"
   }
 }
