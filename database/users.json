@@ -1,16 +1,18 @@
 {
   "207471947662098432": {
+    "uuid": "5bff3e18-cd6f-4a22-b8b3-31f740879f14",
     "username": "Juknum",
     "type": [
-      "moderator"
+      "moderator",
+      "developer"
     ],
-    "uuid": "5bff3e18-cd6f-4a22-b8b3-31f740879f14",
     "id": "207471947662098432"
   },
   "473860522710794250": {
     "username": "RobertR11",
     "type": [
-      "moderator"
+      "moderator",
+      "developer"
     ],
     "uuid": "ea571288-e784-4a48-8d0f-2835db884899",
     "id": "473860522710794250"
@@ -68,8 +70,8 @@
   "173336582265241601": {
     "username": "TheRolf",
     "type": [
-      "Developer",
-      "IT Wizard"
+      "IT Wizard",
+      "developer"
     ],
     "uuid": "23a17086-a073-4eea-88cc-1dd6054b7883",
     "id": "173336582265241601"
@@ -529,21 +531,12 @@
     ],
     "id": "716560832787382273"
   },
-  "742067015728103444": {
-    "username": null,
-    "uuid": null,
-    "warns": [
-      "spam"
-    ],
-    "muted": [],
-    "type": [
-      "member"
-    ],
-    "id": "742067015728103444"
-  },
   "742323736564465667": {
     "username": "RalphOfficial",
     "uuid": "fe03668f-7788-49ea-ba0c-fee919ceed20",
+    "type": [
+      "member"
+    ],
     "id": "742323736564465667"
   },
   "750796684992184461": {
