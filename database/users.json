@@ -3,7 +3,7 @@
     "uuid": "5bff3e18-cd6f-4a22-b8b3-31f740879f14",
     "username": "Juknum",
     "type": [
-      "moderator",
+      "administrator",
       "developer"
     ],
     "id": "207471947662098432"
@@ -11,16 +11,16 @@
   "473860522710794250": {
     "username": "RobertR11",
     "type": [
-      "moderator",
-      "developer"
+      "developer",
+      "administrator"
     ],
     "uuid": "ea571288-e784-4a48-8d0f-2835db884899",
     "id": "473860522710794250"
   },
   "331073143613423616": {
-    "username": "Pomik108",
+    "username": "Pomi108",
     "type": [
-      "moderator"
+      "administrator"
     ],
     "uuid": "e609d426-cef1-4db0-be80-2b9c065ed706",
     "warns": [
@@ -31,7 +31,7 @@
   "401627057915691009": {
     "username": "seirin_blu",
     "type": [
-      "moderator"
+      "administrator"
     ],
     "uuid": "0e8be195-752e-4367-ae04-9458b7ea959c",
     "warns": [
@@ -94,7 +94,7 @@
   "456289548406620161": {
     "username": "PeJohn",
     "type": [
-      "moderator"
+      "administrator"
     ],
     "id": "456289548406620161"
   },
@@ -203,14 +203,14 @@
   "340497757410295808": {
     "username": "Harag0n",
     "type": [
-      "moderator"
+      "administrator"
     ],
     "id": "340497757410295808"
   },
   "256074743940120587": {
     "username": "jogurciQ",
     "type": [
-      "moderator"
+      "member"
     ],
     "id": "256074743940120587"
   },
