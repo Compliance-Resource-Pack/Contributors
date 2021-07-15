@@ -469,7 +469,10 @@
       "thats enough, remember rule 2",
       "Breaking rule 2. Please be more polite, thanks."
     ],
-    "muted": [],
+    "muted": {
+      "start": 1626277786204,
+      "end": 1628869786204
+    },
     "id": "373928073176809485"
   },
   "178394162381455360": {
